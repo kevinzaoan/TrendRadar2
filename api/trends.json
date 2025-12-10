@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T04:31:26.497678+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2025-12-11T05:53:28.473614+08:00",
+  "total_titles_processed": 691,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 27,
       "titles": [
         {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
@@ -15,8 +15,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 05时53分]"
+        },
+        {
+          "title": "高市早苗求见特朗普",
+          "url": "https://news.ifeng.com/c/8oz1gOzpqEt",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时53分]"
         },
         {
           "title": "特朗普发飙怒斥记者",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 00时35分]"
-        },
-        {
-          "title": "高市早苗求见特朗普",
-          "url": "https://news.ifeng.com/c/8oz1gOzpqEt",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
         },
         {
           "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
@@ -58,7 +58,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -81,9 +81,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普：明年将任命加沙和平委员会成员。",
+          "url": "https://flash.jin10.com/detail/20251211051053263800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "周三（12月10日），降息赢家指数涨2.84%，报100.19点，美联储宣布降息之前持稳于98.50点——维持上涨状态，之后持续加速上涨。 “特朗普关税输家”指数涨1.71%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.50%，报16.89点，美联储主席鲍威尔新闻发布会临近结束时还曾涨至17.37点刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3018669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         },
         {
           "title": "美国总统特朗普：墨西哥必须立即解决水资源问题。",
@@ -103,7 +125,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -114,9 +136,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普：美国的利率应该是全世界最低的。",
+          "url": "https://wallstreetcn.com/livenews/3018663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         },
         {
           "title": "美国副总统万斯：拜登疯狂的政策让美国家庭在自己的国家都无法过上体面的生活。 特朗普总统通过减税、提供更高薪的工作以及投资美国工业，正一步步地让美国再次成为工薪家庭能够负担得起的地方。",
@@ -130,15 +163,81 @@
           "time_info": "01时28分"
         },
         {
+          "title": "美国总统特朗普：今天与前美联储官员凯文·沃什会面。",
+          "url": "https://wallstreetcn.com/livenews/3018662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
           "title": "鲍威尔：如果（特朗普政府）不实施新的关税，商品通胀可能会在2026年一季度见顶。 现存关税通胀应当有十分之几。",
           "url": "https://wallstreetcn.com/livenews/3018626",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普：我们有“很好的借口”拦截“委内瑞拉油轮”。",
+          "url": "https://wallstreetcn.com/livenews/3018654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "美国总统特朗普就柬埔寨-泰国问题表示：我们正安排明天通电话。",
+          "url": "https://flash.jin10.com/detail/20251211050040616800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "美国总统特朗普：今天将与美联储前理事凯文·沃什会面。",
+          "url": "https://flash.jin10.com/detail/20251211050012508800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "IBM的CEO要求美国总统特朗普降低对特定国家的管控力度。",
+          "url": "https://wallstreetcn.com/livenews/3018652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "美国总统特朗普：美联储利率应降至全球最低。",
+          "url": "https://flash.jin10.com/detail/20251211045950749800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         },
         {
           "title": "消息人士：英国首相斯塔默、德国总理默茨、法国总统马克龙周三与美国总统特朗普通话。",
@@ -152,6 +251,28 @@
           "time_info": "00时05分"
         },
         {
+          "title": "美国总统特朗普就柬埔寨与泰国问题表示：我认为我能让他们停止争斗。",
+          "url": "https://flash.jin10.com/detail/20251211045830104800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "美国总统特朗普：我认为CNN应该被出售。",
+          "url": "https://flash.jin10.com/detail/20251211045339717800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
           "title": "英国方面表示，美国总统特朗普与E3领导人认为乌克兰局势正处于“关键时刻”。",
           "url": "https://flash.jin10.com/detail/20251210234811152800",
           "source": "金十数据",
@@ -161,13 +282,163 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰很久没有举行过选举了。",
+          "url": "https://flash.jin10.com/detail/20251211045154571800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "美国总统特朗普：（谈乌克兰问题）他们希望我们在周末前往欧洲参加一场会议。我们将根据他们带回的内容做出判断。",
+          "url": "https://flash.jin10.com/detail/20251211045109665800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 05时53分]"
+        },
+        {
+          "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2225788",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时28分 ~ 05时53分]"
+        },
+        {
+          "title": "区域银行ETF收涨超3.4%，在美联储降息日领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3018674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜微软收跌超2.7%，特斯拉、亚马逊至少涨1.4%",
+          "url": "https://wallstreetcn.com/livenews/3018673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "新思科技Synopsys第四财季营收22.6亿美元，同比增长38%。 预计2026财年营收95.6亿-96.6亿美元，分析师预期96.3亿美元。 预计第一财季营收23.7亿-24.2亿美元，分析师预期23.6亿美元。 新思科技美股盘后涨6%。",
+          "url": "https://wallstreetcn.com/livenews/3018670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "美股三大股指小幅走高，道指涨0.5%，标普500指数涨0.2%，纳指跌幅收窄至0.1%。",
+          "url": "https://flash.jin10.com/detail/20251211030239633800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251211050826516800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "金十图示：2025年12月10日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251211050549928800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 银行股走强",
+          "url": "https://flash.jin10.com/detail/20251211050116386800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "周三（12月10日）纽约尾盘，彭博谷物分类指数跌0.39%，报29.7937点。 CBOT玉米期货跌0.89%，CBOT小麦期货跌0.98%。 CBOT大豆期货涨0.44%，美股开盘以来持续反弹。",
+          "url": "https://wallstreetcn.com/livenews/3018646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "Gemini Space Station Inc.（GEMI）美股盘后涨15%。",
+          "url": "https://wallstreetcn.com/livenews/3018677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
         {
           "title": "消息人士：谷歌(GOOG.O)还可做出更多调整以避免罚款。",
           "url": "https://flash.jin10.com/detail/20251211005244896800",
@@ -214,7 +485,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -225,7 +496,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -236,55 +507,15 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 04时31分]"
-        },
-        {
-          "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2225788",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时28分 ~ 04时31分]"
-        },
-        {
-          "title": "美股三大股指小幅走高，道指涨0.5%，标普500指数涨0.2%，纳指跌幅收窄至0.1%。",
-          "url": "https://flash.jin10.com/detail/20251211030239633800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美元指数DXY向下触及99，日内跌0.24%。",
@@ -307,6 +538,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "美元指数10日下跌",
+          "url": "https://flash.jin10.com/detail/20251211045554004800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         }
       ]
     },
@@ -320,11 +562,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 05时53分]"
         }
       ]
     }
