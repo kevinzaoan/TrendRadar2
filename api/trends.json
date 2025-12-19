@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T05:20:26.349539+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2025-12-20T06:21:04.934721+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "国常会：对贯彻落实中央经济工作会议决策部署作出安排",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "秘鲁央行将2026年经济增长预期上调至3.0%。",
@@ -51,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 05时20分]"
+          "appearance_count": 3,
+          "time_info": "[04时23分 ~ 06时21分]"
         },
         {
           "title": "美国经济分析局（BEA）：2025年10月美国商品与服务国际贸易数据将于2026年1月8日发布。",
@@ -63,8 +63,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 05时20分]"
+          "appearance_count": 3,
+          "time_info": "[04时23分 ~ 06时21分]"
         },
         {
           "title": "市场消息：印度与荷兰将设立经济合作小组。",
@@ -114,8 +114,32 @@
     },
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32209737",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 06时21分]"
+        },
+        {
+          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
+          "url": "https://wallstreetcn.com/articles/3761690",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 06时21分]"
+        },
         {
           "title": "王力宏演唱会机器人伴舞",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E8%88%9E",
@@ -131,29 +155,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时26分 ~ 05时20分]"
-        },
-        {
-          "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32209737",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时20分]"
-        },
-        {
-          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
-          "url": "https://wallstreetcn.com/articles/3761690",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 05时20分]"
         },
         {
           "title": "王力宏演唱会上机器人伴舞秀空翻",
@@ -203,6 +204,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 05时20分]"
+        },
+        {
+          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
+          "url": "https://wallstreetcn.com/articles/3761711",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时21分]"
         }
       ]
     },
