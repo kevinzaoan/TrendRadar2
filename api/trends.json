@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T22:30:07.575745+08:00",
-  "total_titles_processed": 2185,
+  "generated_at": "2025-12-19T22:39:56.995065+08:00",
+  "total_titles_processed": 2200,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 中国",
-      "match_count": 231,
+      "match_count": 232,
       "titles": [
         {
           "title": "通胀超预期放缓！美国11月核心CPI同比上涨2.6%，创2021年以来最低水平",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时36分 ~ 22时30分]"
+          "appearance_count": 35,
+          "time_info": "[00时36分 ~ 22时39分]"
         },
         {
           "title": "美殖入脑!抖友神发言:美国才是家",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[16时35分 ~ 22时30分]"
+          "appearance_count": 15,
+          "time_info": "[16时35分 ~ 22时39分]"
         },
         {
           "title": "瑞典以“安全”为由叫停中国Qwen3大模型",
@@ -44,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时29分 ~ 22时30分]"
+          "appearance_count": 13,
+          "time_info": "[17时29分 ~ 22时39分]"
         },
         {
           "title": "TikTok美国方案揭晓！字节保留电商、广告业务 甲骨文等3家投资者入股成立新公司",
@@ -60,6 +60,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时59分 ~ 16时36分]"
+        },
+        {
+          "title": "这是2025年属于中国人的仪式感",
+          "url": "https://www.toutiao.com/trending/7585466031850684435/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[21时36分 ~ 22时39分]"
         },
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -103,17 +114,6 @@
           "time_info": "[00时36分 ~ 14时38分]"
         },
         {
-          "title": "这是2025年属于中国人的仪式感",
-          "url": "https://www.toutiao.com/trending/7585466031850684435/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[21时36分 ~ 22时30分]"
-        },
-        {
           "title": "美国UP主在中国给老外演短剧",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BDUP%E4%B8%BB%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%BB%99%E8%80%81%E5%A4%96%E6%BC%94%E7%9F%AD%E5%89%A7",
           "source": "bilibili 热搜",
@@ -147,8 +147,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[01时27分 ~ 22时30分]"
+          "appearance_count": 33,
+          "time_info": "[01时27分 ~ 22时39分]"
         },
         {
           "title": "《阿凡达 3》在中国的票房，能达到《疯狂动物城 2》水平吗？",
@@ -228,8 +228,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时59分 ~ 22时30分]"
+          "appearance_count": 21,
+          "time_info": "[09时59分 ~ 22时39分]"
         },
         {
           "title": "新德里空气污染严重，外交官分享中国经验",
@@ -241,8 +241,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时59分 ~ 22时30分]"
+          "appearance_count": 21,
+          "time_info": "[09时59分 ~ 22时39分]"
         },
         {
           "title": "本田中国及日本工厂将暂停生产或减产",
@@ -271,8 +271,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[15时26分 ~ 22时30分]"
+          "appearance_count": 16,
+          "time_info": "[15时26分 ~ 22时39分]"
         },
         {
           "title": "中国华西被暂停全军采购资格",
@@ -326,8 +326,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[19时22分 ~ 22时30分]"
+          "appearance_count": 11,
+          "time_info": "[19时22分 ~ 22时39分]"
         },
         {
           "title": "财晓得｜为什么这次美国要跟委内瑞拉死磕到底？",
@@ -354,8 +354,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时28分 ~ 22时30分]"
+          "appearance_count": 12,
+          "time_info": "[18时28分 ~ 22时39分]"
         },
         {
           "title": "日议员盯上中国台湾大熊猫，帅化民怒呛：当我们“藩属国”？",
@@ -379,8 +379,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[16时35分 ~ 22时30分]"
+          "appearance_count": 15,
+          "time_info": "[16时35分 ~ 22时39分]"
         },
         {
           "title": "中国版免年费山姆超市",
@@ -474,6 +474,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时25分 ~ 09时59分]"
+        },
+        {
+          "title": "俄罗斯总统普京：欧洲精英干预了美国大选",
+          "url": "https://flash.jin10.com/detail/20251219214448862800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时13分 ~ 22时39分]"
         },
         {
           "title": "市场消息：美国参议员怀登就美墨间与卡特尔有关联的海上燃油走私问题致函七家油轮公司。",
@@ -632,6 +644,17 @@
           "time_info": "21时37分"
         },
         {
+          "title": "纳斯达克金龙中国指数盘初涨0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3024027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "中国神华：拟向国家能源集团财务有限公司增资60亿元",
           "url": "https://wallstreetcn.com/livenews/3023988",
           "source": "华尔街见闻-快讯",
@@ -644,18 +667,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[21时37分 ~ 22时30分]"
-        },
-        {
-          "title": "俄罗斯总统普京：欧洲精英干预了美国大选",
-          "url": "https://flash.jin10.com/detail/20251219214448862800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时13分 ~ 22时30分]"
         },
         {
           "title": "中国神华：拟购买国家能源集团及其全资子公司西部能源持有资产 整体交易对价1335.98亿元",
@@ -883,11 +894,12 @@
           "ranks": [
             8,
             10,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时13分 ~ 22时30分]"
+          "appearance_count": 4,
+          "time_info": "[22时13分 ~ 22时39分]"
         },
         {
           "title": "美国白宫新闻秘书Leavitt：特朗普下午1点的活动将涉及药品和制药行业。",
@@ -896,11 +908,12 @@
           "ranks": [
             9,
             11,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时13分 ~ 22时30分]"
+          "appearance_count": 4,
+          "time_info": "[22时13分 ~ 22时39分]"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：美联储目前并未通过资产购买实施量化宽松。 当前美联储买入国债主要是为了管理储备，属于技术性操作。 当前美联储的资产购买并非旨在影响长期利率。 我确实认为利率最终会下降。 美联储目前处于良好位置，可以平衡其目标。",
@@ -909,11 +922,37 @@
           "ranks": [
             11,
             13,
-            16
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时13分 ~ 22时39分]"
+        },
+        {
+          "title": "美国纽约联储主席威廉姆斯：货币政策已处于良好位置，可进一步收集信息。 对于调整货币政策并无“紧迫感”。 货币政策的核心目标是支持就业市场。 美联储政策目前“略显收紧”，仍有空间回归中性水平。 在通胀高于目标水平的情况下，适度收紧的货币政策是有益的。",
+          "url": "https://wallstreetcn.com/livenews/3023997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            18,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时13分 ~ 22时39分]"
+        },
+        {
+          "title": "两位消息人士透露，德国、法国和英国的国家安全顾问今天将在迈阿密与美国特使威特科夫和乌克兰国家安全顾问乌梅罗夫举行会谈。",
+          "url": "https://flash.jin10.com/detail/20251219221430519800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[22时13分 ~ 22时30分]"
+          "time_info": "[22时22分 ~ 22时39分]"
         },
         {
           "title": "乌克兰：恪守一个中国原则",
@@ -927,19 +966,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时39分 ~ 13时27分]"
-        },
-        {
-          "title": "美国纽约联储主席威廉姆斯：货币政策已处于良好位置，可进一步收集信息。 对于调整货币政策并无“紧迫感”。 货币政策的核心目标是支持就业市场。 美联储政策目前“略显收紧”，仍有空间回归中性水平。 在通胀高于目标水平的情况下，适度收紧的货币政策是有益的。",
-          "url": "https://wallstreetcn.com/livenews/3023997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时13分 ~ 22时30分]"
         },
         {
           "title": "美国上市的中国科技ETF为何全线吸金",
@@ -989,17 +1015,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时35分 ~ 16时36分]"
-        },
-        {
-          "title": "两位消息人士透露，德国、法国和英国的国家安全顾问今天将在迈阿密与美国特使威特科夫和乌克兰国家安全顾问乌梅罗夫举行会谈。",
-          "url": "https://flash.jin10.com/detail/20251219221430519800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 22时30分]"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场基金资产规模达到创纪录的7.67万亿美元。",
@@ -2740,8 +2755,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时59分 ~ 22时30分]"
+          "appearance_count": 21,
+          "time_info": "[09时59分 ~ 22时39分]"
         },
         {
           "title": "2025年中国经济如何“顶压前行”",
@@ -2765,8 +2780,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时38分 ~ 22时30分]"
+          "appearance_count": 19,
+          "time_info": "[12时38分 ~ 22时39分]"
         },
         {
           "title": "人民币现金收付新规发布",
@@ -2778,8 +2793,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[20时52分 ~ 22时30分]"
+          "appearance_count": 9,
+          "time_info": "[20时52分 ~ 22时39分]"
         },
         {
           "title": "【焦点复盘】市场现沪强深弱分化行情，商业航天概念卷土重来，“犒赏经济”概念乘风而起",
@@ -2819,8 +2834,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[16时35分 ~ 22时30分]"
+          "appearance_count": 15,
+          "time_info": "[16时35分 ~ 22时39分]"
         },
         {
           "title": "人民日报：手机套餐少些套路",
@@ -2859,8 +2874,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[21时36分 ~ 22时30分]"
+          "appearance_count": 8,
+          "time_info": "[21时36分 ~ 22时39分]"
         },
         {
           "title": "“三巫日”前美CPI意外降温，美国股债汇齐涨，加密货币下挫，人民币再度逼近7.03",
@@ -3091,6 +3106,20 @@
           "time_info": "[03时21分 ~ 04时27分]"
         },
         {
+          "title": "意大利央行：预计2025-26年GDP将分别增长0.6%，2027年料增0.8%。 根据（财政）开支提高，央行上调2027年经济增长预期。",
+          "url": "https://wallstreetcn.com/livenews/3024011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            8,
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时13分 ~ 22时39分]"
+        },
+        {
           "title": "英国央行行长贝利：政府预算中宣布的措施将有助于降低通胀。同时，食品成本的下降尤其令人欣慰，因为这对于形成家庭通胀预期具有重要影响。 人们一直指出，对于世界局势和经济状况普遍存在谨慎和不确定情绪。我确信这仍将是人们考量中的一个问题。我们将继续密切观察。 劳动力市场正显现出“某种程度疲软”的迹象。",
           "url": "https://wallstreetcn.com/livenews/3023253",
           "source": "华尔街见闻-快讯",
@@ -3115,17 +3144,18 @@
           "time_info": "[20时52分 ~ 21时37分]"
         },
         {
-          "title": "意大利央行：预计2025-26年GDP将分别增长0.6%，2027年料增0.8%。 根据（财政）开支提高，央行上调2027年经济增长预期。",
-          "url": "https://wallstreetcn.com/livenews/3024011",
+          "title": "美国纽约联储主席威廉姆斯：预计2025年GDP增速为1%至1.5%，但明年将有所回升。 预计2025年GDP增速约为2.25%。 生产率提升对经济有利。 对经济基本情形感到相当乐观。 目前并不认为人工智能是金融体系的系统性风险。 美联储不应试图预判市场出现错误。",
+          "url": "https://wallstreetcn.com/livenews/3024001",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            8,
-            11
+            13,
+            15,
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时13分 ~ 22时30分]"
+          "appearance_count": 4,
+          "time_info": "[22时13分 ~ 22时39分]"
         },
         {
           "title": "中国人民财产保险股份有限公司原党委委员、监事会主席张孝礼受贿案一审公开宣判",
@@ -3141,17 +3171,15 @@
           "time_info": "[21时37分 ~ 22时22分]"
         },
         {
-          "title": "美国纽约联储主席威廉姆斯：预计2025年GDP增速为1%至1.5%，但明年将有所回升。 预计2025年GDP增速约为2.25%。 生产率提升对经济有利。 对经济基本情形感到相当乐观。 目前并不认为人工智能是金融体系的系统性风险。 美联储不应试图预判市场出现错误。",
-          "url": "https://wallstreetcn.com/livenews/3024001",
-          "source": "华尔街见闻-快讯",
+          "title": "俄罗斯央行行长纳比乌琳娜：经济将于2026年上半年走出过热期。",
+          "url": "https://flash.jin10.com/detail/20251219220519847800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            15,
-            18
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[22时13分 ~ 22时30分]"
+          "time_info": "[22时22分 ~ 22时39分]"
         },
         {
           "title": "商务部：2025年1-11月全国吸收外资6931.8亿元人民币",
@@ -3200,17 +3228,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 03时21分]"
-        },
-        {
-          "title": "俄罗斯央行行长纳比乌琳娜：经济将于2026年上半年走出过热期。",
-          "url": "https://flash.jin10.com/detail/20251219220519847800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 22时30分]"
         },
         {
           "title": "玻利维亚宣布经济紧急状态，柴油价格飙升160%，特朗普政府在该国寻求投资",
@@ -3764,8 +3781,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[21时36分 ~ 22时30分]"
+          "appearance_count": 8,
+          "time_info": "[21时36分 ~ 22时39分]"
         },
         {
           "title": "王力宏演唱会机器人伴舞",
