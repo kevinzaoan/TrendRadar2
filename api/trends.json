@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T20:39:31.339112+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2025-12-21T21:28:34.843512+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
@@ -42,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时38分 ~ 20时39分]"
+          "appearance_count": 14,
+          "time_info": "[11时38分 ~ 21时28分]"
         },
         {
           "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
@@ -56,8 +56,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时24分 ~ 20时39分]"
+          "appearance_count": 27,
+          "time_info": "[00时24分 ~ 21时28分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -101,8 +101,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时38分 ~ 20时39分]"
+          "appearance_count": 14,
+          "time_info": "[11时38分 ~ 21时28分]"
         },
         {
           "title": "付鹏：AI生产力能否改变生产关系？前瞻2026年大类资产波动背后深层逻辑【付鹏说14】",
@@ -147,6 +147,19 @@
           "time_info": "[00时24分 ~ 11时39分]"
         },
         {
+          "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
+          "url": "https://wallstreetcn.com/articles/3761246",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时31分 ~ 21时28分]"
+        },
+        {
           "title": "中国机器人获机器人格斗冠军",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%8E%B7%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E5%86%A0%E5%86%9B",
           "source": "bilibili 热搜",
@@ -157,8 +170,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时38分 ~ 20时39分]"
+          "appearance_count": 13,
+          "time_info": "[11时38分 ~ 21时28分]"
         },
         {
           "title": "中信建投：继续看好AI算力板块",
@@ -171,24 +184,12 @@
             11,
             16,
             21,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 20时39分]"
-        },
-        {
-          "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
-          "url": "https://wallstreetcn.com/articles/3761246",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时31分 ~ 20时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 21时28分]"
         },
         {
           "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
@@ -286,8 +287,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时47分 ~ 20时39分]"
+          "appearance_count": 15,
+          "time_info": "[09时47分 ~ 21时28分]"
         },
         {
           "title": "澎湃AI晚新闻丨2025年12月20日",
@@ -299,8 +300,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时38分 ~ 20时39分]"
+          "appearance_count": 13,
+          "time_info": "[11时38分 ~ 21时28分]"
         },
         {
           "title": "中国机器人在格斗机器人大赛中夺冠",
@@ -353,8 +354,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时21分 ~ 20时39分]"
+          "appearance_count": 6,
+          "time_info": "[17时21分 ~ 21时28分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -429,6 +430,17 @@
           "time_info": "[12时37分 ~ 13时21分]"
         },
         {
+          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
+          "url": "https://wallstreetcn.com/articles/3761792",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时28分]"
+        },
+        {
           "title": "宇树科技首发人形机器人 AppStore，用户可自行下载各项动作和预设，此举有哪些意义？",
           "url": "https://www.zhihu.com/question/1983175858765128621",
           "source": "知乎",
@@ -452,6 +464,17 @@
           "time_info": "[00时24分 ~ 01时17分]"
         },
         {
+          "title": "俄媒点赞王力宏演唱会伴舞机器人",
+          "url": "https://www.toutiao.com/trending/7586061417942368275/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时28分]"
+        },
+        {
           "title": "豆包狂飙，字节AI再亮剑",
           "url": "https://wallstreetcn.com/articles/3761770",
           "source": "华尔街见闻",
@@ -461,17 +484,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
-        },
-        {
-          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
-          "url": "https://wallstreetcn.com/articles/3761792",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
         },
         {
           "title": "国家一级演奏员赏析AI歌曲",
@@ -485,6 +497,17 @@
           "time_info": "01时17分"
         },
         {
+          "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 美元，公司进入「红色代码」紧急状态，透露哪些信息？",
+          "url": "https://www.zhihu.com/question/1985011347914774514",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "回顾 2025 年，你与 AI 的关系是什么？",
           "url": "https://www.zhihu.com/question/1984641612912030144",
           "source": "知乎",
@@ -494,17 +517,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
-        },
-        {
-          "title": "俄媒点赞王力宏演唱会伴舞机器人",
-          "url": "https://www.toutiao.com/trending/7586061417942368275/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
         }
       ]
     },
@@ -533,8 +545,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时47分 ~ 20时39分]"
+          "appearance_count": 15,
+          "time_info": "[09时47分 ~ 21时28分]"
         },
         {
           "title": "国常会：对贯彻落实中央经济工作会议决策部署作出安排",
