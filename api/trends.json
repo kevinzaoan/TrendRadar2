@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T06:20:18.072539+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2025-12-22T07:19:35.204964+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 07时19分]"
         },
         {
           "title": "王力宏火力全开伴舞是机器人",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 07时19分]"
         },
         {
           "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 亿美元，公司进入「红色代码」紧急状态，透露哪些信息？",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 07时19分]"
         },
         {
           "title": "挑战复刻AI可食用岩浆",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 07时19分]"
         },
         {
           "title": "宇树六台人形机器人伴舞王力宏演唱会，集体完成韦伯斯特空翻，如何做到的？从春晚转手绢到现在，有哪些突破？",
@@ -64,11 +64,12 @@
             7,
             9,
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 07时19分]"
         },
         {
           "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
@@ -78,19 +79,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 07时19分]"
         },
         {
           "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
           "url": "https://wallstreetcn.com/articles/3761246",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 07时19分]"
         },
         {
           "title": "中国机器人获机器人格斗冠军",
@@ -101,8 +103,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 07时19分]"
         },
         {
           "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
@@ -113,8 +115,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 07时19分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
@@ -124,8 +126,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 07时19分]"
         },
         {
           "title": "哈尔滨大雪人穿雨衣系AI生成",
@@ -135,8 +137,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 07时19分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
@@ -145,11 +147,12 @@
           "ranks": [
             5,
             6,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时28分 ~ 06时20分]"
+          "appearance_count": 6,
+          "time_info": "[02时28分 ~ 07时19分]"
         },
         {
           "title": "英语兔的年报DNA里有AI",
@@ -163,8 +166,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 06时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 07时19分]"
         }
       ]
     },
@@ -173,18 +176,19 @@
       "match_count": 7,
       "titles": [
         {
-          "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
-          "url": "https://wallstreetcn.com/livenews/3024442",
-          "source": "华尔街见闻-快讯",
+          "title": "家庭年收入 25 万，存款 100 万，为了名校光环砸锅卖铁去英国读一年 60 万的硕博可行吗？",
+          "url": "https://www.zhihu.com/question/1984744924625781393",
+          "source": "知乎",
           "ranks": [
-            4,
-            12,
+            10,
+            11,
+            17,
             14,
-            20
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 07时19分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
@@ -194,7 +198,22 @@
             5,
             10,
             16,
-            19
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 07时19分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
+          "url": "https://wallstreetcn.com/livenews/3024442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12,
+            14,
+            20
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -212,21 +231,6 @@
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时24分 ~ 06时20分]"
-        },
-        {
-          "title": "家庭年收入 25 万，存款 100 万，为了名校光环砸锅卖铁去英国读一年 60 万的硕博可行吗？",
-          "url": "https://www.zhihu.com/question/1984744924625781393",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11,
-            17,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
           "time_info": "[00时24分 ~ 06时20分]"
         },
         {
@@ -250,11 +254,12 @@
           "ranks": [
             7,
             9,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时28分 ~ 06时20分]"
+          "appearance_count": 6,
+          "time_info": "[02时28分 ~ 07时19分]"
         },
         {
           "title": "中央经济工作会议勾勒房地产发展新逻辑：从“止跌回稳”到“着力稳定”",
