@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T14:36:19.190065+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2025-12-22T15:25:08.336483+08:00",
+  "total_titles_processed": 1125,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
@@ -55,11 +55,12 @@
             3,
             22,
             15,
-            21
+            21,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 14时36分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 15时25分]"
         },
         {
           "title": "宇树六台人形机器人伴舞王力宏演唱会，集体完成韦伯斯特空翻，如何做到的？从春晚转手绢到现在，有哪些突破？",
@@ -84,11 +85,12 @@
           "ranks": [
             7,
             8,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 14时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 15时25分]"
         },
         {
           "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
@@ -114,8 +116,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 14时36分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 15时25分]"
         },
         {
           "title": "哈尔滨大雪人穿雨衣系AI生成",
@@ -143,8 +145,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时17分 ~ 14时36分]"
+          "appearance_count": 16,
+          "time_info": "[01时17分 ~ 15时25分]"
         },
         {
           "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
@@ -169,6 +171,18 @@
           "time_info": "[00时24分 ~ 07时19分]"
         },
         {
+          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
+          "url": "https://wallstreetcn.com/articles/3761792",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 15时24分]"
+        },
+        {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
           "url": "https://wallstreetcn.com/livenews/3024451",
           "source": "华尔街见闻-快讯",
@@ -183,16 +197,29 @@
           "time_info": "[02时28分 ~ 07时19分]"
         },
         {
-          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
-          "url": "https://wallstreetcn.com/articles/3761792",
-          "source": "华尔街见闻",
+          "title": "UP主用AI改写三体名场面",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            9
+            4,
+            28,
+            24,
+            26
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时43分 ~ 14时36分]"
+          "time_info": "[11时43分 ~ 15时25分]"
+        },
+        {
+          "title": "现代汽车集团将阐述通过人机协作加速人工智能机器人商业化的战略。",
+          "url": "https://flash.jin10.com/detail/20251222150907994800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "特斯拉人形机器人“上岗”卖爆米花",
@@ -209,19 +236,6 @@
           "time_info": "[11时43分 ~ 14时36分]"
         },
         {
-          "title": "UP主用AI改写三体名场面",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 14时36分]"
-        },
-        {
           "title": "最快IPO AI公司诞生！MiniMax通过港交所聆讯 不足4年用户突破2亿",
           "url": "https://www.cls.cn/detail/2235733",
           "source": "财联社热门",
@@ -233,6 +247,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时46分 ~ 13时25分]"
+        },
+        {
+          "title": "MiniMax稀宇科技副总裁薛子钊：M2模型成为AI编程领域最大国产模型",
+          "url": "https://wallstreetcn.com/livenews/3024776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "A股机器人概念股异动拉升，首开股份直线涨停，景兴纸业、襄阳轴承、长盛轴承等冲高。",
@@ -248,6 +273,18 @@
         },
         {
           "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
+          "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 15时25分]"
+        },
+        {
+          "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
           "url": "https://wallstreetcn.com/livenews/3024707",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -259,15 +296,15 @@
           "time_info": "[13时25分 ~ 14时36分]"
         },
         {
-          "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
-          "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
-          "source": "凤凰网",
+          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
+          "url": "https://www.cls.cn/detail/2236150",
+          "source": "财联社热门",
           "ranks": [
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时35分 ~ 14时36分]"
+          "time_info": "[15时24分 ~ 15时25分]"
         },
         {
           "title": "广发证券所长助理、首席策略刘晨明：三大化债路径揭示AI和黄金时代到来",
@@ -276,7 +313,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -331,7 +368,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -353,7 +390,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -372,7 +409,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "家庭年收入 25 万，存款 100 万，为了名校光环砸锅卖铁去英国读一年 60 万的硕博可行吗？",
@@ -476,11 +513,12 @@
           "url": "https://wallstreetcn.com/livenews/3024742",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 15时25分]"
         },
         {
           "title": "分析师警告称，英国央行淡化其经济预测，并过度依赖未能提供足够有用数据的替代情景，这可能会使市场对利率走势的理解变得模糊不清。",
@@ -519,6 +557,17 @@
           "time_info": "[11时43分 ~ 12时40分]"
         },
         {
+          "title": "英国国家统计局：英国经济在第三季度增长了0.1%",
+          "url": "https://flash.jin10.com/detail/20251222150505506800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "欧亚经济联盟成员国与印尼签署自贸协定",
           "url": "https://flash.jin10.com/detail/20251222105844566800",
           "source": "金十数据",
@@ -536,7 +585,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         }
