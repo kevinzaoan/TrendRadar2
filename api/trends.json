@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T17:29:27.248726+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2025-12-22T18:23:08.624219+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
@@ -90,8 +90,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时24分 ~ 17时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时24分 ~ 18时23分]"
         },
         {
           "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
@@ -117,8 +117,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 17时29分]"
+          "appearance_count": 21,
+          "time_info": "[00时24分 ~ 18时23分]"
         },
         {
           "title": "哈尔滨大雪人穿雨衣系AI生成",
@@ -146,8 +146,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时17分 ~ 17时29分]"
+          "appearance_count": 20,
+          "time_info": "[01时17分 ~ 18时23分]"
         },
         {
           "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
@@ -172,6 +172,18 @@
           "time_info": "[00时24分 ~ 07时19分]"
         },
         {
+          "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
+          "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时35分 ~ 18时23分]"
+        },
+        {
           "title": "UP主用AI改写三体名场面",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
           "source": "bilibili 热搜",
@@ -185,6 +197,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时43分 ~ 16时31分]"
+        },
+        {
+          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
+          "url": "https://www.cls.cn/detail/2236150",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 18时23分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -213,18 +239,6 @@
           "time_info": "[02时28分 ~ 07时19分]"
         },
         {
-          "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
-          "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时35分 ~ 17时29分]"
-        },
-        {
           "title": "现代汽车集团将阐述通过人机协作加速人工智能机器人商业化的战略。",
           "url": "https://flash.jin10.com/detail/20251222150907994800",
           "source": "金十数据",
@@ -250,19 +264,6 @@
           "time_info": "[11时43分 ~ 14时36分]"
         },
         {
-          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
-          "url": "https://www.cls.cn/detail/2236150",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 17时29分]"
-        },
-        {
           "title": "最快IPO AI公司诞生！MiniMax通过港交所聆讯 不足4年用户突破2亿",
           "url": "https://www.cls.cn/detail/2235733",
           "source": "财联社热门",
@@ -274,17 +275,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时46分 ~ 13时25分]"
-        },
-        {
-          "title": "南亚新材：拟定增募资不超过9亿元，用于基于AI算力的高阶高频高速覆铜板研发及产业化项目、补充流动资金。",
-          "url": "https://wallstreetcn.com/livenews/3024853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
         },
         {
           "title": "A股机器人概念股异动拉升，首开股份直线涨停，景兴纸业、襄阳轴承、长盛轴承等冲高。",
@@ -311,6 +301,30 @@
           "time_info": "[15时25分 ~ 16时31分]"
         },
         {
+          "title": "南亚新材：拟定增募资不超过9亿元，用于基于AI算力的高阶高频高速覆铜板研发及产业化项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3024853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时23分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指高开高走涨逾2%，半导体产业链“王者归来”，机器人概念午后异动",
+          "url": "https://www.cls.cn/detail/2236551",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 18时23分]"
+        },
+        {
           "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
           "url": "https://wallstreetcn.com/livenews/3024707",
           "source": "华尔街见闻-快讯",
@@ -321,6 +335,52 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时25分 ~ 14时36分]"
+        },
+        {
+          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
+          "url": "https://wallstreetcn.com/articles/3761823",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
+        },
+        {
+          "title": "夸克AI眼镜G1开启预售，最低1999元",
+          "url": "https://wallstreetcn.com/livenews/3024838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时23分]"
+        },
+        {
+          "title": "面对无法规避的交通事故，AI 的决策原则应优先「对驾驶者负责」还是「社会利益最大化」？",
+          "url": "https://www.zhihu.com/question/1972372550760784385",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
+        },
+        {
+          "title": "智元机器人邓泰华：今年销售收入有望超10亿元",
+          "url": "https://wallstreetcn.com/livenews/3024822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时23分]"
         },
         {
           "title": "全国首个开放式机器人租赁平台在上海发布",
@@ -367,17 +427,6 @@
           "time_info": "09时46分"
         },
         {
-          "title": "夸克AI眼镜G1开启预售，最低1999元",
-          "url": "https://wallstreetcn.com/livenews/3024838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
           "title": "如何适当提醒过度迷信 AI 的老板？",
           "url": "https://www.zhihu.com/question/1984781101030478834",
           "source": "知乎",
@@ -398,17 +447,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
-        },
-        {
-          "title": "【焦点复盘】创业板指高开高走涨逾2%，半导体产业链“王者归来”，机器人概念午后异动",
-          "url": "https://www.cls.cn/detail/2236551",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
         },
         {
           "title": "比尔·阿克曼：我持有SpaceX和xAI，但并不持有特斯拉股份。",
@@ -455,17 +493,6 @@
           "time_info": "14时36分"
         },
         {
-          "title": "智元机器人邓泰华：今年销售收入有望超10亿元",
-          "url": "https://wallstreetcn.com/livenews/3024822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
           "title": "让AI成为你的情绪垃圾桶",
           "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A9AI%E6%88%90%E4%B8%BA%E4%BD%A0%E7%9A%84%E6%83%85%E7%BB%AA%E5%9E%83%E5%9C%BE%E6%A1%B6%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -480,7 +507,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "家庭年收入 25 万，存款 100 万，为了名校光环砸锅卖铁去英国读一年 60 万的硕博可行吗？",
@@ -597,9 +624,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        },
+        {
+          "title": "欧洲央行Simkus：通胀受控且经济扩张 利率决策“相当明确”",
+          "url": "https://wallstreetcn.com/livenews/3024864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "广发证券所长助理、首席策略刘晨明：40%新经济利润占比重塑A股研判逻辑",
@@ -650,6 +688,18 @@
           "time_info": "[11时43分 ~ 12时40分]"
         },
         {
+          "title": "工信部：前11个月电信业务收入同比增长0.9%",
+          "url": "https://wallstreetcn.com/livenews/3024830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时23分]"
+        },
+        {
           "title": "英国国家统计局：英国经济在第三季度增长了0.1%",
           "url": "https://flash.jin10.com/detail/20251222150505506800",
           "source": "金十数据",
@@ -667,7 +717,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -678,7 +728,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -689,7 +739,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -711,7 +761,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -725,17 +775,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
-        },
-        {
-          "title": "工信部：前11个月电信业务收入同比增长0.9%",
-          "url": "https://wallstreetcn.com/livenews/3024830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
         },
         {
           "title": "经过数月的延误，英国旨在促进曼彻斯特、利兹和利物浦等城市经济增长的北方动力铁路计划将在新年公布其高级别细节。",
