@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T15:25:08.336483+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2025-12-22T16:31:33.449524+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
@@ -56,11 +56,12 @@
             22,
             15,
             21,
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 15时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 16时31分]"
         },
         {
           "title": "宇树六台人形机器人伴舞王力宏演唱会，集体完成韦伯斯特空翻，如何做到的？从春晚转手绢到现在，有哪些突破？",
@@ -89,8 +90,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 15时25分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 16时31分]"
         },
         {
           "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
@@ -116,8 +117,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 15时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 16时31分]"
         },
         {
           "title": "哈尔滨大雪人穿雨衣系AI生成",
@@ -145,8 +146,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时17分 ~ 15时25分]"
+          "appearance_count": 17,
+          "time_info": "[01时17分 ~ 16时31分]"
         },
         {
           "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
@@ -169,6 +170,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时24分 ~ 07时19分]"
+        },
+        {
+          "title": "UP主用AI改写三体名场面",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            28,
+            24,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 16时31分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -197,27 +213,13 @@
           "time_info": "[02时28分 ~ 07时19分]"
         },
         {
-          "title": "UP主用AI改写三体名场面",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            28,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 15时25分]"
-        },
-        {
           "title": "现代汽车集团将阐述通过人机协作加速人工智能机器人商业化的战略。",
           "url": "https://flash.jin10.com/detail/20251222150907994800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -249,15 +251,16 @@
           "time_info": "[09时46分 ~ 13时25分]"
         },
         {
-          "title": "MiniMax稀宇科技副总裁薛子钊：M2模型成为AI编程领域最大国产模型",
-          "url": "https://wallstreetcn.com/livenews/3024776",
-          "source": "华尔街见闻-快讯",
+          "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
+          "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
+          "source": "凤凰网",
           "ranks": [
-            5
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时35分 ~ 16时31分]"
         },
         {
           "title": "A股机器人概念股异动拉升，首开股份直线涨停，景兴纸业、襄阳轴承、长盛轴承等冲高。",
@@ -272,16 +275,28 @@
           "time_info": "[13时25分 ~ 14时36分]"
         },
         {
-          "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
-          "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
-          "source": "凤凰网",
+          "title": "MiniMax稀宇科技副总裁薛子钊：M2模型成为AI编程领域最大国产模型",
+          "url": "https://wallstreetcn.com/livenews/3024776",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时35分 ~ 15时25分]"
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 16时31分]"
+        },
+        {
+          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
+          "url": "https://www.cls.cn/detail/2236150",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时24分 ~ 16时31分]"
         },
         {
           "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
@@ -296,15 +311,15 @@
           "time_info": "[13时25分 ~ 14时36分]"
         },
         {
-          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
-          "url": "https://www.cls.cn/detail/2236150",
-          "source": "财联社热门",
+          "title": "全国首个开放式机器人租赁平台在上海发布",
+          "url": "https://wallstreetcn.com/livenews/3024798",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 15时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "广发证券所长助理、首席策略刘晨明：三大化债路径揭示AI和黄金时代到来",
@@ -316,6 +331,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
+        },
+        {
+          "title": "宁波华翔：华翔启源与大寰机器人签订战略合作协议 在灵巧手的研发等领域加强合作",
+          "url": "https://wallstreetcn.com/livenews/3024796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "恒指高开0.41%，报25795.94点；恒生科技指数涨0.61%。地平线机器人涨2.5%，商汤、中芯国际、美团、小鹏汽车等涨超1%。",
@@ -409,7 +435,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "家庭年收入 25 万，存款 100 万，为了名校光环砸锅卖铁去英国读一年 60 万的硕博可行吗？",
@@ -509,6 +535,17 @@
           "time_info": "[02时28分 ~ 07时19分]"
         },
         {
+          "title": "机构：英国经济增长形式比之前预期的更健康",
+          "url": "https://flash.jin10.com/detail/20251222160438293800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "广发证券所长助理、首席策略刘晨明：40%新经济利润占比重塑A股研判逻辑",
           "url": "https://wallstreetcn.com/livenews/3024742",
           "source": "华尔街见闻-快讯",
@@ -563,7 +600,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -579,6 +616,17 @@
           "time_info": "11时43分"
         },
         {
+          "title": "英国第三季度经济增速放缓 但储蓄率下降表明消费者谨慎情绪缓解",
+          "url": "https://wallstreetcn.com/livenews/3024786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "经过数月的延误，英国旨在促进曼彻斯特、利兹和利物浦等城市经济增长的北方动力铁路计划将在新年公布其高级别细节。",
           "url": "https://flash.jin10.com/detail/20251222131309919800",
           "source": "金十数据",
@@ -588,6 +636,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
+        },
+        {
+          "title": "金十数据整理：每日房地产行业动态汇总（2025-12-22）",
+          "url": "https://flash.jin10.com/detail/20251222154323237800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         }
       ]
     },
