@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T16:31:15.427964+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2025-12-23T17:26:19.074773+08:00",
+  "total_titles_processed": 1538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "AI定格|2025·强国脉动",
@@ -45,6 +45,39 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
+          "title": "利用AI造谣“中国女篮”，两男子刑拘",
+          "url": "https://www.toutiao.com/trending/7586636403350523428/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时42分 ~ 17时26分]"
+        },
+        {
+          "title": "两男子用AI造谣中国女篮被刑拘",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%A2%AB%E5%88%91%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时42分 ~ 17时26分]"
+        },
+        {
+          "title": "两男子用AI造谣中国女篮被刑拘",
+          "url": "https://www.douyin.com/hot/2344497",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时42分 ~ 17时26分]"
+        },
+        {
           "title": "UP主用AI改写三体名场面",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
           "source": "bilibili 热搜",
@@ -57,11 +90,12 @@
             20,
             25,
             12,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 16时31分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 17时26分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
@@ -87,39 +121,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时26分 ~ 09时42分]"
-        },
-        {
-          "title": "利用AI造谣“中国女篮”，两男子刑拘",
-          "url": "https://www.toutiao.com/trending/7586636403350523428/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时42分 ~ 16时31分]"
-        },
-        {
-          "title": "两男子用AI造谣中国女篮被刑拘",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%A2%AB%E5%88%91%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时42分 ~ 16时31分]"
-        },
-        {
-          "title": "两男子用AI造谣中国女篮被刑拘",
-          "url": "https://www.douyin.com/hot/2344497",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时42分 ~ 16时31分]"
         },
         {
           "title": "加码AI算力与电力布局！Alphabet斥资47.5亿美元收购Intersect",
@@ -262,6 +263,17 @@
           "time_info": "[13时24分 ~ 14时34分]"
         },
         {
+          "title": "财晓得｜推开未来之门：AI视野下的2030上海城市图景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32229845",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 17时26分]"
+        },
+        {
           "title": "春晚AI冠名落定：火山引擎将登台、豆包也会参与",
           "url": "https://wallstreetcn.com/livenews/3025400",
           "source": "华尔街见闻-快讯",
@@ -320,6 +332,17 @@
           "time_info": "09时42分"
         },
         {
+          "title": "宁波华翔：子公司与国内某头部机器人关节厂商签订机器人关节订单",
+          "url": "https://wallstreetcn.com/livenews/3025499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "智元机器人旗下公司已备案擎天租小程序",
           "url": "https://wallstreetcn.com/livenews/3025380",
           "source": "华尔街见闻-快讯",
@@ -331,17 +354,6 @@
           "time_info": "14时34分"
         },
         {
-          "title": "财晓得｜推开未来之门：AI视野下的2030上海城市图景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32229845",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
           "title": "谷歌老兵挂帅 乐天集团以“极致性价比”深耕AI领域",
           "url": "https://flash.jin10.com/detail/20251223105452549800",
           "source": "金十数据",
@@ -351,6 +363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "委内瑞拉总统马杜罗与机器人共舞",
+          "url": "https://www.toutiao.com/trending/7586251073730396201/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "北京：加快战略性新兴产业发展 办好机器人“两会一赛”",
@@ -367,7 +390,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "从多领域成就感受中国经济活力",
@@ -391,8 +414,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时24分 ~ 16时31分]"
+          "appearance_count": 8,
+          "time_info": "[13时24分 ~ 17时26分]"
         },
         {
           "title": "2025 年大厂加薪潮 Q4 继续，比亚迪、字节、宁德时代几乎同时集体加薪，从经济角度看反应了什么信号？",
@@ -404,8 +427,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时24分 ~ 16时31分]"
+          "appearance_count": 8,
+          "time_info": "[13时24分 ~ 17时26分]"
+        },
+        {
+          "title": "这些细节里藏着中国经济底气",
+          "url": "https://www.douyin.com/hot/2345424",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
           "title": "哥伦比亚Petro：经济紧急法令将针对超级富豪（Mega Rich）。",
@@ -594,6 +628,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "瑞士12月ZEW经济现况指数 16.6，前值-4.9。",
+          "url": "https://flash.jin10.com/detail/20251223170015969800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "日本经济产业大臣赤泽亮正：要求提供1.8万亿日元资金，用于支持NEXI在美国的投资。",
