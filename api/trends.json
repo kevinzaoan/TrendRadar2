@@ -1,22 +1,34 @@
 {
-  "generated_at": "2025-12-25T00:26:31.140966+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-25T01:18:53.637714+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "从春晚扭秧歌到演唱会伴舞，2025年机器人名场面盘点",
           "url": "https://www.cls.cn/detail/2239208",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
+        },
+        {
+          "title": "A股迎来“人形机器人第一股”：16.65亿元并购，优必选成为锋龙股份控股股东",
+          "url": "https://wallstreetcn.com/livenews/3026294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "01时18分"
         },
         {
           "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
@@ -43,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         }
       ]
     }
