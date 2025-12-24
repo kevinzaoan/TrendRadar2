@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T22:20:35.453661+08:00",
-  "total_titles_processed": 1863,
+  "generated_at": "2025-12-24T23:22:23.577732+08:00",
+  "total_titles_processed": 1948,
   "failed_sources": [],
   "trends": [
     {
@@ -72,6 +72,17 @@
           "time_info": "[00时28分 ~ 06时20分]"
         },
         {
+          "title": "住建部：着力稳定房地产市场",
+          "url": "https://www.douyin.com/hot/2346688",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时22分]"
+        },
+        {
           "title": "【中国央行：用好证券、基金、保险公司互换便利和股票回购增持再贷款】会议指出，要引导大型银行发挥金融服务实体经济主力军作用，推动中小银行聚焦主责主业，增强银行资本实力，共同维护金融市场的稳定发展。有效落实好各类结构性货币政策工具，扎实做好金融“五篇大文章”，加强对扩大内需、科技创新、中小微企业等重点领域的金融支持。用好证券、基金、保险公司互换便利和股票回购增持再贷款，探索常态化的制度安排，维护资本市场稳定。持续做好支持民营经济发展壮大的金融服务。切实推进金融高水平双向开放，提高开放条件下经济金融管理能力和风险防控能力。",
           "url": "https://wallstreetcn.com/livenews/3026189",
           "source": "华尔街见闻-快讯",
@@ -92,17 +103,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
-        },
-        {
-          "title": "住建部：着力稳定房地产市场",
-          "url": "https://www.douyin.com/hot/2346688",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
         },
         {
           "title": "美国第三季度经济增长4.3%",
@@ -489,7 +489,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -640,7 +640,7 @@
     },
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "UP主用AI改写三体名场面",
@@ -676,9 +676,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
+        },
+        {
+          "title": "从春晚扭秧歌到演唱会伴舞，2025年机器人名场面盘点",
+          "url": "https://www.cls.cn/detail/2239208",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 23时22分]"
         },
         {
           "title": "OpenAI、Anthropic、xAI 遭作家起诉版权侵权",
@@ -729,18 +742,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时25分 ~ 19时19分]"
-        },
-        {
-          "title": "从春晚扭秧歌到演唱会伴舞，2025年机器人名场面盘点",
-          "url": "https://www.cls.cn/detail/2239208",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时42分 ~ 22时20分]"
         },
         {
           "title": "智谱、 MiniMax 争夺「全球大模型第一股」，高瓴双线押注，预示着 AI 行业怎样的新格局？",
@@ -797,6 +798,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3026250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "英媒：科技企业将高额AI支出债务移出资产负债表 引发市场担忧",
