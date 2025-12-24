@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T11:24:54.383469+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2025-12-24T12:36:37.201203+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "解码冰雪经济新动能",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 11时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 12时36分]"
         },
         {
           "title": "2025 年大厂加薪潮 Q4 继续，比亚迪、字节、宁德时代几乎同时集体加薪，从经济角度看反应了什么信号？",
@@ -385,7 +385,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -396,9 +396,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "《2025 年中国游戏产业报告》发布，移动游戏收入占比 73.29% 继续居主导地位，这意味着什么？",
+          "url": "https://www.zhihu.com/question/1985458878985565344",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         },
         {
           "title": "中信证券：11月社零餐饮收入相对稳健 建议关注细分赛道成长企业及高股息龙头",
@@ -510,7 +521,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -521,7 +532,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         }
