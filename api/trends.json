@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T13:24:55.715954+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2025-12-24T14:34:34.426933+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
@@ -59,17 +59,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
-        },
-        {
-          "title": "数据分析公司Crisil Coalition Greenwich的数据显示，在黄金和白银价格飙升的背景下，今年前九个月，主要银行贵金属交易部门的收入比2024年同期增长了50%。",
-          "url": "https://flash.jin10.com/detail/20251224130812700800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
         },
         {
           "title": "美国第三季度经济增长4.3%",
@@ -171,6 +160,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时18分]"
+        },
+        {
+          "title": "数据分析公司Crisil Coalition Greenwich的数据显示，在黄金和白银价格飙升的背景下，今年前九个月，主要银行贵金属交易部门的收入比2024年同期增长了50%。",
+          "url": "https://flash.jin10.com/detail/20251224130812700800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 14时34分]"
         },
         {
           "title": "如何着力稳定房地产市场？住房城乡建设部解码“十五五”工作重点",
@@ -283,6 +284,18 @@
           "time_info": "[02时31分 ~ 03时18分]"
         },
         {
+          "title": "四川：因城施策控增量、去库存、优供给，加快构建房地产发展新模式",
+          "url": "https://wallstreetcn.com/livenews/3025995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 14时34分]"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：消费者情绪与硬经济数据几乎没有相关性。",
           "url": "https://flash.jin10.com/detail/20251224000602768800",
           "source": "金十数据",
@@ -390,17 +403,6 @@
           "time_info": "01时21分"
         },
         {
-          "title": "四川：因城施策控增量、去库存、优供给，加快构建房地产发展新模式",
-          "url": "https://wallstreetcn.com/livenews/3025995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
           "title": "美国三季度经济创两年来最快增速，金银等一众贵金属圣诞节前延续疯狂行情；日本据悉拟在2026财年预算中大幅举债，日本长债收益率闻声再创新高……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251224105154805800",
           "source": "金十数据",
@@ -470,7 +472,7 @@
     },
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "UP主用AI改写三体名场面",
@@ -498,6 +500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "北京市机器人产业协会将成立",
+          "url": "https://wallstreetcn.com/livenews/3026032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "OpenAI、Anthropic、xAI 遭作家起诉版权侵权",
@@ -541,11 +554,23 @@
           "url": "https://www.zhihu.com/question/1986826913436680279",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 14时34分]"
+        },
+        {
+          "title": "英媒：科技企业将高额AI支出债务移出资产负债表 引发市场担忧",
+          "url": "https://flash.jin10.com/detail/20251224133230351800",
+          "source": "金十数据",
+          "ranks": [
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时24分"
+          "time_info": "14时34分"
         },
         {
           "title": "韩国产业通商资源部周三表示，政府明年将投入7000亿韩元（约合4.78亿美元）用于支持制造业人工智能（AI）转型项目，包括开发设备端人工智能芯片和出口人工智能工厂。",
@@ -573,8 +598,19 @@
     },
     {
       "keyword_group": "焦化 钢铁 发电 锅炉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "俄罗斯航天局已签署合同，将在月球上建造一座发电站。",
+          "url": "https://flash.jin10.com/detail/20251224140232394800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
         {
           "title": "我国首条百万吨级近零碳钢铁产线全线贯通",
           "url": "https://wallstreetcn.com/livenews/3025671",
