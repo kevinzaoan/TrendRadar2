@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T21:32:58.111616+08:00",
-  "total_titles_processed": 1780,
+  "generated_at": "2025-12-24T22:20:35.453661+08:00",
+  "total_titles_processed": 1863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "解码冰雪经济新动能",
@@ -92,6 +92,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "住建部：着力稳定房地产市场",
+          "url": "https://www.douyin.com/hot/2346688",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "美国第三季度经济增长4.3%",
@@ -472,6 +483,17 @@
           "time_info": "18时23分"
         },
         {
+          "title": "机构：加拿大经济疲态尽显 亟需政策刺激",
+          "url": "https://flash.jin10.com/detail/20251224214849239800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "亚特兰大联储GDPNow模型初步预测，2025年第四季度实际GDP（经季节性调整的年化增长率）为3.0%。美国经济分析局公布的三季度实际GDP增长初值为4.3%，较GDPNow模型的最终预测值高出0.8个百分点。",
           "url": "https://flash.jin10.com/detail/20251224002350862800",
           "source": "金十数据",
@@ -618,7 +640,7 @@
     },
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "UP主用AI改写三体名场面",
@@ -646,6 +668,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "OpenAI考虑在ChatGPT内植入广告。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3026250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "OpenAI、Anthropic、xAI 遭作家起诉版权侵权",
@@ -706,8 +739,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时32分]"
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时20分]"
         },
         {
           "title": "智谱、 MiniMax 争夺「全球大模型第一股」，高瓴双线押注，预示着 AI 行业怎样的新格局？",
