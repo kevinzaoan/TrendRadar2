@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T20:42:25.585982+08:00",
-  "total_titles_processed": 1664,
+  "generated_at": "2025-12-25T21:33:03.196269+08:00",
+  "total_titles_processed": 1731,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "AI中场时刻①｜摩擦白热化：搅动版权、入口与伦理之争",
@@ -31,6 +31,19 @@
           "time_info": "[00时26分 ~ 09时42分]"
         },
         {
+          "title": "画师全跑光,马斯克AI贴脸盗图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时29分 ~ 21时33分]"
+        },
+        {
           "title": "AI中场时刻①：摩擦白热化，搅动版权、入口与伦理之争",
           "url": "https://m.thepaper.cn/newsDetail_forward_32154249",
           "source": "澎湃新闻",
@@ -43,28 +56,17 @@
           "time_info": "[07时19分 ~ 09时42分]"
         },
         {
-          "title": "画师全跑光,马斯克AI贴脸盗图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
-          "source": "贴吧",
+          "title": "【焦点复盘】创业板指探底回升收获5连涨，全市场超3700股飘红，机器人概念现批量涨停",
+          "url": "https://www.cls.cn/detail/2240066",
+          "source": "财联社热门",
           "ranks": [
             9,
             10,
-            13
+            8
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[16时29分 ~ 20时42分]"
-        },
-        {
-          "title": "报道：三星电子计划在2027年前自主研发用于端侧AI产品的GPU",
-          "url": "https://wallstreetcn.com/livenews/3026750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
+          "time_info": "[18时22分 ~ 21时33分]"
         },
         {
           "title": "英伟达正以约200亿美元的价格收购AI芯片初创公司Groq，这是其有史以来规模最大的收购案。",
@@ -76,6 +78,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "年终巨献：机器人述职报告",
+          "url": "https://www.cls.cn/detail/2240212",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 21时33分]"
         },
         {
           "title": "Waymo拟为无人驾驶出租车接入Gemini AI助手",
@@ -100,18 +114,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时24分 ~ 16时29分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指探底回升收获5连涨，全市场超3700股飘红，机器人概念现批量涨停",
-          "url": "https://www.cls.cn/detail/2240066",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时22分 ~ 20时42分]"
         },
         {
           "title": "哥大博士预言人会爱上机器人",
@@ -152,6 +154,19 @@
           "time_info": "[04时23分 ~ 06时21分]"
         },
         {
+          "title": "超捷股份：截至2025年9月30日，公司航空航天零部件业务和人形机器人业务营收占公司营收比重较小。",
+          "url": "https://wallstreetcn.com/livenews/3026719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时33分]"
+        },
+        {
           "title": "A股迎来“人形机器人第一股”：16.65亿元并购，优必选成为锋龙股份控股股东",
           "url": "https://wallstreetcn.com/livenews/3026294",
           "source": "华尔街见闻-快讯",
@@ -165,16 +180,16 @@
           "time_info": "[01时18分 ~ 03时17分]"
         },
         {
-          "title": "超捷股份：截至2025年9月30日，公司航空航天零部件业务和人形机器人业务营收占公司营收比重较小。",
-          "url": "https://wallstreetcn.com/livenews/3026719",
+          "title": "报道：三星电子计划在2027年前自主研发用于端侧AI产品的GPU",
+          "url": "https://wallstreetcn.com/livenews/3026750",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            18
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时42分]"
+          "time_info": "[20时42分 ~ 21时33分]"
         },
         {
           "title": "优必选拟16.65亿元入主锋龙股份 机器人产业链迎全新强催化",
@@ -200,6 +215,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时29分 ~ 18时23分]"
+        },
+        {
+          "title": "OpenAI的“广告模式”已初具雏形",
+          "url": "https://wallstreetcn.com/articles/3762036",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 21时33分]"
         },
         {
           "title": "王力宏演唱会机器人彩排纯享",
@@ -238,6 +265,17 @@
           "time_info": "[06时21分 ~ 07时20分]"
         },
         {
+          "title": "马斯克预测美国经济18个月内实现两位数增长，AI成关键驱动力",
+          "url": "https://wallstreetcn.com/articles/3762031",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
+        },
+        {
           "title": "英伟达以约200亿美元现金收购AI芯片初创公司Groq",
           "url": "https://flash.jin10.com/detail/20251225051502192800",
           "source": "金十数据",
@@ -272,28 +310,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时33分 ~ 15时22分]"
-        },
-        {
-          "title": "年终巨献：机器人述职报告",
-          "url": "https://www.cls.cn/detail/2240212",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "OpenAI的“广告模式”已初具雏形",
-          "url": "https://wallstreetcn.com/articles/3762036",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
         },
         {
           "title": "马斯克：xAI五年内的AI算力将超过其他人的总和。",
@@ -346,7 +362,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -360,6 +376,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "据韩国经济日报：三星电子计划将其自研图形架构的应用范围从智能手机扩展至智能眼镜、自动驾驶软件和人形机器人。",
+          "url": "https://flash.jin10.com/detail/20251225201722099800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "中信证券：看好互联网大厂凭借AI产品力、成熟生态以及投流资金规模优势，率先抢占市场并完成用户AI家医心智培育",
@@ -409,7 +436,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "住建部：着力稳定房地产市场",
@@ -430,11 +457,12 @@
             6,
             7,
             8,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时42分 ~ 20时42分]"
+          "appearance_count": 16,
+          "time_info": "[09时42分 ~ 21时33分]"
         },
         {
           "title": "连续三日创历史新高！“铜博士”飙升，释放出何种经济信号？",
@@ -449,6 +477,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时27分 ~ 16时29分]"
+        },
+        {
+          "title": "中国经济热词图鉴",
+          "url": "https://www.toutiao.com/trending/7587041948800745514/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
+        },
+        {
+          "title": "中国经济热词图鉴",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%83%AD%E8%AF%8D%E5%9B%BE%E9%89%B4",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
         },
         {
           "title": "经济日报金观平：坚定战略信心迎接外部挑战",
@@ -548,6 +598,18 @@
           "time_info": "[17时24分 ~ 19时19分]"
         },
         {
+          "title": "工作室称李宏毅目前经济能力不足",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%A7%B0%E6%9D%8E%E5%AE%8F%E6%AF%85%E7%9B%AE%E5%89%8D%E7%BB%8F%E6%B5%8E%E8%83%BD%E5%8A%9B%E4%B8%8D%E8%B6%B3%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 21时33分]"
+        },
+        {
           "title": "明年怎么“稳”房地产",
           "url": "https://www.toutiao.com/trending/7587300084681805363/",
           "source": "今日头条",
@@ -577,7 +639,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -588,7 +650,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -626,17 +688,6 @@
           "time_info": "14时33分"
         },
         {
-          "title": "工作室称李宏毅目前经济能力不足",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%A7%B0%E6%9D%8E%E5%AE%8F%E6%AF%85%E7%9B%AE%E5%89%8D%E7%BB%8F%E6%B5%8E%E8%83%BD%E5%8A%9B%E4%B8%8D%E8%B6%B3%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
           "title": "日本央行行长植田和男：希望日本在来年进一步接近日本央行所追求的经济状态。",
           "url": "https://flash.jin10.com/detail/20251225123808636800",
           "source": "金十数据",
@@ -657,6 +708,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "据韩国经济日报：三星电子计划最早于2027年推出一款搭载完全自研图形处理器的应用处理器（AP），这是其构建端侧人工智能全栈生态雄心的重要一步。",
+          "url": "https://flash.jin10.com/detail/20251225201632343800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "日本预计财政刺激政策将推动2026财年经济加速增长",
