@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T16:29:28.277555+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2025-12-25T17:24:49.866817+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时27分 ~ 16时29分]"
+          "appearance_count": 8,
+          "time_info": "[11时27分 ~ 17时24分]"
         },
         {
           "title": "AI中场时刻①：摩擦白热化，搅动版权、入口与伦理之争",
@@ -116,6 +116,17 @@
           "time_info": "[13时24分 ~ 15时22分]"
         },
         {
+          "title": "哥大博士预言人会爱上机器人",
+          "url": "https://www.douyin.com/hot/2346977",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 17时24分]"
+        },
+        {
           "title": "王力宏演唱会机器人彩排纯享",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%A9%E6%8E%92%E7%BA%AF%E4%BA%AB",
           "source": "bilibili 热搜",
@@ -152,15 +163,28 @@
           "time_info": "[06时21分 ~ 07时20分]"
         },
         {
-          "title": "哥大博士预言人会爱上机器人",
-          "url": "https://www.douyin.com/hot/2346977",
-          "source": "抖音",
+          "title": "画师全跑光,马斯克AI贴脸盗图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
+          "source": "贴吧",
           "ranks": [
+            9,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时29分]"
+          "time_info": "[16时29分 ~ 17时24分]"
+        },
+        {
+          "title": "【午报】三大指数震荡分化涨跌不一，商业航天板块延续强势，机器人概念股再度活跃",
+          "url": "https://www.cls.cn/detail/2239726",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 17时24分]"
         },
         {
           "title": "英伟达以约200亿美元现金收购AI芯片初创公司Groq",
@@ -197,28 +221,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时33分 ~ 15时22分]"
-        },
-        {
-          "title": "画师全跑光,马斯克AI贴脸盗图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "【午报】三大指数震荡分化涨跌不一，商业航天板块延续强势，机器人概念股再度活跃",
-          "url": "https://www.cls.cn/detail/2239726",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
         },
         {
           "title": "马斯克：xAI五年内的AI算力将超过其他人的总和。",
@@ -323,7 +325,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "住建部：着力稳定房地产市场",
@@ -345,8 +347,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时42分 ~ 16时29分]"
+          "appearance_count": 9,
+          "time_info": "[09时42分 ~ 17时24分]"
         },
         {
           "title": "连续三日创历史新高！“铜博士”飙升，释放出何种经济信号？",
@@ -465,9 +467,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "广东：鼓励银行、保险机构研究覆盖低空经济研发等全生命周期的针对性金融产品",
+          "url": "https://wallstreetcn.com/livenews/3026673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "日本央行行长植田和男：若经济与物价允许 将进一步加息",
