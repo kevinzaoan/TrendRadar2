@@ -1,64 +1,11 @@
 {
-  "generated_at": "2025-12-27T01:18:47.494146+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2025-12-27T02:30:57.979993+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "经济 房地产 收入",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "俄罗斯经济部：俄罗斯1月至11月GDP同比增长1%，与1月至10月的同比增幅持平。",
-          "url": "https://flash.jin10.com/detail/20251227000157605800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时18分]"
-        },
-        {
-          "title": "俄罗斯经济部：俄罗斯11月GDP同比上涨0.1%，10月为同比上涨1.6%。",
-          "url": "https://flash.jin10.com/detail/20251227000149892800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时18分]"
-        },
-        {
-          "title": "上海北京杭州全年卖地收入超千亿",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%8C%97%E4%BA%AC%E6%9D%AD%E5%B7%9E%E5%85%A8%E5%B9%B4%E5%8D%96%E5%9C%B0%E6%94%B6%E5%85%A5%E8%B6%85%E5%8D%83%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时18分]"
-        },
-        {
-          "title": "越南房地产开发公司Vingroup（VIC.VN）收跌3.23%，报15.3万（越南盾），交易时段内大部分时间延续开盘跌停的状态，尾盘跌幅两度收窄。 本周，该公司股价累计涨幅收窄至4.38%——周一至周三持续上涨（周二至周四处于高位震荡状态）。 周四尾盘，该公司宣布放弃对（关于南北高铁）政府项目的投资计划。",
-          "url": "https://wallstreetcn.com/livenews/3027419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "github AI 机器人",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "华为：全球悬赏300万元解决AI时代的存储难题",
@@ -68,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时30分]"
         },
         {
           "title": "174名北大学生迎特殊考试：对决AI",
@@ -80,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时30分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -89,11 +36,79 @@
           "source": "bilibili 热搜",
           "ranks": [
             22,
-            21
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时30分]"
+        },
+        {
+          "title": "2025年度AI好用工具",
+          "url": "https://search.bilibili.com/all?keyword=2025%E5%B9%B4%E5%BA%A6AI%E5%A5%BD%E7%94%A8%E5%B7%A5%E5%85%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济 房地产 收入",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "俄罗斯经济部：俄罗斯1月至11月GDP同比增长1%，与1月至10月的同比增幅持平。",
+          "url": "https://flash.jin10.com/detail/20251227000157605800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时30分]"
+        },
+        {
+          "title": "俄罗斯经济部：俄罗斯11月GDP同比上涨0.1%，10月为同比上涨1.6%。",
+          "url": "https://flash.jin10.com/detail/20251227000149892800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时30分]"
+        },
+        {
+          "title": "上海北京杭州全年卖地收入超千亿",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%8C%97%E4%BA%AC%E6%9D%AD%E5%B7%9E%E5%85%A8%E5%B9%B4%E5%8D%96%E5%9C%B0%E6%94%B6%E5%85%A5%E8%B6%85%E5%8D%83%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时30分]"
+        },
+        {
+          "title": "越南房地产开发公司Vingroup（VIC.VN）收跌3.23%，报15.3万（越南盾），交易时段内大部分时间延续开盘跌停的状态，尾盘跌幅两度收窄。 本周，该公司股价累计涨幅收窄至4.38%——周一至周三持续上涨（周二至周四处于高位震荡状态）。 周四尾盘，该公司宣布放弃对（关于南北高铁）政府项目的投资计划。",
+          "url": "https://wallstreetcn.com/livenews/3027419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时18分]"
+          "time_info": "[01时18分 ~ 02时30分]"
         }
       ]
     }
