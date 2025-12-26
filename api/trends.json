@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T02:30:57.979993+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2025-12-27T03:17:34.190530+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "华为：全球悬赏300万元解决AI时代的存储难题",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时17分]"
         },
         {
           "title": "174名北大学生迎特殊考试：对决AI",
@@ -27,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时17分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -40,8 +40,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时17分]"
+        },
+        {
+          "title": "科研创新 idea 要不要告诉 AI?",
+          "url": "https://www.zhihu.com/question/1914008682825520046",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
         },
         {
           "title": "2025年度AI好用工具",
@@ -50,7 +61,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
         }
@@ -92,11 +103,12 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时17分]"
         },
         {
           "title": "越南房地产开发公司Vingroup（VIC.VN）收跌3.23%，报15.3万（越南盾），交易时段内大部分时间延续开盘跌停的状态，尾盘跌幅两度收窄。 本周，该公司股价累计涨幅收窄至4.38%——周一至周三持续上涨（周二至周四处于高位震荡状态）。 周四尾盘，该公司宣布放弃对（关于南北高铁）政府项目的投资计划。",
@@ -104,11 +116,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 02时30分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时17分]"
         }
       ]
     }
