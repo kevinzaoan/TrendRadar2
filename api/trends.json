@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T15:23:11.081917+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2025-12-26T16:29:16.664499+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "年终巨献：机器人述职报告",
@@ -53,11 +53,12 @@
             20,
             22,
             23,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 15时23分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 16时29分]"
         },
         {
           "title": "200元一天就能带个机器人回家",
@@ -100,8 +101,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时41分 ~ 15时23分]"
+          "appearance_count": 9,
+          "time_info": "[09时41分 ~ 16时29分]"
         },
         {
           "title": "泰国央行行长Vitai：由于与美国达成的协议，泰国央行不能操纵泰铢。",
@@ -110,9 +111,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "浙江荣泰：与伟创电气拟在泰国设立合资公司 共同开发应用于智能机器人机电一体化市场",
+          "url": "https://wallstreetcn.com/livenews/3027165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -135,9 +147,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "2025年终盘点|主机厂深度跨界机器人、低空经济赛道 产业融合带动数万亿经济增量",
+          "url": "https://www.cls.cn/detail/2240767",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时33分 ~ 16时29分]"
         },
         {
           "title": "如果只能用一个词来形容人和 AI 的区别以及人类的不可代替之处，你会选哪个词？为什么？",
@@ -218,18 +242,6 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
-          "title": "2025年终盘点|主机厂深度跨界机器人、低空经济赛道 产业融合带动数万亿经济增量",
-          "url": "https://www.cls.cn/detail/2240767",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时33分 ~ 15时23分]"
-        },
-        {
           "title": "领益智造、浩海星空、浙江仙通三方携手 共拓具身智能机器人产业生态",
           "url": "https://wallstreetcn.com/livenews/3027027",
           "source": "华尔街见闻-快讯",
@@ -243,6 +255,28 @@
           "time_info": "[12时35分 ~ 14时33分]"
         },
         {
+          "title": "博士与AI联手造出千度阻燃新型材料",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%9A%E5%A3%AB%E4%B8%8EAI%E8%81%94%E6%89%8B%E9%80%A0%E5%87%BA%E5%8D%83%E5%BA%A6%E9%98%BB%E7%87%83%E6%96%B0%E5%9E%8B%E6%9D%90%E6%96%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 16时29分]"
+        },
+        {
+          "title": "《科创板日报》评选2025十大科技热词出炉，AI成绝对主线",
+          "url": "https://www.cls.cn/detail/2239926",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 16时29分]"
+        },
+        {
           "title": "柳州优必选第1000台工业人形机器人下线",
           "url": "https://wallstreetcn.com/livenews/3026991",
           "source": "华尔街见闻-快讯",
@@ -253,6 +287,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时25分 ~ 12时35分]"
+        },
+        {
+          "title": "UP主用AI挑战肉鸽游戏",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%8C%91%E6%88%98%E8%82%89%E9%B8%BD%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 16时29分]"
         },
         {
           "title": "联手金马游乐，星尘智能开启“机器人MART”千台级批量交付",
@@ -278,6 +323,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "泰国央行行长Vitai：由于与美国达成的协议，泰国央行不能操纵泰铢。 线上黄金交易推动泰铢上涨。",
+          "url": "https://wallstreetcn.com/livenews/3027117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "联想将推出超级AI智能体，对标豆包手机助手",
           "url": "https://wallstreetcn.com/livenews/3026959",
           "source": "华尔街见闻-快讯",
@@ -287,12 +343,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "王兴兴回应马斯克点赞宇树机器人",
+          "url": "https://www.toutiao.com/trending/7587922466060845075/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "中国经济热词图鉴",
@@ -326,8 +393,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 15时23分]"
+          "appearance_count": 7,
+          "time_info": "[12时35分 ~ 16时29分]"
         },
         {
           "title": "为什么北京经济第一强区海淀至今没有苹果直营店？",
@@ -342,6 +409,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时41分 ~ 15时23分]"
+        },
+        {
+          "title": "工信部：2026年要打造集成电路、新型显示、新材料、航空航天、低空经济、生物医药等新兴支柱产业",
+          "url": "https://www.cls.cn/detail/2240818",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 16时29分]"
         },
         {
           "title": "我国首部气候资源经济蓝皮书发布",
@@ -370,15 +449,15 @@
           "time_info": "13时22分"
         },
         {
-          "title": "工信部：2026年要打造集成电路、新型显示、新材料、航空航天、低空经济、生物医药等新兴支柱产业",
-          "url": "https://www.cls.cn/detail/2240818",
-          "source": "财联社热门",
+          "title": "日本金融服务管理局表示将加强对地区银行房地产贷款的监控。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3027160",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "日本财务大臣：与经济体量相比2026财年预算规模不算太大",
@@ -415,6 +494,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时22分 ~ 14时33分]"
+        },
+        {
+          "title": "金十数据整理：每日房地产行业动态汇总（2025-12-26）",
+          "url": "https://flash.jin10.com/detail/20251226153556394800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "日本财务大臣片山皋月：内阁批准了2026财年的初步预算方案，总额达到了创纪录的122万亿日元；预算方案旨在实现强劲的经济增长。",
