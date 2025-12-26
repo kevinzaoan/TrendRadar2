@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T11:25:39.503608+08:00",
-  "total_titles_processed": 815,
+  "generated_at": "2025-12-26T12:35:31.587069+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "年终巨献：机器人述职报告",
@@ -49,11 +49,12 @@
           "ranks": [
             13,
             14,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 11时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 12时35分]"
         },
         {
           "title": "200元一天就能带个机器人回家",
@@ -64,11 +65,12 @@
             30,
             19,
             13,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时29分 ~ 11时25分]"
+          "appearance_count": 11,
+          "time_info": "[02时29分 ~ 12时35分]"
         },
         {
           "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
@@ -79,19 +81,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 11时25分]"
-        },
-        {
-          "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
-          "url": "https://wallstreetcn.com/livenews/3027011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 12时35分]"
         },
         {
           "title": "汽车零部件巨头变机器人新势力？中鼎股份子公司出资3000万元，与逐际动力等共同经营人形机器人代工",
@@ -134,27 +125,65 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
+          "url": "https://wallstreetcn.com/livenews/3027011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 12时35分]"
+        },
+        {
           "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
           "url": "https://www.cls.cn/detail/2240534",
           "source": "财联社热门",
           "ranks": [
             9,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 12时35分]"
         },
         {
           "title": "哥大博士预言人会爱上机器人",
           "url": "https://www.douyin.com/hot/2346977",
           "source": "抖音",
           "ranks": [
-            19
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 12时35分]"
+        },
+        {
+          "title": "AI音乐MV绩效改进计划",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%9F%B3%E4%B9%90MV%E7%BB%A9%E6%95%88%E6%94%B9%E8%BF%9B%E8%AE%A1%E5%88%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时41分 ~ 11时25分]"
+          "time_info": "[11时25分 ~ 12时35分]"
+        },
+        {
+          "title": "柳州优必选第1000台工业人形机器人下线",
+          "url": "https://wallstreetcn.com/livenews/3026991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 12时35分]"
         },
         {
           "title": "联手金马游乐，星尘智能开启“机器人MART”千台级批量交付",
@@ -169,6 +198,28 @@
           "time_info": "[00时26分 ~ 01时19分]"
         },
         {
+          "title": "领益智造、浩海星空、浙江仙通三方携手 共拓具身智能机器人产业生态",
+          "url": "https://wallstreetcn.com/livenews/3027027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
+          "title": "如果只能用一个词来形容人和 AI 的区别以及人类的不可代替之处，你会选哪个词？为什么？",
+          "url": "https://www.zhihu.com/question/1987780060753719586",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
           "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
           "url": "https://flash.jin10.com/detail/20251226064520664800",
           "source": "金十数据",
@@ -180,35 +231,13 @@
           "time_info": "07时20分"
         },
         {
-          "title": "柳州优必选第1000台工业人形机器人下线",
-          "url": "https://wallstreetcn.com/livenews/3026991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "AI音乐MV绩效改进计划",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%9F%B3%E4%B9%90MV%E7%BB%A9%E6%95%88%E6%94%B9%E8%BF%9B%E8%AE%A1%E5%88%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
           "title": "联想将推出超级AI智能体，对标豆包手机助手",
           "url": "https://wallstreetcn.com/livenews/3026959",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         }
@@ -216,7 +245,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "中国经济热词图鉴",
@@ -249,8 +278,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 12时35分]"
         },
         {
           "title": "我国首部气候资源经济蓝皮书发布",
@@ -268,13 +297,35 @@
           "time_info": "[00时26分 ~ 05时20分]"
         },
         {
+          "title": "国家发改委：国家创业投资引导基金将对集成电路、人工智能、航空航天、低空经济等领域的早期项目和企业加大投资力度",
+          "url": "https://www.cls.cn/detail/2240698",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
+          "title": "日本财务大臣：与经济体量相比2026财年预算规模不算太大",
+          "url": "https://wallstreetcn.com/livenews/3027021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
           "title": "日本财务大臣片山皋月：内阁批准了2026财年的初步预算方案，总额达到了创纪录的122万亿日元；预算方案旨在实现强劲的经济增长。",
           "url": "https://wallstreetcn.com/livenews/3026984",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -331,7 +382,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         }
