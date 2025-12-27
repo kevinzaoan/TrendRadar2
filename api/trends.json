@@ -1,215 +1,50 @@
 {
-  "generated_at": "2025-12-27T23:19:51.644739+08:00",
-  "total_titles_processed": 1519,
+  "generated_at": "2025-12-28T00:25:18.219434+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 14,
+      "match_count": 3,
       "titles": [
         {
-          "title": "如何看待李蒙疑似在围棋杀猪大会使用 ai 眼镜作弊?",
-          "url": "https://www.zhihu.com/question/1987661697423517255",
-          "source": "知乎",
+          "title": "机器人测试时突然送工程师恶毒一脚",
+          "url": "https://www.toutiao.com/trending/7587993552362618930/",
+          "source": "今日头条",
           "ranks": [
-            16,
-            15,
-            7,
-            4,
-            3,
-            6,
-            13
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时27分 ~ 23时19分]"
-        },
-        {
-          "title": "华为：全球悬赏300万元解决AI时代的存储难题",
-          "url": "https://www.cls.cn/detail/2241363",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 18时21分]"
-        },
-        {
-          "title": "AI音乐MV绩效改进计划",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%9F%B3%E4%B9%90MV%E7%BB%A9%E6%95%88%E6%94%B9%E8%BF%9B%E8%AE%A1%E5%88%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            21,
-            20,
-            17,
-            28,
-            23,
-            10,
-            9,
-            15,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 18时21分]"
-        },
-        {
-          "title": "174名北大学生迎特殊考试：对决AI",
-          "url": "https://www.baidu.com/s?wd=174%E5%90%8D%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%8E%E7%89%B9%E6%AE%8A%E8%80%83%E8%AF%95%EF%BC%9A%E5%AF%B9%E5%86%B3AI",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            13,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 07时20分]"
-        },
-        {
-          "title": "工信部人形机器人与具身智能标准化技术委员会成立",
-          "url": "https://wallstreetcn.com/livenews/3027534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            12,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时31分 ~ 19时17分]"
-        },
-        {
-          "title": "华为终端宣布华为Mate 70 Air 16GB版本正式开售，搭载麒麟9020A芯片，配备6500mAh大容量电池。",
-          "url": "https://wallstreetcn.com/livenews/3027520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            13,
-            15,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时23分 ~ 17时22分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
           "url": "https://www.cls.cn/detail/2241816",
           "source": "财联社热门",
           "ranks": [
-            11,
-            9,
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时17分 ~ 23时19分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
           "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
           "url": "https://wallstreetcn.com/livenews/3027558",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            8,
-            14,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时17分 ~ 23时19分]"
-        },
-        {
-          "title": "2025年度AI好用工具",
-          "url": "https://search.bilibili.com/all?keyword=2025%E5%B9%B4%E5%BA%A6AI%E5%A5%BD%E7%94%A8%E5%B7%A5%E5%85%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            24,
-            13,
-            26,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时30分 ~ 11时23分]"
-        },
-        {
-          "title": "科研创新 idea 要不要告诉 AI?",
-          "url": "https://www.zhihu.com/question/1914008682825520046",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时17分 ~ 07时20分]"
-        },
-        {
-          "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3027489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 09时40分]"
-        },
-        {
-          "title": "华为Mate 70 Air 16GB内存版开售",
-          "url": "https://www.toutiao.com/trending/7587983851331354651/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
-        },
-        {
-          "title": "华为悬赏300万元求解AI难题",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%82%AC%E8%B5%8F300%E4%B8%87%E5%85%83%E6%B1%82%E8%A7%A3AI%E9%9A%BE%E9%A2%98%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "AI医疗前景如何",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8C%BB%E7%96%97%E5%89%8D%E6%99%AF%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
+          "time_info": "00时25分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 12,
+      "match_count": 2,
       "titles": [
         {
           "title": "2025中国经济盘点",
@@ -219,157 +54,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时28分 ~ 23时19分]"
-        },
-        {
-          "title": "社科院余永定：明年经济增长关键在于财政扩张",
-          "url": "https://wallstreetcn.com/livenews/3027532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            9,
-            14,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时22分 ~ 19时17分]"
-        },
-        {
-          "title": "上海北京杭州全年卖地收入超千亿",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%8C%97%E4%BA%AC%E6%9D%AD%E5%B7%9E%E5%85%A8%E5%B9%B4%E5%8D%96%E5%9C%B0%E6%94%B6%E5%85%A5%E8%B6%85%E5%8D%83%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            10,
-            9,
-            8,
-            30,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 07时20分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
           "title": "2025年券商首席经济学家“大换牌”",
           "url": "https://wallstreetcn.com/livenews/3027557",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            9,
-            15,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时17分 ~ 23时19分]"
-        },
-        {
-          "title": "经济学家预测2026年金银价格将爆发",
-          "url": "https://www.toutiao.com/trending/7588033461328301610/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时39分 ~ 11时23分]"
-        },
-        {
-          "title": "担忧物价和经济前景 更多美国人走进二手商店",
-          "url": "https://flash.jin10.com/detail/20251227145700623800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时19分 ~ 18时21分]"
-        },
-        {
-          "title": "俄罗斯经济部：俄罗斯1月至11月GDP同比增长1%，与1月至10月的同比增幅持平。",
-          "url": "https://flash.jin10.com/detail/20251227000157605800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时30分]"
-        },
-        {
-          "title": "新西兰总理：我们承诺在第一任期内与印度达成自由贸易协定，我们做到了。这项具有里程碑意义的协议意味着更多就业机会、更高收入和更多出口，因为它将为14亿印度消费者敞开大门。",
-          "url": "https://flash.jin10.com/detail/20251227090931205800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时40分 ~ 11时23分]"
-        },
-        {
-          "title": "俄罗斯经济部：俄罗斯11月GDP同比上涨0.1%，10月为同比上涨1.6%。",
-          "url": "https://flash.jin10.com/detail/20251227000149892800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时30分]"
-        },
-        {
-          "title": "越南房地产开发公司Vingroup（VIC.VN）收跌3.23%，报15.3万（越南盾），交易时段内大部分时间延续开盘跌停的状态，尾盘跌幅两度收窄。 本周，该公司股价累计涨幅收窄至4.38%——周一至周三持续上涨（周二至周四处于高位震荡状态）。 周四尾盘，该公司宣布放弃对（关于南北高铁）政府项目的投资计划。",
-          "url": "https://wallstreetcn.com/livenews/3027419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时22分]"
-        },
-        {
-          "title": "富国证券（Wells Fargo Securities）新兴市场经济学家兼外汇策略师Brendan McKenna指出：由于（圣诞节）假期间波动性较低，且投资者寻求赚取息差（Carry Trade），拉丁美洲货币表现“相当稳健”。",
-          "url": "https://wallstreetcn.com/livenews/3027482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 09时40分]"
-        },
-        {
-          "title": "省吃俭用硬买和经济水平不符的奢侈品（豪车 名表 包）别人并不会高看你，为什么还有很多人这么做呢？",
-          "url": "https://www.zhihu.com/question/1987458356693202217",
-          "source": "知乎",
-          "ranks": [
-            20
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时31分"
+          "time_info": "00时25分"
         }
       ]
     }
