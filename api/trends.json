@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T04:23:06.921719+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2025-12-28T05:18:39.797398+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -17,19 +17,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 05时18分]"
         },
         {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
           "url": "https://www.cls.cn/detail/2241816",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 05时18分]"
         },
         {
           "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
@@ -40,8 +41,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 05时18分]"
         }
       ]
     },
@@ -57,8 +58,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 05时18分]"
         },
         {
           "title": "2025年券商首席经济学家“大换牌”",
@@ -69,8 +70,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 05时18分]"
         }
       ]
     }
