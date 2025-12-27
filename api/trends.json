@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T16:28:08.062581+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2025-12-27T17:22:08.431679+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 16时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时24分 ~ 17时22分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -37,8 +37,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 16时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时24分 ~ 17时22分]"
         },
         {
           "title": "174名北大学生迎特殊考试：对决AI",
@@ -63,11 +63,12 @@
             11,
             13,
             15,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时23分 ~ 16时28分]"
+          "appearance_count": 7,
+          "time_info": "[11时23分 ~ 17时22分]"
         },
         {
           "title": "2025年度AI好用工具",
@@ -90,11 +91,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 16时28分]"
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 17时22分]"
         },
         {
           "title": "科研创新 idea 要不要告诉 AI?",
@@ -127,11 +129,12 @@
           "url": "https://www.zhihu.com/question/1987661697423517255",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 17时22分]"
         },
         {
           "title": "华为Mate 70 Air 16GB内存版开售",
@@ -185,11 +188,12 @@
           "ranks": [
             1,
             3,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 16时28分]"
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 17时22分]"
         },
         {
           "title": "经济学家预测2026年金银价格将爆发",
@@ -217,6 +221,19 @@
           "time_info": "[00时24分 ~ 02时30分]"
         },
         {
+          "title": "担忧物价和经济前景 更多美国人走进二手商店",
+          "url": "https://flash.jin10.com/detail/20251227145700623800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 17时22分]"
+        },
+        {
           "title": "新西兰总理：我们承诺在第一任期内与印度达成自由贸易协定，我们做到了。这项具有里程碑意义的协议意味着更多就业机会、更高收入和更多出口，因为它将为14亿印度消费者敞开大门。",
           "url": "https://flash.jin10.com/detail/20251227090931205800",
           "source": "金十数据",
@@ -240,18 +257,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时24分 ~ 02时30分]"
-        },
-        {
-          "title": "担忧物价和经济前景 更多美国人走进二手商店",
-          "url": "https://flash.jin10.com/detail/20251227145700623800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 16时28分]"
         },
         {
           "title": "越南房地产开发公司Vingroup（VIC.VN）收跌3.23%，报15.3万（越南盾），交易时段内大部分时间延续开盘跌停的状态，尾盘跌幅两度收窄。 本周，该公司股价累计涨幅收窄至4.38%——周一至周三持续上涨（周二至周四处于高位震荡状态）。 周四尾盘，该公司宣布放弃对（关于南北高铁）政府项目的投资计划。",
