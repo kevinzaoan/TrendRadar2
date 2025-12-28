@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T04:23:47.034615+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2025-12-29T05:19:41.449648+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时19分]"
         },
         {
           "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时19分]"
         },
         {
           "title": "宇树 G1 机器人模仿动作测试中，对工程师踢了一脚，为什么会出现这种情况？",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时19分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -49,11 +49,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时19分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -63,8 +64,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时19分]"
         },
         {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
@@ -75,8 +76,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时19分]"
         }
       ]
     },
@@ -92,8 +93,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时19分]"
         },
         {
           "title": "探访人均月收入30元的古巴农村",
@@ -102,11 +103,12 @@
           "ranks": [
             24,
             23,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时29分 ~ 04时23分]"
+          "appearance_count": 5,
+          "time_info": "[02时29分 ~ 05时19分]"
         }
       ]
     }
