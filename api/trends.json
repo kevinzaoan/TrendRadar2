@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T21:30:10.497098+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2025-12-28T22:20:13.168124+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时48分 ~ 21时30分]"
+          "appearance_count": 17,
+          "time_info": "[11时48分 ~ 22时20分]"
         },
         {
           "title": "机器人测试时突然踹工程师一脚",
@@ -60,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时44分 ~ 21时30分]"
+          "appearance_count": 16,
+          "time_info": "[12时44分 ~ 22时20分]"
         },
         {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
@@ -75,8 +75,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时25分 ~ 21时30分]"
+          "appearance_count": 29,
+          "time_info": "[00时25分 ~ 22时20分]"
         },
         {
           "title": "原告出示证据 右下角写着“AI生成”",
@@ -119,6 +119,30 @@
           "time_info": "[07时20分 ~ 14时32分]"
         },
         {
+          "title": "宇树 G1 机器人模仿动作测试中，对工程师踢了一脚，为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/1988539129605091831",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时29分 ~ 22时20分]"
+        },
+        {
+          "title": "2025最全AI成果盘点",
+          "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时18分 ~ 22时20分]"
+        },
+        {
           "title": "小鹏汽车联合北大提出全新视觉Token剪枝框架FastDriveVLA，论文入选国际AI顶会AAAI 2026",
           "url": "https://wallstreetcn.com/livenews/3027613",
           "source": "华尔街见闻-快讯",
@@ -144,30 +168,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时48分 ~ 13时24分]"
-        },
-        {
-          "title": "宇树 G1 机器人模仿动作测试中，对工程师踢了一脚，为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/1988539129605091831",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
-        },
-        {
-          "title": "2025最全AI成果盘点",
-          "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 21时30分]"
         },
         {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
@@ -241,8 +241,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时21分 ~ 21时30分]"
+          "appearance_count": 7,
+          "time_info": "[18时21分 ~ 22时20分]"
         },
         {
           "title": "香港财政司司长陈茂波：明年香港经济可望保持良好势头",
