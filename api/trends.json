@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T02:30:10.708062+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2025-12-29T03:16:39.634562+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时16分]"
         },
         {
           "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
@@ -26,19 +26,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时16分]"
         },
         {
           "title": "2025最全AI成果盘点",
           "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时16分]"
         },
         {
           "title": "宇树 G1 机器人模仿动作测试中，对工程师踢了一脚，为什么会出现这种情况？",
@@ -50,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时16分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -61,19 +62,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时16分]"
         },
         {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
           "url": "https://www.cls.cn/detail/2241816",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时16分]"
         }
       ]
     },
@@ -89,19 +91,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时16分]"
         },
         {
           "title": "探访人均月收入30元的古巴农村",
           "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E8%AE%BF%E4%BA%BA%E5%9D%87%E6%9C%88%E6%94%B6%E5%85%A530%E5%85%83%E7%9A%84%E5%8F%A4%E5%B7%B4%E5%86%9C%E6%9D%91",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 02时30分]"
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 03时16分]"
         }
       ]
     }
