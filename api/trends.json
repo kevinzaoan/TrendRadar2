@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T14:32:15.096415+08:00",
-  "total_titles_processed": 783,
+  "generated_at": "2025-12-28T15:21:03.010567+08:00",
+  "total_titles_processed": 825,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             1,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时52分 ~ 14时32分]"
+          "appearance_count": 9,
+          "time_info": "[09时52分 ~ 15时21分]"
         },
         {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
@@ -43,8 +44,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 14时32分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 15时21分]"
         },
         {
           "title": "原告出示证据 右下角写着“AI生成”",
@@ -58,6 +59,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时52分 ~ 13时24分]"
+        },
+        {
+          "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2241788",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时48分 ~ 15时21分]"
         },
         {
           "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
@@ -87,18 +102,16 @@
           "time_info": "[07时20分 ~ 14时32分]"
         },
         {
-          "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2241788",
-          "source": "财联社热门",
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            7,
-            6,
-            3
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时32分]"
+          "appearance_count": 7,
+          "time_info": "[12时44分 ~ 15时21分]"
         },
         {
           "title": "马斯克1个表情评宇树机器人踹工程师",
@@ -111,17 +124,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时48分 ~ 13时24分]"
-        },
-        {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时44分 ~ 14时32分]"
         },
         {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
@@ -208,22 +210,24 @@
             2,
             4,
             12,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时48分 ~ 14时32分]"
+          "appearance_count": 5,
+          "time_info": "[11时48分 ~ 15时21分]"
         },
         {
           "title": "据英国《金融时报》调查显示，欧元区经济增速预计明年将放缓0.2个百分点，至2026年的1.2%，随后在2027年回升至1.4%。这一预测与欧洲央行工作人员的最新预测基本一致。",
           "url": "https://flash.jin10.com/detail/20251228133052248800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 15时21分]"
         },
         {
           "title": "金银铜现逼空行情，工业贵金属价格长期高位会对经济有多大影响？",
@@ -251,8 +255,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时52分 ~ 14时32分]"
+          "appearance_count": 9,
+          "time_info": "[09时52分 ~ 15时21分]"
         },
         {
           "title": "我国在建海拔最高双曲拱坝电站叶巴滩水电站首批机组投产发电",
@@ -262,11 +266,12 @@
             3,
             5,
             13,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时48分 ~ 14时32分]"
+          "appearance_count": 5,
+          "time_info": "[11时48分 ~ 15时21分]"
         }
       ]
     }
