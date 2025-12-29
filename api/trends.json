@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T04:25:12.688210+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2025-12-30T05:19:56.149702+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 05时19分]"
         },
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 05时19分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -39,11 +39,39 @@
             8,
             13,
             10,
-            9
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 05时19分]"
+        },
+        {
+          "title": "AI应用2026前瞻：豆包千问元宝加速“跑马圈地” AI原生硬件聚焦“真需求”商业化提速",
+          "url": "https://www.cls.cn/detail/2243297",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "time_info": "[01时19分 ~ 05时19分]"
+        },
+        {
+          "title": "用一个字证明自己不是AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AFAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            30,
+            25,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 05时19分]"
         },
         {
           "title": "【焦点复盘】沪指创年内连阳纪录剑指4000点，机器人概念持续火热，锂电池产业链现深幅回调",
@@ -57,42 +85,17 @@
           "time_info": "[00时26分 ~ 01时19分]"
         },
         {
-          "title": "AI应用2026前瞻：豆包千问元宝加速“跑马圈地” AI原生硬件聚焦“真需求”商业化提速",
-          "url": "https://www.cls.cn/detail/2243297",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 04时25分]"
-        },
-        {
-          "title": "用一个字证明自己不是AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AFAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            30,
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 04时25分]"
-        },
-        {
           "title": "“AI教父”拉响警报",
           "url": "https://www.baidu.com/s?wd=%E2%80%9CAI%E6%95%99%E7%88%B6%E2%80%9D%E6%8B%89%E5%93%8D%E8%AD%A6%E6%8A%A5",
           "source": "百度热搜",
           "ranks": [
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时19分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 05时19分]"
         },
         {
           "title": "以色列总理内塔尼亚胡声称：计划让以色列成为人工智能（AI）科技领域的主导者。",
@@ -119,11 +122,12 @@
             25,
             7,
             20,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 05时19分]"
         },
         {
           "title": "或被实施退市风险警示！52亿商业航天概念股预计2025年度扣非净利润为负且营业收入低于3亿元|盘后公告集锦",
@@ -135,8 +139,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 05时19分]"
         },
         {
           "title": "演员闫学晶哭穷引争议，称儿子年收入仅几十万",
@@ -146,8 +150,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 05时19分]"
         },
         {
           "title": "乌称各方商讨顿巴斯“自由经济区”，俄称乌撤军为停战前提",
@@ -174,8 +178,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 05时19分]"
         },
         {
           "title": "现在的零零后都不抽烟，那么若干年后，烟草公司会不会像钢铁，煤炭一样成为夕阳产业？",
