@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T05:19:56.149702+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2025-12-30T06:20:56.414980+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时20分]"
         },
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时20分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -40,11 +40,12 @@
             13,
             10,
             9,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时20分]"
         },
         {
           "title": "AI应用2026前瞻：豆包千问元宝加速“跑马圈地” AI原生硬件聚焦“真需求”商业化提速",
@@ -55,8 +56,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 06时20分]"
         },
         {
           "title": "用一个字证明自己不是AI",
@@ -70,8 +71,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 06时20分]"
         },
         {
           "title": "【焦点复盘】沪指创年内连阳纪录剑指4000点，机器人概念持续火热，锂电池产业链现深幅回调",
@@ -115,6 +116,31 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "或被实施退市风险警示！52亿商业航天概念股预计2025年度扣非净利润为负且营业收入低于3亿元|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2243173",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时20分]"
+        },
+        {
+          "title": "演员闫学晶哭穷引争议，称儿子年收入仅几十万",
+          "url": "https://news.ifeng.com/c/8pU7yyGLJXW",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时20分]"
+        },
+        {
           "title": "2025全球经济概览",
           "url": "https://search.bilibili.com/all?keyword=2025%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E6%A6%82%E8%A7%88",
           "source": "bilibili 热搜",
@@ -124,30 +150,6 @@
             20,
             13,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时19分]"
-        },
-        {
-          "title": "或被实施退市风险警示！52亿商业航天概念股预计2025年度扣非净利润为负且营业收入低于3亿元|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2243173",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时19分]"
-        },
-        {
-          "title": "演员闫学晶哭穷引争议，称儿子年收入仅几十万",
-          "url": "https://news.ifeng.com/c/8pU7yyGLJXW",
-          "source": "凤凰网",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -178,8 +180,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时20分]"
         },
         {
           "title": "现在的零零后都不抽烟，那么若干年后，烟草公司会不会像钢铁，煤炭一样成为夕阳产业？",
