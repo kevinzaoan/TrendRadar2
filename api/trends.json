@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-12-29T07:20:28.376745+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2025-12-29T09:50:40.954639+08:00",
+  "total_titles_processed": 691,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "宇树 G1 机器人模仿动作测试中，对工程师踢了一脚，为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/1988539129605091831",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 09时50分]"
+        },
         {
           "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2241788",
@@ -19,43 +33,31 @@
           "time_info": "[00时25分 ~ 07时20分]"
         },
         {
-          "title": "用一个字证明自己不是AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AFAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
-          "title": "宇树 G1 机器人模仿动作测试中，对工程师踢了一脚，为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/1988539129605091831",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
           "title": "2025最全AI成果盘点",
           "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
           "source": "bilibili 热搜",
           "ranks": [
             3,
             5,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 09时50分]"
+        },
+        {
+          "title": "用一个字证明自己不是AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AFAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 09时50分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -79,12 +81,45 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时25分 ~ 07时20分]"
+        },
+        {
+          "title": "摄影大赛一等奖作品被指AI生成",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%91%84%E5%BD%B1%E5%A4%A7%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%E4%BD%9C%E5%93%81%E8%A2%AB%E6%8C%87AI%E7%94%9F%E6%88%90%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "摄影大赛一等奖作品被质疑用AI生成",
+          "url": "https://www.toutiao.com/trending/7588813154688237622/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "豆神教育推出学伴机器人 首批500台1小时内售罄",
+          "url": "https://wallstreetcn.com/livenews/3027762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "彭博社：中国游客锐减，恐使日本损失超过12亿美元旅游收入",
@@ -113,15 +148,37 @@
           "time_info": "[02时29分 ~ 06时20分]"
         },
         {
+          "title": "深圳“十五五”规划建议：推动房地产投资向保障房和改善性商品房两侧发力",
+          "url": "https://wallstreetcn.com/livenews/3027776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "经济日报：扩大内需与扩大开放并不矛盾",
           "url": "https://wallstreetcn.com/livenews/3027698",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "深圳“十五五”规划建议：推动第六代移动通信、生物制造、具身智能等成为新的经济增长点",
+          "url": "https://wallstreetcn.com/livenews/3027765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         }
       ]
     }
