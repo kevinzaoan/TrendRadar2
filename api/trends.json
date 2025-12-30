@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T14:34:15.153029+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2025-12-30T15:23:15.135193+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
@@ -18,6 +18,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时26分 ~ 07时20分]"
+        },
+        {
+          "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
+          "url": "https://www.zhihu.com/question/1988511175416239504",
+          "source": "知乎",
+          "ranks": [
+            20,
+            9,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时42分 ~ 15时23分]"
         },
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -64,17 +78,18 @@
           "time_info": "[01时19分 ~ 11时29分]"
         },
         {
-          "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
-          "url": "https://www.zhihu.com/question/1988511175416239504",
-          "source": "知乎",
+          "title": "盘点2025年度AI大事件",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
           "ranks": [
-            20,
             9,
-            4
+            4,
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时42分 ~ 14时34分]"
+          "time_info": "[11时28分 ~ 15时23分]"
         },
         {
           "title": "用一个字证明自己不是AI",
@@ -92,17 +107,30 @@
           "time_info": "[01时19分 ~ 06时20分]"
         },
         {
-          "title": "盘点2025年度AI大事件",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
+          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
+          "url": "https://wallstreetcn.com/articles/3762279",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            4,
-            12
+            7,
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时28分 ~ 14时34分]"
+          "time_info": "[13时24分 ~ 15时23分]"
+        },
+        {
+          "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
+          "url": "https://www.cls.cn/detail/2243572",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 15时23分]"
         },
         {
           "title": "【焦点复盘】沪指创年内连阳纪录剑指4000点，机器人概念持续火热，锂电池产业链现深幅回调",
@@ -114,6 +142,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时19分]"
+        },
+        {
+          "title": "AI造假当庭露馅,法官严斥伪造者",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 15时23分]"
         },
         {
           "title": "泰柬与AI如何影响全球经济",
@@ -151,43 +192,6 @@
           "time_info": "07时20分"
         },
         {
-          "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
-          "url": "https://www.cls.cn/detail/2243572",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 14时34分]"
-        },
-        {
-          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
-          "url": "https://wallstreetcn.com/articles/3762279",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 14时34分]"
-        },
-        {
-          "title": "AI造假当庭露馅,法官严斥伪造者",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 14时34分]"
-        },
-        {
           "title": "A股人形机器人概念股午后再度拉升，步科股份涨超18%再创新高，昊志机电涨超10%，万向钱潮直线涨停，鸣志电器、方正电机纷纷拉升。",
           "url": "https://wallstreetcn.com/livenews/3028550",
           "source": "华尔街见闻-快讯",
@@ -198,6 +202,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时25分 ~ 14时34分]"
+        },
+        {
+          "title": "Meta宣布收购AI智能体公司Manus AI智能体商业价值愈发显著",
+          "url": "https://www.cls.cn/detail/2243427",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时33分 ~ 15时23分]"
         },
         {
           "title": "员工因岗位被 AI 替代遭解雇，法院认定构成违法解除劳动合同，怎样解读这一判罚？",
@@ -273,17 +288,6 @@
           "time_info": "[07时19分 ~ 07时20分]"
         },
         {
-          "title": "Meta宣布收购AI智能体公司Manus AI智能体商业价值愈发显著",
-          "url": "https://www.cls.cn/detail/2243427",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 14时34分]"
-        },
-        {
           "title": "人形机器人的2025年：价值验证、资本热潮与十字路口 | 特稿",
           "url": "https://www.cls.cn/detail/2243432",
           "source": "财联社热门",
@@ -293,6 +297,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "A股收盘：沪指日线走出10连阳，机器人概念股集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3028611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "Meta公司首席人工智能官ALEXANDR WANG：很高兴宣布，Manus AI已加入Meta公司，助力我们打造人工智能产品。",
@@ -375,7 +390,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "财政部官宣明年「国补」继续，释放出什么经济信号？对普通人有什么影响？",
@@ -385,8 +400,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时42分 ~ 14时34分]"
+          "appearance_count": 10,
+          "time_info": "[09时42分 ~ 15时23分]"
+        },
+        {
+          "title": "2025中国经济盘点",
+          "url": "https://www.baidu.com/s?wd=2025%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9B%98%E7%82%B9",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 15时23分]"
         },
         {
           "title": "2025全球经济概览",
@@ -401,11 +427,12 @@
             3,
             23,
             10,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 14时34分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 15时23分]"
         },
         {
           "title": "或被实施退市风险警示！52亿商业航天概念股预计2025年度扣非净利润为负且营业收入低于3亿元|盘后公告集锦",
@@ -433,17 +460,6 @@
           "time_info": "[00时26分 ~ 11时29分]"
         },
         {
-          "title": "2025中国经济盘点",
-          "url": "https://www.baidu.com/s?wd=2025%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9B%98%E7%82%B9",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 14时34分]"
-        },
-        {
           "title": "乌称各方商讨顿巴斯“自由经济区”，俄称乌撤军为停战前提",
           "url": "https://news.ifeng.com/c/8pU70l75MM2",
           "source": "凤凰网",
@@ -453,6 +469,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时19分]"
+        },
+        {
+          "title": "日本首相称计划明年夏季前制定提振经济的新战略",
+          "url": "https://wallstreetcn.com/livenews/3028625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "预告：国新办1月5日就长江经济带发展十年工作进展和成效举行新闻发布会",
@@ -487,6 +514,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "日本首相高市早苗：要通过战略融资提高公司收入。",
+          "url": "https://flash.jin10.com/detail/20251230144558216800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "日本首相高市早苗：力求实现经济良性循环并保持强劲增长。",
+          "url": "https://flash.jin10.com/detail/20251230144548388800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         }
       ]
     },
@@ -503,11 +552,12 @@
             19,
             20,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 14时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时26分 ~ 15时23分]"
         },
         {
           "title": "现在的零零后都不抽烟，那么若干年后，烟草公司会不会像钢铁，煤炭一样成为夕阳产业？",
