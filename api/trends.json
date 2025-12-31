@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T00:26:58.033418+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-01T01:19:13.353871+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时19分]"
         },
         {
           "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
@@ -26,8 +26,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时19分]"
+        },
+        {
+          "title": "马斯克没造出的机器人 稚晖君搞定了",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%B2%A1%E9%80%A0%E5%87%BA%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA+%E7%A8%9A%E6%99%96%E5%90%9B%E6%90%9E%E5%AE%9A%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时19分]"
         },
         {
           "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
@@ -37,19 +49,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时19分]"
         },
         {
-          "title": "马斯克没造出的机器人 稚晖君搞定了",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%B2%A1%E9%80%A0%E5%87%BA%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA+%E7%A8%9A%E6%99%96%E5%90%9B%E6%90%9E%E5%AE%9A%E4%BA%86",
-          "source": "百度热搜",
+          "title": "稚晖君发布个人机器人启元Q1",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A8%9A%E6%99%96%E5%90%9B%E5%8F%91%E5%B8%83%E4%B8%AA%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%AF%E5%85%83Q1",
+          "source": "bilibili 热搜",
           "ranks": [
-            14
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 01时19分]"
         },
         {
           "title": "报道：英伟达正投资布鲁克菲尔德AI基础设施基金",
@@ -76,19 +88,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时19分]"
         },
         {
           "title": "高市闯大祸,日本经济被印度反超",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348598&amp;topic_name=%E9%AB%98%E5%B8%82%E9%97%AF%E5%A4%A7%E7%A5%B8%2C%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E8%A2%AB%E5%8D%B0%E5%BA%A6%E5%8F%8D%E8%B6%85",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时19分]"
         }
       ]
     }
