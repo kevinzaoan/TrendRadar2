@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T06:21:26.233846+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-01-02T07:21:09.472178+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -148,8 +148,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "高市闯大祸,日本经济被印度反超",
@@ -159,8 +159,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "据土耳其阿纳多卢通讯社：土耳其将可持续增长和抗通胀作为新的一年主要的经济议程项目，同时该国还致力于在2026年举办国际贸易活动。",
@@ -212,7 +212,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         }
