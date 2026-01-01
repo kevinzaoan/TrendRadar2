@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-01-01T14:34:09.993815+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2026-01-01T15:24:06.088578+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
       "match_count": 19,
       "titles": [
+        {
+          "title": "AI魔改翻车!广电出手救名著",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%21%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时51分 ~ 15时24分]"
+        },
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
           "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
@@ -56,20 +70,6 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
-          "title": "AI魔改翻车!广电出手救名著",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%21%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时51分 ~ 14时34分]"
-        },
-        {
           "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
           "url": "https://wallstreetcn.com/articles/3762366",
           "source": "华尔街见闻",
@@ -79,8 +79,57 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时52分 ~ 14时34分]"
+          "appearance_count": 9,
+          "time_info": "[09时52分 ~ 15时24分]"
+        },
+        {
+          "title": "“AI教父”警告：AI显现自我保护迹象，人类应做好“拔掉插头”的准备",
+          "url": "https://www.cls.cn/detail/2245960",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时52分 ~ 15时24分]"
+        },
+        {
+          "title": "给AI内容“卸妆” 一眼辨真伪",
+          "url": "https://www.toutiao.com/trending/7589768798652514310/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时52分 ~ 15时24分]"
+        },
+        {
+          "title": "跨年晚会最忙的“人”是机器人",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E6%9C%80%E5%BF%99%E7%9A%84%E2%80%9C%E4%BA%BA%E2%80%9D%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            10,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时51分 ~ 15时24分]"
+        },
+        {
+          "title": "给AI内容“卸妆” 一眼辨真伪",
+          "url": "https://www.baidu.com/s?wd=%E7%BB%99AI%E5%86%85%E5%AE%B9%E2%80%9C%E5%8D%B8%E5%A6%86%E2%80%9D+%E4%B8%80%E7%9C%BC%E8%BE%A8%E7%9C%9F%E4%BC%AA",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时51分 ~ 15时24分]"
         },
         {
           "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
@@ -96,52 +145,16 @@
           "time_info": "[09时52分 ~ 14时34分]"
         },
         {
-          "title": "“AI教父”警告：AI显现自我保护迹象，人类应做好“拔掉插头”的准备",
-          "url": "https://www.cls.cn/detail/2245960",
+          "title": "展望半导体2026三大关键词：存储、AI、国产化",
+          "url": "https://www.cls.cn/detail/2245258",
           "source": "财联社热门",
           "ranks": [
-            11,
             9,
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时52分 ~ 14时34分]"
-        },
-        {
-          "title": "给AI内容“卸妆” 一眼辨真伪",
-          "url": "https://www.toutiao.com/trending/7589768798652514310/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时52分 ~ 14时34分]"
-        },
-        {
-          "title": "跨年晚会最忙的“人”是机器人",
-          "url": "https://www.baidu.com/s?wd=%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E6%9C%80%E5%BF%99%E7%9A%84%E2%80%9C%E4%BA%BA%E2%80%9D%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时51分 ~ 14时34分]"
-        },
-        {
-          "title": "给AI内容“卸妆” 一眼辨真伪",
-          "url": "https://www.baidu.com/s?wd=%E7%BB%99AI%E5%86%85%E5%AE%B9%E2%80%9C%E5%8D%B8%E5%A6%86%E2%80%9D+%E4%B8%80%E7%9C%BC%E8%BE%A8%E7%9C%9F%E4%BC%AA",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时51分 ~ 14时34分]"
+          "appearance_count": 4,
+          "time_info": "[14时33分 ~ 15时24分]"
         },
         {
           "title": "明查｜不是AI！这是贵州“荒山再利用”光伏项目",
@@ -154,6 +167,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时20分 ~ 09时52分]"
+        },
+        {
+          "title": "你认为机器人一定要做成人形吗",
+          "url": "https://www.toutiao.com/trending/7589921178010697778/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时33分 ~ 15时24分]"
         },
         {
           "title": "法国总统马克龙：呼吁欧洲在AI和量子计算技术领域实现独立。",
@@ -180,17 +205,6 @@
           "time_info": "[14时33分 ~ 14时34分]"
         },
         {
-          "title": "展望半导体2026三大关键词：存储、AI、国产化",
-          "url": "https://www.cls.cn/detail/2245258",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 14时34分]"
-        },
-        {
           "title": "稚晖君发布个人机器人启元Q1",
           "url": "https://search.bilibili.com/all?keyword=%E7%A8%9A%E6%99%96%E5%90%9B%E5%8F%91%E5%B8%83%E4%B8%AA%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%AF%E5%85%83Q1",
           "source": "bilibili 热搜",
@@ -200,17 +214,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 01时19分]"
-        },
-        {
-          "title": "你认为机器人一定要做成人形吗",
-          "url": "https://www.toutiao.com/trending/7589921178010697778/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 14时34分]"
         },
         {
           "title": "宇树人形机器人回应AI是否存在泡沫",
@@ -238,7 +241,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "印度宣布经济已超日本，成为全球第四经济体，如何评价？数据可靠吗？",
@@ -265,8 +268,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 14时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时26分 ~ 15时24分]"
+        },
+        {
+          "title": "我国经济总量预计140万亿元",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%80%BB%E9%87%8F%E9%A2%84%E8%AE%A1140%E4%B8%87%E4%BA%BF%E5%85%83%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 15时24分]"
         },
         {
           "title": "美国特使威特科夫：还就乌克兰经济援助计划展开讨论。",
@@ -299,11 +313,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            11
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 14时34分]"
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 15时24分]"
         },
         {
           "title": "澳门12月幸运博彩毛收入同比增长14.8%; 预估为增长18.0%；澳门1-12月份幸运博彩毛收入同比增长9.1%。",
@@ -311,11 +326,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 14时34分]"
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 15时24分]"
         },
         {
           "title": "《天津市民营经济促进条例》今起施行",
