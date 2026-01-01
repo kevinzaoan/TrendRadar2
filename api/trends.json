@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T20:43:07.306734+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2026-01-01T21:34:38.283079+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时33分 ~ 20时43分]"
+          "appearance_count": 12,
+          "time_info": "[14时33分 ~ 21时34分]"
         },
         {
           "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
@@ -93,8 +94,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时51分 ~ 20时43分]"
+          "appearance_count": 16,
+          "time_info": "[11时51分 ~ 21时34分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -104,8 +105,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时52分 ~ 20时43分]"
+          "appearance_count": 17,
+          "time_info": "[09时52分 ~ 21时34分]"
         },
         {
           "title": "马斯克没造出的机器人 稚晖君搞定了",
@@ -175,28 +176,30 @@
           "time_info": "[09时52分 ~ 14时34分]"
         },
         {
-          "title": "机器人都会舞狮了",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%83%BD%E4%BC%9A%E8%88%9E%E7%8B%AE%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 20时43分]"
-        },
-        {
           "title": "AI魔改翻车,广电出手救名著",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%2C%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
           "source": "贴吧",
           "ranks": [
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时26分 ~ 20时43分]"
+          "appearance_count": 7,
+          "time_info": "[17时26分 ~ 21时34分]"
+        },
+        {
+          "title": "机器人都会舞狮了",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%83%BD%E4%BC%9A%E8%88%9E%E7%8B%AE%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 21时34分]"
         },
         {
           "title": "明查｜不是AI！这是贵州“荒山再利用”光伏项目",
@@ -310,11 +313,38 @@
             22,
             23,
             24,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时26分 ~ 20时43分]"
+          "appearance_count": 29,
+          "time_info": "[00时26分 ~ 21时34分]"
+        },
+        {
+          "title": "“中方拒绝见面”，日本经济界代表团访华计划延期",
+          "url": "https://news.ifeng.com/c/8pYopNgfBOU",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时29分 ~ 21时34分]"
+        },
+        {
+          "title": "美团众包骑手开启「分配抢单」模式，「拼手速」时代宣告终结，怎样看待这一调整？对骑手收入有哪些影响？",
+          "url": "https://www.zhihu.com/question/1983985629919457281",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时29分 ~ 21时34分]"
         },
         {
           "title": "我国经济总量预计140万亿元",
@@ -326,31 +356,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时23分 ~ 16时29分]"
-        },
-        {
-          "title": "“中方拒绝见面”，日本经济界代表团访华计划延期",
-          "url": "https://news.ifeng.com/c/8pYopNgfBOU",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时29分 ~ 20时43分]"
-        },
-        {
-          "title": "美团众包骑手开启「分配抢单」模式，「拼手速」时代宣告终结，怎样看待这一调整？对骑手收入有哪些影响？",
-          "url": "https://www.zhihu.com/question/1983985629919457281",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时29分 ~ 20时43分]"
         },
         {
           "title": "澳门12月幸运博彩毛收入同比增长14.8%; 预估为增长18.0%；澳门1-12月份幸运博彩毛收入同比增长9.1%。",
