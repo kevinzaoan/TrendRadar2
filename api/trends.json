@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T19:19:27.292687+08:00",
-  "total_titles_processed": 1337,
+  "generated_at": "2026-01-02T20:41:49.339285+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑",
@@ -31,8 +31,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时27分 ~ 19时19分]"
+          "appearance_count": 25,
+          "time_info": "[00时27分 ~ 20时41分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -44,8 +44,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时44分 ~ 19时19分]"
+          "appearance_count": 15,
+          "time_info": "[09时44分 ~ 20时41分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -56,11 +56,12 @@
             17,
             18,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时27分 ~ 19时19分]"
+          "appearance_count": 25,
+          "time_info": "[00时27分 ~ 20时41分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -131,6 +132,32 @@
           "time_info": "[11时40分 ~ 11时41分]"
         },
         {
+          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
+          "url": "https://wallstreetcn.com/articles/3762439",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时29分 ~ 20时41分]"
+        },
+        {
+          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
+          "url": "https://wallstreetcn.com/articles/3762451",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 20时41分]"
+        },
+        {
           "title": "三星旗下的IT服务与云服务子公司SDS：将投入4270亿韩元在韩国建设AI数据中心。",
           "url": "https://flash.jin10.com/detail/20260102161552396800",
           "source": "金十数据",
@@ -157,18 +184,6 @@
           "time_info": "[00时28分 ~ 03时18分]"
         },
         {
-          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
-          "url": "https://wallstreetcn.com/articles/3762439",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时29分 ~ 19时19分]"
-        },
-        {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
           "url": "https://flash.jin10.com/detail/20260101230736481800",
           "source": "金十数据",
@@ -193,18 +208,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时40分 ~ 15时24分]"
-        },
-        {
-          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
-          "url": "https://wallstreetcn.com/articles/3762451",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 19时19分]"
         },
         {
           "title": "年度比较火的「十大 AI 工具」，都有哪些啊？",
@@ -262,12 +265,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "又一AI芯片企业加入上市潮！百度官宣昆仑芯已秘密赴港IPO",
+          "url": "https://www.cls.cn/detail/2246292",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美团众包骑手开启「分配抢单」模式，「拼手速」时代宣告终结，怎样看待这一调整？对骑手收入有哪些影响？",
@@ -362,6 +376,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时34分 ~ 15时24分]"
+        },
+        {
+          "title": "随着停火希望依然渺茫，与经济增长挂钩的乌克兰国际债券价格下跌近3美分，2036年到期债券报价53.48美分。",
+          "url": "https://flash.jin10.com/detail/20260102201216675800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "韩国央行行长李昌镛：将审视韩国央行对未来利率路径的前瞻性指引政策，美元兑韩元汇率在1400点位的高位似乎与韩国经济的基本面相去甚远。",
