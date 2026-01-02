@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T20:41:49.339285+08:00",
-  "total_titles_processed": 1431,
+  "generated_at": "2026-01-02T21:33:29.565964+08:00",
+  "total_titles_processed": 1502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑",
@@ -28,11 +28,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时27分 ~ 20时41分]"
+          "appearance_count": 26,
+          "time_info": "[00时27分 ~ 21时33分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -41,11 +42,12 @@
           "ranks": [
             10,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时44分 ~ 20时41分]"
+          "appearance_count": 16,
+          "time_info": "[09时44分 ~ 21时33分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -60,8 +62,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时27分 ~ 20时41分]"
+          "appearance_count": 26,
+          "time_info": "[00时27分 ~ 21时33分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -141,8 +143,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时29分 ~ 20时41分]"
+          "appearance_count": 6,
+          "time_info": "[16时29分 ~ 21时33分]"
         },
         {
           "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
@@ -151,11 +153,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 20时41分]"
+          "appearance_count": 5,
+          "time_info": "[17时25分 ~ 21时33分]"
         },
         {
           "title": "三星旗下的IT服务与云服务子公司SDS：将投入4270亿韩元在韩国建设AI数据中心。",
@@ -234,6 +237,17 @@
           "time_info": "[09时44分 ~ 11时41分]"
         },
         {
+          "title": "又一AI芯片企业加入上市潮！百度官宣昆仑芯已秘密赴港IPO",
+          "url": "https://www.cls.cn/detail/2246292",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时33分]"
+        },
+        {
           "title": "你认为机器人一定要做成人形吗",
           "url": "https://www.toutiao.com/trending/7589921178010697778/",
           "source": "今日头条",
@@ -256,6 +270,17 @@
           "time_info": "15时24分"
         },
         {
+          "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
+          "url": "https://wallstreetcn.com/articles/3762454",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "稚晖君发布个人机器人启元Q1",
           "url": "https://search.bilibili.com/all?keyword=%E7%A8%9A%E6%99%96%E5%90%9B%E5%8F%91%E5%B8%83%E4%B8%AA%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%AF%E5%85%83Q1",
           "source": "bilibili 热搜",
@@ -265,17 +290,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
-        },
-        {
-          "title": "又一AI芯片企业加入上市潮！百度官宣昆仑芯已秘密赴港IPO",
-          "url": "https://www.cls.cn/detail/2246292",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
         }
       ]
     },
@@ -366,6 +380,18 @@
           "time_info": "[15时24分 ~ 16时29分]"
         },
         {
+          "title": "随着停火希望依然渺茫，与经济增长挂钩的乌克兰国际债券价格下跌近3美分，2036年到期债券报价53.48美分。",
+          "url": "https://flash.jin10.com/detail/20260102201216675800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时33分]"
+        },
+        {
           "title": "《求是》杂志特约评论员：改善和稳定房地产市场预期",
           "url": "https://wallstreetcn.com/livenews/3029741",
           "source": "华尔街见闻-快讯",
@@ -376,17 +402,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时34分 ~ 15时24分]"
-        },
-        {
-          "title": "随着停火希望依然渺茫，与经济增长挂钩的乌克兰国际债券价格下跌近3美分，2036年到期债券报价53.48美分。",
-          "url": "https://flash.jin10.com/detail/20260102201216675800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
         },
         {
           "title": "韩国央行行长李昌镛：将审视韩国央行对未来利率路径的前瞻性指引政策，美元兑韩元汇率在1400点位的高位似乎与韩国经济的基本面相去甚远。",
