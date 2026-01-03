@@ -1,27 +1,12 @@
 {
-  "generated_at": "2026-01-04T06:20:17.760710+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-01-04T07:20:21.156855+08:00",
+  "total_titles_processed": 599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
       "match_count": 5,
       "titles": [
-        {
-          "title": "美食博主手搓对抗AI的一年",
-          "url": "https://www.douyin.com/hot/2356059",
-          "source": "抖音",
-          "ranks": [
-            2,
-            4,
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 06时20分]"
-        },
         {
           "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
           "url": "https://wallstreetcn.com/articles/3762468",
@@ -31,8 +16,24 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 07时20分]"
+        },
+        {
+          "title": "美食博主手搓对抗AI的一年",
+          "url": "https://www.douyin.com/hot/2356059",
+          "source": "抖音",
+          "ranks": [
+            2,
+            4,
+            5,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 07时20分]"
         },
         {
           "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
@@ -43,8 +44,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 07时20分]"
         },
         {
           "title": "参谋长联席会议主席Caine上将：美方动用超过150架飞机实施袭击委内瑞拉的行动。",
@@ -84,8 +85,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时22分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[04时22分 ~ 07时20分]"
         },
         {
           "title": "美联储保尔森：经济基准前景“相当良性”。",
@@ -96,8 +97,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时22分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[04时22分 ~ 07时20分]"
         },
         {
           "title": "美联储保尔森：在经济形势良好情况下，美联储今年晚些时候可能再次降息。",
@@ -108,8 +109,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时22分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[04时22分 ~ 07时20分]"
         }
       ]
     }
