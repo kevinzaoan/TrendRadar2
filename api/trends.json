@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T21:31:41.730486+08:00",
-  "total_titles_processed": 1500,
+  "generated_at": "2026-01-04T22:19:40.028008+08:00",
+  "total_titles_processed": 1545,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
@@ -93,6 +93,20 @@
           "time_info": "[00时24分 ~ 09时53分]"
         },
         {
+          "title": "腾讯回应元宝AI辱骂用户",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82%E7%94%A8%E6%88%B7%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            15,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时17分 ~ 22时19分]"
+        },
+        {
           "title": "参谋长联席会议主席Caine上将：美方动用超过150架飞机实施袭击委内瑞拉的行动。",
           "url": "https://wallstreetcn.com/livenews/3030130",
           "source": "华尔街见闻-快讯",
@@ -104,17 +118,17 @@
           "time_info": "01时19分"
         },
         {
-          "title": "腾讯回应元宝AI辱骂用户",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82%E7%94%A8%E6%88%B7%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
+          "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",
+          "url": "https://wallstreetcn.com/livenews/3030322",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25,
-            15,
+            1,
+            10,
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时17分 ~ 21时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时19分]"
         },
         {
           "title": "有网友称收到苹果AI国行版升级通知，官方回应",
@@ -130,16 +144,16 @@
           "time_info": "[17时20分 ~ 19时18分]"
         },
         {
-          "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",
-          "url": "https://wallstreetcn.com/livenews/3030322",
-          "source": "华尔街见闻-快讯",
+          "title": "宇树机器人空翻踢爆西瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BA%E7%BF%BB%E8%B8%A2%E7%88%86%E8%A5%BF%E7%93%9C",
+          "source": "bilibili 热搜",
           "ranks": [
-            1,
-            10
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时31分]"
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时19分]"
         },
         {
           "title": "AI如何让闪迪成为股王",
@@ -155,15 +169,17 @@
           "time_info": "[09时53分 ~ 18时21分]"
         },
         {
-          "title": "宇树机器人空翻踢爆西瓜",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BA%E7%BF%BB%E8%B8%A2%E7%88%86%E8%A5%BF%E7%93%9C",
-          "source": "bilibili 热搜",
+          "title": "农业机器人迎政策暖风，多地布局差异化路径，企业探索技术、标准出海",
+          "url": "https://www.cls.cn/detail/2246888",
+          "source": "财联社热门",
           "ranks": [
-            6
+            12,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 21时31分]"
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时19分]"
         },
         {
           "title": "国行版AI上线了？苹果回应",
@@ -191,28 +207,17 @@
           "time_info": "[09时53分 ~ 11时52分]"
         },
         {
-          "title": "农业机器人迎政策暖风，多地布局差异化路径，企业探索技术、标准出海",
-          "url": "https://www.cls.cn/detail/2246888",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 21时31分]"
-        },
-        {
           "title": "宇树发布人形机器人H2日常训练视频",
           "url": "https://wallstreetcn.com/livenews/3030312",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时19分]"
         },
         {
           "title": "全国首张具身机器人“保险+租赁”保单落地",
@@ -259,6 +264,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "宇树机器人这一年：钱很多 心很急",
+          "url": "https://www.toutiao.com/trending/7591443851877813766/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         }
       ]
     },
@@ -272,11 +288,26 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时17分 ~ 21时31分]"
+          "appearance_count": 6,
+          "time_info": "[19时17分 ~ 22时19分]"
+        },
+        {
+          "title": "上海：到2028年上海低空经济核心产业规模达到800亿元左右 形成低空新型航空器完整产业链体系",
+          "url": "https://www.cls.cn/detail/2247066",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时17分 ~ 22时19分]"
         },
         {
           "title": "美联储保尔森：美联储政策对经济活动“略显紧缩”。",
@@ -289,19 +320,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时22分 ~ 07时20分]"
-        },
-        {
-          "title": "上海：到2028年上海低空经济核心产业规模达到800亿元左右 形成低空新型航空器完整产业链体系",
-          "url": "https://www.cls.cn/detail/2247066",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时17分 ~ 21时31分]"
         },
         {
           "title": "美联储保尔森：经济基准前景“相当良性”。",
@@ -373,11 +391,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时19分]"
         }
       ]
     }
