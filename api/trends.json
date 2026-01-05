@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T15:31:12.149691+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-01-05T16:34:08.604563+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "网传元宝 AI 辱骂用户，腾讯称是模型异常输出，非人工回复，技术上如何分析？其他 AI 也可能这样吗？",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时52分 ~ 15时31分]"
+          "appearance_count": 11,
+          "time_info": "[09时52分 ~ 16时34分]"
         },
         {
           "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
@@ -56,11 +56,12 @@
             6,
             8,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 15时31分]"
+          "appearance_count": 21,
+          "time_info": "[00时24分 ~ 16时34分]"
         },
         {
           "title": "农业机器人迎政策暖风，多地布局差异化路径，企业探索技术、标准出海",
@@ -89,6 +90,18 @@
           "time_info": "[00时24分 ~ 07时22分]"
         },
         {
+          "title": "2026年AI主线已清晰：算力打底、手机破局，四大爆点就位",
+          "url": "https://wallstreetcn.com/articles/3762504",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时56分 ~ 16时34分]"
+        },
+        {
           "title": "宇树机器人H2腾空侧踢吓退王兴兴",
           "url": "https://www.toutiao.com/trending/7591130254992261139/",
           "source": "今日头条",
@@ -102,15 +115,29 @@
           "time_info": "[02时29分 ~ 07时22分]"
         },
         {
-          "title": "2026年AI主线已清晰：算力打底、手机破局，四大爆点就位",
-          "url": "https://wallstreetcn.com/articles/3762504",
-          "source": "华尔街见闻",
+          "title": "AI说啥我穿啥",
+          "url": "https://www.douyin.com/hot/2357791",
+          "source": "抖音",
           "ranks": [
-            9
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时56分 ~ 15时31分]"
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 16时34分]"
+        },
+        {
+          "title": "从AI新能源与游戏看中国式现代化",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8EAI%E6%96%B0%E8%83%BD%E6%BA%90%E4%B8%8E%E6%B8%B8%E6%88%8F%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            23,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时58分 ~ 16时34分]"
         },
         {
           "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",
@@ -124,15 +151,15 @@
           "time_info": "[00时24分 ~ 06时20分]"
         },
         {
-          "title": "AI说啥我穿啥",
-          "url": "https://www.douyin.com/hot/2357791",
-          "source": "抖音",
+          "title": "当AI遇上3D泰坦尼克号动画",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93AI%E9%81%87%E4%B8%8A3D%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E5%8A%A8%E7%94%BB",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时31分]"
+          "time_info": "[16时33分 ~ 16时34分]"
         },
         {
           "title": "微信发布AI小程序成长计划",
@@ -159,18 +186,28 @@
           "time_info": "[09时52分 ~ 13时39分]"
         },
         {
-          "title": "从AI新能源与游戏看中国式现代化",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8EAI%E6%96%B0%E8%83%BD%E6%BA%90%E4%B8%8E%E6%B8%B8%E6%88%8F%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96",
-          "source": "bilibili 热搜",
+          "title": "鸿海：2025年12月销售额8,628.6亿元台币，环比增长2.20%，同比增长31.77％。 2025年第四季度营收同比增长22.07%。 2026年第一季ICT产品进入传统淡季，而AI机柜出货持续放量。",
+          "url": "https://wallstreetcn.com/livenews/3030711",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22,
-            23,
-            19,
-            29
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "宇树人形机器人H2训练视频曝光：腾空侧踢吓退王兴兴",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32316977",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时58分 ~ 15时31分]"
+          "appearance_count": 5,
+          "time_info": "[14时39分 ~ 16时34分]"
         },
         {
           "title": "腾讯启动AI小程序成长计划",
@@ -196,18 +233,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时39分 ~ 14时39分]"
-        },
-        {
-          "title": "宇树人形机器人H2训练视频曝光：腾空侧踢吓退王兴兴",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32316977",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时39分 ~ 15时31分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -250,7 +275,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -269,7 +294,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "大外交｜韩国各大财团掌门人全数出动随总统访华 ，专家：从经济上重新认识中国",
@@ -279,8 +304,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 15时31分]"
+          "appearance_count": 21,
+          "time_info": "[00时24分 ~ 16时34分]"
         },
         {
           "title": "【早报】韩国总统李在明访华；事关低空经济，上海发文",
@@ -316,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "越南第四季度经济增长超预期",
+          "url": "https://flash.jin10.com/detail/20260105162003276800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "菲律宾经济部长：维持2028年6%-7%的GDP增长目标。",
@@ -499,7 +535,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -513,6 +549,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
+        },
+        {
+          "title": "惠而浦：预计2025年净利润5.05亿元左右，同比增加150%左右；报告期内，订单增加，主营业务收入同比增长。",
+          "url": "https://wallstreetcn.com/livenews/3030673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         }
       ]
     }
