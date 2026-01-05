@@ -1,300 +1,11 @@
 {
-  "generated_at": "2026-01-05T16:34:08.604563+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2026-01-05T17:32:44.438596+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "github AI 机器人",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "网传元宝 AI 辱骂用户，腾讯称是模型异常输出，非人工回复，技术上如何分析？其他 AI 也可能这样吗？",
-          "url": "https://www.zhihu.com/question/1991228705045968330",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时52分 ~ 16时34分]"
-        },
-        {
-          "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
-          "url": "https://wallstreetcn.com/articles/3762500",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时29分 ~ 13时39分]"
-        },
-        {
-          "title": "年度抽象AI作品Top10",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B4%E5%BA%A6%E6%8A%BD%E8%B1%A1AI%E4%BD%9C%E5%93%81Top10",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            9,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 13时39分]"
-        },
-        {
-          "title": "宇树机器人空翻踢爆西瓜",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BA%E7%BF%BB%E8%B8%A2%E7%88%86%E8%A5%BF%E7%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            6,
-            8,
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 16时34分]"
-        },
-        {
-          "title": "农业机器人迎政策暖风，多地布局差异化路径，企业探索技术、标准出海",
-          "url": "https://www.cls.cn/detail/2246888",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时22分]"
-        },
-        {
-          "title": "腾讯回应用户被元宝AI辱骂",
-          "url": "https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E7%94%A8%E6%88%B7%E8%A2%AB%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            18,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时22分]"
-        },
-        {
-          "title": "2026年AI主线已清晰：算力打底、手机破局，四大爆点就位",
-          "url": "https://wallstreetcn.com/articles/3762504",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时56分 ~ 16时34分]"
-        },
-        {
-          "title": "宇树机器人H2腾空侧踢吓退王兴兴",
-          "url": "https://www.toutiao.com/trending/7591130254992261139/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            30,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时29分 ~ 07时22分]"
-        },
-        {
-          "title": "AI说啥我穿啥",
-          "url": "https://www.douyin.com/hot/2357791",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时29分 ~ 16时34分]"
-        },
-        {
-          "title": "从AI新能源与游戏看中国式现代化",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8EAI%E6%96%B0%E8%83%BD%E6%BA%90%E4%B8%8E%E6%B8%B8%E6%88%8F%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            23,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时58分 ~ 16时34分]"
-        },
-        {
-          "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",
-          "url": "https://wallstreetcn.com/livenews/3030322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 06时20分]"
-        },
-        {
-          "title": "当AI遇上3D泰坦尼克号动画",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93AI%E9%81%87%E4%B8%8A3D%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E5%8A%A8%E7%94%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
-        },
-        {
-          "title": "微信发布AI小程序成长计划",
-          "url": "https://wallstreetcn.com/livenews/3030590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时39分"
-        },
-        {
-          "title": "AI应用风向标来了？CES+通义硬件展即将举行 这些品牌有望吸睛",
-          "url": "https://www.cls.cn/detail/2247232",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 13时39分]"
-        },
-        {
-          "title": "鸿海：2025年12月销售额8,628.6亿元台币，环比增长2.20%，同比增长31.77％。 2025年第四季度营收同比增长22.07%。 2026年第一季ICT产品进入传统淡季，而AI机柜出货持续放量。",
-          "url": "https://wallstreetcn.com/livenews/3030711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "宇树人形机器人H2训练视频曝光：腾空侧踢吓退王兴兴",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32316977",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时39分 ~ 16时34分]"
-        },
-        {
-          "title": "腾讯启动AI小程序成长计划",
-          "url": "https://wallstreetcn.com/livenews/3030544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 13时39分]"
-        },
-        {
-          "title": "智元机器人与MiniMax达成合作，全模态AI加速落地机器人应用",
-          "url": "https://wallstreetcn.com/livenews/3030589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时39分 ~ 14时39分]"
-        },
-        {
-          "title": "B站AI大赛开始了",
-          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E5%BC%80%E5%A7%8B%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时31分]"
-        },
-        {
-          "title": "A股AI应用方向午后拉升，蓝色光标涨超15%，风语筑、博瑞传播、科德教育、昆仑万维等纷纷跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3030584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时39分 ~ 14时39分]"
-        },
-        {
-          "title": "AI催生存储价格狂飙！日韩股市齐创新高，三星涨近5%、SK海力士涨近3%",
-          "url": "https://wallstreetcn.com/articles/3762525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "字节“豆包”AI眼镜即将进入出货阶段，起步价预计控制在2000元以内",
-          "url": "https://wallstreetcn.com/livenews/3030637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
-          "title": "央视点名AI魔改乱象",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E7%82%B9%E5%90%8DAI%E9%AD%94%E6%94%B9%E4%B9%B1%E8%B1%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "大外交｜韩国各大财团掌门人全数出动随总统访华 ，专家：从经济上重新认识中国",
@@ -349,9 +60,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "三星和SK海力士寻求将服务器DRAM价格最高上涨70%。（韩国经济日报）",
+          "url": "https://wallstreetcn.com/livenews/3030762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "五个故事看长江经济带十年非凡成就",
+          "url": "https://www.toutiao.com/trending/7590927795098959908/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "长江经济带交出发展十年亮丽答卷",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B1%9F%E7%BB%8F%E6%B5%8E%E5%B8%A6%E4%BA%A4%E5%87%BA%E5%8F%91%E5%B1%95%E5%8D%81%E5%B9%B4%E4%BA%AE%E4%B8%BD%E7%AD%94%E5%8D%B7%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "菲律宾经济部长：维持2028年6%-7%的GDP增长目标。",
@@ -507,6 +251,17 @@
           "time_info": "14时39分"
         },
         {
+          "title": "牧原股份：12月份，公司销售商品猪698.0万头，同比变动-14.75%；商品猪销售均价11.41元/公斤，同比变动-25.38%。商品猪销售收入96.67亿元，同比变动-36.06%。",
+          "url": "https://wallstreetcn.com/livenews/3030748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "高盛拟为日本房地产基金募集5亿美元",
           "url": "https://flash.jin10.com/detail/20260105125850731800",
           "source": "金十数据",
@@ -557,9 +312,315 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "github AI 机器人",
+      "match_count": 24,
+      "titles": [
+        {
+          "title": "网传元宝 AI 辱骂用户，腾讯称是模型异常输出，非人工回复，技术上如何分析？其他 AI 也可能这样吗？",
+          "url": "https://www.zhihu.com/question/1991228705045968330",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时52分 ~ 17时32分]"
+        },
+        {
+          "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
+          "url": "https://wallstreetcn.com/articles/3762500",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[02时29分 ~ 13时39分]"
+        },
+        {
+          "title": "年度抽象AI作品Top10",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B4%E5%BA%A6%E6%8A%BD%E8%B1%A1AI%E4%BD%9C%E5%93%81Top10",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            9,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 13时39分]"
+        },
+        {
+          "title": "宇树机器人空翻踢爆西瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BA%E7%BF%BB%E8%B8%A2%E7%88%86%E8%A5%BF%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            6,
+            8,
+            9,
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时24分 ~ 17时32分]"
+        },
+        {
+          "title": "农业机器人迎政策暖风，多地布局差异化路径，企业探索技术、标准出海",
+          "url": "https://www.cls.cn/detail/2246888",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时22分]"
+        },
+        {
+          "title": "腾讯回应用户被元宝AI辱骂",
+          "url": "https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E7%94%A8%E6%88%B7%E8%A2%AB%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            18,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时22分]"
+        },
+        {
+          "title": "2026年AI主线已清晰：算力打底、手机破局，四大爆点就位",
+          "url": "https://wallstreetcn.com/articles/3762504",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时56分 ~ 16时34分]"
+        },
+        {
+          "title": "宇树机器人H2腾空侧踢吓退王兴兴",
+          "url": "https://www.toutiao.com/trending/7591130254992261139/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            30,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时29分 ~ 07时22分]"
+        },
+        {
+          "title": "从AI新能源与游戏看中国式现代化",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8EAI%E6%96%B0%E8%83%BD%E6%BA%90%E4%B8%8E%E6%B8%B8%E6%88%8F%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            23,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时58分 ~ 16时34分]"
+        },
+        {
+          "title": "宇树人形机器人H2训练视频曝光：腾空侧踢吓退王兴兴",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32316977",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时39分 ~ 17时32分]"
+        },
+        {
+          "title": "AI说啥我穿啥",
+          "url": "https://www.douyin.com/hot/2357791",
+          "source": "抖音",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时29分 ~ 17时32分]"
+        },
+        {
+          "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",
+          "url": "https://wallstreetcn.com/livenews/3030322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时20分]"
+        },
+        {
+          "title": "微信发布AI小程序成长计划",
+          "url": "https://wallstreetcn.com/livenews/3030590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "AI应用风向标来了？CES+通义硬件展即将举行 这些品牌有望吸睛",
+          "url": "https://www.cls.cn/detail/2247232",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 13时39分]"
+        },
+        {
+          "title": "当AI遇上3D泰坦尼克号动画",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93AI%E9%81%87%E4%B8%8A3D%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E5%8A%A8%E7%94%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 17时32分]"
+        },
+        {
+          "title": "腾讯启动AI小程序成长计划",
+          "url": "https://wallstreetcn.com/livenews/3030544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 13时39分]"
+        },
+        {
+          "title": "智元机器人与MiniMax达成合作，全模态AI加速落地机器人应用",
+          "url": "https://wallstreetcn.com/livenews/3030589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 14时39分]"
+        },
+        {
+          "title": "鸿海：2025年12月销售额8,628.6亿元台币，环比增长2.20%，同比增长31.77％。 2025年第四季度营收同比增长22.07%。 2026年第一季ICT产品进入传统淡季，而AI机柜出货持续放量。",
+          "url": "https://wallstreetcn.com/livenews/3030711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时32分]"
+        },
+        {
+          "title": "B站AI大赛开始了",
+          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E5%BC%80%E5%A7%8B%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时31分]"
+        },
+        {
+          "title": "A股AI应用方向午后拉升，蓝色光标涨超15%，风语筑、博瑞传播、科德教育、昆仑万维等纷纷跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3030584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 14时39分]"
+        },
+        {
+          "title": "AI催生存储价格狂飙！日韩股市齐创新高，三星涨近5%、SK海力士涨近3%",
+          "url": "https://wallstreetcn.com/articles/3762525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 17时32分]"
+        },
+        {
+          "title": "字节“豆包”AI眼镜即将进入出货阶段，起步价预计控制在2000元以内",
+          "url": "https://wallstreetcn.com/livenews/3030637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "荣耀回应“安卓做不出比苹果更好的Air”",
+          "url": "https://wallstreetcn.com/livenews/3030728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "央视点名AI魔改乱象",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E7%82%B9%E5%90%8DAI%E9%AD%94%E6%94%B9%E4%B9%B1%E8%B1%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         }
       ]
     }
