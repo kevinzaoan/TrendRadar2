@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T22:25:39.237018+08:00",
-  "total_titles_processed": 1848,
+  "generated_at": "2026-01-05T23:25:29.851465+08:00",
+  "total_titles_processed": 1938,
   "failed_sources": [],
   "trends": [
     {
@@ -435,7 +435,7 @@
     },
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "网传元宝 AI 辱骂用户，腾讯称是模型异常输出，非人工回复，技术上如何分析？其他 AI 也可能这样吗？",
@@ -463,8 +463,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时39分 ~ 22时25分]"
+          "appearance_count": 13,
+          "time_info": "[14时39分 ~ 23时25分]"
         },
         {
           "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
@@ -639,6 +639,19 @@
           "time_info": "[16时33分 ~ 18时26分]"
         },
         {
+          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
+          "url": "https://wallstreetcn.com/articles/3762568",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时46分 ~ 23时25分]"
+        },
+        {
           "title": "广汽集团与华为终端签约，深化鸿蒙生态与AI技术合作",
           "url": "https://wallstreetcn.com/livenews/3030823",
           "source": "华尔街见闻-快讯",
@@ -673,19 +686,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时39分 ~ 14时39分]"
-        },
-        {
-          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
-          "url": "https://wallstreetcn.com/articles/3762568",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时46分 ~ 22时25分]"
         },
         {
           "title": "鸿海：2025年12月销售额8,628.6亿元台币，环比增长2.20%，同比增长31.77％。 2025年第四季度营收同比增长22.07%。 2026年第一季ICT产品进入传统淡季，而AI机柜出货持续放量。",
@@ -747,6 +747,17 @@
           "time_info": "[17时32分 ~ 18时26分]"
         },
         {
+          "title": "2nm、黄仁勋、中国机器人抱团出海，这是即将发生在CES上的故事",
+          "url": "https://wallstreetcn.com/articles/3762576",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "阿里巴巴将视觉AI技术应用于餐饮赛道 与美团展开竞争",
           "url": "https://wallstreetcn.com/livenews/3030815",
           "source": "华尔街见闻-快讯",
@@ -764,7 +775,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -797,7 +808,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -822,6 +833,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
+        },
+        {
+          "title": "前苹果工程师推出“视觉大脑”助力机器人感知世界",
+          "url": "https://wallstreetcn.com/livenews/3030940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "央视点名AI魔改乱象",
