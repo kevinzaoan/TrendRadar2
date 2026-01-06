@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T14:35:45.559665+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2026-01-06T15:26:55.147654+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "宇树人形机器人H2训练视频曝光：腾空侧踢吓退王兴兴",
@@ -31,8 +31,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 14时35分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 15时26分]"
         },
         {
           "title": "2nm、黄仁勋、中国机器人抱团出海，这是即将发生在CES上的故事",
@@ -46,8 +46,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 14时35分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 15时26分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -81,8 +81,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 14时35分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 15时26分]"
         },
         {
           "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
@@ -94,19 +94,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时21分 ~ 14时35分]"
-        },
-        {
-          "title": "为何说AI抢走了你的内存",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E8%AF%B4AI%E6%8A%A2%E8%B5%B0%E4%BA%86%E4%BD%A0%E7%9A%84%E5%86%85%E5%AD%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
+          "appearance_count": 7,
+          "time_info": "[07时21分 ~ 15时26分]"
         },
         {
           "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
@@ -118,8 +107,41 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 14时35分]"
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 15时26分]"
+        },
+        {
+          "title": "波士顿动力机器人进厂打工了",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%A2%E5%A3%AB%E9%A1%BF%E5%8A%A8%E5%8A%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%9B%E5%8E%82%E6%89%93%E5%B7%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "百度百科上线“AI知识图谱”等新功能",
+          "url": "https://wallstreetcn.com/livenews/3031468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "为何说AI抢走了你的内存",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E8%AF%B4AI%E6%8A%A2%E8%B5%B0%E4%BA%86%E4%BD%A0%E7%9A%84%E5%86%85%E5%AD%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
@@ -211,11 +233,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 14时35分]"
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 15时26分]"
         },
         {
           "title": "抖音：2025年AI兴趣用户增长翻倍",
@@ -274,6 +297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "AirPods Pro3马年特别款开箱",
+          "url": "https://www.douyin.com/hot/2358692",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "LG在CES2026上推出了CLOiD，这是该展会上首个旨在实现家务自动化的机器人展示。",
@@ -419,6 +453,17 @@
           "time_info": "12时40分"
         },
         {
+          "title": "花旗：英伟达AI生态将助推自动驾驶出租车增长",
+          "url": "https://flash.jin10.com/detail/20260106142326249800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "机器人上电影院“打工”制作爆米花",
           "url": "https://www.toutiao.com/trending/7591744623639461930/",
           "source": "今日头条",
@@ -452,6 +497,17 @@
           "time_info": "02时34分"
         },
         {
+          "title": "宇树机器人G1、R1被选为RoboCup官方推荐平台",
+          "url": "https://wallstreetcn.com/livenews/3031426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：AI的复杂性推高需求。 新款Vera Rubin设计已经全面量产。 宣布面向Vera Rubin电脑的六款新芯片。 新款VeraCPU拥有88 Arm定制核。 公司现在是最大的网络公司。",
           "url": "https://wallstreetcn.com/livenews/3031124",
           "source": "华尔街见闻-快讯",
@@ -477,7 +533,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "长江经济带交出发展十年亮丽答卷",
@@ -526,6 +582,17 @@
           "time_info": "[09时44分 ~ 11时31分]"
         },
         {
+          "title": "机构：美国经济数据日程恢复有助于判断经济走势 关注本周非农",
+          "url": "https://flash.jin10.com/detail/20260106145718458800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "美国财政部宣布，美国与经合组织达成全球最低税率协议。 财政部长贝森特称，希望围绕数字经济税举行富有建设性的磋商。",
           "url": "https://wallstreetcn.com/livenews/3031040",
           "source": "华尔街见闻-快讯",
@@ -535,6 +602,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "日本商工会议所会头小林健：美国关税的影响今年可能蔓延至整个实体经济。",
+          "url": "https://flash.jin10.com/detail/20260106143854113800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "日本经济团体联合会会长筒井义信：必须将重心转向投资，以此作为彻底摆脱通缩的途径。",
+          "url": "https://flash.jin10.com/detail/20260106142845806800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "台当局“脱中入美”将台经济推入险境",
@@ -548,13 +637,24 @@
           "time_info": "13时25分"
         },
         {
+          "title": "日本商工会议所会头小林健：强劲经济需要实际工资增长和国内消费复苏。",
+          "url": "https://flash.jin10.com/detail/20260106142216719800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "英媒调查：欧洲央行接班人浮现 经济学家更青睐技术官僚",
           "url": "https://flash.jin10.com/detail/20260106132353616800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -576,7 +676,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         }
