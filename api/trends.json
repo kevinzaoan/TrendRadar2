@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T21:38:34.927036+08:00",
-  "total_titles_processed": 1934,
+  "generated_at": "2026-01-06T22:23:44.856892+08:00",
+  "total_titles_processed": 2016,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "宇树人形机器人H2训练视频曝光：腾空侧踢吓退王兴兴",
@@ -75,8 +75,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时44分 ~ 21时38分]"
+          "appearance_count": 15,
+          "time_info": "[09时44分 ~ 22时23分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -315,6 +315,18 @@
           "time_info": "[12时40分 ~ 13时25分]"
         },
         {
+          "title": "AI养生道",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%BB%E7%94%9F%E9%81%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时23分]"
+        },
+        {
           "title": "CES举办方主席：机器人是今年绝对主角",
           "url": "https://wallstreetcn.com/livenews/3031057",
           "source": "华尔街见闻-快讯",
@@ -345,7 +357,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -543,7 +555,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -557,17 +569,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
-        },
-        {
-          "title": "AI养生道",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%BB%E7%94%9F%E9%81%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
         },
         {
           "title": "机器人上电影院“打工”制作爆米花",
@@ -601,6 +602,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "领跑AI电池新赛道 TDK拟推第四代技术掘金智能设备市场",
+          "url": "https://flash.jin10.com/detail/20260106214431210800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "宇树机器人G1、R1被选为RoboCup官方推荐平台",
@@ -642,7 +654,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -661,7 +673,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
         {
           "title": "长江经济带交出发展十年亮丽答卷",
@@ -686,15 +698,15 @@
           "time_info": "19时20分"
         },
         {
-          "title": "美国里士满联储主席Barkin（2027年FOMC票委）：鉴于失业和通胀目标的风险，未来的利率决策需要“精细调整”。 当前的政策利率处于中性区间。 美联储的双重使命两方面都“值得关注”。 通胀已回落但仍高于目标，失业率仍然较低，但不希望就业市场进一步恶化。 去年显示出经济的韧性，但需求和就业增长主要集中在某些行业，市场情绪有所下降。 预计去年的不确定性将在2026年减少，消费者和企业的信心将增强。 税收变化、放松监管以及降息的影响，今年都将为经济带来刺激。",
-          "url": "https://wallstreetcn.com/livenews/3031706",
-          "source": "华尔街见闻-快讯",
+          "title": "加拿大皇家银行CEO：加拿大和美国富人与穷人之间的收入差距不断扩大，这一现象正成为推动政治议程的重要因素。",
+          "url": "https://flash.jin10.com/detail/20260106220130897800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "22时23分"
         },
         {
           "title": "航天环宇：预计2025年公司商业航天相关收入占比不足15%，实际收入情况以年报披露为准。",
@@ -719,6 +731,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时25分 ~ 14时35分]"
+        },
+        {
+          "title": "美国里士满联储主席Barkin（2027年FOMC票委）：鉴于失业和通胀目标的风险，未来的利率决策需要“精细调整”。 当前的政策利率处于中性区间。 美联储的双重使命两方面都“值得关注”。 通胀已回落但仍高于目标，失业率仍然较低，但不希望就业市场进一步恶化。 去年显示出经济的韧性，但需求和就业增长主要集中在某些行业，市场情绪有所下降。 预计去年的不确定性将在2026年减少，消费者和企业的信心将增强。 税收变化、放松监管以及降息的影响，今年都将为经济带来刺激。",
+          "url": "https://wallstreetcn.com/livenews/3031706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时23分]"
         },
         {
           "title": "中国央行：把促进经济高质量发展、物价合理回升作为货币政策的重要考量",
@@ -779,6 +803,17 @@
           "time_info": "15时26分"
         },
         {
+          "title": "美联储理事米兰：今年的财政政策将支持经济增长。 对经济增长持乐观态度。 如果货币政策保持过于紧缩，可能会扼杀经济增长于萌芽状态。",
+          "url": "https://wallstreetcn.com/livenews/3031720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "汽车行业困境波及全德 总理承认提升经济竞争力举措不足",
           "url": "https://flash.jin10.com/detail/20260106183957286800",
           "source": "金十数据",
@@ -799,6 +834,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "美联储理事米兰：预计数据将支持更多降息。 美联储今年应降息超过100个基点。 核心通胀接近美联储目标。 美联储政策具有限制性，正在拖累经济发展。 尚未与特朗普讨论成为美联储主席一事。 美联储主席候选名单上的所有人都很有资历。",
+          "url": "https://wallstreetcn.com/livenews/3031716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "日本商工会议所会头小林健：美国关税的影响今年可能蔓延至整个实体经济。",
@@ -867,6 +913,17 @@
           "time_info": "18时24分"
         },
         {
+          "title": "美联储理事米兰：若货币政策持续过度收紧，可能会抑制经济增长势头。",
+          "url": "https://flash.jin10.com/detail/20260106214712227800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "经济学家：德国服务业连扩四月 但信心创近十月新低",
           "url": "https://flash.jin10.com/detail/20260106165907413800",
           "source": "金十数据",
@@ -911,6 +968,28 @@
           "time_info": "17时27分"
         },
         {
+          "title": "美联储理事米兰：对经济增长持乐观态度。",
+          "url": "https://flash.jin10.com/detail/20260106214635485800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "美联储理事米兰：财政政策将支持今年的经济增长。",
+          "url": "https://flash.jin10.com/detail/20260106214333380800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "英媒调查：欧洲央行接班人浮现 经济学家更青睐技术官僚",
           "url": "https://flash.jin10.com/detail/20260106132353616800",
           "source": "金十数据",
@@ -944,6 +1023,17 @@
           "time_info": "09时44分"
         },
         {
+          "title": "美联储理事米兰：美联储政策具有限制性，正在拖累经济。",
+          "url": "https://flash.jin10.com/detail/20260106214107280800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "日本首相高市早苗：将致力于在不提高税率的情况下增加税收收入。",
           "url": "https://flash.jin10.com/detail/20260106131736712800",
           "source": "金十数据",
@@ -958,7 +1048,7 @@
     },
     {
       "keyword_group": "焦化 钢铁 发电 锅炉",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "埃及签署两项谅解备忘录，向叙利亚供应天然气以发电并满足其石油产品需求。",
@@ -970,6 +1060,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "特朗普媒体科技集团：与核聚变初创公司TAE开始为首个创新聚变发电厂进行选址规划流程。计划于2026年启动选址和建设工作，未来的发电厂预计装机容量为350至500兆瓦电力（MWE）。",
+          "url": "https://wallstreetcn.com/livenews/3031714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "欧盟钢铁保护计划引发内讧 下游行业警示“高关税”反噬风险",
