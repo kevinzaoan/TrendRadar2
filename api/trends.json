@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T17:27:29.146437+08:00",
-  "total_titles_processed": 1561,
+  "generated_at": "2026-01-06T18:24:27.558063+08:00",
+  "total_titles_processed": 1648,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "宇树人形机器人H2训练视频曝光：腾空侧踢吓退王兴兴",
@@ -46,8 +46,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 17时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 18时24分]"
         },
         {
           "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
@@ -105,11 +105,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时44分 ~ 17时27分]"
+          "appearance_count": 10,
+          "time_info": "[09时44分 ~ 18时24分]"
         },
         {
           "title": "波士顿动力机器人进厂打工了",
@@ -122,6 +123,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时26分 ~ 16时32分]"
+        },
+        {
+          "title": "AI热潮抵消地缘政治担忧 欧元信用违约互换成本维持低位",
+          "url": "https://flash.jin10.com/detail/20260106175355647800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "百度百科上线“AI知识图谱”等新功能",
@@ -146,17 +158,6 @@
           "time_info": "14时35分"
         },
         {
-          "title": "智元发布SOP，实现通用机器人的规模化部署与智能化运行",
-          "url": "https://wallstreetcn.com/livenews/3031561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
           "title": "阿里Qoder升级补全功能，AI代码采纳率提升65%",
           "url": "https://wallstreetcn.com/livenews/3031515",
           "source": "华尔街见闻-快讯",
@@ -166,6 +167,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "AirPods Pro3马年特别款开箱",
+          "url": "https://www.douyin.com/hot/2358692",
+          "source": "抖音",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时26分 ~ 18时24分]"
         },
         {
           "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
@@ -203,16 +216,16 @@
           "time_info": "[05时22分 ~ 06时21分]"
         },
         {
-          "title": "AirPods Pro3马年特别款开箱",
-          "url": "https://www.douyin.com/hot/2358692",
-          "source": "抖音",
+          "title": "智元发布SOP，实现通用机器人的规模化部署与智能化运行",
+          "url": "https://wallstreetcn.com/livenews/3031561",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            7
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时26分 ~ 17时27分]"
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时24分]"
         },
         {
           "title": "英伟达(NVDA.O)：推出全新Clara AI模型，架起数字探索与现实医疗之间的桥梁。",
@@ -275,6 +288,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时25分 ~ 15时26分]"
+        },
+        {
+          "title": "字节豆包AI眼镜第一代总规划数量约10万台，采用高通AR1芯片",
+          "url": "https://www.cls.cn/detail/2248752",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时24分]"
         },
         {
           "title": "抖音：2025年AI兴趣用户增长翻倍",
@@ -368,17 +393,6 @@
           "time_info": "07时21分"
         },
         {
-          "title": "字节豆包AI眼镜第一代总规划数量约10万台，采用高通AR1芯片",
-          "url": "https://www.cls.cn/detail/2248752",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
           "title": "三星推出以AI为核心的电视和家电",
           "url": "https://wallstreetcn.com/livenews/3030980",
           "source": "华尔街见闻-快讯",
@@ -462,7 +476,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -594,7 +608,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         }
@@ -602,7 +616,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "长江经济带交出发展十年亮丽答卷",
@@ -616,15 +630,27 @@
           "time_info": "[03时21分 ~ 11时31分]"
         },
         {
+          "title": "中国央行：把促进经济高质量发展、物价合理回升作为货币政策的重要考量",
+          "url": "https://wallstreetcn.com/livenews/3031586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "航天环宇：预计2025年公司商业航天相关收入占比不足15%，实际收入情况以年报披露为准。",
           "url": "https://wallstreetcn.com/livenews/3031565",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时24分]"
         },
         {
           "title": "日本首相高市早苗称，争取在不提高税率的情况下增加税收收入。 不会将加薪的全部责任都推给企业。 致力于提升企业经营的可预见性。",
@@ -649,6 +675,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时26分]"
+        },
+        {
+          "title": "德国总理：提振经济将成2026年首要任务",
+          "url": "https://wallstreetcn.com/livenews/3031549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时24分]"
         },
         {
           "title": "如何看待「经济学顶刊 JDE 因为中国学者多就水刊化了」的观点？",
@@ -701,18 +739,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "德国总理：提振经济将成2026年首要任务",
-          "url": "https://wallstreetcn.com/livenews/3031549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -728,13 +755,24 @@
           "time_info": "15时26分"
         },
         {
+          "title": "经济学家：英国服务业延续增长但增速放缓 新业务回升难掩前景挑战",
+          "url": "https://flash.jin10.com/detail/20260106173156106800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "经济学家：德国服务业连扩四月 但信心创近十月新低",
           "url": "https://flash.jin10.com/detail/20260106165907413800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -767,7 +805,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
