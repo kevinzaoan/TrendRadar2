@@ -1,12 +1,256 @@
 {
-  "generated_at": "2026-01-08T06:21:45.475178+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-01-08T07:21:37.102713+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "github AI 机器人",
-      "match_count": 15,
+      "keyword_group": "经济 房地产 收入",
+      "match_count": 20,
       "titles": [
+        {
+          "title": "银发经济重构老年生活新图景",
+          "url": "https://www.douyin.com/hot/2360413",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时21分]"
+        },
+        {
+          "title": "美要求委切断对华经济联系，中方表态",
+          "url": "https://news.ifeng.com/c/8pimqQkscPO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时21分]"
+        },
+        {
+          "title": "美国将“代销”委内瑞拉石油，并要求委切断与中国、俄罗斯的经济联系！外交部：典型的霸凌行径",
+          "url": "https://wallstreetcn.com/articles/3762736",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时21分]"
+        },
+        {
+          "title": "日本经济界对中方全面禁运感到恐慌",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E7%95%8C%E5%AF%B9%E4%B8%AD%E6%96%B9%E5%85%A8%E9%9D%A2%E7%A6%81%E8%BF%90%E6%84%9F%E5%88%B0%E6%81%90%E6%85%8C%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            14,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时21分]"
+        },
+        {
+          "title": "看好中国经济，外资机构释放积极信号",
+          "url": "https://wallstreetcn.com/livenews/3032746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "市场消息：美国白宫官员表示，白宫已撤回对Ryan Baasch的联邦贸易委员会委员提名，他将改任白宫国家经济委员会副主任。",
+          "url": "https://flash.jin10.com/detail/20260108043602240800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
+          "url": "https://wallstreetcn.com/articles/3762734",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "美国10月和11月的个人收入报告将于1月22日公布。",
+          "url": "https://flash.jin10.com/detail/20260108043040808800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "加拿大总理卡尼将出席1月19-21日举行的达沃斯全球经济论坛（WEF）。",
+          "url": "https://wallstreetcn.com/livenews/3032640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 04时26分]"
+        },
+        {
+          "title": "美国12月个人收入及PCE数据改期至2月20日发布。",
+          "url": "https://flash.jin10.com/detail/20260108042716263800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "特朗普：委内瑞拉石油收入将只买美国制造的产品",
+          "url": "https://flash.jin10.com/detail/20260108062001008800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "美国能源部长Chris Wright声称：美国并没有攫取委内瑞拉的石油。 美方只是要控制（委内瑞拉石油出口产生的）资金流动。 美国将利用委内瑞拉石油所得来解决委国的经济。",
+          "url": "https://wallstreetcn.com/livenews/3032662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "标普500指数初步收跌0.3%，公用事业板块跌2.3%，工业、预料、金融、房地产、能源、日用品板块至多跌超1.9%，科技板块持平，电信板块涨0.7%，保健板块涨1%。 纳斯达克100指数初步大致收平，成分股中，英特尔涨6.1%，CrowdStrike涨4.8%，再生元制药涨4.7%，派拓网络涨4.4%，MPWR跌4.9%，希捷科技跌6.6%，CSGP跌8%，西部数据跌8.9%。 卡特彼勒初步收跌4.2%，耐克跌3.1%，霍尼韦尔跌2.9%，领跌道指成分股，英伟达、微软、Salesforce、强生、再生元制药至少涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3032688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美国总统特朗普：我刚刚获悉，委内瑞拉的石油收入将只采购美国制造的产品。",
+          "url": "https://flash.jin10.com/detail/20260108060530372800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "促消费扩投资“双引擎”发力，各地瞄准扩大内需激活经济",
+          "url": "https://wallstreetcn.com/livenews/3032733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "美国政府更新经济数据发布时间 2025全年GDP将在2月中旬出炉",
+          "url": "https://flash.jin10.com/detail/20260108051606844800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美联储理事鲍曼在加州的准备发言中未就货币政策和经济发表评论。",
+          "url": "https://flash.jin10.com/detail/20260108051100700800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美国四季度GDP（初值数据）重新安排于2月20日发布。 10月和11月个人收入报告将于1月22日发布。",
+          "url": "https://wallstreetcn.com/livenews/3032676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉的石油收入只能用于购买美国制造的产品。 采购将包括美国药品和农产品。 委内瑞拉承诺与美国做生意。",
+          "url": "https://wallstreetcn.com/livenews/3032726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "丁祖昱：房地产行业止跌回稳是确定的，2026年一定会出现新的转机",
+          "url": "https://wallstreetcn.com/livenews/3032567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "github AI 机器人",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "直播电商新规强化AI内容监管",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86%E6%96%B0%E8%A7%84%E5%BC%BA%E5%8C%96AI%E5%86%85%E5%AE%B9%E7%9B%91%E7%AE%A1%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时33分 ~ 07时21分]"
+        },
         {
           "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
           "url": "https://wallstreetcn.com/articles/3762706",
@@ -17,19 +261,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时21分]"
-        },
-        {
-          "title": "直播电商新规强化AI内容监管",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86%E6%96%B0%E8%A7%84%E5%BC%BA%E5%8C%96AI%E5%86%85%E5%AE%B9%E7%9B%91%E7%AE%A1%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时33分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时21分]"
         },
         {
           "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
@@ -40,19 +273,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时21分]"
-        },
-        {
-          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
-          "url": "https://www.cls.cn/detail/2250745",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时21分]"
         },
         {
           "title": "波士顿动力宣布 Atlas 人形机器人进入量产阶段，并将和 DeepMind 合作，哪些亮点值得关注？",
@@ -66,8 +288,31 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时21分]"
+        },
+        {
+          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
+          "url": "https://www.cls.cn/detail/2250745",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时21分]"
+        },
+        {
+          "title": "AI引爆存储市场：三星电子利润创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3032745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
@@ -185,173 +430,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济 房地产 收入",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "银发经济重构老年生活新图景",
-          "url": "https://www.douyin.com/hot/2360413",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时21分]"
-        },
-        {
-          "title": "美要求委切断对华经济联系，中方表态",
-          "url": "https://news.ifeng.com/c/8pimqQkscPO",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时21分]"
-        },
-        {
-          "title": "美国将“代销”委内瑞拉石油，并要求委切断与中国、俄罗斯的经济联系！外交部：典型的霸凌行径",
-          "url": "https://wallstreetcn.com/articles/3762736",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时21分]"
-        },
-        {
-          "title": "日本经济界对中方全面禁运感到恐慌",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E7%95%8C%E5%AF%B9%E4%B8%AD%E6%96%B9%E5%85%A8%E9%9D%A2%E7%A6%81%E8%BF%90%E6%84%9F%E5%88%B0%E6%81%90%E6%85%8C%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            14,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时21分]"
-        },
-        {
-          "title": "市场消息：美国白宫官员表示，白宫已撤回对Ryan Baasch的联邦贸易委员会委员提名，他将改任白宫国家经济委员会副主任。",
-          "url": "https://flash.jin10.com/detail/20260108043602240800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国10月和11月的个人收入报告将于1月22日公布。",
-          "url": "https://flash.jin10.com/detail/20260108043040808800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "加拿大总理卡尼将出席1月19-21日举行的达沃斯全球经济论坛（WEF）。",
-          "url": "https://wallstreetcn.com/livenews/3032640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 04时26分]"
-        },
-        {
-          "title": "美国12月个人收入及PCE数据改期至2月20日发布。",
-          "url": "https://flash.jin10.com/detail/20260108042716263800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国能源部长Chris Wright声称：美国并没有攫取委内瑞拉的石油。 美方只是要控制（委内瑞拉石油出口产生的）资金流动。 美国将利用委内瑞拉石油所得来解决委国的经济。",
-          "url": "https://wallstreetcn.com/livenews/3032662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "标普500指数初步收跌0.3%，公用事业板块跌2.3%，工业、预料、金融、房地产、能源、日用品板块至多跌超1.9%，科技板块持平，电信板块涨0.7%，保健板块涨1%。 纳斯达克100指数初步大致收平，成分股中，英特尔涨6.1%，CrowdStrike涨4.8%，再生元制药涨4.7%，派拓网络涨4.4%，MPWR跌4.9%，希捷科技跌6.6%，CSGP跌8%，西部数据跌8.9%。 卡特彼勒初步收跌4.2%，耐克跌3.1%，霍尼韦尔跌2.9%，领跌道指成分股，英伟达、微软、Salesforce、强生、再生元制药至少涨0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3032688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国政府更新经济数据发布时间 2025全年GDP将在2月中旬出炉",
-          "url": "https://flash.jin10.com/detail/20260108051606844800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "美联储理事鲍曼在加州的准备发言中未就货币政策和经济发表评论。",
-          "url": "https://flash.jin10.com/detail/20260108051100700800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "美国四季度GDP（初值数据）重新安排于2月20日发布。 10月和11月个人收入报告将于1月22日发布。",
-          "url": "https://wallstreetcn.com/livenews/3032676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "丁祖昱：房地产行业止跌回稳是确定的，2026年一定会出现新的转机",
-          "url": "https://wallstreetcn.com/livenews/3032567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
         }
       ]
     }
