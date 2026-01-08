@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T19:21:48.508750+08:00",
-  "total_titles_processed": 1748,
+  "generated_at": "2026-01-08T20:45:52.766446+08:00",
+  "total_titles_processed": 1864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时44分 ~ 19时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时44分 ~ 20时45分]"
         },
         {
           "title": "银发经济重构老年生活新图景",
@@ -89,8 +89,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 20时45分]"
         },
         {
           "title": "看好中国经济，外资机构释放积极信号",
@@ -143,7 +143,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -157,6 +157,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "花了十几个小时把《经济学原理》看懂了，突然不明白为何要单独设一个经济学专业？这么简单的知识很难？",
+          "url": "https://www.zhihu.com/question/1913130700149875238",
+          "source": "知乎",
+          "ranks": [
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时45分]"
         },
         {
           "title": "中国一重：公司被列入“可控核聚变”概念股，但截至目前，公司“可控核聚变”相关产品尚未形成收入。",
@@ -257,7 +269,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -337,17 +349,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "花了十几个小时把《经济学原理》看懂了，突然不明白为何要单独设一个经济学专业？这么简单的知识很难？",
-          "url": "https://www.zhihu.com/question/1913130700149875238",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
         },
         {
           "title": "美国政府更新经济数据发布时间 2025全年GDP将在2月中旬出炉",
@@ -449,6 +450,17 @@
           "time_info": "18时25分"
         },
         {
+          "title": "林赛公司第一季度营运收入1.558亿美元，同比下降6.3%，市场预估1.668亿美元。 第一季度每股收益1.54美元，上年同期1.57美元。",
+          "url": "https://wallstreetcn.com/livenews/3033300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "联合国报告：2026年全球经济增速预计将降至2.7%，2025年增速预测为2.8%。",
           "url": "https://flash.jin10.com/detail/20260108134553578800",
           "source": "金十数据",
@@ -513,6 +525,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "国机重装：公司被列入“可控核聚变”概念股，但截至目前，公司“可控核聚变”相关产品形成的收入占公司总收入比重极低。",
+          "url": "https://wallstreetcn.com/livenews/3033297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "经济专家建议给每人发1000元购物券",
@@ -584,7 +607,7 @@
     },
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "直播电商新规强化AI内容监管",
@@ -673,11 +696,12 @@
             17,
             16,
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时39分 ~ 19时21分]"
+          "appearance_count": 11,
+          "time_info": "[11时39分 ~ 20时45分]"
         },
         {
           "title": "金力永磁：预计2025年净利润6.6亿元- 7.6亿元，同比增长127%-161%；本年度公司具身机器人电机转子及磁材产品、低空飞行器领域产品已有小批量交付。",
@@ -736,6 +760,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时26分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
+          "url": "https://www.cls.cn/detail/2251902",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 20时45分]"
         },
         {
           "title": "Arm成立物理AI部门 机器人市场再迎“新玩家”",
@@ -810,17 +846,6 @@
           "time_info": "[12时40分 ~ 13时25分]"
         },
         {
-          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
-          "url": "https://www.cls.cn/detail/2251902",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 19时21分]"
-        },
-        {
           "title": "智谱预计全球AI公司将陷入价格战",
           "url": "https://wallstreetcn.com/livenews/3032893",
           "source": "华尔街见闻-快讯",
@@ -862,7 +887,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -873,7 +898,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -887,6 +912,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        },
+        {
+          "title": "电力成AI竞赛关键！马斯克：中国AI算力将“远超世界他国”",
+          "url": "https://www.cls.cn/detail/2251790",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "上海：“十五五”要推动“AI+制造”规模化发展",
+          "url": "https://wallstreetcn.com/livenews/3033307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "AI大模型上市第一股",
@@ -909,6 +956,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "快手发布关于“AI魔改”视频专项治理公告",
+          "url": "https://wallstreetcn.com/livenews/3033302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "润建股份：与京东科技签订战略合作框架协议，双方就人工智能（AI）应用、云计算、智能算力等领域的合作，双方共同投入核心资源，在南宁五象云谷智算中心合作部署京东云专属高性能智算节点，计划联合打造广西云服务节点。",
