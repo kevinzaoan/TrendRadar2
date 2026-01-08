@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T06:22:11.043267+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2026-01-09T07:19:23.725787+08:00",
+  "total_titles_processed": 719,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "人形机器人量产提速，背后有哪些联动支撑？｜出发，2026",
@@ -17,8 +17,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时19分]"
         },
         {
           "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
@@ -45,17 +45,6 @@
           "time_info": "[01时27分 ~ 06时22分]"
         },
         {
-          "title": "据英国电讯报：马斯克旗下的社交媒体平台“X”可能因人工智能聊天机器人争议在英国被禁。",
-          "url": "https://flash.jin10.com/detail/20260109055249345800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
           "title": "“中国OpenAI”登陆港交所 2026将成大模型资本化关键年?",
           "url": "https://www.cls.cn/detail/2252286",
           "source": "财联社热门",
@@ -80,6 +69,18 @@
           "time_info": "[04时26分 ~ 05时22分]"
         },
         {
+          "title": "据英国电讯报：马斯克旗下的社交媒体平台“X”可能因人工智能聊天机器人争议在英国被禁。",
+          "url": "https://flash.jin10.com/detail/20260109055249345800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时19分]"
+        },
+        {
           "title": "OpenAI推出OpenAI for Healthcare。",
           "url": "https://wallstreetcn.com/livenews/3033531",
           "source": "华尔街见闻-快讯",
@@ -96,11 +97,23 @@
           "url": "https://wallstreetcn.com/articles/3762810",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 06时22分]"
+          "appearance_count": 3,
+          "time_info": "[06时21分 ~ 07时19分]"
+        },
+        {
+          "title": "报道：OpenAI拟收购高管教练AI工具Convogo核心团队",
+          "url": "https://wallstreetcn.com/livenews/3033598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "欧盟责令X平台保存聊天机器人数据至年底",
@@ -172,7 +185,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -225,6 +238,18 @@
           "time_info": "[04时26分 ~ 05时22分]"
         },
         {
+          "title": "穆迪：增加国防开支会促进GDP的增长，但由此带来的额外政府收入无法抵消开支的增加。",
+          "url": "https://flash.jin10.com/detail/20260109053116791800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时19分]"
+        },
+        {
           "title": "当被问及美国民众何时才能收到特朗普承诺从关税收入中拨出的2000美元支票，特朗普表示，发放这些款项无需国会批准。当被问及具体时间表时，他回答说：“我想大概在年底左右。”",
           "url": "https://flash.jin10.com/detail/20260109032840133800",
           "source": "金十数据",
@@ -235,6 +260,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时22分]"
+        },
+        {
+          "title": "美最高法院裁决特朗普关税前夕，财长声称：若败诉不影响关税收入",
+          "url": "https://wallstreetcn.com/livenews/3033579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时19分]"
         },
         {
           "title": "最准外汇预测家、Prestige Economics总裁Jason Schenker，鉴于美联储今年前六个月将降息两次，美元将走弱。 Schenker在彭博对主要外汇对预测的评比中连续三个季度力压群雄。 他预计，随着美国经济复苏，美元将在下半年反弹。 他还说：“大宗商品货币今年可能会走强”，比如澳元、卢布、墨西哥比索和巴西雷亚尔。",
@@ -249,26 +286,26 @@
           "time_info": "[04时26分 ~ 05时22分]"
         },
         {
-          "title": "穆迪：增加国防开支会促进GDP的增长，但由此带来的额外政府收入无法抵消开支的增加。",
-          "url": "https://flash.jin10.com/detail/20260109053116791800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "美最高法院裁决特朗普关税前夕，财长声称：若败诉不影响关税收入",
-          "url": "https://wallstreetcn.com/livenews/3033579",
+          "title": "助力经济平稳开局，地方债“早发早用早见效”",
+          "url": "https://wallstreetcn.com/livenews/3033590",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "07时19分"
+        },
+        {
+          "title": "美国的经济制裁还有用吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%88%B6%E8%A3%81%E8%BF%98%E6%9C%89%E7%94%A8%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "美国财长贝森特：伊朗正处于岌岌可危的时刻；经济已岌岌可危。",
