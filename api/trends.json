@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T18:25:43.100481+08:00",
-  "total_titles_processed": 1657,
+  "generated_at": "2026-01-08T19:21:48.508750+08:00",
+  "total_titles_processed": 1748,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时44分 ~ 18时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时44分 ~ 19时21分]"
         },
         {
           "title": "银发经济重构老年生活新图景",
@@ -89,8 +89,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 18时25分]"
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 19时21分]"
         },
         {
           "title": "看好中国经济，外资机构释放积极信号",
@@ -110,7 +110,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -126,17 +126,6 @@
           "time_info": "05时21分"
         },
         {
-          "title": "中国一重：公司被列入“可控核聚变”概念股，但截至目前，公司“可控核聚变”相关产品尚未形成收入。",
-          "url": "https://wallstreetcn.com/livenews/3033220",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
           "url": "https://wallstreetcn.com/articles/3762734",
           "source": "华尔街见闻",
@@ -148,6 +137,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "美国的经济制裁还有用吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%88%B6%E8%A3%81%E8%BF%98%E6%9C%89%E7%94%A8%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "美国10月和11月的个人收入报告将于1月22日公布。",
           "url": "https://flash.jin10.com/detail/20260108043040808800",
           "source": "金十数据",
@@ -157,6 +157,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "中国一重：公司被列入“可控核聚变”概念股，但截至目前，公司“可控核聚变”相关产品尚未形成收入。",
+          "url": "https://wallstreetcn.com/livenews/3033220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时21分]"
         },
         {
           "title": "加拿大总理卡尼将出席1月19-21日举行的达沃斯全球经济论坛（WEF）。",
@@ -239,6 +251,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "普利特：公司LCP薄膜产品在脑机接口领域未形成营业收入",
+          "url": "https://wallstreetcn.com/livenews/3033246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "日本央行名古屋分行行长：正密切关注外汇走势，外汇走势可能对经济和物价产生重大影响。",
           "url": "https://flash.jin10.com/detail/20260108154710277800",
           "source": "金十数据",
@@ -256,7 +279,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -314,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "花了十几个小时把《经济学原理》看懂了，突然不明白为何要单独设一个经济学专业？这么简单的知识很难？",
+          "url": "https://www.zhihu.com/question/1913130700149875238",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "美国政府更新经济数据发布时间 2025全年GDP将在2月中旬出炉",
@@ -410,7 +444,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -476,7 +510,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -542,7 +576,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         }
@@ -550,7 +584,7 @@
     },
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "直播电商新规强化AI内容监管",
@@ -642,8 +676,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时39分 ~ 18时25分]"
+          "appearance_count": 10,
+          "time_info": "[11时39分 ~ 19时21分]"
         },
         {
           "title": "金力永磁：预计2025年净利润6.6亿元- 7.6亿元，同比增长127%-161%；本年度公司具身机器人电机转子及磁材产品、低空飞行器领域产品已有小批量交付。",
@@ -776,6 +810,17 @@
           "time_info": "[12时40分 ~ 13时25分]"
         },
         {
+          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
+          "url": "https://www.cls.cn/detail/2251902",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时21分]"
+        },
+        {
           "title": "智谱预计全球AI公司将陷入价格战",
           "url": "https://wallstreetcn.com/livenews/3032893",
           "source": "华尔街见闻-快讯",
@@ -811,6 +856,28 @@
           "time_info": "17时29分"
         },
         {
+          "title": "晨星：估值重塑与AI动能共振 降息预期点燃亚洲增长引擎",
+          "url": "https://flash.jin10.com/detail/20260108184723110800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "逃离AI估值高地：华尔街策略师集体转向 中产消费股或成2026领头羊",
+          "url": "https://flash.jin10.com/detail/20260108184446865800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "【午报】三大指数震荡整理涨跌不一，商业航天、AI应用等热门赛道反复活跃",
           "url": "https://www.cls.cn/detail/2251507",
           "source": "财联社热门",
@@ -820,17 +887,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
-        },
-        {
-          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
-          "url": "https://www.cls.cn/detail/2251902",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
         },
         {
           "title": "AI大模型上市第一股",
@@ -883,7 +939,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
