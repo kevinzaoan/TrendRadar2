@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T16:31:58.641975+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2026-01-08T17:29:22.009959+08:00",
+  "total_titles_processed": 1559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 36,
+      "match_count": 42,
       "titles": [
         {
           "title": "银发经济重构老年生活新图景",
@@ -30,6 +30,18 @@
           "time_info": "[00时31分 ~ 09时44分]"
         },
         {
+          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
+          "url": "https://wallstreetcn.com/articles/3762734",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时44分 ~ 17时29分]"
+        },
+        {
           "title": "美国将“代销”委内瑞拉石油，并要求委切断与中国、俄罗斯的经济联系！外交部：典型的霸凌行径",
           "url": "https://wallstreetcn.com/articles/3762736",
           "source": "华尔街见闻",
@@ -44,18 +56,6 @@
           "time_info": "[00时31分 ~ 16时31分]"
         },
         {
-          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
-          "url": "https://wallstreetcn.com/articles/3762734",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时44分 ~ 16时31分]"
-        },
-        {
           "title": "中国低空经济一飞冲天",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E%E4%B8%80%E9%A3%9E%E5%86%B2%E5%A4%A9",
           "source": "百度热搜",
@@ -63,8 +63,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时40分 ~ 16时31分]"
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 17时29分]"
         },
         {
           "title": "日本经济界对中方全面禁运感到恐慌",
@@ -91,6 +91,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "向新向优发展中国经济向好",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%90%91%E5%A5%BD%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "市场消息：美国白宫官员表示，白宫已撤回对Ryan Baasch的联邦贸易委员会委员提名，他将改任白宫国家经济委员会副主任。",
@@ -137,6 +148,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时34分 ~ 04时26分]"
+        },
+        {
+          "title": "马斯克预言社会将穿越动荡迈向「普遍高收入」的极度丰盛时代，极度丰盛时代的生产关系是怎样的？",
+          "url": "https://www.zhihu.com/question/1992533572259640345",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 17时29分]"
         },
         {
           "title": "美国12月个人收入及PCE数据改期至2月20日发布。",
@@ -200,20 +222,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
         {
-          "title": "马斯克预言社会将穿越动荡迈向「普遍高收入」的极度丰盛时代，极度丰盛时代的生产关系是怎样的？",
-          "url": "https://www.zhihu.com/question/1992533572259640345",
-          "source": "知乎",
+          "title": "广州：大力发展低空经济和商业航天，探索建设民用无人驾驶航空试验区",
+          "url": "https://wallstreetcn.com/livenews/3033159",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时31分"
+          "time_info": "17时29分"
         },
         {
           "title": "日本央行名古屋分行行长：外汇波动过度可能损害经济增长，使企业难以制定商业计划。",
@@ -222,7 +244,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -321,9 +343,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "正邦科技：12月销售生猪102.86万头，环比上升18.45%，同比上升73.26%；销售收入9.14亿元，环比上升23.33%，同比上升25.75%。商品猪（扣除仔猪后）销售均价11.70元/公斤，较上月上升1.20%。",
+          "url": "https://wallstreetcn.com/livenews/3033151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "欧洲央行：通胀预期连续十月持稳 各收入阶层感知差异趋于同步",
+          "url": "https://flash.jin10.com/detail/20260108170303094800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "联合国报告：2026年全球经济增速预计将降至2.7%，2025年增速预测为2.8%。",
@@ -370,6 +414,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "中无人机：签署无人机系统合同，合同总金额超过公司最近一个会计年度经审计营业收入的50%以上，且超过1亿元。",
+          "url": "https://wallstreetcn.com/livenews/3033145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "经济专家建议给每人发1000元购物券",
           "url": "https://www.baidu.com/s?wd=%E7%BB%8F%E6%B5%8E%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E7%BB%99%E6%AF%8F%E4%BA%BA%E5%8F%911000%E5%85%83%E8%B4%AD%E7%89%A9%E5%88%B8",
           "source": "百度热搜",
@@ -390,6 +445,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "欧洲央行调查：消费者对经济增长更加悲观，预计未来经济将出现更大萎缩。",
+          "url": "https://flash.jin10.com/detail/20260108170036884800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "港股通标的即将调整，多只新经济与科技股有望被纳入",
@@ -417,7 +483,7 @@
     },
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "直播电商新规强化AI内容监管",
@@ -442,6 +508,21 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时31分 ~ 11时39分]"
+        },
+        {
+          "title": "AI引爆存储芯片涨价潮！三星Q4营业利润飙升208% 创历史新高",
+          "url": "https://www.cls.cn/detail/2251233",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时44分 ~ 17时29分]"
         },
         {
           "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
@@ -484,32 +565,29 @@
           "time_info": "[00时31分 ~ 07时21分]"
         },
         {
-          "title": "AI引爆存储芯片涨价潮！三星Q4营业利润飙升208% 创历史新高",
-          "url": "https://www.cls.cn/detail/2251233",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时44分 ~ 16时31分]"
-        },
-        {
           "title": "人形机器人量产提速，背后有哪些联动支撑？｜出发，2026",
           "url": "https://m.thepaper.cn/newsDetail_forward_32300324",
           "source": "澎湃新闻",
           "ranks": [
             17,
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时39分 ~ 16时31分]"
+          "appearance_count": 8,
+          "time_info": "[11时39分 ~ 17时29分]"
+        },
+        {
+          "title": "金力永磁：预计2025年净利润6.6亿元- 7.6亿元，同比增长127%-161%；本年度公司具身机器人电机转子及磁材产品、低空飞行器领域产品已有小批量交付。",
+          "url": "https://wallstreetcn.com/livenews/3033176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "AI引爆存储市场：三星电子利润创历史新高",
@@ -655,6 +733,28 @@
           "time_info": "[04时26分 ~ 05时21分]"
         },
         {
+          "title": "广州：到2035年引育一批智能装备与机器人骨干企业，产业规模达到3000亿级",
+          "url": "https://wallstreetcn.com/livenews/3033164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "【午报】三大指数震荡整理涨跌不一，商业航天、AI应用等热门赛道反复活跃",
+          "url": "https://www.cls.cn/detail/2251507",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "AI大模型上市第一股",
           "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8A%E5%B8%82%E7%AC%AC%E4%B8%80%E8%82%A1%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -675,6 +775,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "润建股份：与京东科技签订战略合作框架协议，双方就人工智能（AI）应用、云计算、智能算力等领域的合作，双方共同投入核心资源，在南宁五象云谷智算中心合作部署京东云专属高性能智算节点，计划联合打造广西云服务节点。",
+          "url": "https://wallstreetcn.com/livenews/3033147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "智谱AI CEO张鹏谈梁文锋选择彻底开源：有技术上的理想，没想靠它挣钱",
@@ -705,7 +816,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
