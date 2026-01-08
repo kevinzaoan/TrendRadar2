@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T22:26:27.225592+08:00",
-  "total_titles_processed": 2053,
+  "generated_at": "2026-01-08T23:26:56.742946+08:00",
+  "total_titles_processed": 2147,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时44分 ~ 22时26分]"
+          "appearance_count": 15,
+          "time_info": "[09时44分 ~ 23时26分]"
         },
         {
           "title": "银发经济重构老年生活新图景",
@@ -100,11 +100,12 @@
             13,
             3,
             2,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 22时26分]"
+          "appearance_count": 5,
+          "time_info": "[19时21分 ~ 23时26分]"
         },
         {
           "title": "看好中国经济，外资机构释放积极信号",
@@ -271,7 +272,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -392,7 +393,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -726,8 +727,23 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时39分 ~ 22时26分]"
+          "appearance_count": 14,
+          "time_info": "[11时39分 ~ 23时26分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
+          "url": "https://www.cls.cn/detail/2251902",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时25分 ~ 23时26分]"
         },
         {
           "title": "金力永磁：预计2025年净利润6.6亿元- 7.6亿元，同比增长127%-161%；本年度公司具身机器人电机转子及磁材产品、低空飞行器领域产品已有小批量交付。",
@@ -750,20 +766,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
-          "url": "https://www.cls.cn/detail/2251902",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 22时26分]"
         },
         {
           "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
@@ -917,7 +919,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
