@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T13:25:37.567460+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2026-01-08T14:35:15.150617+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "银发经济重构老年生活新图景",
@@ -39,8 +39,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 13时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 14时35分]"
+        },
+        {
+          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
+          "url": "https://wallstreetcn.com/articles/3762734",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 14时35分]"
         },
         {
           "title": "日本经济界对中方全面禁运感到恐慌",
@@ -58,17 +69,6 @@
           "time_info": "[00时31分 ~ 09时44分]"
         },
         {
-          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
-          "url": "https://wallstreetcn.com/articles/3762734",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时44分 ~ 13时25分]"
-        },
-        {
           "title": "中国低空经济一飞冲天",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E%E4%B8%80%E9%A3%9E%E5%86%B2%E5%A4%A9",
           "source": "百度热搜",
@@ -76,8 +76,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 13时25分]"
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 14时35分]"
         },
         {
           "title": "看好中国经济，外资机构释放积极信号",
@@ -159,6 +159,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "日本央行称地区经济温和复苏 企业有意愿继续加薪",
+          "url": "https://flash.jin10.com/detail/20260108140452009800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "美国能源部长Chris Wright声称：美国并没有攫取委内瑞拉的石油。 美方只是要控制（委内瑞拉石油出口产生的）资金流动。 美国将利用委内瑞拉石油所得来解决委国的经济。",
           "url": "https://wallstreetcn.com/livenews/3032662",
           "source": "华尔街见闻-快讯",
@@ -225,6 +236,17 @@
           "time_info": "09时44分"
         },
         {
+          "title": "联合国报告：2026年欧盟经济增长预期为1.3%，较2025年的1.5%的增幅有所放缓。",
+          "url": "https://flash.jin10.com/detail/20260108135047649800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "美联储理事鲍曼在加州的准备发言中未就货币政策和经济发表评论。",
           "url": "https://flash.jin10.com/detail/20260108051100700800",
           "source": "金十数据",
@@ -236,6 +258,28 @@
           "time_info": "06时21分"
         },
         {
+          "title": "联合国报告：受货币和财政宽松政策支持，美国2026年经济预计增长2.0%，而2025年为1.9%。",
+          "url": "https://flash.jin10.com/detail/20260108135007508800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
+          "title": "联合国报告：2026年全球经济增速预计将降至2.7%，2025年增速预测为2.8%。",
+          "url": "https://flash.jin10.com/detail/20260108134553578800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "美国四季度GDP（初值数据）重新安排于2月20日发布。 10月和11月个人收入报告将于1月22日发布。",
           "url": "https://wallstreetcn.com/livenews/3032676",
           "source": "华尔街见闻-快讯",
@@ -245,6 +289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "联合国报告：印度经济预计在2026年增长6.6%，而2025年的预计增速为7.4%。",
+          "url": "https://flash.jin10.com/detail/20260108134524943800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉的石油收入只能用于购买美国制造的产品。 采购将包括美国药品和农产品。 委内瑞拉承诺与美国做生意。",
@@ -367,11 +422,12 @@
           "ranks": [
             9,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时44分 ~ 13时25分]"
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 14时35分]"
         },
         {
           "title": "AI引爆存储市场：三星电子利润创历史新高",
@@ -383,6 +439,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "人形机器人量产提速，背后有哪些联动支撑？｜出发，2026",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32300324",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 14时35分]"
         },
         {
           "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
@@ -419,19 +488,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时26分]"
-        },
-        {
-          "title": "人形机器人量产提速，背后有哪些联动支撑？｜出发，2026",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32300324",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 13时25分]"
         },
         {
           "title": "Arm成立物理AI部门 机器人市场再迎“新玩家”",
