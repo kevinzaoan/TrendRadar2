@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T23:25:24.567055+08:00",
-  "total_titles_processed": 2204,
+  "generated_at": "2026-01-10T00:29:06.104731+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 48,
+      "match_count": 12,
       "titles": [
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -15,1041 +15,201 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时23分 ~ 23时25分]"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
           "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
           "url": "https://www.cls.cn/detail/2253208",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6,
-            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时23分 ~ 23时25分]"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
-          "title": "人形机器人量产提速，背后有哪些联动支撑？｜出发，2026",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32300324",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时19分]"
-        },
-        {
-          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
-          "url": "https://wallstreetcn.com/articles/3762915",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时23分 ~ 23时25分]"
-        },
-        {
-          "title": "便利店卖“鞋底豆干” 网友：以为是AI",
-          "url": "https://www.baidu.com/s?wd=%E4%BE%BF%E5%88%A9%E5%BA%97%E5%8D%96%E2%80%9C%E9%9E%8B%E5%BA%95%E8%B1%86%E5%B9%B2%E2%80%9D+%E7%BD%91%E5%8F%8B%EF%BC%9A%E4%BB%A5%E4%B8%BA%E6%98%AFAI",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            28,
-            5,
-            17,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时45分 ~ 16时31分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
-          "url": "https://www.cls.cn/detail/2251902",
-          "source": "财联社热门",
+          "title": "英首相府指责聊天机器人“格罗克”整改具“侮辱性”",
+          "url": "https://wallstreetcn.com/livenews/3034295",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时20分]"
-        },
-        {
-          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
-          "url": "https://www.cls.cn/detail/2253101",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时28分 ~ 23时25分]"
-        },
-        {
-          "title": "加速AI落地 谷歌为Gmail引入更多Gemini功能",
-          "url": "https://www.cls.cn/detail/2252328",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时27分 ~ 06时22分]"
-        },
-        {
-          "title": "如何分辨AI音乐骗局",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8AI%E9%9F%B3%E4%B9%90%E9%AA%97%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            9,
-            7,
-            8,
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时26分 ~ 20时44分]"
-        },
-        {
-          "title": "宇树人形机器人空翻踢爆西瓜",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BA%E7%BF%BB%E8%B8%A2%E7%88%86%E8%A5%BF%E7%93%9C",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            2,
-            16,
-            18,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时23分 ~ 23时25分]"
-        },
-        {
-          "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
-          "url": "https://www.cls.cn/detail/2252812",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时31分 ~ 21时38分]"
-        },
-        {
-          "title": "AI应用方向反复活跃，引力传媒5天4板，易点天下、科德教育涨超10%，博瑞传播、蓝色光标、省广集团涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3033681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "NAMI INSIGHT One亮相2026 CES：纳米盒（Namibox）领跑AI学习穿戴设备市场",
-          "url": "https://wallstreetcn.com/livenews/3034220",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时25分"
+          "time_info": "00时29分"
         },
         {
           "title": "上海：加速商业火箭、人形机器人等创新产品突破产业规模化发展瓶颈",
           "url": "https://www.cls.cn/detail/2253306",
           "source": "财联社热门",
           "ranks": [
-            10,
-            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时44分 ~ 23时25分]"
-        },
-        {
-          "title": "中国机器人亮相CES",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8CES",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 19时20分]"
-        },
-        {
-          "title": "“中国OpenAI”登陆港交所 2026将成大模型资本化关键年?",
-          "url": "https://www.cls.cn/detail/2252286",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时26分 ~ 06时22分]"
-        },
-        {
-          "title": "报道：英伟达+OpenAI支持的数据中心公司Nscale考虑融资20亿美元",
-          "url": "https://wallstreetcn.com/livenews/3033538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时22分]"
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
-          "title": "据英国电讯报：马斯克旗下的社交媒体平台“X”可能因人工智能聊天机器人争议在英国被禁。",
-          "url": "https://flash.jin10.com/detail/20260109055249345800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时19分]"
-        },
-        {
-          "title": "香港交易所称推出六只新的股票期权类别，涵盖紫金黄金国际、老铺黄金、地平线机器人等",
-          "url": "https://wallstreetcn.com/livenews/3033761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 13时26分]"
-        },
-        {
-          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨80%",
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
           "url": "https://wallstreetcn.com/articles/3762915",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时28分]"
-        },
-        {
-          "title": "OpenAI推出OpenAI for Healthcare。",
-          "url": "https://wallstreetcn.com/livenews/3033531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时22分]"
-        },
-        {
-          "title": "智元第一、宇树第二！中国企业正主宰全球人形机器人市场",
-          "url": "https://www.cls.cn/detail/2252663",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 19时20分]"
-        },
-        {
-          "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32349158",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时38分 ~ 23时25分]"
-        },
-        {
-          "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时38分 ~ 23时25分]"
-        },
-        {
-          "title": "“短缺终将导致过剩”！a16z安德森2026年展望：AI芯片将迎来产能爆发与价格崩塌",
-          "url": "https://wallstreetcn.com/articles/3762810",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时21分 ~ 07时19分]"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
+        },
+        {
+          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
+          "url": "https://www.cls.cn/detail/2253101",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
           "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
           "url": "https://www.cls.cn/detail/2253184",
           "source": "财联社热门",
           "ranks": [
-            13,
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时24分 ~ 23时25分]"
-        },
-        {
-          "title": "金靖章若楠剧宣诡异的像AI",
-          "url": "https://www.douyin.com/hot/2362078",
-          "source": "抖音",
-          "ranks": [
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 18时24分]"
-        },
-        {
-          "title": "广西：加快建设“AI＋金属新材料”、“AI＋生物育种””等标杆级应用平台",
-          "url": "https://wallstreetcn.com/livenews/3033950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时28分 ~ 18时24分]"
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
-          "title": "马斯克为xAI锁定5台重型燃机",
-          "url": "https://www.toutiao.com/trending/7592115613267705902/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时24分]"
-        },
-        {
-          "title": "报道：OpenAI拟收购高管教练AI工具Convogo核心团队",
-          "url": "https://wallstreetcn.com/livenews/3033598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "智元登顶全球人形机器人出货量榜首",
-          "url": "https://wallstreetcn.com/livenews/3033672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "欧盟责令X平台保存聊天机器人数据至年底",
-          "url": "https://wallstreetcn.com/livenews/3033445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
-          "url": "https://flash.jin10.com/detail/20260109024531943800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "英国首相斯塔默发誓，要对马斯克旗下社交媒体平台X（原名推特）采取“紧急”行动。 斯塔默希望，马斯克能就自家人工智能（AI）工具Grok生成的、涉及儿童的性化图像（含有性暗示的图像）“改正自身表现”。 “这简直是耻辱，太恶心了，绝对不能就这么算了！”",
-          "url": "https://wallstreetcn.com/livenews/3033439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "东方明珠：间接持有超聚变1.3182%股份 公司不直接从事AI业务",
-          "url": "https://wallstreetcn.com/livenews/3034062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "机构：在AI与关税夹击下，美国12月非农就业增长料疲弱",
-          "url": "https://flash.jin10.com/detail/20260109170031939800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "DeepSeek将发布具备强劲编程能力的下一代旗舰AI模型",
-          "url": "https://flash.jin10.com/detail/20260109211825941800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
-          "title": "据The Information：DeepSeek将于2月发布下一代旗舰AI模型。",
-          "url": "https://flash.jin10.com/detail/20260109211554693800",
-          "source": "金十数据",
+          "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32349158",
+          "source": "澎湃新闻",
           "ranks": [
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时38分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
-          "title": "xAI在2025前9个月消耗现金约80亿美元",
-          "url": "https://www.toutiao.com/trending/7592458407018283059/",
-          "source": "今日头条",
+          "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
+          "source": "澎湃新闻",
           "ranks": [
-            18
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
-          "title": "Eleveight AI在亚美尼亚部署英伟达B300 Blackwell GPUs。",
-          "url": "https://wallstreetcn.com/livenews/3033430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "小鹏汽车成功注册图灵AI座舱商标",
-          "url": "https://wallstreetcn.com/livenews/3033648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "深成指涨超1%，沪指涨0.7%，创业板指涨0.24%，北证50指数涨超2%，AI应用、商业航天、军工等方向涨幅居前，沪深京三市上涨个股近3700只。",
-          "url": "https://wallstreetcn.com/livenews/3033706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "微软与Shopify、PayPal、Stripe推出零售AI Copilot Checkout。 微软将在Copilot.com内赋能“会话内购买”，而无需引导购物者切换到外部网站。",
-          "url": "https://wallstreetcn.com/livenews/3033517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "上海：到2028年广告业营收超过4500亿元 加强“AI+数字广告”融合赋能",
-          "url": "https://wallstreetcn.com/livenews/3033699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "DeepSeek将在未来几周推出新一代旗舰AI模型，具备强大的编程能力。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3034166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
-          "title": "机器人概念龙头汇川技术据悉考虑赴港股上市。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3033824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "用一个字证明你不是机器人",
-          "url": "https://www.baidu.com/s?wd=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E4%BD%A0%E4%B8%8D%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "title": "宇树人形机器人空翻踢爆西瓜",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BA%E7%BF%BB%E8%B8%A2%E7%88%86%E8%A5%BF%E7%93%9C",
           "source": "百度热搜",
           "ranks": [
-            30
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
-          "title": "欧盟责令X平台保存聊天机器人数据至年底",
-          "url": "https://flash.jin10.com/detail/20260109001607088800",
-          "source": "金十数据",
+          "title": "如何分辨AI音乐骗局",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8AI%E9%9F%B3%E4%B9%90%E9%AA%97%E5%B1%80",
+          "source": "bilibili 热搜",
           "ranks": [
-            30
+            27
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
+        },
+        {
+          "title": "核能助推AI革命：Meta签下巨额订单 Oklo与Vistra股价齐飙升",
+          "url": "https://flash.jin10.com/detail/20260109232712672800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "00时29分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 37,
+      "match_count": 6,
       "titles": [
         {
-          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
-          "url": "https://wallstreetcn.com/articles/3762734",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时22分]"
-        },
-        {
-          "title": "花了十几个小时把《经济学原理》看懂了，突然不明白为何要单独设一个经济学专业？这么简单的知识很难？",
-          "url": "https://www.zhihu.com/question/1913130700149875238",
-          "source": "知乎",
-          "ranks": [
-            11,
-            5,
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时22分]"
-        },
-        {
-          "title": "人民日报钟才平：发挥政策集成效应，提升宏观经济治理效能",
-          "url": "https://www.cls.cn/detail/2252735",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时35分 ~ 20时44分]"
-        },
-        {
-          "title": "独家|房地产融资协调机制迎重磅调整 符合条件“白名单”项目贷款可展期5年",
-          "url": "https://www.cls.cn/detail/2252571",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时40分 ~ 17时28分]"
-        },
-        {
-          "title": "白宫顾问哈塞特赞赏美国生产力和经济。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3034219",
+          "title": "隔夜互换市场交易员仍预计，加拿大央行将在今年大部分时间内把关键利率维持在2.25%。 此前，决策者表示，只要经济增长和通胀走势符合预期，当前利率就处于“大致合适的水平”。 加拿大央行下一次利率决议及货币政策报告将于1月28日公布。",
+          "url": "https://wallstreetcn.com/livenews/3034292",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
-          "title": "捷克央行会议纪要：委员会成员认为，来自海外经济发展的若干下行风险正对通胀构成压力。",
-          "url": "https://flash.jin10.com/detail/20260109160816181800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "美国财长贝森特：独立的石油公司希望进入委内瑞拉市场。 某些大型石油公司将发生重大转变。 对伊朗形势非常谨慎，经济岌岌可危。",
-          "url": "https://wallstreetcn.com/livenews/3033505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "经济学家：12月非农数据难改2025年就业增长为几十年来最疲软的事实",
-          "url": "https://flash.jin10.com/detail/20260109113453495800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时41分]"
-        },
-        {
-          "title": "野村：人工智能需求上升利好亚洲多国经济",
-          "url": "https://flash.jin10.com/detail/20260109122240989800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 13时26分]"
-        },
-        {
-          "title": "孩子学习成绩中等，想上补习班提高他的成绩，可是经济条件又有限，作为家长的你，会借钱给孩子上补习班吗？",
-          "url": "https://www.zhihu.com/question/1992865982956471690",
-          "source": "知乎",
-          "ranks": [
-            18,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 19时20分]"
-        },
-        {
-          "title": "贝森特称税收减免将在2026年助力美国经济",
-          "url": "https://flash.jin10.com/detail/20260109033133303800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时22分]"
-        },
-        {
-          "title": "穆迪：增加国防开支会促进GDP的增长，但由此带来的额外政府收入无法抵消开支的增加。",
-          "url": "https://flash.jin10.com/detail/20260109053116791800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时19分]"
-        },
-        {
-          "title": "当被问及美国民众何时才能收到特朗普承诺从关税收入中拨出的2000美元支票，特朗普表示，发放这些款项无需国会批准。当被问及具体时间表时，他回答说：“我想大概在年底左右。”",
-          "url": "https://flash.jin10.com/detail/20260109032840133800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时22分]"
-        },
-        {
-          "title": "美最高法院裁决特朗普关税前夕，财长声称：若败诉不影响关税收入",
-          "url": "https://wallstreetcn.com/livenews/3033579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时19分]"
-        },
-        {
-          "title": "美国总统特朗普：委内瑞拉和美国都将获得石油收入。古巴完全依赖委内瑞拉的资金和石油。古巴为委内瑞拉提供保护。希望做些事情帮助古巴。古巴正走向失败。",
-          "url": "https://wallstreetcn.com/livenews/3033716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时41分]"
-        },
-        {
-          "title": "广西：到2028年智能经济核心产业产值突破1000亿元",
-          "url": "https://wallstreetcn.com/livenews/3033949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 18时24分]"
-        },
-        {
-          "title": "最准外汇预测家、Prestige Economics总裁Jason Schenker，鉴于美联储今年前六个月将降息两次，美元将走弱。 Schenker在彭博对主要外汇对预测的评比中连续三个季度力压群雄。 他预计，随着美国经济复苏，美元将在下半年反弹。 他还说：“大宗商品货币今年可能会走强”，比如澳元、卢布、墨西哥比索和巴西雷亚尔。",
-          "url": "https://wallstreetcn.com/livenews/3033520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时22分]"
-        },
-        {
-          "title": "经济学家：2026年将是美国劳动力市场的“稳定之年”",
-          "url": "https://flash.jin10.com/detail/20260109135308237800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "土耳其副总统：我们可以根据形势微调经济计划，紧缩的经济政策将毫不间断地持续下去。",
-          "url": "https://flash.jin10.com/detail/20260109150452212800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "美国劳工部长德雷默：经济已做好进一步增长的准备。",
-          "url": "https://flash.jin10.com/detail/20260109225915796800",
-          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时29分"
         },
         {
-          "title": "杭萧钢构：近日，公司作为联合体成员与湖南建工集团有限公司（联合体牵头人）联合中标杭州箭元航天科技有限公司相关工程项目，公司在该项目中负责部分的合同金额较小，占公司2024年度经审计的营业收入的比例不到1%，对公司全年业绩不产生重大影响。",
-          "url": "https://wallstreetcn.com/livenews/3034067",
+          "title": "Servus Credit Union首席经济学家Charles St-Arnaud：数据显示，加拿大劳动力市场并未受到美国贸易冲突影响的行业仍然是就业增长的主要来源。 总体而言，今天的报告显示劳动力市场具有一定的韧性。 这将为2026年经济活动的回升提供空间，尽管回升幅度可能有限。 有鉴于此，该报告支持加拿大央行最近的评估，即除非经济恶化，否则没必要进一步降息。",
+          "url": "https://wallstreetcn.com/livenews/3034291",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "经济学家：向“黄金标准”靠拢，12月非农将比11月更能反映实际情况",
-          "url": "https://flash.jin10.com/detail/20260109170137897800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "美国劳工部长Chavez-Deremer：经济有望继续增长。",
-          "url": "https://wallstreetcn.com/livenews/3034251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时29分"
         },
         {
-          "title": "黄润秋会见新加坡永续发展与环境部高级政务部长：愿加强固体废物与循环经济领域交流",
-          "url": "https://wallstreetcn.com/livenews/3034206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
-          "title": "助力经济平稳开局，地方债“早发早用早见效”",
-          "url": "https://wallstreetcn.com/livenews/3033590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "美国的经济制裁还有用吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%88%B6%E8%A3%81%E8%BF%98%E6%9C%89%E7%94%A8%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "白宫经济顾问哈塞特：若获得提名，将接受美联储主席一职。",
-          "url": "https://flash.jin10.com/detail/20260109225056798800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "“新美联储通讯社”Nick Timiraos：2025年私营部门雇主平均每月新增就业岗位6.1万个，这是自2003年所谓“就业复苏乏力”以来，在经济未陷入衰退的情况下，私营部门就业增长最为疲弱的水平。",
-          "url": "https://wallstreetcn.com/livenews/3034202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
-          "title": "美国财长贝森特：伊朗正处于岌岌可危的时刻；经济已岌岌可危。",
-          "url": "https://flash.jin10.com/detail/20260109023247231800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "增量不增收！三大上市猪企去年生猪销量均增长、收入均下降",
-          "url": "https://wallstreetcn.com/livenews/3033650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "韩国财政部：韩国政府上调今年经济增长和通胀预期；2026年通胀预计平均为2.1%，此前预期为2.0%；2026年GDP预计将增长2.0%，此前预期为1.8%。",
-          "url": "https://flash.jin10.com/detail/20260109130707310800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "金十数据整理：每日房地产行业动态汇总（2026-01-09）",
-          "url": "https://flash.jin10.com/detail/20260109155032199800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "白宫经济顾问哈塞特：特朗普政府已为关税制定了备选方案。几乎可立即启用替代性政策工具。",
-          "url": "https://flash.jin10.com/detail/20260109224717344800",
+          "title": "白宫经济顾问哈塞特：很荣幸入选特朗普的美联储主席候选人名单。",
+          "url": "https://flash.jin10.com/detail/20260109233057417800",
           "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时29分"
         },
         {
-          "title": "日本财务大臣片山皋月：将出席在美国的重要矿产会议。稀土对全球经济稳定至关重要。",
-          "url": "https://wallstreetcn.com/livenews/3033691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "世界经济论坛报告：全球合作展现出韧性",
-          "url": "https://wallstreetcn.com/livenews/3033884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "经济学家：新年牛市氛围愈来愈浓",
-          "url": "https://www.toutiao.com/trending/7593244482389151259/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "日本央行可能上调经济增长预测，维持本月利率不变",
-          "url": "https://wallstreetcn.com/livenews/3033823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "焦化 钢铁 发电 锅炉",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "韩国财政部：将为半导体、国防、生物制药、石化和钢铁行业制定政策支持。",
-          "url": "https://flash.jin10.com/detail/20260109130606683800",
+          "title": "白宫经济顾问哈塞特：对关税有非常详细的备用方案。",
+          "url": "https://flash.jin10.com/detail/20260109232952004800",
           "source": "金十数据",
           "ranks": [
-            1,
-            21
+            23
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 14时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
-          "title": "五部门：工业企业和园区新建太阳能、风能等可再生能源发电每年就近就地自消纳比例原则上不低于60%",
-          "url": "https://wallstreetcn.com/livenews/3033713",
-          "source": "华尔街见闻-快讯",
+          "title": "白宫经济顾问哈塞特：美联储需要进一步降息。",
+          "url": "https://flash.jin10.com/detail/20260109232940592800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            30
+            24
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：在获取可靠的劳工统计局数据方面还有很多工作要做。",
+          "url": "https://flash.jin10.com/detail/20260109232853204800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时29分"
         }
       ]
     }
