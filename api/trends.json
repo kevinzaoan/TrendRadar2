@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T09:42:11.155095+08:00",
-  "total_titles_processed": 849,
+  "generated_at": "2026-01-10T11:25:17.418860+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 09时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 11时25分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 09时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 11时25分]"
         },
         {
           "title": "上海：加速商业火箭、人形机器人等创新产品突破产业规模化发展瓶颈",
@@ -53,8 +53,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 09时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 11时25分]"
         },
         {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
@@ -76,8 +76,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 09时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 11时25分]"
         },
         {
           "title": "如何分辨AI音乐骗局",
@@ -149,6 +149,19 @@
           "time_info": "03时20分"
         },
         {
+          "title": "内部备忘录显示：美国司法部成立人工智能（AI）执法工作组，希望借机对抗州一级的监管。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3034456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时21分 ~ 11时25分]"
+        },
+        {
           "title": "OpenAI和软银向“星门”合作伙伴SB Energy投资10亿美元",
           "url": "https://flash.jin10.com/detail/20260110030900508800",
           "source": "金十数据",
@@ -161,16 +174,16 @@
           "time_info": "[03时20分 ~ 04时25分]"
         },
         {
-          "title": "内部备忘录显示：美国司法部成立人工智能（AI）执法工作组，希望借机对抗州一级的监管。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3034456",
-          "source": "华尔街见闻-快讯",
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            13
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 09时42分]"
+          "appearance_count": 4,
+          "time_info": "[07时21分 ~ 11时25分]"
         },
         {
           "title": "OpenAI与软银向“星际之门”合作伙伴SB Energy投资10亿美元",
@@ -197,27 +210,16 @@
           "time_info": "[00时29分 ~ 01时24分]"
         },
         {
-          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
-          "url": "https://wallstreetcn.com/articles/3762982",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时21分 ~ 09时42分]"
-        },
-        {
           "title": "Deepseek或将发布新AI模型",
           "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 09时42分]"
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 11时25分]"
         },
         {
           "title": "马斯克旗下初创公司xAI限制Grok图像生成功能。 此前，Grok生成与儿童相关的性化图片，招致欧洲强烈反感。",
@@ -241,6 +243,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 06时22分]"
+        },
+        {
+          "title": "据华尔街日报：OpenAI承诺投入1000万美元支持投票提案，与倡导组织就儿童安全措施达成和解。",
+          "url": "https://flash.jin10.com/detail/20260110094533475800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "SB ENERGY：OpenAI、软银集团和公司还建立了一种非排他性的首选合作伙伴关系，以开发数据中心建设的新模式。",
@@ -279,19 +292,8 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
-        {
-          "title": "美国财长贝森特表示，澳大利亚及其他几个国家将参加他周一在华盛顿主持的七国集团（G7）发达经济体财长会议，共同讨论关键矿产问题；印度也受邀参加此次会议。",
-          "url": "https://wallstreetcn.com/livenews/3034467",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
         {
           "title": "美国里士满联储主席Barkin：不确定性和生产力增长造成招聘偏低。 （非农）就业人口增幅与企业报告的情况吻合。 失业率下降受人欢迎，但这也仅仅是一个月的数据而已。 美联储必须继续观察职责所面临的两哥方面。 整体经济需求仍然看似健康。",
           "url": "https://wallstreetcn.com/livenews/3034347",
@@ -304,6 +306,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时33分 ~ 04时25分]"
+        },
+        {
+          "title": "美国财长贝森特表示，澳大利亚及其他几个国家将参加他周一在华盛顿主持的七国集团（G7）发达经济体财长会议，共同讨论关键矿产问题；印度也受邀参加此次会议。",
+          "url": "https://wallstreetcn.com/livenews/3034467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 11时25分]"
         },
         {
           "title": "美国家庭财富升至纪录新高，得益于美股上涨，但房地产市场低迷",
@@ -327,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "中信证券：预计2026年一季度经济景气度有望抬升，风险资产中波动相对较低的权益资产更具性价比",
+          "url": "https://wallstreetcn.com/livenews/3034481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "隔夜互换市场交易员仍预计，加拿大央行将在今年大部分时间内把关键利率维持在2.25%。 此前，决策者表示，只要经济增长和通胀走势符合预期，当前利率就处于“大致合适的水平”。 加拿大央行下一次利率决议及货币政策报告将于1月28日公布。",
@@ -393,6 +418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "中国加强两用物项对日出口管制 日经济界人士：日经济将不可避免受影响",
+          "url": "https://wallstreetcn.com/livenews/3034474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "美国商务部将于2月20日发布12月个人收入报告。",
