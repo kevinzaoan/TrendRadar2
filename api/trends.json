@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T22:19:46.255418+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2026-01-11T23:20:47.448727+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
@@ -21,8 +21,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时26分 ~ 22时19分]"
+          "appearance_count": 15,
+          "time_info": "[13时26分 ~ 23时20分]"
         },
         {
           "title": "AI照片竟然拿了摄影比赛第一名",
@@ -54,8 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[01时18分 ~ 22时19分]"
+          "appearance_count": 29,
+          "time_info": "[01时18分 ~ 23时20分]"
         },
         {
           "title": "中国扫地机器人占全球份额近7成",
@@ -80,11 +80,12 @@
             25,
             26,
             19,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时32分 ~ 22时19分]"
+          "appearance_count": 13,
+          "time_info": "[14时32分 ~ 23时20分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -98,8 +99,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时25分 ~ 22时19分]"
+          "appearance_count": 30,
+          "time_info": "[00时25分 ~ 23时20分]"
+        },
+        {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时21分 ~ 23时20分]"
         },
         {
           "title": "AI登顶LOL韩服",
@@ -135,8 +148,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时25分 ~ 22时19分]"
+          "appearance_count": 30,
+          "time_info": "[00时25分 ~ 23时20分]"
         },
         {
           "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
@@ -152,18 +165,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时51分 ~ 16时28分]"
-        },
-        {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时21分 ~ 22时19分]"
         },
         {
           "title": "AI时代还有学画画的必要吗",
@@ -232,6 +233,53 @@
           "time_info": "[00时25分 ~ 07时20分]"
         },
         {
+          "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
+          "url": "https://flash.jin10.com/detail/20260111230441184800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
+          "url": "https://wallstreetcn.com/livenews/3034757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时18分 ~ 23时20分]"
+        },
+        {
+          "title": "AI登顶LOL韩服,Faker劲敌来袭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348968&amp;topic_name=AI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%2CFaker%E5%8A%B2%E6%95%8C%E6%9D%A5%E8%A2%AD",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "全球首次！印尼暂时封禁马斯克旗下AI",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%EF%BC%81%E5%8D%B0%E5%B0%BC%E6%9A%82%E6%97%B6%E5%B0%81%E7%A6%81%E9%A9%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8BAI",
           "source": "百度热搜",
@@ -244,19 +292,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时53分 ~ 13时26分]"
-        },
-        {
-          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时18分 ~ 22时19分]"
         },
         {
           "title": "中国首个金融气象AI模型“熵机”在穗发布",
@@ -377,6 +412,17 @@
           "time_info": "[17时21分 ~ 17时22分]"
         },
         {
+          "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
+          "url": "https://wallstreetcn.com/articles/3763040",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "全球首次，印尼暂时封禁马斯克旗下AI聊天机器人",
           "url": "https://wallstreetcn.com/livenews/3034587",
           "source": "华尔街见闻-快讯",
@@ -391,7 +437,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
@@ -453,17 +499,6 @@
           "time_info": "20时41分"
         },
         {
-          "title": "深度展望2026年经济",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%B1%95%E6%9C%9B2026%E5%B9%B4%E7%BB%8F%E6%B5%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
           "title": "达尔全球首席执行官表示，达尔全球与特朗普集团将推出价值100亿美元的全新沙特房地产项目。",
           "url": "https://flash.jin10.com/detail/20260111163438424800",
           "source": "金十数据",
@@ -488,6 +523,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时28分 ~ 18时22分]"
+        },
+        {
+          "title": "深度展望2026年经济",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%B1%95%E6%9C%9B2026%E5%B9%B4%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时20分]"
         },
         {
           "title": "不让债权人染指，特朗普打造防火墙将委内瑞拉石油收入圈在美国",
@@ -528,6 +575,19 @@
           "time_info": "[20时41分 ~ 22时19分]"
         },
         {
+          "title": "印度总理莫迪：印度正为了成为第三大经济体而迅速行动。 数据显示全球对印度的预期正在上升，因为印度目前是全球增长最快的大型经济体。",
+          "url": "https://wallstreetcn.com/livenews/3034729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 23时20分]"
+        },
+        {
           "title": "俄媒：美国经济全球占比创新低",
           "url": "https://wallstreetcn.com/livenews/3034643",
           "source": "华尔街见闻-快讯",
@@ -538,18 +598,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时21分 ~ 16时28分]"
-        },
-        {
-          "title": "印度总理莫迪：印度正为了成为第三大经济体而迅速行动。 数据显示全球对印度的预期正在上升，因为印度目前是全球增长最快的大型经济体。",
-          "url": "https://wallstreetcn.com/livenews/3034729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 22时19分]"
         },
         {
           "title": "据多家财经媒体及官方渠道披露，达尔环球（Dar Global）与特朗普集团（The Trump Organization）正深化合作。根据最新消息，达尔环球CEO齐亚德·埃尔·查尔（Ziad El Chaar）确认，双方将启动一个总价值约100亿美元 的新沙特房地产项目。",
@@ -599,6 +647,17 @@
           "time_info": "[20时41分 ~ 21时32分]"
         },
         {
+          "title": "圆脸对话陆铭教授畅聊经济",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E5%AF%B9%E8%AF%9D%E9%99%86%E9%93%AD%E6%95%99%E6%8E%88%E7%95%85%E8%81%8A%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "达尔环球CEO表示，达尔环球公司与特朗普集团将启动价值100亿美元的新沙特房地产项目。",
           "url": "https://wallstreetcn.com/livenews/3034676",
           "source": "华尔街见闻-快讯",
@@ -627,7 +686,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         }
