@@ -1,12 +1,29 @@
 {
-  "generated_at": "2026-01-11T19:18:24.155273+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-01-11T20:41:24.461210+08:00",
+  "total_titles_processed": 1223,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
+          "url": "https://wallstreetcn.com/articles/3763033",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时26分 ~ 20时41分]"
+        },
         {
           "title": "AI照片竟然拿了摄影比赛第一名",
           "url": "https://s.weibo.com/weibo?q=%23AI%E7%85%A7%E7%89%87%E7%AB%9F%E7%84%B6%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%90%8D%23&t=31&band_rank=20&Refer=top",
@@ -24,20 +41,20 @@
           "time_info": "[13时26分 ~ 19时18分]"
         },
         {
-          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
-          "url": "https://wallstreetcn.com/articles/3763033",
-          "source": "华尔街见闻",
+          "title": "AI每回答一个问题要消耗多少水",
+          "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
+          "source": "百度热搜",
           "ranks": [
-            10,
+            2,
             9,
             8,
-            6,
-            5,
-            4
+            18,
+            25,
+            26
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[13时26分 ~ 19时18分]"
+          "time_info": "[14时32分 ~ 20时41分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -49,11 +66,12 @@
             9,
             7,
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时18分 ~ 19时18分]"
+          "appearance_count": 25,
+          "time_info": "[01时18分 ~ 20时41分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -67,23 +85,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时25分 ~ 19时18分]"
-        },
-        {
-          "title": "AI每回答一个问题要消耗多少水",
-          "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            9,
-            8,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时32分 ~ 19时18分]"
+          "appearance_count": 26,
+          "time_info": "[00时25分 ~ 20时41分]"
         },
         {
           "title": "AI登顶LOL韩服",
@@ -119,8 +122,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时25分 ~ 19时18分]"
+          "appearance_count": 26,
+          "time_info": "[00时25分 ~ 20时41分]"
         },
         {
           "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
@@ -165,6 +168,17 @@
           "time_info": "[11时51分 ~ 13时26分]"
         },
         {
+          "title": "中国扫地机器人占全球份额近7成",
+          "url": "https://www.douyin.com/hot/2363670",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 20时41分]"
+        },
+        {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
           "url": "https://flash.jin10.com/detail/20260110221457641800",
           "source": "金十数据",
@@ -188,28 +202,6 @@
           "time_info": "[00时25分 ~ 07时20分]"
         },
         {
-          "title": "中国扫地机器人占全球份额近7成",
-          "url": "https://www.douyin.com/hot/2363670",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 19时18分]"
-        },
-        {
-          "title": "中国首个金融气象AI模型“熵机”在穗发布",
-          "url": "https://flash.jin10.com/detail/20260111185158665800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
           "title": "零下20℃ 谁把机器人送去滑冰了",
           "url": "https://www.baidu.com/s?wd=%E9%9B%B6%E4%B8%8B20%E2%84%83+%E8%B0%81%E6%8A%8A%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%80%81%E5%8E%BB%E6%BB%91%E5%86%B0%E4%BA%86",
           "source": "百度热搜",
@@ -217,11 +209,24 @@
             22,
             16,
             8,
-            10
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时28分 ~ 20时41分]"
+        },
+        {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时28分 ~ 19时18分]"
+          "time_info": "[17时21分 ~ 20时41分]"
         },
         {
           "title": "全球首次！印尼暂时封禁马斯克旗下AI",
@@ -238,16 +243,16 @@
           "time_info": "[09时53分 ~ 13时26分]"
         },
         {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
+          "title": "中国首个金融气象AI模型“熵机”在穗发布",
+          "url": "https://flash.jin10.com/detail/20260111185158665800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            1,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时21分 ~ 19时18分]"
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时41分]"
         },
         {
           "title": "马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
@@ -321,6 +326,18 @@
           "time_info": "[18时21分 ~ 18时22分]"
         },
         {
+          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时41分]"
+        },
+        {
           "title": "Faker有信心战胜AI",
           "url": "https://s.weibo.com/weibo?q=Faker%E6%9C%89%E4%BF%A1%E5%BF%83%E6%88%98%E8%83%9CAI&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -354,21 +371,21 @@
           "time_info": "09时53分"
         },
         {
-          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
-          "source": "澎湃新闻",
+          "title": "摩根士丹利中国首席经济学家邢自强：未来行业配置展望方面，在当前形势下，高科技行业成为结构性赛道机会。 人工智能、生物制药、人形机器人等领域作为亮点，技术创新动能强劲，有望持续吸引市场关注。",
+          "url": "https://wallstreetcn.com/livenews/3034711",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "20时41分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
@@ -417,6 +434,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 06时21分]"
+        },
+        {
+          "title": "印度总理莫迪：印度正为了成为第三大经济体而迅速行动。",
+          "url": "https://wallstreetcn.com/livenews/3034729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "达尔全球首席执行官表示，达尔全球与特朗普集团将推出价值100亿美元的全新沙特房地产项目。",
@@ -514,6 +542,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "伊朗总统说决心解决好经济困难",
+          "url": "https://wallstreetcn.com/livenews/3034719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "摩根士丹利中国首席经济学家邢自强：美元贬值，战略资产升值",
+          "url": "https://wallstreetcn.com/livenews/3034710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬表示，政府决心解决民众的经济问题。",
+          "url": "https://flash.jin10.com/detail/20260111191654820800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     },
