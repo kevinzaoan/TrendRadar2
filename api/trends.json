@@ -1,1300 +1,232 @@
 {
-  "generated_at": "2026-01-12T23:27:15.688058+08:00",
-  "total_titles_processed": 1875,
+  "generated_at": "2026-01-13T00:28:32.772527+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 61,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
-          "url": "https://wallstreetcn.com/articles/3763033",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 09时49分]"
-        },
-        {
-          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
-          "url": "https://wallstreetcn.com/articles/3763068",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时33分 ~ 23时27分]"
-        },
-        {
-          "title": "新“易中天”来了！GEO概念爆发 AI投资向应用价值迁移？",
-          "url": "https://www.cls.cn/detail/2254504",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时29分 ~ 19时21分]"
-        },
         {
           "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
           "url": "https://www.cls.cn/detail/2254949",
           "source": "财联社热门",
           "ranks": [
-            9,
-            3,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时32分 ~ 23时27分]"
-        },
-        {
-          "title": "正探索延伸至AI漫剧新赛道 AIGC概念股录得6天3板 本周机构密集调研相关上市公司",
-          "url": "https://www.cls.cn/detail/2254168",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时49分 ~ 15时28分]"
+          "appearance_count": 1,
+          "time_info": "00时28分"
         },
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
           "url": "https://wallstreetcn.com/articles/3763085",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
-            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "张文宏：拒绝把AI引入医院病历系统",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%96%87%E5%AE%8F%EF%BC%9A%E6%8B%92%E7%BB%9D%E6%8A%8AAI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F",
+          "source": "百度热搜",
+          "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时32分 ~ 23时27分]"
-        },
-        {
-          "title": "AI登顶LOL韩服,Faker劲敌来袭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348968&amp;topic_name=AI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%2CFaker%E5%8A%B2%E6%95%8C%E6%9D%A5%E8%A2%AD",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            10,
-            11,
-            15,
-            17,
-            18,
-            19,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时25分 ~ 23时27分]"
-        },
-        {
-          "title": "AI玩具引爆CES，京东、字节、华为等巨头加码下能否跑出AI版泡泡玛特？",
-          "url": "https://www.cls.cn/detail/2254695",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时33分 ~ 20时48分]"
-        },
-        {
-          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
-          "url": "https://wallstreetcn.com/articles/3763059",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[15时27分 ~ 23时27分]"
-        },
-        {
-          "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
-          "url": "https://wallstreetcn.com/articles/3763040",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时25分 ~ 17时33分]"
-        },
-        {
-          "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
-          "url": "https://www.cls.cn/detail/2253876",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
-          "title": "【每日收评】三大指数均涨超1%，两市成交额达3.6万亿，AI应用与商业航天双双爆发",
-          "url": "https://www.cls.cn/detail/2254903",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时32分 ~ 22时27分]"
-        },
-        {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 11时50分]"
-        },
-        {
-          "title": "疑似马斯克AI登顶LOL韩服集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[15时27分 ~ 23时27分]"
-        },
-        {
-          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
-          "url": "https://www.cls.cn/detail/2253847",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
-          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
-          "title": "AI每回答一个问题要消耗多少水",
-          "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            26,
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
-          "title": "UP主复盘疑似马斯克AI操作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            28,
-            26,
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时27分 ~ 23时27分]"
-        },
-        {
-          "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
-          "url": "https://www.cls.cn/detail/2255010",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时26分 ~ 23时27分]"
-        },
-        {
-          "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
-          "url": "https://wallstreetcn.com/livenews/3034757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时21分]"
-        },
-        {
-          "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
-          "url": "https://www.cls.cn/detail/2254978",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时21分 ~ 23时27分]"
-        },
-        {
-          "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
-          "url": "https://flash.jin10.com/detail/20260111230441184800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时21分]"
-        },
-        {
-          "title": "AI会取代演员吗",
-          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%8F%96%E4%BB%A3%E6%BC%94%E5%91%98%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            28,
-            19,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时51分 ~ 18时26分]"
-        },
-        {
-          "title": "用户与AI聊黄开发者获刑",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%88%B7%E4%B8%8EAI%E8%81%8A%E9%BB%84%E5%BC%80%E5%8F%91%E8%80%85%E8%8E%B7%E5%88%91%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时51分 ~ 13时31分]"
-        },
-        {
-          "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
-          "url": "https://www.cls.cn/detail/2254799",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时47分 ~ 23时27分]"
-        },
-        {
-          "title": "人形机器人供应商新剑传动冲刺IPO 丝杠产业化提速？",
-          "url": "https://www.cls.cn/detail/2254812",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时26分 ~ 22时27分]"
+          "appearance_count": 1,
+          "time_info": "00时28分"
         },
         {
           "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
           "url": "https://www.cls.cn/detail/2255330",
           "source": "财联社热门",
           "ranks": [
-            10,
-            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
+          "url": "https://wallstreetcn.com/articles/3763068",
+          "source": "华尔街见闻",
+          "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时43分 ~ 23时27分]"
+          "appearance_count": 1,
+          "time_info": "00时28分"
         },
         {
-          "title": "万字解析中国AI产业",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
+          "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
+          "url": "https://www.cls.cn/detail/2255010",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
+          "url": "https://www.cls.cn/detail/2254978",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
+          "url": "https://www.cls.cn/detail/2254799",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
           "source": "bilibili 热搜",
           "ranks": [
-            5,
-            17,
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 13时31分]"
-        },
-        {
-          "title": "摩根大通：AI需求井喷将推动基建与机器人领域并购浪潮",
-          "url": "https://flash.jin10.com/detail/20260112162603543800",
-          "source": "金十数据",
-          "ranks": [
-            2
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时33分"
+          "time_info": "00时28分"
         },
         {
-          "title": "英伟达与礼来制药宣布联合创新AI实验室。 （双方）未来五年将向AI医药实验室投资至多10亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3035434",
+          "title": "Alphabet盘中市值突破4万亿美元，受益于AI热潮",
+          "url": "https://wallstreetcn.com/livenews/3035442",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "AI21 Labs声明称，任何有关公司与英伟达已经开始洽谈收购事宜的报道都是假的。",
-          "url": "https://wallstreetcn.com/livenews/3034762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时23分 ~ 07时20分]"
-        },
-        {
-          "title": "港股AI应用板块午后持续走强，智谱涨超60%，上市三天累计涨幅超110%；MINIMAX-WP涨近30%。",
-          "url": "https://wallstreetcn.com/livenews/3035033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时28分]"
-        },
-        {
-          "title": "1月12日午间收评：深成指、创业板指均涨超1%，商业航天、AI应用方向持续爆发",
-          "url": "https://wallstreetcn.com/livenews/3034956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时50分 ~ 13时31分]"
-        },
-        {
-          "title": "A股三大股指午后均涨超1%，创业板指现涨1.8%，AI应用、文化传媒等板块涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3035027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时28分]"
-        },
-        {
-          "title": "Meta投资核电厂为AI提供电力 核聚变产业链有望迎订单放量",
-          "url": "https://www.cls.cn/detail/2254251",
-          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时27分 ~ 16时33分]"
+          "appearance_count": 1,
+          "time_info": "00时28分"
         },
         {
-          "title": "超7成三甲医生推荐AI医生",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%857%E6%88%90%E4%B8%89%E7%94%B2%E5%8C%BB%E7%94%9F%E6%8E%A8%E8%8D%90AI%E5%8C%BB%E7%94%9F%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "苹果选择谷歌Gemini驱动将于今年面世的AI版Siri",
+          "url": "https://wallstreetcn.com/livenews/3035441",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            25
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 17时33分]"
+          "appearance_count": 1,
+          "time_info": "00时28分"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D93%25%E8%83%9C%E7%8E%87%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时43分 ~ 23时27分]"
-        },
-        {
-          "title": "A股成交额破3.5万亿创新纪录！商业航天涨停潮，恒科指涨2%，智谱大涨30%领涨AI应用，金属再爆发、沪银飙升13%",
-          "url": "https://wallstreetcn.com/articles/3763068",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 15时28分]"
-        },
-        {
-          "title": "张文宏：我拒绝把AI引入医院病历系统，医生需要训练专业诊断能力",
-          "url": "https://wallstreetcn.com/livenews/3035404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时27分 ~ 23时27分]"
-        },
-        {
-          "title": "港股收盘：恒生科技收涨3.10%，科技股、AI应用概念股表现强势",
-          "url": "https://wallstreetcn.com/livenews/3035115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时33分]"
-        },
-        {
-          "title": "市场强势冲高，商业航天再迎利好，AI 应用有望打开新空间",
-          "url": "https://www.cls.cn/detail/2254355",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
-        },
-        {
-          "title": "深成指涨超1%，北证50涨近4%，沪指涨0.52%，创业板指涨0.63%，商业航天、AI应用两大方向领涨市场，沪深京三市上涨个股超3400只。",
-          "url": "https://wallstreetcn.com/livenews/3034939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时51分]"
-        },
-        {
-          "title": "机构扎堆盯上7只AI零售概念股",
-          "url": "https://www.toutiao.com/trending/7593448756495024178/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 15时28分]"
-        },
-        {
-          "title": "上纬新材公告称，公司股票价格自2025年7月以来累计涨幅较大，已严重脱离当前基本面，如未来股价进一步上涨将申请停牌核查。公司具身智能机器人业务仍处产品开发阶段，尚未实现量产及规模化销售，未形成营收及利润，预计不会对2025年度业绩产生正向影响。公司市盈率为728.20倍，显著高于行业平均的30.22倍。公司基本面未发生重大变化，外部流通盘较小，存在非理性炒作风险。",
-          "url": "https://wallstreetcn.com/livenews/3035253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
-          "url": "https://flash.jin10.com/detail/20260112123727337800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "蚂蚁国际和谷歌共推“通用商业协议”，打通“AI购物”全流程",
-          "url": "https://wallstreetcn.com/livenews/3035425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "微软(MSFT.O)：Microsoft Foundry中的Claude增强了面向医疗健康和生命科学客户的能力。",
-          "url": "https://flash.jin10.com/detail/20260112062355901800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "汉得信息：公司AI产品与服务业务目前尚处起步阶段，仍不占整体营业收入的主体",
-          "url": "https://wallstreetcn.com/livenews/3035176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "疑似LOL马斯克AI英雄有多强",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BCLOL%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%8B%B1%E9%9B%84%E6%9C%89%E5%A4%9A%E5%BC%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "以“AI+制造”为抓手，上海寻找下一个十年增长动力",
-          "url": "https://wallstreetcn.com/livenews/3034780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "【午报】创业板指探底回升涨超1%，两市成交额半日突破2.3万亿，商业航天、AI应用持续爆发",
-          "url": "https://www.cls.cn/detail/2254556",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "野村证券：AI网络设备供应商或迎持续强劲需求",
-          "url": "https://flash.jin10.com/detail/20260112123157179800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "为什么 Claude 的代码能力会这么强？",
-          "url": "https://www.zhihu.com/question/1914086301076029991",
-          "source": "知乎",
-          "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时49分"
+          "time_info": "00时28分"
         },
         {
-          "title": "目前围绕 AI 的软件工程领域主要有 mlops，mlsys，AI infra，他们三者的区别是什么呢？",
-          "url": "https://www.zhihu.com/question/650309846",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "META任命前特朗普顾问Dina Powell McCormick担任新设立的高管职位，负责与政府和投资者合作推动AI发展。",
-          "url": "https://wallstreetcn.com/livenews/3035386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "疑似马斯克AI登顶LOL韩服",
-          "url": "https://www.douyin.com/hot/2364470",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "星环科技：截至本公告披露日，公司并不实际开展商业航天业务且与上海星环聚能科技有限公司无关。公司目前正就AI数据库等相关技术开展前期研发与联合调优，上述工作尚处于初期探索阶段，相关技术方案、应用场景及市场效益均存在不确定性，暂未对公司业绩产生重大影响。",
-          "url": "https://wallstreetcn.com/livenews/3035220",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "值得买：公司注意到近期市场对MiniMax相关概念关注度较高，部分平台将公司股票纳入MiniMax概念股。MiniMax旗下大模型产品海螺AI现已接入值得买“消费大模型增强工具集”，基于海螺AI比价策略，用户可通过海螺AI“悬浮球”功能实现快速比价及跳转购买。目前，该合作事项对公司当前主营业务未构成实质性影响。",
-          "url": "https://wallstreetcn.com/livenews/3035215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "荣耀Magic8 Pro Air真机曝光",
-          "url": "https://www.toutiao.com/trending/7593289511980843051/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "恒为科技：公司关注到近期AI应用概念市场热度较高，公司不涉及AI应用相关业务。",
-          "url": "https://wallstreetcn.com/livenews/3035208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济 房地产 收入",
-      "match_count": 42,
-      "titles": [
-        {
-          "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1993540481494311303",
-          "source": "知乎",
-          "ranks": [
-            6,
-            12,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时49分 ~ 18时26分]"
-        },
-        {
-          "title": "圆脸对话陆铭教授畅聊经济",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E5%AF%B9%E8%AF%9D%E9%99%86%E9%93%AD%E6%95%99%E6%8E%88%E7%95%85%E8%81%8A%E7%BB%8F%E6%B5%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7,
-            9,
-            23,
-            22,
-            14,
-            26,
-            20,
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时25分 ~ 19时21分]"
-        },
-        {
-          "title": "我国新向 ITU 申报超 20 万颗卫星星座，总规模预计超星链，未来太空经济规模会有多大？有何特点？",
-          "url": "https://www.zhihu.com/question/1993714170248593735",
-          "source": "知乎",
-          "ranks": [
-            15,
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时29分 ~ 07时20分]"
-        },
-        {
-          "title": "深度展望2026年经济",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%B1%95%E6%9C%9B2026%E5%B9%B4%E7%BB%8F%E6%B5%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            29,
-            30,
-            22,
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
-          "title": "中衡设计：公司中标了部分商业航天高端制造基地设计项目，但单个项目设计合同额均较小，2025年1-9月公司“商业航天”相关项目累计确认收入约占同期公司合并报表收入的0.39%。2023年，公司出资500万元天使轮投资了火箭生产制造商致航科技，截至目前持有致航科技2.12%股权，致航科技2024年度亏损，2025年前三季度仍处于亏损状态，对公司2025年三季报经营收益没有重大影响。",
-          "url": "https://wallstreetcn.com/livenews/3035267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "瑞银首席经济学家：对美联储独立性的担忧 可能会促使其立场更加偏向鹰派",
-          "url": "https://flash.jin10.com/detail/20260112220539849800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：计划似乎与证词不一致。",
-          "url": "https://flash.jin10.com/detail/20260112203730671800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
-          "title": "理工导航：公司在商业航天应用领域的相关规划目前仅处于业务布局的起步阶段，2025年1-9月业务收入约为154.40万元。",
-          "url": "https://wallstreetcn.com/livenews/3035264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：在适当的时候，我们就会知道这是否只是一个“借口”。",
-          "url": "https://flash.jin10.com/detail/20260112203721327800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
-          "title": "沪电股份：计划在常州市金坛区投资设立全资子公司，投建高密度光电集成线路板的规模化生产线。计划设立的全资子公司注册资本为1亿美元，本项目计划投资总额为3亿美元。本项目全部达产后，预计年新增产能130万片高密度光电集成线路板，预计年新增营业收入20亿元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3035193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "中科星图：公司关注到目前市场对公司商业航天板块业务关注度较高。公司目前主营业务分布仍主要聚焦空天信息服务，低空经济及商业航天为公司业务拓展的两大新兴领域。2025年1-9月，公司商业航天相关收入占整体营业收入比例为13.89%。当前公司股价涨幅与商业航天业务实际业绩支撑不匹配，存在显著脱离基本面的风险。",
-          "url": "https://wallstreetcn.com/livenews/3035261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "震有科技：近期资本市场对“商业航天”“卫星互联网”等概念关注度较高，公司2025年前三季度在卫星互联网领域的收入占整体营业收入的比例约为7.15%，占比较低，未对公司业绩构成重大影响。",
-          "url": "https://wallstreetcn.com/livenews/3035333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
-          "title": "高盛首席经济学家：料美联储仍将依据数据作出决策 不因调查压力而偏颇",
-          "url": "https://flash.jin10.com/detail/20260112180253074800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：美联储大楼翻新工程成本大幅超支。",
-          "url": "https://flash.jin10.com/detail/20260112203708053800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
-          "title": "印度总理莫迪：印度正为了成为第三大经济体而迅速行动。 数据显示全球对印度的预期正在上升，因为印度目前是全球增长最快的大型经济体。",
-          "url": "https://wallstreetcn.com/livenews/3034729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 04时23分]"
-        },
-        {
-          "title": "德国财政部长克林贝尔：我们需要在经济上变得更有弹性。",
-          "url": "https://flash.jin10.com/detail/20260112213100491800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时43分 ~ 22时27分]"
-        },
-        {
-          "title": "中国副财长廖岷称愿同加拿大恢复重启经济财金等领域对话合作",
-          "url": "https://wallstreetcn.com/livenews/3034952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时50分 ~ 13时31分]"
-        },
-        {
-          "title": "【药明康德：预计2025年净利润同比增长约102.65%】药明康德公告，预计2025年度实现营业收入约人民币454.56亿元，同比增长约15.84%；经调整归母净利润约人民币149.57亿元，同比增长约41.33%；归属于股东的净利润约人民币191.51亿元，同比增长约102.65%。",
-          "url": "https://wallstreetcn.com/livenews/3035134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 18时26分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：我未参与司法部处理联邦案件。",
-          "url": "https://flash.jin10.com/detail/20260112203700454800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
-          "title": "信科移动：公司在卫星互联网领域的收入占整体营业收入的比例约为2%～3%，对公司业绩无重大影响，公司卫星互联网业务尚处于投入期。",
-          "url": "https://wallstreetcn.com/livenews/3035188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：尊重美联储的独立性。",
-          "url": "https://flash.jin10.com/detail/20260112203649337800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
-          "title": "上海：积极引导企业投资布局低空经济、商业航天、具身智能、生物制造、智能终端等新兴领域",
-          "url": "https://wallstreetcn.com/livenews/3035017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "对冲基金经理比尔·阿克曼：美国应通过经济增长而非偿还债务来化解债务问题。",
-          "url": "https://flash.jin10.com/detail/20260112091908833800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "创新医疗：公司关注到目前市场对公司脑机接口业务关注度较高。公司控股子公司博灵脑机产品赛博灵科AC5已于2025年10月正式上市销售，2025年共实现收入11.40万元；赛博灵科AM5已完成多中心临床试验，2025年尚未实现收入。2023年、2024年，博灵脑机的经营亏损分别为660.17万元、866.41万元。",
-          "url": "https://wallstreetcn.com/livenews/3035244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "经济日报金观平：坚持把实体经济作为发展着力点",
-          "url": "https://wallstreetcn.com/livenews/3034777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "引力传媒：公司GEO业务尚未形成成熟的商业模式，其市场认可度及盈利模式均存在不确定性，该业务尚未形成相关收入。",
-          "url": "https://wallstreetcn.com/livenews/3035237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "经济学家：美联储独立性受损或影响其他国家政府的偿债能力",
-          "url": "https://flash.jin10.com/detail/20260112105549906800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "两名经济学家预计，印度12月核心消费者价格通胀率将在4.6%至4.63%之间。",
-          "url": "https://flash.jin10.com/detail/20260112184519339800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "高盛首席经济学家哈祖斯：关于美联储主席鲍威尔遭刑事调查的最新消息将加剧对美联储独立性的担忧。我的预期是，FOMC将继续根据其法定职责和经济数据作出利率决策。",
-          "url": "https://flash.jin10.com/detail/20260112173749584800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "加拿大至1月9日全国经济信心指数 50.1，前值50。",
-          "url": "https://flash.jin10.com/detail/20260112210908092800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "房地产对中国经济还有多大影响",
-          "url": "https://www.toutiao.com/trending/7594241845736001078/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "哈萨克斯坦经济部：预计2025年GDP增长6.5%，高于2024年的5.0%。",
-          "url": "https://flash.jin10.com/detail/20260112144356860800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "铂力特：商业航天的发展阶段较为前期，未来几年对公司的总营业收入贡献有限，截止2025年9月30日，公司商业航天营业收入占当期公司总收入比例约为3%。",
-          "url": "https://wallstreetcn.com/livenews/3035229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "多邻国：预计第四财季日活跃用户（DAU）同比增长约30%。 预计第四财季初步预订收入处于或略高于3.295亿美元至3.355亿美元区间的高端。 任命Gillian Munson为首席财务官。",
-          "url": "https://wallstreetcn.com/livenews/3035309",
+          "title": "英伟达与礼来制药宣布联合创新AI实验室。 （双方）未来五年将向AI医药实验室投资至多10亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3035434",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时48分"
+          "time_info": "00时28分"
         },
         {
-          "title": "博瑞传播：截至本公告披露日，公司相关GEO业务营业收入为0，暂未产生实质性收益。",
-          "url": "https://wallstreetcn.com/livenews/3035225",
-          "source": "华尔街见闻-快讯",
+          "title": "AI登顶LOL韩服,Faker劲敌来袭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348968&amp;topic_name=AI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%2CFaker%E5%8A%B2%E6%95%8C%E6%9D%A5%E8%A2%AD",
+          "source": "贴吧",
           "ranks": [
-            21
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时21分"
+          "time_info": "00时28分"
         },
         {
-          "title": "*ST岩石：预计2025年度营业收入不足3亿元且扣非前后净利润均为负，将触及财务类终止上市情形。",
-          "url": "https://wallstreetcn.com/livenews/3035308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特（Hassett）：仍有意担任美联储职位。 美联储主席鲍威尔是个好人。 未与鲍威尔讨论过他在理事会留任一事。",
-          "url": "https://wallstreetcn.com/livenews/3035349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "浙文互联：近日，有媒体将公司列为GEO概念股。经自查，公司GEO业务尚未形成成熟的盈利模式，市场认可度及盈利性均存在不确定性，目前尚未形成收入。",
-          "url": "https://wallstreetcn.com/livenews/3035347",
-          "source": "华尔街见闻-快讯",
+          "title": "UP主复盘疑似马斯克AI操作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
+          "source": "bilibili 热搜",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时43分"
+          "time_info": "00时28分"
         },
         {
-          "title": "浙文互联：公司GEO业务尚未形成成熟的盈利模式，目前尚未形成收入",
-          "url": "https://wallstreetcn.com/livenews/3035344",
+          "title": "蚂蚁国际和谷歌共推“通用商业协议”，打通“AI购物”全流程",
+          "url": "https://wallstreetcn.com/livenews/3035425",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "再升科技：向SpaceX供货业务收入占比极低且后续订单存在较大不确定性",
-          "url": "https://wallstreetcn.com/livenews/3035211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "豪能股份：公司部分产品应用于商业航天领域，但该部分业务收入规模极小，对公司主营业务收入不构成重大影响。",
-          "url": "https://wallstreetcn.com/livenews/3035210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特（Hassett）：尊重美联储的独立性。 美联储大楼翻新工程严重超支，相关方案与证词内容不一。 经济繁荣并非因美联储。 我没有参与司法部的美联储案件。 时间会证明这是否只是一个“借口”。 希望美联储案最终一切都没问题。 巨额成本超支看上去与证词不符。",
-          "url": "https://wallstreetcn.com/livenews/3035341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
+          "time_info": "00时28分"
         }
       ]
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "毛宁分享空中发电站 外国网友惊叹",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%9B%E5%AE%81%E5%88%86%E4%BA%AB%E7%A9%BA%E4%B8%AD%E5%8F%91%E7%94%B5%E7%AB%99+%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%83%8A%E5%8F%B9",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            5,
-            15,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时26分 ~ 23时27分]"
-        },
-        {
-          "title": "PVC夜盘收涨1.52%，棕榈油涨1.43%，棉花、玉米、豆一、棉纱、豆油、豆二、橡胶、豆粕、菜油、菜粕、20号胶、苯乙烯等至多涨0.82%。 焦炭则跌约0.4%，焦煤跌0.6%，铁矿石跌0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3035433",
+          "title": "我国发电装备制造关键核心技术取得重大突破",
+          "url": "https://wallstreetcn.com/livenews/3035438",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "中国“空中发电站”引外国网友惊叹",
-          "url": "https://www.toutiao.com/trending/7594081442154561555/",
-          "source": "今日头条",
-          "ranks": [
-            29
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时43分"
+          "time_info": "00时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济 房地产 收入",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "路透调查显示，俄罗斯经济将在2026年增长1.1%。",
+          "url": "https://flash.jin10.com/detail/20260112235210846800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
         }
       ]
     }
