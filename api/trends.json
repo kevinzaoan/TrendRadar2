@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T17:29:10.904335+08:00",
-  "total_titles_processed": 1517,
+  "generated_at": "2026-01-13T18:25:09.284975+08:00",
+  "total_titles_processed": 1581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
@@ -108,17 +108,6 @@
           "time_info": "[00时28分 ~ 07时18分]"
         },
         {
-          "title": "疑似马斯克AI登顶LOL韩服集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时18分]"
-        },
-        {
           "title": "UP主分析AI将如何影响电竞行业",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
           "source": "bilibili 热搜",
@@ -128,11 +117,23 @@
             13,
             15,
             11,
-            17
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时40分 ~ 18时25分]"
+        },
+        {
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[12时40分 ~ 17时29分]"
+          "time_info": "[00时28分 ~ 07时18分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -149,8 +150,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时28分 ~ 17时29分]"
+          "appearance_count": 24,
+          "time_info": "[00时28分 ~ 18时25分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -204,6 +205,20 @@
           "time_info": "[00时28分 ~ 15时25分]"
         },
         {
+          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
+          "url": "https://www.cls.cn/detail/2255695",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时34分 ~ 18时25分]"
+        },
+        {
           "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
           "url": "https://m.thepaper.cn/newsDetail_forward_32368937",
           "source": "澎湃新闻",
@@ -215,6 +230,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时26分 ~ 09时41分]"
+        },
+        {
+          "title": "中国核聚变装置融入AI技术",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 18时25分]"
         },
         {
           "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
@@ -229,18 +255,32 @@
           "time_info": "[09时41分 ~ 13时26分]"
         },
         {
-          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
-          "url": "https://www.cls.cn/detail/2255695",
+          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
+          "url": "https://www.cls.cn/detail/2255873",
           "source": "财联社热门",
           "ranks": [
             13,
-            11,
+            8,
             7,
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[14时34分 ~ 17时29分]"
+          "time_info": "[15时25分 ~ 18时25分]"
+        },
+        {
+          "title": "张文宏称拒绝将AI引入医院病历系统",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%8B%92%E7%BB%9D%E5%B0%86AI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            9,
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时25分 ~ 18时25分]"
         },
         {
           "title": "扎克伯格启动Meta Compute项目 2030年前狂建数十吉瓦AI基建",
@@ -256,15 +296,15 @@
           "time_info": "[09时41分 ~ 14时35分]"
         },
         {
-          "title": "中国核聚变装置融入AI技术",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
+          "title": "EDG官宣Maokai回归",
+          "url": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3Maokai%E5%9B%9E%E5%BD%92",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
+          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
@@ -289,6 +329,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时40分 ~ 15时25分]"
+        },
+        {
+          "title": "AI引爆存储芯片需求！SK海力士将豪掷近130亿美元建设封装厂",
+          "url": "https://www.cls.cn/detail/2255787",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 18时25分]"
         },
         {
           "title": "AI应用方向延续强势，引力传媒7天6板，易点天下、卓易信息、迪安诊断、利欧股份、省广集团均3连板。",
@@ -326,32 +378,6 @@
           "time_info": "16时32分"
         },
         {
-          "title": "张文宏称拒绝将AI引入医院病历系统",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%8B%92%E7%BB%9D%E5%B0%86AI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时25分 ~ 17时29分]"
-        },
-        {
-          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
-          "url": "https://www.cls.cn/detail/2255873",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时25分 ~ 17时29分]"
-        },
-        {
           "title": "港股AI应用概念股回调，智谱午后持续下挫，跌超13%，MINIMAX跌超8%。",
           "url": "https://wallstreetcn.com/livenews/3035821",
           "source": "华尔街见闻-快讯",
@@ -364,16 +390,15 @@
           "time_info": "[13时26分 ~ 14时35分]"
         },
         {
-          "title": "AI引爆存储芯片需求！SK海力士将豪掷近130亿美元建设封装厂",
-          "url": "https://www.cls.cn/detail/2255787",
-          "source": "财联社热门",
+          "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
+          "url": "https://www.zhihu.com/question/1994352106249873378",
+          "source": "知乎",
           "ranks": [
-            11,
-            10
+            20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时31分 ~ 17时29分]"
+          "time_info": "[17时28分 ~ 18时25分]"
         },
         {
           "title": "英伟达和礼来成立AI药物实验室 AI驱动医疗产业形成新增长极",
@@ -399,6 +424,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时32分 ~ 17时29分]"
+        },
+        {
+          "title": "韩服马斯克AI事件疑点解析",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E9%A9%AC%E6%96%AF%E5%85%8BAI%E4%BA%8B%E4%BB%B6%E7%96%91%E7%82%B9%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "追赶AI浪潮 Meta斥资数百亿打造全球顶级算力版图",
@@ -437,6 +473,17 @@
           "time_info": "[02时33分 ~ 03时21分]"
         },
         {
+          "title": "【焦点复盘】科创50低开低走跌近3%，全市场超500股跌超5%，AI医疗概念强势依旧",
+          "url": "https://www.cls.cn/detail/2256259",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
+        },
+        {
           "title": "美防长称马斯克旗下AI聊天机器人将接入五角大楼系统",
           "url": "https://wallstreetcn.com/livenews/3035759",
           "source": "华尔街见闻-快讯",
@@ -459,17 +506,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时41分 ~ 13时26分]"
-        },
-        {
-          "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
-          "url": "https://www.zhihu.com/question/1994352106249873378",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
         },
         {
           "title": "苹果官宣iPhone将搭载最强AI",
@@ -629,8 +665,19 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "欧洲央行管委科赫尔：央行独立性对经济稳定至关重要。",
+          "url": "https://flash.jin10.com/detail/20260113180159329800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
         {
           "title": "美联储威廉姆斯：美国2026年经济增长率可能在2.5%至2.75%之间。",
           "url": "https://flash.jin10.com/detail/20260113070259299800",
@@ -676,16 +723,28 @@
           "time_info": "14时35分"
         },
         {
+          "title": "太子集团在柬埔寨的房地产项目被禁止销售",
+          "url": "https://news.ifeng.com/c/8psqNg8tozg",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 18时25分]"
+        },
+        {
           "title": "2025年全国营业性演出票房收入同比增长6.39%",
           "url": "https://wallstreetcn.com/livenews/3035947",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 17时29分]"
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 18时25分]"
         },
         {
           "title": "日本12月经济观察家现况指数 48.6，预期 48.7，前值 48.7。",
@@ -698,17 +757,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时26分 ~ 14时35分]"
-        },
-        {
-          "title": "太子集团在柬埔寨的房地产项目被禁止销售",
-          "url": "https://news.ifeng.com/c/8psqNg8tozg",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
         },
         {
           "title": "日本12月经济观察家前景指数 50.5，预期 50.2，前值 50.3。",
@@ -790,6 +838,17 @@
           "time_info": "14时35分"
         },
         {
+          "title": "阿联酋与菲律宾签署全面经济伙伴关系协定。",
+          "url": "https://flash.jin10.com/detail/20260113174932905800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "日本经济财政大臣城内实：目前日本经济尚未达到可以宣布摆脱通缩状态的程度。 我们需要仔细观察包括工资增长可持续性等各种因素，以确保日本不会再次陷入通缩。",
           "url": "https://wallstreetcn.com/livenews/3035848",
           "source": "华尔街见闻-快讯",
@@ -799,6 +858,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
+        },
+        {
+          "title": "德国批发商协会表示，鉴于去年市场停滞不前，今年他们预计销售额将小幅增长0.7%。这一情况表明，欧洲最大的经济体所面临的结构性问题需要的不仅仅是依靠债务融资来解决，还需要其他措施。",
+          "url": "https://flash.jin10.com/detail/20260113173756603800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "宝盛银行经济学家：尽管利率差距有所缩小 日元料仍将保持疲软态势",
+          "url": "https://flash.jin10.com/detail/20260113173007834800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "美联储威廉姆斯：目前的经济形势相当不错。",
