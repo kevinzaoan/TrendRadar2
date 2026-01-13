@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T21:42:25.363659+08:00",
-  "total_titles_processed": 1916,
+  "generated_at": "2026-01-13T22:26:43.295840+08:00",
+  "total_titles_processed": 2015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
@@ -101,11 +101,25 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时28分 ~ 21时42分]"
+          "appearance_count": 10,
+          "time_info": "[17时28分 ~ 22时26分]"
+        },
+        {
+          "title": "技术拆解疑似马斯克AI账号",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时20分 ~ 22时26分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -120,33 +134,18 @@
           "time_info": "[00时28分 ~ 07时18分]"
         },
         {
-          "title": "UP主分析AI将如何影响电竞行业",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
+          "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
+          "url": "https://www.zhihu.com/question/1994352106249873378",
+          "source": "知乎",
           "ranks": [
-            12,
-            16,
-            13,
+            20,
+            18,
             15,
-            11,
-            17,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时40分 ~ 19时21分]"
-        },
-        {
-          "title": "疑似马斯克AI登顶LOL韩服集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时18分]"
+          "time_info": "[17时28分 ~ 22时26分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -161,11 +160,42 @@
             14,
             12,
             13,
-            20
+            20,
+            11
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时28分 ~ 21时42分]"
+          "appearance_count": 30,
+          "time_info": "[00时28分 ~ 22时26分]"
+        },
+        {
+          "title": "UP主分析AI将如何影响电竞行业",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            16,
+            13,
+            15,
+            11,
+            17,
+            14,
+            29,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[12时40分 ~ 22时26分]"
+        },
+        {
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时18分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -219,18 +249,6 @@
           "time_info": "[00时28分 ~ 15时25分]"
         },
         {
-          "title": "技术拆解疑似马斯克AI账号",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时20分 ~ 21时42分]"
-        },
-        {
           "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
           "url": "https://www.cls.cn/detail/2255695",
           "source": "财联社热门",
@@ -259,18 +277,45 @@
           "time_info": "[15时25分 ~ 19时21分]"
         },
         {
-          "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
-          "url": "https://www.zhihu.com/question/1994352106249873378",
-          "source": "知乎",
+          "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
+          "url": "https://www.cls.cn/detail/2256264",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            18,
-            15,
-            9
+            10,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时28分 ~ 21时42分]"
+          "appearance_count": 6,
+          "time_info": "[19时20分 ~ 22时26分]"
+        },
+        {
+          "title": "EDG官宣Maokai回归",
+          "url": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3Maokai%E5%9B%9E%E5%BD%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8,
+            25,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时24分 ~ 22时26分]"
+        },
+        {
+          "title": "事关AI应用、GEO概念，上市公司密集回应",
+          "url": "https://www.cls.cn/detail/2256448",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时47分 ~ 22时26分]"
         },
         {
           "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
@@ -286,30 +331,19 @@
           "time_info": "[04时26分 ~ 09时41分]"
         },
         {
-          "title": "EDG官宣Maokai回归",
-          "url": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3Maokai%E5%9B%9E%E5%BD%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            8,
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时24分 ~ 21时42分]"
-        },
-        {
-          "title": "事关AI应用、GEO概念，上市公司密集回应",
-          "url": "https://www.cls.cn/detail/2256448",
+          "title": "【焦点复盘】科创50低开低走跌近3%，全市场超500股跌超5%，AI医疗概念强势依旧",
+          "url": "https://www.cls.cn/detail/2256259",
           "source": "财联社热门",
           "ranks": [
-            3,
-            2
+            13,
+            12,
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时47分 ~ 21时42分]"
+          "appearance_count": 8,
+          "time_info": "[18时24分 ~ 22时26分]"
         },
         {
           "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
@@ -336,32 +370,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时25分 ~ 18时25分]"
-        },
-        {
-          "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
-          "url": "https://www.cls.cn/detail/2256264",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时20分 ~ 21时42分]"
-        },
-        {
-          "title": "【焦点复盘】科创50低开低走跌近3%，全市场超500股跌超5%，AI医疗概念强势依旧",
-          "url": "https://www.cls.cn/detail/2256259",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时24分 ~ 21时42分]"
         },
         {
           "title": "扎克伯格启动Meta Compute项目 2030年前狂建数十吉瓦AI基建",
@@ -722,6 +730,17 @@
           "time_info": "19时21分"
         },
         {
+          "title": "微软：推出以社区为核心的AI基础设施新举措。 将投资新的合作伙伴关系，为当地居民在建设和运营阶段提供技能培训和就业机会。 将要求公用事业公司和公共委员会将我们的费率设定得足够高，以覆盖数据中心的电力成本。",
+          "url": "https://wallstreetcn.com/livenews/3036210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "英伟达与礼来制药宣布联合创新AI实验室。 （双方）未来五年将向AI医药实验室投资至多10亿美元。",
           "url": "https://wallstreetcn.com/livenews/3035434",
           "source": "华尔街见闻-快讯",
@@ -780,18 +799,19 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "太子集团在柬埔寨的房地产项目被禁止销售",
           "url": "https://news.ifeng.com/c/8psqNg8tozg",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时28分 ~ 21时42分]"
+          "appearance_count": 10,
+          "time_info": "[17时28分 ~ 22时26分]"
         },
         {
           "title": "欧洲央行管委科赫尔：央行独立性对经济稳定至关重要。",
@@ -948,7 +968,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1069,7 +1089,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1083,6 +1103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "银发经济成就业新蓝海",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%8F%91%E7%BB%8F%E6%B5%8E%E6%88%90%E5%B0%B1%E4%B8%9A%E6%96%B0%E8%93%9D%E6%B5%B7%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "摩根大通：预计2026财年净利息收入约为1030亿美元，市场预期为1003.8亿美元。 预计2026财年剔除企业与投资银行市场部门后的净利息收入约为950亿美元。 预计2026财年信用卡业务净冲销率约为3.4%。 预计2026财年调整后支出约为1050亿美元。",
@@ -1318,7 +1349,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         }
