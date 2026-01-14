@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T14:35:44.023022+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-01-14T15:26:40.302590+08:00",
+  "total_titles_processed": 1374,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时33分 ~ 12时47分]"
+        },
+        {
+          "title": "重要突破！我国首台海底地层空间钻探与监测机器人研发成功",
+          "url": "https://www.cls.cn/detail/2256891",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 15时26分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
@@ -76,11 +89,12 @@
             24,
             23,
             21,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 13时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 15时26分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -97,21 +111,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 14时35分]"
-        },
-        {
-          "title": "重要突破！我国首台海底地层空间钻探与监测机器人研发成功",
-          "url": "https://www.cls.cn/detail/2256891",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 14时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 15时26分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -137,8 +138,23 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 14时35分]"
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 15时26分]"
+        },
+        {
+          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 15时26分]"
         },
         {
           "title": "【阿里云2026年目标：拿下中国AI云市场增量的80%】“阿里云的目标是拿下2026年中国AI云市场增量的80%。” 阿里云智能集团资深副总裁、公共云事业部总裁刘伟光说，但是下一年增量的10%都会大于上一年的全量。所以过去取得了什么成绩并不重要，变化才刚刚开始。（晚点LatePost）",
@@ -163,20 +179,6 @@
           "time_info": "07时20分"
         },
         {
-          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 14时35分]"
-        },
-        {
           "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
           "url": "https://www.cls.cn/detail/2256809",
           "source": "财联社热门",
@@ -189,6 +191,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时48分 ~ 14时35分]"
+        },
+        {
+          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
+          "url": "https://www.zhihu.com/question/1994088546865284778",
+          "source": "知乎",
+          "ranks": [
+            18,
+            15,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时48分 ~ 15时26分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -226,18 +242,27 @@
           "time_info": "[11时48分 ~ 12时47分]"
         },
         {
-          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
-          "url": "https://www.zhihu.com/question/1994088546865284778",
-          "source": "知乎",
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            18,
-            15,
             13,
-            10
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时48分 ~ 14时35分]"
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 15时26分]"
+        },
+        {
+          "title": "智元机器人“机械手”专利获授权 人形机器人产业发展加速",
+          "url": "https://www.cls.cn/detail/2256908",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 15时26分]"
         },
         {
           "title": "EDG官宣Maokai回归",
@@ -261,28 +286,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时48分 ~ 12时47分]"
-        },
-        {
-          "title": "韩服登顶账号是AI操作的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 14时35分]"
-        },
-        {
-          "title": "智元机器人“机械手”专利获授权 人形机器人产业发展加速",
-          "url": "https://www.cls.cn/detail/2256908",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 14时35分]"
         },
         {
           "title": "马斯克：电力是AI时代唯一的“军备”",
@@ -431,8 +434,20 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "高校教师的社会地位和收入都处在普通水平，为什么却会成为压力最大的职业之一？",
+          "url": "https://www.zhihu.com/question/1993016651038364760",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 15时26分]"
+        },
         {
           "title": "太子集团在柬埔寨的房地产项目被禁止销售",
           "url": "https://news.ifeng.com/c/8psqNg8tozg",
@@ -460,18 +475,6 @@
           "time_info": "[01时27分 ~ 11时48分]"
         },
         {
-          "title": "高校教师的社会地位和收入都处在普通水平，为什么却会成为压力最大的职业之一？",
-          "url": "https://www.zhihu.com/question/1993016651038364760",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 14时35分]"
-        },
-        {
           "title": "狗主人已接受高校提供的经济补偿",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8B%97%E4%B8%BB%E4%BA%BA%E5%B7%B2%E6%8E%A5%E5%8F%97%E9%AB%98%E6%A0%A1%E6%8F%90%E4%BE%9B%E7%9A%84%E7%BB%8F%E6%B5%8E%E8%A1%A5%E5%81%BF%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -487,13 +490,35 @@
           "time_info": "[01时27分 ~ 09时48分]"
         },
         {
+          "title": "预告：国新办1月15日就货币金融政策支持实体经济高质量发展成效举行新闻发布会",
+          "url": "https://wallstreetcn.com/livenews/3036766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "多地低空经济开年起飞",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E%E5%BC%80%E5%B9%B4%E8%B5%B7%E9%A3%9E%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "“钟才平”“钟才文”发文后，《人民日报》又开经济评论新专栏",
           "url": "https://wallstreetcn.com/livenews/3036715",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -632,9 +657,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
+        },
+        {
+          "title": "房贷贴息呼声再起，“1年700亿可撬动280万亿居民房地产资产”？银行业内：可行性很低",
+          "url": "https://www.cls.cn/detail/2257323",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "【2025年汽车产销量再创历史新高 连续17年稳居全球第一】中国汽车工业协会今天（14日）发布的最新数据显示，2025年，我国汽车行业继续展现出强大的发展韧性和活力，多项经济指标再创新高。2025年，汽车产销量分别为3453.1万辆和3440万辆，同比分别增长10.4%和9.4%，产销量再创历史新高，连续17年稳居全球第一。新动能加快释放，新能源汽车产销量超1600万辆，其中国内新车销量占比超50%，成为我国汽车市场主导力量。在对外贸易方面，呈现出较强韧性，汽车出口超700万辆，出口规模再上新台阶。其中，新能源汽车出口261.5万辆，同比增长1倍。（央视）",
@@ -643,7 +679,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -687,7 +723,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
