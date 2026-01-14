@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T22:26:30.183524+08:00",
-  "total_titles_processed": 2105,
+  "generated_at": "2026-01-14T23:27:30.508160+08:00",
+  "total_titles_processed": 2206,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 53,
+      "match_count": 59,
       "titles": [
         {
           "title": "高校教师的社会地位和收入都处在普通水平，为什么却会成为压力最大的职业之一？",
@@ -43,8 +43,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时26分 ~ 22时26分]"
+          "appearance_count": 12,
+          "time_info": "[15时26分 ~ 23时27分]"
         },
         {
           "title": "太子集团在柬埔寨的房地产项目被禁止销售",
@@ -86,6 +86,28 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时27分 ~ 09时48分]"
+        },
+        {
+          "title": "8图看经济工作8大重点任务攻坚",
+          "url": "https://s.weibo.com/weibo?q=%238%E5%9B%BE%E7%9C%8B%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C8%E5%A4%A7%E9%87%8D%E7%82%B9%E4%BB%BB%E5%8A%A1%E6%94%BB%E5%9D%9A%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时27分]"
+        },
+        {
+          "title": "美联储保尔森：目前美国经济并非方方面面都很好。",
+          "url": "https://flash.jin10.com/detail/20260114225435193800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "全球央行行长：央行的独立性是价格、金融和经济稳定的基石，符合我们所服务的公民的利益。 我们完全支美联储及其主席鲍威尔。",
@@ -141,17 +163,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
-        },
-        {
-          "title": "8图看经济工作8大重点任务攻坚",
-          "url": "https://s.weibo.com/weibo?q=%238%E5%9B%BE%E7%9C%8B%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C8%E5%A4%A7%E9%87%8D%E7%82%B9%E4%BB%BB%E5%8A%A1%E6%94%BB%E5%9D%9A%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
         },
         {
           "title": "花旗集团：第四季度FICC销售与交易收入为34.6亿美元，市场预期为32.9亿美元。 第四季度股票销售与交易收入为10.8亿美元，市场预期为11.6亿美元。 第四季度银行业务收入为22.1亿美元，市场预期为20亿美元。 第四季度投行业务收入为12.7亿美元。 第四季度总收入为198.7亿美元；每股收益为1.19美元。 花旗美股盘前一度涨0.5%，现跌超1.7%。",
@@ -350,6 +361,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "世界经济论坛报告：地缘经济对抗是2026年首要风险",
+          "url": "https://wallstreetcn.com/livenews/3037153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "印尼财长：印尼经济基础雄厚，吸引资本流入。",
           "url": "https://flash.jin10.com/detail/20260114110420084800",
           "source": "金十数据",
@@ -427,6 +449,17 @@
           "time_info": "21时41分"
         },
         {
+          "title": "美国费城联储主席Anna Paulson：FOMC在2026年稍晚适度降息可能是适宜的。 当前的联邦基金利率水平略微具有限制性。 通胀温和，劳动力市场趋于稳定，经济有望增长2%。 正为了判断关税造成的价格上涨而观察1月数据。 最新CPI数据发布后，仍然对通胀（进展）保持谨慎的乐观情绪。 到2026年年底，预计三个月期通胀将接近2%。",
+          "url": "https://wallstreetcn.com/livenews/3037147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "加拿大贸易部长：与阿联酋就《全面经济伙伴关系协定》（CEPA）的谈判将于下月启动。",
           "url": "https://flash.jin10.com/detail/20260113235644836800",
           "source": "金十数据",
@@ -480,6 +513,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "2026年FOMC票委、费城联储主席保尔森将于十分钟后就经济前景发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260114224000001800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "美国银行：我们预计未来一年经济将继续增长。",
@@ -548,6 +592,17 @@
           "time_info": "20时46分"
         },
         {
+          "title": "花旗集团美股盘初一度涨约1.5%，该公司四季度并购佣金收入飙升84%，为创纪录的投行业务之年画上句号。",
+          "url": "https://wallstreetcn.com/livenews/3037138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "美国总统特朗普：过去，经济形势好的时候利率就会下降。",
           "url": "https://flash.jin10.com/detail/20260114031226602800",
           "source": "金十数据",
@@ -603,6 +658,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "马光远：2026年房地产大概率见底",
+          "url": "https://www.toutiao.com/trending/7594701672845836307/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "美国总统特朗普：将在底特律谈论经济。",
           "url": "https://flash.jin10.com/detail/20260113233358056800",
           "source": "金十数据",
@@ -617,7 +683,7 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -637,11 +703,12 @@
           "ranks": [
             4,
             5,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时31分 ~ 22时26分]"
+          "appearance_count": 11,
+          "time_info": "[16时31分 ~ 23时27分]"
         },
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -658,8 +725,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时48分 ~ 22时26分]"
+          "appearance_count": 17,
+          "time_info": "[09时48分 ~ 23时27分]"
         },
         {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
@@ -671,8 +738,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时31分 ~ 22时26分]"
+          "appearance_count": 11,
+          "time_info": "[16时31分 ~ 23时27分]"
         },
         {
           "title": "重要突破！我国首台海底地层空间钻探与监测机器人研发成功",
@@ -761,11 +828,12 @@
             29,
             30,
             23,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 21时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 23时27分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -872,6 +940,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
+        },
+        {
+          "title": "浙江用AI抓出贪官",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "重要突破！我国首台海底地层空间钻探与监测机器人研发成功",
@@ -1097,7 +1176,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
