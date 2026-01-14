@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T11:48:22.736499+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-01-14T12:47:32.461313+08:00",
+  "total_titles_processed": 1112,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -27,11 +27,12 @@
             1,
             25,
             13,
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 11时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 12时47分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
@@ -73,11 +74,12 @@
             14,
             16,
             24,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 11时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 12时47分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -120,8 +122,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 12时47分]"
         },
         {
           "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
@@ -131,8 +133,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 12时47分]"
         },
         {
           "title": "【阿里云2026年目标：拿下中国AI云市场增量的80%】“阿里云的目标是拿下2026年中国AI云市场增量的80%。” 阿里云智能集团资深副总裁、公共云事业部总裁刘伟光说，但是下一年增量的10%都会大于上一年的全量。所以过去取得了什么成绩并不重要，变化才刚刚开始。（晚点LatePost）",
@@ -141,7 +143,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -155,17 +157,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "1月14日午间收评：创业板指半日涨超2%，AI应用方向持续爆发",
-          "url": "https://wallstreetcn.com/livenews/3036629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -191,6 +182,44 @@
           "time_info": "[05时22分 ~ 06时22分]"
         },
         {
+          "title": "1月14日午间收评：创业板指半日涨超2%，AI应用方向持续爆发",
+          "url": "https://wallstreetcn.com/livenews/3036629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 12时47分]"
+        },
+        {
+          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 12时47分]"
+        },
+        {
+          "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
+          "url": "https://www.cls.cn/detail/2256809",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 12时47分]"
+        },
+        {
           "title": "EDG官宣Maokai回归",
           "url": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3Maokai%E5%9B%9E%E5%BD%92",
           "source": "bilibili 热搜",
@@ -202,28 +231,28 @@
           "time_info": "[00时33分 ~ 02时32分]"
         },
         {
-          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
-          "source": "澎湃新闻",
+          "title": "阿里巴巴：1月15日10:00将召开千问APP发布会，见证AI如何“开启办事时代”。",
+          "url": "https://wallstreetcn.com/livenews/3036624",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            10
+            6,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时48分]"
+          "time_info": "[11时48分 ~ 12时47分]"
         },
         {
-          "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
-          "url": "https://www.cls.cn/detail/2256809",
-          "source": "财联社热门",
+          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
+          "url": "https://www.zhihu.com/question/1994088546865284778",
+          "source": "知乎",
           "ranks": [
-            11,
-            10
+            18,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时48分]"
+          "time_info": "[11时48分 ~ 12时47分]"
         },
         {
           "title": "马斯克：电力是AI时代唯一的“军备”",
@@ -235,17 +264,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
-        },
-        {
-          "title": "阿里巴巴：1月15日10:00将召开千问APP发布会，见证AI如何“开启办事时代”。",
-          "url": "https://wallstreetcn.com/livenews/3036624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
         },
         {
           "title": "【焦点复盘】科创50低开低走跌近3%，全市场超500股跌超5%，AI医疗概念强势依旧",
@@ -292,6 +310,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "智元机器人“机械手”专利获授权 人形机器人产业发展加速",
+          "url": "https://www.cls.cn/detail/2256908",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "Salesforce发布Slack的升级版功能Slackbot，由Anthropic的AI模型提供支持。",
           "url": "https://wallstreetcn.com/livenews/3036304",
           "source": "华尔街见闻-快讯",
@@ -314,15 +343,15 @@
           "time_info": "00时33分"
         },
         {
-          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
-          "url": "https://www.zhihu.com/question/1994088546865284778",
-          "source": "知乎",
+          "title": "阿里云2026年目标：拿下中国AI云市场增量的80%",
+          "url": "https://wallstreetcn.com/livenews/3036634",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "12时47分"
         },
         {
           "title": "花旗：快手旗下可灵AI的12月收入高于预期 预示公司今年营收前景稳健",
@@ -342,7 +371,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -364,7 +393,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -383,7 +412,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "太子集团在柬埔寨的房地产项目被禁止销售",
@@ -435,8 +464,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 12时47分]"
         },
         {
           "title": "得益于关税收入激增，2025年美国财政赤字缩减至1.7万亿美元",
@@ -475,6 +504,18 @@
           "time_info": "[04时26分 ~ 05时22分]"
         },
         {
+          "title": "六大经济部委释放2026关键信号",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AD%E5%A4%A7%E7%BB%8F%E6%B5%8E%E9%83%A8%E5%A7%94%E9%87%8A%E6%94%BE2026%E5%85%B3%E9%94%AE%E4%BF%A1%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 12时47分]"
+        },
+        {
           "title": "美国总统特朗普：（谈对伊朗的援助）经济上我们不会提供帮助。",
           "url": "https://flash.jin10.com/detail/20260114045823994800",
           "source": "金十数据",
@@ -497,6 +538,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "创造营卡位选手自曝长期无收入",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%9B%E9%80%A0%E8%90%A5%E5%8D%A1%E4%BD%8D%E9%80%89%E6%89%8B%E8%87%AA%E6%9B%9D%E9%95%BF%E6%9C%9F%E6%97%A0%E6%94%B6%E5%85%A5&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "法国央行：预计第四季度经济增长“至少”为0.2%。",
           "url": "https://flash.jin10.com/detail/20260114030128590800",
           "source": "金十数据",
@@ -508,13 +560,24 @@
           "time_info": "03时21分"
         },
         {
+          "title": "日本央行行长植田和男：如果经济前景实现，将继续加息。 正确的政策调整将带来更长期的经济增长。 薪资和物价可能继续温和上升。",
+          "url": "https://wallstreetcn.com/livenews/3036653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "印尼财长：印尼经济基础雄厚，吸引资本流入。",
           "url": "https://flash.jin10.com/detail/20260114110420084800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -561,17 +624,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
-        },
-        {
-          "title": "六大经济部委释放2026关键信号",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AD%E5%A4%A7%E7%BB%8F%E6%B5%8E%E9%83%A8%E5%A7%94%E9%87%8A%E6%94%BE2026%E5%85%B3%E9%94%AE%E4%BF%A1%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
         },
         {
           "title": "美国总统特朗普：过去，经济形势好的时候利率就会下降。",
@@ -641,7 +693,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         }
