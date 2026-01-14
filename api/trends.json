@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T12:47:32.461313+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2026-01-14T13:25:20.686309+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -75,11 +75,12 @@
             16,
             24,
             23,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 12时47分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 13时25分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -95,8 +96,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 11时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 13时25分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -119,22 +120,24 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 12时47分]"
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 13时25分]"
         },
         {
           "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
           "url": "https://www.zhihu.com/question/1994009798958657948",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 12时47分]"
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 13时25分]"
         },
         {
           "title": "【阿里云2026年目标：拿下中国AI云市场增量的80%】“阿里云的目标是拿下2026年中国AI云市场增量的80%。” 阿里云智能集团资深副总裁、公共云事业部总裁刘伟光说，但是下一年增量的10%都会大于上一年的全量。所以过去取得了什么成绩并不重要，变化才刚刚开始。（晚点LatePost）",
@@ -194,6 +197,20 @@
           "time_info": "[11时48分 ~ 12时47分]"
         },
         {
+          "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
+          "url": "https://www.cls.cn/detail/2256809",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 13时25分]"
+        },
+        {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
           "source": "澎湃新闻",
@@ -203,21 +220,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 12时47分]"
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 13时25分]"
         },
         {
-          "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
-          "url": "https://www.cls.cn/detail/2256809",
-          "source": "财联社热门",
+          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
+          "url": "https://www.zhihu.com/question/1994088546865284778",
+          "source": "知乎",
           "ranks": [
-            11,
-            10,
-            8
+            18,
+            15,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时48分 ~ 12时47分]"
+          "time_info": "[11时48分 ~ 13时25分]"
         },
         {
           "title": "EDG官宣Maokai回归",
@@ -237,18 +254,6 @@
           "ranks": [
             6,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 12时47分]"
-        },
-        {
-          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
-          "url": "https://www.zhihu.com/question/1994088546865284778",
-          "source": "知乎",
-          "ranks": [
-            18,
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -310,13 +315,24 @@
           "time_info": "09时48分"
         },
         {
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "智元机器人“机械手”专利获授权 人形机器人产业发展加速",
           "url": "https://www.cls.cn/detail/2256908",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -349,7 +365,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -412,7 +428,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "太子集团在柬埔寨的房地产项目被禁止销售",
@@ -464,8 +480,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 12时47分]"
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 13时25分]"
         },
         {
           "title": "得益于关税收入激增，2025年美国财政赤字缩减至1.7万亿美元",
@@ -478,6 +494,43 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时22分]"
+        },
+        {
+          "title": "六大经济部委释放2026关键信号",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AD%E5%A4%A7%E7%BB%8F%E6%B5%8E%E9%83%A8%E5%A7%94%E9%87%8A%E6%94%BE2026%E5%85%B3%E9%94%AE%E4%BF%A1%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            30,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时48分 ~ 13时25分]"
+        },
+        {
+          "title": "创造营卡位选手自曝长期无收入",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%9B%E9%80%A0%E8%90%A5%E5%8D%A1%E4%BD%8D%E9%80%89%E6%89%8B%E8%87%AA%E6%9B%9D%E9%95%BF%E6%9C%9F%E6%97%A0%E6%94%B6%E5%85%A5&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 13时25分]"
+        },
+        {
+          "title": "日本央行行长植田和男：如果经济前景实现，将继续加息。 正确的政策调整将带来更长期的经济增长。 薪资和物价可能继续温和上升。",
+          "url": "https://wallstreetcn.com/livenews/3036653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 13时25分]"
         },
         {
           "title": "Hudson River 2025年交易收入估计创纪录，达123亿美元。（彭博）",
@@ -504,18 +557,6 @@
           "time_info": "[04时26分 ~ 05时22分]"
         },
         {
-          "title": "六大经济部委释放2026关键信号",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AD%E5%A4%A7%E7%BB%8F%E6%B5%8E%E9%83%A8%E5%A7%94%E9%87%8A%E6%94%BE2026%E5%85%B3%E9%94%AE%E4%BF%A1%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 12时47分]"
-        },
-        {
           "title": "美国总统特朗普：（谈对伊朗的援助）经济上我们不会提供帮助。",
           "url": "https://flash.jin10.com/detail/20260114045823994800",
           "source": "金十数据",
@@ -538,15 +579,15 @@
           "time_info": "03时21分"
         },
         {
-          "title": "创造营卡位选手自曝长期无收入",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%9B%E9%80%A0%E8%90%A5%E5%8D%A1%E4%BD%8D%E9%80%89%E6%89%8B%E8%87%AA%E6%9B%9D%E9%95%BF%E6%9C%9F%E6%97%A0%E6%94%B6%E5%85%A5&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "韩国企划财政部长官：将寻求短期措施缓解波动，并努力改善经济基本面。",
+          "url": "https://flash.jin10.com/detail/20260114130052642800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时47分"
+          "time_info": "13时25分"
         },
         {
           "title": "法国央行：预计第四季度经济增长“至少”为0.2%。",
@@ -560,17 +601,6 @@
           "time_info": "03时21分"
         },
         {
-          "title": "日本央行行长植田和男：如果经济前景实现，将继续加息。 正确的政策调整将带来更长期的经济增长。 薪资和物价可能继续温和上升。",
-          "url": "https://wallstreetcn.com/livenews/3036653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
           "title": "印尼财长：印尼经济基础雄厚，吸引资本流入。",
           "url": "https://flash.jin10.com/detail/20260114110420084800",
           "source": "金十数据",
@@ -582,6 +612,17 @@
           "time_info": "11时48分"
         },
         {
+          "title": "日本央行行长植田和男：如果经济和物价发展符合预期，工资和物价温和上涨，将继续加息。",
+          "url": "https://flash.jin10.com/detail/20260114122458716800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "加拿大贸易部长：与阿联酋就《全面经济伙伴关系协定》（CEPA）的谈判将于下月启动。",
           "url": "https://flash.jin10.com/detail/20260113235644836800",
           "source": "金十数据",
@@ -591,6 +632,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "委内瑞拉代总统重返X平台 呼吁经济团结",
+          "url": "https://flash.jin10.com/detail/20260114122241626800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "美国里士满联储主席Barkin：央行独立性有利于促进经济成果。",
