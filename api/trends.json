@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T20:45:52.685890+08:00",
-  "total_titles_processed": 1936,
+  "generated_at": "2026-01-15T21:40:44.251897+08:00",
+  "total_titles_processed": 2026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 54,
+      "match_count": 57,
       "titles": [
         {
           "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
@@ -94,6 +94,19 @@
           "time_info": "[12时41分 ~ 19时21分]"
         },
         {
+          "title": "宇树人形机器人 H2 空中回旋踢将西瓜踢爆，这样高难度的动作完成有多难？有哪些技术值得关注？",
+          "url": "https://www.zhihu.com/question/1993035109318796739",
+          "source": "知乎",
+          "ranks": [
+            15,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时25分 ~ 21时40分]"
+        },
+        {
           "title": "AI查贪官准确率相当高",
           "url": "https://s.weibo.com/weibo?q=%23AI%E6%9F%A5%E8%B4%AA%E5%AE%98%E5%87%86%E7%A1%AE%E7%8E%87%E7%9B%B8%E5%BD%93%E9%AB%98%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -147,11 +160,12 @@
             10,
             19,
             11,
-            9
+            9,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时42分 ~ 20时45分]"
+          "appearance_count": 13,
+          "time_info": "[11时42分 ~ 21时40分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -169,8 +183,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 20时45分]"
+          "appearance_count": 23,
+          "time_info": "[00时31分 ~ 21时40分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -187,24 +201,12 @@
             17,
             14,
             24,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 20时45分]"
-        },
-        {
-          "title": "宇树人形机器人 H2 空中回旋踢将西瓜踢爆，这样高难度的动作完成有多难？有哪些技术值得关注？",
-          "url": "https://www.zhihu.com/question/1993035109318796739",
-          "source": "知乎",
-          "ranks": [
-            15,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时25分 ~ 20时45分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 21时40分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -240,11 +242,25 @@
           "ranks": [
             4,
             3,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时25分 ~ 20时45分]"
+          "appearance_count": 5,
+          "time_info": "[18时25分 ~ 21时40分]"
+        },
+        {
+          "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
+          "url": "https://www.cls.cn/detail/2259059",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时25分 ~ 21时40分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -271,17 +287,15 @@
           "time_info": "04时22分"
         },
         {
-          "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
-          "url": "https://www.cls.cn/detail/2259059",
-          "source": "财联社热门",
+          "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
+          "url": "https://www.zhihu.com/question/1995072589756901062",
+          "source": "知乎",
           "ranks": [
-            9,
-            8,
-            4
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时25分 ~ 20时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "1月15日午间收评：创业板指半日跌超1%，商业航天、AI应用集体退潮",
@@ -392,6 +406,18 @@
           "time_info": "[15时25分 ~ 15时26分]"
         },
         {
+          "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
+          "url": "https://www.cls.cn/detail/2258951",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时40分]"
+        },
+        {
           "title": "【午报】三大指数全线调整，商业航天、AI应用双双熄火，高位人气股集体退潮",
           "url": "https://www.cls.cn/detail/2258510",
           "source": "财联社热门",
@@ -449,15 +475,26 @@
           "time_info": "05时22分"
         },
         {
-          "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
-          "url": "https://www.cls.cn/detail/2258951",
+          "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
+          "url": "https://www.cls.cn/detail/2259073",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时45分"
+          "time_info": "21时40分"
+        },
+        {
+          "title": "贝莱德首席执行官：贝莱德与微软的AI合作已筹集125亿美元，目标为300亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3038018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "美联储卡什卡利：目前大多数企业的AI应用仍处于实验阶段，尚未导致裁员。",
@@ -543,7 +580,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -598,7 +635,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -683,7 +720,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
         {
           "title": "中国经济数据观",
@@ -705,8 +742,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时41分 ~ 20时45分]"
+          "appearance_count": 12,
+          "time_info": "[12时41分 ~ 21时40分]"
         },
         {
           "title": "8图看经济工作8大重点任务攻坚",
@@ -729,6 +766,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "金融支持实体经济效果明显",
+          "url": "https://www.toutiao.com/trending/7595575530200600090/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "美联储褐皮书：在十二个联邦储备区中，有八个地区的整体经济活动以小幅至温和的速度增长，三个地区报告无变化，一个地区报告温和下降。",
@@ -852,6 +900,17 @@
           "time_info": "[17时28分 ~ 18时25分]"
         },
         {
+          "title": "境外收入补税追溯期最早可至2017年",
+          "url": "https://www.toutiao.com/trending/7595102204237103140/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时40分]"
+        },
+        {
           "title": "提醒：北京时间03:00，美联储将发布经济状况“褐皮书”，美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯做开场白讲话。",
           "url": "https://wallstreetcn.com/livenews/3037259",
           "source": "华尔街见闻-快讯",
@@ -862,6 +921,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时22分]"
+        },
+        {
+          "title": "境外收入的补税追溯期最早可至2017年",
+          "url": "https://wallstreetcn.com/livenews/3038003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时40分]"
         },
         {
           "title": "伊朗外交部：美国对伊朗经济制裁构成“反人类罪”",
@@ -924,26 +995,15 @@
           "time_info": "[12时41分 ~ 13时27分]"
         },
         {
-          "title": "境外收入的补税追溯期最早可至2017年",
-          "url": "https://wallstreetcn.com/livenews/3038003",
-          "source": "华尔街见闻-快讯",
+          "title": "中国航天科技集团：2026年要全力突破重复使用火箭技术，大力发展商业航天、低空经济等战新产业",
+          "url": "https://www.cls.cn/detail/2259278",
+          "source": "财联社热门",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "境外收入补税追溯期最早可至2017年",
-          "url": "https://www.toutiao.com/trending/7595102204237103140/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
+          "time_info": "21时40分"
         },
         {
           "title": "德国2025年仅实现0.2%的经济增长 经济仍在艰难恢复",
@@ -963,7 +1023,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -985,7 +1045,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -1076,6 +1136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "高盛股票交易收入打破华尔街纪录",
+          "url": "https://wallstreetcn.com/livenews/3038016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "金十数据整理：每日房地产行业动态汇总（2026-01-15）",
