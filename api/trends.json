@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-01-16T06:22:41.631239+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-01-16T07:22:07.737368+08:00",
+  "total_titles_processed": 699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
-        {
-          "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
-          "url": "https://www.cls.cn/detail/2259059",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 06时22分]"
-        },
         {
           "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
           "url": "https://www.zhihu.com/question/1995072589756901062",
@@ -27,6 +15,18 @@
             5,
             3,
             1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 07时22分]"
+        },
+        {
+          "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
+          "url": "https://www.cls.cn/detail/2259059",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -41,11 +41,12 @@
             7,
             4,
             3,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 07时22分]"
         },
         {
           "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
@@ -54,11 +55,70 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 07时22分]"
+        },
+        {
+          "title": "复盘苹果AI为何转投谷歌",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            22,
+            17,
+            14,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 07时22分]"
+        },
+        {
+          "title": "92胜率屠榜,老马AI杀穿韩服",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 07时22分]"
+        },
+        {
+          "title": "宇树人形机器人 H2 空中回旋踢将西瓜踢爆，这样高难度的动作完成有多难？有哪些技术值得关注？",
+          "url": "https://www.zhihu.com/question/1993035109318796739",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8,
+            9,
+            12,
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时36分 ~ 07时22分]"
+        },
+        {
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            24,
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时36分 ~ 07时22分]"
         },
         {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
@@ -72,62 +132,6 @@
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时36分 ~ 06时22分]"
-        },
-        {
-          "title": "复盘苹果AI为何转投谷歌",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            22,
-            17,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 06时22分]"
-        },
-        {
-          "title": "92胜率屠榜,老马AI杀穿韩服",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 06时22分]"
-        },
-        {
-          "title": "宇树人形机器人 H2 空中回旋踢将西瓜踢爆，这样高难度的动作完成有多难？有哪些技术值得关注？",
-          "url": "https://www.zhihu.com/question/1993035109318796739",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8,
-            9,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 05时22分]"
-        },
-        {
-          "title": "韩服登顶账号是AI操作的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            24,
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
           "time_info": "[00时36分 ~ 06时22分]"
         },
         {
@@ -193,6 +197,28 @@
           "time_info": "[02时38分 ~ 04时26分]"
         },
         {
+          "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2259656",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
+        },
+        {
+          "title": "谷歌母公司 Alphabet 的市值正式突破 4 万亿美元，其在这波 AI 浪潮中做对了什么？",
+          "url": "https://www.zhihu.com/question/1994345893202191645",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
+        },
+        {
           "title": "AI编程初创公司Replit接近按90亿美元估值融资。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3038201",
           "source": "华尔街见闻-快讯",
@@ -233,7 +259,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -296,7 +322,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "中国航天科技集团：2026年要全力突破重复使用火箭技术，大力发展商业航天、低空经济等战新产业",
@@ -306,8 +332,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 07时22分]"
         },
         {
           "title": "金融支持实体经济效果明显",
@@ -317,8 +343,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 07时22分]"
         },
         {
           "title": "美联储巴尔金：当今经济有两个引擎，人工智能和富人。",
@@ -428,6 +454,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时25分 ~ 04时26分]"
+        },
+        {
+          "title": "美国总统特朗普：今天公布了非常亮眼的金融数据，我们的国家从未表现得如此出色！很多人问我原因是什么，我只用一个词回答他们——关税！我们已经获得了数千亿美元的收入，而且几乎没有通胀。",
+          "url": "https://flash.jin10.com/detail/20260116064346264800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：无论特朗普选择谁担任主席，美联储都将保持独立性。",
@@ -554,8 +591,19 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美国总统特朗普将授意关键的美国电网运营商执行紧急（批发电价）拍卖。",
+          "url": "https://wallstreetcn.com/livenews/3038251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
         {
           "title": "德国经济部：已就发电厂战略与欧盟委员会达成协议，将于2026年就总装机容量为12吉瓦的新发电厂进行招标，其中大部分为燃气发电厂。",
           "url": "https://flash.jin10.com/detail/20260116004215321800",
