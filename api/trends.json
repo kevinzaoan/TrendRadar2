@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T12:41:37.879364+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2026-01-15T13:27:23.416941+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -29,11 +29,12 @@
             12,
             11,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时34分 ~ 12时41分]"
+          "appearance_count": 11,
+          "time_info": "[02时34分 ~ 13时27分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -73,8 +74,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 12时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 13时27分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -83,11 +84,12 @@
           "ranks": [
             10,
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 12时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 13时27分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -101,11 +103,12 @@
             13,
             19,
             22,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 12时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 13时27分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -144,8 +147,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 12时41分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 13时27分]"
+        },
+        {
+          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
+          "url": "https://www.cls.cn/detail/2258421",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 13时27分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -172,15 +187,17 @@
           "time_info": "04时22分"
         },
         {
-          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
-          "url": "https://www.cls.cn/detail/2258421",
-          "source": "财联社热门",
+          "title": "1月15日午间收评：创业板指半日跌超1%，商业航天、AI应用集体退潮",
+          "url": "https://wallstreetcn.com/livenews/3037508",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            21,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时27分]"
         },
         {
           "title": "据华尔街日报，OpenAI与Cerebras敲定超100亿美元协议，承诺购买至多750 MW算力。 另据彭博，OpenAI确认与Cerebras构建合作伙伴关系，但条款没有披露。",
@@ -195,16 +212,42 @@
           "time_info": "[04时22分 ~ 05时22分]"
         },
         {
-          "title": "1月15日午间收评：创业板指半日跌超1%，商业航天、AI应用集体退潮",
-          "url": "https://wallstreetcn.com/livenews/3037508",
-          "source": "华尔街见闻-快讯",
+          "title": "于正秀腹肌被判定AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E7%A7%80%E8%85%B9%E8%82%8C%E8%A2%AB%E5%88%A4%E5%AE%9AAI%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            4,
-            21
+            12,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时27分]"
+        },
+        {
+          "title": "复盘苹果AI为何转投谷歌",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时27分]"
+        },
+        {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时41分]"
+          "time_info": "[12时41分 ~ 13时27分]"
         },
         {
           "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
@@ -255,28 +298,15 @@
           "time_info": "[00时31分 ~ 01时28分]"
         },
         {
-          "title": "于正秀腹肌被判定AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E7%A7%80%E8%85%B9%E8%82%8C%E8%A2%AB%E5%88%A4%E5%AE%9AAI%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
+          "url": "https://www.zhihu.com/question/1994356851211515794",
+          "source": "知乎",
           "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时41分]"
-        },
-        {
-          "title": "复盘苹果AI为何转投谷歌",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时41分]"
+          "time_info": "[12时41分 ~ 13时27分]"
         },
         {
           "title": "美国亚特兰大联储主席Bostic：与美联储通胀目标仍然相去甚远。 在利率政策上仍然需要限制性立场。 劳动力市场走软，但并不明显。 入门级招聘疲软，可能与人工智能（AI）有关。 美联储主席鲍威尔对美国司法部调查的反应“非常直接”。",
@@ -291,6 +321,18 @@
           "time_info": "[02时34分 ~ 03时20分]"
         },
         {
+          "title": "千问App接入支付宝，上线AI付款",
+          "url": "https://wallstreetcn.com/livenews/3037516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 13时27分]"
+        },
+        {
           "title": "从“读懂中国”到“算力解码”，外资巨头加码中国市场AI投研",
           "url": "https://wallstreetcn.com/livenews/3037339",
           "source": "华尔街见闻-快讯",
@@ -302,17 +344,6 @@
           "time_info": "07时19分"
         },
         {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
           "title": "OpenAI与Cerebras达成百亿美元算力合作",
           "url": "https://flash.jin10.com/detail/20260115045202393800",
           "source": "金十数据",
@@ -322,17 +353,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
-        },
-        {
-          "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
-          "url": "https://www.zhihu.com/question/1994356851211515794",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
         },
         {
           "title": "美联储卡什卡利：目前大多数企业的AI应用仍处于实验阶段，尚未导致裁员。",
@@ -357,26 +377,26 @@
           "time_info": "04时22分"
         },
         {
-          "title": "千问App接入支付宝，上线AI付款",
-          "url": "https://wallstreetcn.com/livenews/3037516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
           "title": "AI点的第一杯奶茶",
           "url": "https://s.weibo.com/weibo?q=%23AI%E7%82%B9%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
+        },
+        {
+          "title": "千问AI打电话订餐厅",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AEAI%E6%89%93%E7%94%B5%E8%AF%9D%E8%AE%A2%E9%A4%90%E5%8E%85%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "据华尔街日报：OpenAI与初创公司Cerebras达成计算合作，OpenAI将使用Cerebras设计的芯片为ChatGPT提供动力。OpenAI与Cerebras的交易价值超过100亿美元。",
@@ -456,6 +476,17 @@
           "time_info": "05时22分"
         },
         {
+          "title": "聂卫平曾谈AI对围棋的影响",
+          "url": "https://www.toutiao.com/trending/7595183245084835903/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "马斯克旗下xAI遭加州调查 Grok涉嫌生成违规图像",
           "url": "https://flash.jin10.com/detail/20260115021524216800",
           "source": "金十数据",
@@ -491,8 +522,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时41分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时27分]"
         },
         {
           "title": "8图看经济工作8大重点任务攻坚",
@@ -504,39 +535,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时28分]"
-        },
-        {
-          "title": "路透调查：52%经济学家表示，日本央行在通胀问题上落后于曲线的风险既不高也不低。",
-          "url": "https://flash.jin10.com/detail/20260115121352822800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "路透调查：60%经济学家预计日本央行2026年加息一次，31%预计加息两次。",
-          "url": "https://flash.jin10.com/detail/20260115121334430800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "路透调查：97%的经济学家（67位中有65位）预计日本央行3月前将维持利率不变。",
-          "url": "https://flash.jin10.com/detail/20260115121323026800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
         },
         {
           "title": "美联储褐皮书：在十二个联邦储备区中，有八个地区的整体经济活动以小幅至温和的速度增长，三个地区报告无变化，一个地区报告温和下降。",
@@ -564,6 +562,18 @@
           "time_info": "[00时31分 ~ 06时23分]"
         },
         {
+          "title": "路透调查：52%经济学家表示，日本央行在通胀问题上落后于曲线的风险既不高也不低。",
+          "url": "https://flash.jin10.com/detail/20260115121352822800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 13时27分]"
+        },
+        {
           "title": "美联储Kashkari：美联储独立性对美国经济做出贡献。 下一任美联储主席将不得不向FOMC提供最具说服力的说明。 每个官员都只有一票，论据最充分的获胜。",
           "url": "https://wallstreetcn.com/livenews/3037243",
           "source": "华尔街见闻-快讯",
@@ -577,6 +587,18 @@
           "time_info": "[02时34分 ~ 04时22分]"
         },
         {
+          "title": "路透调查：60%经济学家预计日本央行2026年加息一次，31%预计加息两次。",
+          "url": "https://flash.jin10.com/detail/20260115121334430800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 13时27分]"
+        },
+        {
           "title": "美联储褐皮书：本次经济情况有所改善",
           "url": "https://wallstreetcn.com/livenews/3037263",
           "source": "华尔街见闻-快讯",
@@ -587,6 +609,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时22分]"
+        },
+        {
+          "title": "路透调查：97%的经济学家（67位中有65位）预计日本央行3月前将维持利率不变。",
+          "url": "https://flash.jin10.com/detail/20260115121323026800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 13时27分]"
         },
         {
           "title": "美联储发布经济状况褐皮书",
@@ -625,6 +659,17 @@
           "time_info": "[03时20分 ~ 04时22分]"
         },
         {
+          "title": "女子超市6次偷车厘子被拘：在单位做法务，收入高，知法犯法",
+          "url": "https://news.ifeng.com/c/8pviYffg7xf",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 13时27分]"
+        },
+        {
           "title": "美国财长贝森特称，在与澳大利亚国库部长Jim Chalmers的会晤中，赞扬了澳大利亚“致力于建立强有力的、以行动为导向的伙伴关系，以创建长期安全的关键矿产供应链”。 财政部就贝森特1月12日与Chalmers的会面置评。 贝森特和Chalmers讨论了“关键矿产机遇，以及经济和国家安全方面的共同关切”。",
           "url": "https://wallstreetcn.com/livenews/3037231",
           "source": "华尔街见闻-快讯",
@@ -635,6 +680,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时20分]"
+        },
+        {
+          "title": "日本央行行长植田和男：工资和物价同步温和上涨的机制有望持续；若经济和物价走势符合预期，日本央行预计将延续加息步伐。",
+          "url": "https://flash.jin10.com/detail/20260115114318273800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 13时27分]"
         },
         {
           "title": "美国明尼阿波利斯联储主席Kashkari（2026年FOMC票委）：通胀太高，但趋势处于正确的方向。 如果通胀持续得足够长久，人们会质疑美联储（维持价格稳定性的信誉）。 我对美国经济前景的展望是，增速会相当不错。",
@@ -649,6 +706,18 @@
           "time_info": "[02时34分 ~ 03时20分]"
         },
         {
+          "title": "日本央行行长植田和男：如果经济展望实现，将会加息。 工资和通胀可能会继续缓慢上升。",
+          "url": "https://wallstreetcn.com/livenews/3037514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 13时27分]"
+        },
+        {
           "title": "房贷贴息呼声再起，“1年700亿可撬动280万亿居民房地产资产”？银行业内：可行性很低",
           "url": "https://www.cls.cn/detail/2257323",
           "source": "财联社热门",
@@ -658,17 +727,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "女子超市6次偷车厘子被拘：在单位做法务，收入高，知法犯法",
-          "url": "https://news.ifeng.com/c/8pviYffg7xf",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
         },
         {
           "title": "韩国央行：强劲的半导体行业有望支撑经济增长。",
@@ -704,17 +762,6 @@
           "time_info": "01时28分"
         },
         {
-          "title": "日本央行行长植田和男：工资和物价同步温和上涨的机制有望持续；若经济和物价走势符合预期，日本央行预计将延续加息步伐。",
-          "url": "https://flash.jin10.com/detail/20260115114318273800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
           "title": "美联储将于十分钟后公布经济状况褐皮书。",
           "url": "https://flash.jin10.com/detail/20260115025000002800",
           "source": "金十数据",
@@ -724,17 +771,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
-        },
-        {
-          "title": "日本央行行长植田和男：如果经济展望实现，将会加息。 工资和通胀可能会继续缓慢上升。",
-          "url": "https://wallstreetcn.com/livenews/3037514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
         },
         {
           "title": "花旗警告称特朗普设置信用卡利率上限的想法可能导致经济放缓",
