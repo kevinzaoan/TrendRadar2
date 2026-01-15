@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T14:34:54.704266+08:00",
-  "total_titles_processed": 1307,
+  "generated_at": "2026-01-15T15:26:11.534541+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -74,8 +74,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 14时34分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 15时26分]"
+        },
+        {
+          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
+          "url": "https://www.cls.cn/detail/2258255",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 15时26分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -85,11 +99,12 @@
             10,
             15,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 14时34分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 15时26分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -111,6 +126,19 @@
           "time_info": "[00时31分 ~ 14时34分]"
         },
         {
+          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
+          "url": "https://www.cls.cn/detail/2258421",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 15时26分]"
+        },
+        {
           "title": "UP主分析AI将如何影响电竞行业",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
           "source": "bilibili 热搜",
@@ -126,19 +154,6 @@
           "time_info": "[00时31分 ~ 07时19分]"
         },
         {
-          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
-          "url": "https://www.cls.cn/detail/2258255",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 14时34分]"
-        },
-        {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
           "url": "https://www.cls.cn/detail/2257499",
           "source": "财联社热门",
@@ -151,16 +166,33 @@
           "time_info": "[01时28分 ~ 07时19分]"
         },
         {
-          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
-          "url": "https://www.cls.cn/detail/2258421",
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
           "source": "财联社热门",
           "ranks": [
-            4,
-            3
+            8,
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 14时34分]"
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 15时26分]"
+        },
+        {
+          "title": "复盘苹果AI为何转投谷歌",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            12,
+            15,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 15时26分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -212,31 +244,16 @@
           "time_info": "[04时22分 ~ 05时22分]"
         },
         {
-          "title": "复盘苹果AI为何转投谷歌",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            12,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 14时34分]"
-        },
-        {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
+          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
+          "url": "https://www.cls.cn/detail/2258599",
           "source": "财联社热门",
           "ranks": [
-            8,
-            7,
+            10,
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时41分 ~ 14时34分]"
+          "time_info": "[14时34分 ~ 15时26分]"
         },
         {
           "title": "于正秀腹肌被判定AI",
@@ -311,6 +328,28 @@
           "time_info": "[00时31分 ~ 01时28分]"
         },
         {
+          "title": "赖清德称自己的“赖”里有AI被讽",
+          "url": "https://www.douyin.com/hot/2368133",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
+        },
+        {
+          "title": "【午报】三大指数全线调整，商业航天、AI应用双双熄火，高位人气股集体退潮",
+          "url": "https://www.cls.cn/detail/2258510",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
+        },
+        {
           "title": "美国亚特兰大联储主席Bostic：与美联储通胀目标仍然相去甚远。 在利率政策上仍然需要限制性立场。 劳动力市场走软，但并不明显。 入门级招聘疲软，可能与人工智能（AI）有关。 美联储主席鲍威尔对美国司法部调查的反应“非常直接”。",
           "url": "https://wallstreetcn.com/livenews/3037229",
           "source": "华尔街见闻-快讯",
@@ -335,6 +374,17 @@
           "time_info": "[12时41分 ~ 13时27分]"
         },
         {
+          "title": "宇树人形机器人 H2 空中回旋踢将西瓜踢爆，这样高难度的动作完成有多难？有哪些技术值得关注？",
+          "url": "https://www.zhihu.com/question/1993035109318796739",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
+        },
+        {
           "title": "从“读懂中国”到“算力解码”，外资巨头加码中国市场AI投研",
           "url": "https://wallstreetcn.com/livenews/3037339",
           "source": "华尔街见闻-快讯",
@@ -344,17 +394,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        },
-        {
-          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
-          "url": "https://www.cls.cn/detail/2258599",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
         },
         {
           "title": "OpenAI与Cerebras达成百亿美元算力合作",
@@ -429,7 +468,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -536,7 +575,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "中国经济数据观",
@@ -546,8 +585,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 14时34分]"
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 15时26分]"
         },
         {
           "title": "8图看经济工作8大重点任务攻坚",
@@ -570,6 +609,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "女子超市6次偷车厘子被拘：在单位做法务，收入高，知法犯法",
+          "url": "https://news.ifeng.com/c/8pviYffg7xf",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 15时26分]"
         },
         {
           "title": "马光远：2026年房地产大概率见底",
@@ -657,17 +707,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时23分]"
-        },
-        {
-          "title": "女子超市6次偷车厘子被拘：在单位做法务，收入高，知法犯法",
-          "url": "https://news.ifeng.com/c/8pviYffg7xf",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 14时34分]"
         },
         {
           "title": "提醒：北京时间03:00，美联储将发布经济状况“褐皮书”，美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯做开场白讲话。",
@@ -792,9 +831,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
+        },
+        {
+          "title": "央行：2025年货币金融政策支持实体经济的效果是明显的",
+          "url": "https://wallstreetcn.com/livenews/3037679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "美联储将于十分钟后公布经济状况褐皮书。",
