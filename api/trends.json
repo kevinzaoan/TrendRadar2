@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-15T07:19:08.122034+08:00",
-  "total_titles_processed": 742,
+  "generated_at": "2026-01-15T09:44:20.642637+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "浙江用AI抓出贪官",
           "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 09时44分]"
         },
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -40,11 +41,12 @@
             2,
             7,
             8,
-            4
+            4,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时28分 ~ 07时19分]"
+          "appearance_count": 9,
+          "time_info": "[01时28分 ~ 09时44分]"
         },
         {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
@@ -55,8 +57,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 09时44分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -66,8 +68,38 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 09时44分]"
+        },
+        {
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            20,
+            16,
+            12,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 09时44分]"
+        },
+        {
+          "title": "巴菲特再发警示：AI的危险不亚于核武器",
+          "url": "https://www.cls.cn/detail/2258013",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时34分 ~ 09时44分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -85,22 +117,6 @@
           "time_info": "[00时31分 ~ 07时19分]"
         },
         {
-          "title": "韩服登顶账号是AI操作的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            20,
-            16,
-            12,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时19分]"
-        },
-        {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
           "url": "https://www.cls.cn/detail/2257499",
           "source": "财联社热门",
@@ -111,19 +127,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时28分 ~ 07时19分]"
-        },
-        {
-          "title": "巴菲特再发警示：AI的危险不亚于核武器",
-          "url": "https://www.cls.cn/detail/2258013",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时34分 ~ 07时19分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -228,9 +231,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
+          "url": "https://www.cls.cn/detail/2258255",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         },
         {
           "title": "OpenAI与Cerebras达成百亿美元算力合作",
@@ -346,7 +360,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "8图看经济工作8大重点任务攻坚",
@@ -479,6 +493,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "韩国央行：强劲的半导体行业有望支撑经济增长。",
+          "url": "https://flash.jin10.com/detail/20260115093453889800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "韩国央行：将在支持经济增长复苏的同时作出政策决策。",
+          "url": "https://flash.jin10.com/detail/20260115093446897800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         },
         {
           "title": "美联储卡什卡利：我对经济前景相当乐观，预计经济将稳健增长，不认为美联储有必要实施量化宽松。",
