@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T00:30:30.151717+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-17T01:25:22.616491+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时25分]"
         },
         {
           "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
           "url": "https://www.cls.cn/detail/2260421",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时25分]"
         },
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -37,24 +38,24 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
-        },
-        {
-          "title": "博主：AI应用将成2026年投资新风口",
-          "url": "https://www.toutiao.com/trending/7595899025040084543/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时25分]"
         },
         {
           "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
           "url": "https://www.cls.cn/detail/2260348",
           "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时25分]"
+        },
+        {
+          "title": "博主：AI应用将成2026年投资新风口",
+          "url": "https://www.toutiao.com/trending/7595899025040084543/",
+          "source": "今日头条",
           "ranks": [
             8
           ],
@@ -80,7 +81,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
         }
@@ -95,33 +96,36 @@
           "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8C%E4%BA%BA%E5%9B%A0%E4%B9%9E%E8%AE%A8%E7%9B%B8%E6%81%8B%E4%BA%94%E5%B9%B4%E5%85%B1%E5%90%8C%E6%94%B6%E5%85%A532%E4%B8%87%E5%85%83%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时25分]"
         },
         {
           "title": "美联储理事鲍曼：美国经济一直具有韧性。",
           "url": "https://flash.jin10.com/detail/20260117000156433800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时25分]"
         },
         {
           "title": "美联储理事鲍曼：预计经济将“稳健”增长、通胀下降以及就业市场趋于稳定。",
           "url": "https://flash.jin10.com/detail/20260117000151421800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时25分]"
         },
         {
           "title": "美国两年期国债收益率上涨，此前特朗普称希望哈塞特留在国家经济委员会（NEC）。",
@@ -130,7 +134,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
         },
@@ -141,7 +145,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
         },
@@ -152,7 +156,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
         }
