@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T05:22:04.605564+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-01-17T06:22:08.337311+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
@@ -40,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
@@ -142,6 +142,17 @@
           "time_info": "[03时20分 ~ 04时23分]"
         },
         {
+          "title": "加利福尼亚州总检察长Rob Bonta向 xAI公司发出停止并终止信函，要求该公司立即停止非法行为。",
+          "url": "https://flash.jin10.com/detail/20260117043322271800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时22分]"
+        },
+        {
           "title": "梁朝伟白酒广告被网友怀疑是AI",
           "url": "https://www.toutiao.com/trending/7595066643185696822/",
           "source": "今日头条",
@@ -159,18 +170,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "加利福尼亚州总检察长Rob Bonta向 xAI公司发出停止并终止信函，要求该公司立即停止非法行为。",
-          "url": "https://flash.jin10.com/detail/20260117043322271800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -200,11 +200,12 @@
             28,
             27,
             26,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "美联储副主席杰斐逊：劳动力市场正在放缓，因为整体经济环境变得更加不确定。",
@@ -213,9 +214,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时22分]"
         },
         {
           "title": "美联储理事鲍曼：美国经济一直具有韧性。",
@@ -242,13 +243,35 @@
           "time_info": "[00时30分 ~ 01时25分]"
         },
         {
+          "title": "美联储副主席杰斐逊：在经济上合理的情况下，很高兴看到常备回购协议操作的使用增加。",
+          "url": "https://flash.jin10.com/detail/20260117043149735800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时22分]"
+        },
+        {
+          "title": "美联储副主席杰斐逊将于十分钟后就经济前景和货币政策发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260117042000000800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时22分]"
+        },
+        {
           "title": "本周，标普累跌0.2%，道指累跌0.2%，纳指累跌0.5%，半导体指数涨3.9%，科技股七巨头指数跌1.4%，华尔街大行拉开四季度业绩报告序幕之际，银行指数跌1.6%。 周五当天，标普500指数初步微幅收跌，房地产板块涨1.2%，科技板块涨0.2%，电信板块跌0.7%。 纳斯达克100指数初步微幅收跌，成分股中，核电股CEG跌9.6%，Atlassian跌6.4%，Applovin跌6.4%，Palantir跌3.3%，博通涨2.6%，吉利德科学涨3.1%，美光科技涨7.4%。 Salesforce初步收跌2.8%，联合健康、3M跌超2%，领跌道指成分股，苹果跌1%，微软涨0.7%，霍尼韦尔、美国运通、IBM涨超2%。 费城半导体指数涨1.1%，银行指数跌0.3%。",
           "url": "https://wallstreetcn.com/livenews/3039002",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -281,7 +304,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -295,28 +318,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
-        },
-        {
-          "title": "美联储副主席杰斐逊：在经济上合理的情况下，很高兴看到常备回购协议操作的使用增加。",
-          "url": "https://flash.jin10.com/detail/20260117043149735800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "美联储副主席杰斐逊将于十分钟后就经济前景和货币政策发表讲话。",
-          "url": "https://flash.jin10.com/detail/20260117042000000800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
         }
       ]
     }
