@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T21:38:45.978949+08:00",
-  "total_titles_processed": 1954,
+  "generated_at": "2026-01-16T22:24:35.728412+08:00",
+  "total_titles_processed": 2040,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
@@ -115,8 +115,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时40分 ~ 21时38分]"
+          "appearance_count": 15,
+          "time_info": "[12时40分 ~ 22时24分]"
         },
         {
           "title": "复盘苹果AI为何转投谷歌",
@@ -223,6 +223,19 @@
           "time_info": "[00时36分 ~ 06时22分]"
         },
         {
+          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
+          "url": "https://www.cls.cn/detail/2260348",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时24分 ~ 22时24分]"
+        },
+        {
           "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
           "url": "https://www.cls.cn/detail/2259812",
           "source": "财联社热门",
@@ -258,19 +271,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时36分 ~ 03时25分]"
-        },
-        {
-          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
-          "url": "https://www.cls.cn/detail/2260348",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时24分 ~ 21时38分]"
         },
         {
           "title": "业内首例！数千小时人形机器人训练数据交付 智元机器人为采购方",
@@ -320,6 +320,18 @@
           "time_info": "[00时36分 ~ 01时32分]"
         },
         {
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 22时24分]"
+        },
+        {
           "title": "1月16日午间收评：沪指高开低走跌0.22%，AI应用端集体调整",
           "url": "https://wallstreetcn.com/livenews/3038441",
           "source": "华尔街见闻-快讯",
@@ -332,6 +344,19 @@
           "time_info": "[11时41分 ~ 12时41分]"
         },
         {
+          "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
+          "url": "https://www.cls.cn/detail/2260421",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 22时24分]"
+        },
+        {
           "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
           "url": "https://www.cls.cn/detail/2258951",
           "source": "财联社热门",
@@ -342,31 +367,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时36分 ~ 02时38分]"
-        },
-        {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 21时38分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
-          "url": "https://www.cls.cn/detail/2260421",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 21时38分]"
         },
         {
           "title": "美国里士满联储主席Barkin：当前经济有两个引擎，人工智能（AI）和富人。 难以判断过去三个月的数据。",
@@ -393,6 +393,18 @@
           "time_info": "[18时24分 ~ 19时20分]"
         },
         {
+          "title": "博主：AI应用将成2026年投资新风口",
+          "url": "https://www.toutiao.com/trending/7595899025040084543/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时24分]"
+        },
+        {
           "title": "A股机器人概念股持续拉升，绿的谐波涨超12%，股价再创历史新高，恒工精密、恒辉安防、宁波华翔、方正电机等多股涨停，斯菱智驱、德恩精工、震裕科技等涨超10%。",
           "url": "https://wallstreetcn.com/livenews/3038430",
           "source": "华尔街见闻-快讯",
@@ -414,6 +426,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时21分 ~ 07时22分]"
+        },
+        {
+          "title": "天理会不会是旅行者兄妹飞船的 ai？",
+          "url": "https://www.zhihu.com/question/1994797924039800329",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时24分]"
         },
         {
           "title": "券商晨会精华：把握AIDC电源向大功率、高压化、直流化趋势",
@@ -460,6 +484,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "沃尔玛宣布领导层变动：任命Chris Nicholas为沃尔玛国际的总裁兼CEO。 任命新的美国主管和部门领导。 任命Latriece Watkings为Sam’s Club US（美国山姆俱乐部）的总裁兼CEO。 任命David Guggina为美国CEO。 任命Dallaire为EVP兼首席增长官（CGO）。",
+          "url": "https://wallstreetcn.com/livenews/3038866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "马斯克旗下Grok AI遭日本调查",
@@ -561,17 +596,6 @@
           "time_info": "06时22分"
         },
         {
-          "title": "天理会不会是旅行者兄妹飞船的 ai？",
-          "url": "https://www.zhihu.com/question/1994797924039800329",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
           "title": "华尔街六大行裁员创十年新高 AI转型与效率至上成主旋律",
           "url": "https://flash.jin10.com/detail/20260116004856986800",
           "source": "金十数据",
@@ -649,15 +673,15 @@
           "time_info": "09时45分"
         },
         {
-          "title": "博主：AI应用将成2026年投资新风口",
-          "url": "https://www.toutiao.com/trending/7595899025040084543/",
-          "source": "今日头条",
+          "title": "全国机器人标委会商业社区服务机器人工作组成立",
+          "url": "https://wallstreetcn.com/livenews/3038842",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "22时24分"
         },
         {
           "title": "报告：AI推动半导体行业营收在2026年首次突破1万亿美元",
@@ -674,7 +698,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "中国航天科技集团：2026年要全力突破重复使用火箭技术，大力发展商业航天、低空经济等战新产业",
@@ -697,17 +721,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时36分 ~ 09时45分]"
-        },
-        {
-          "title": "美国经济数据强于预期、地缘局势缓和 金价周五延续跌势",
-          "url": "https://flash.jin10.com/detail/20260116212555636800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
         },
         {
           "title": "乌克兰经济部表示，2025年乌克兰国内生产总值增长了2.2%。",
@@ -777,6 +790,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时32分]"
+        },
+        {
+          "title": "美国经济数据强于预期、地缘局势缓和 金价周五延续跌势",
+          "url": "https://flash.jin10.com/detail/20260116212555636800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时24分]"
         },
         {
           "title": "美联储Schmid：独立的央行对经济非常重要。",
@@ -881,9 +906,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
+        },
+        {
+          "title": "Riot Platforms与AMD签订数据中心租赁协议。 其中包括初步部署25 MW算力，可能会扩张至200 MW算力的选项。 预计这笔交易将带来3.11亿美元承包收入，如果全面扩张可能会达到大约10亿美元。 Riot将在Rockdale购买200英亩土地，交易金额0.96亿美元。 Riot美股盘前涨5%。",
+          "url": "https://wallstreetcn.com/livenews/3038870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "美国总统特朗普：今天公布了非常亮眼的金融数据，我们的国家从未表现得如此出色！很多人问我原因是什么，我只用一个词回答他们——关税！我们已经获得了数千亿美元的收入，而且几乎没有通胀。",
@@ -895,6 +931,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "专家：中加关系重启背后是经济突围",
+          "url": "https://www.toutiao.com/trending/7595950915828321855/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：无论特朗普选择谁担任主席，美联储都将保持独立性。",
@@ -1035,7 +1082,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -1101,7 +1148,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -1112,7 +1159,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -1145,7 +1192,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -1189,7 +1236,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -1211,7 +1258,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -1222,7 +1269,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         }
@@ -1250,7 +1297,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
