@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T22:24:35.728412+08:00",
-  "total_titles_processed": 2040,
+  "generated_at": "2026-01-16T23:25:12.682766+08:00",
+  "total_titles_processed": 2126,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
@@ -115,8 +115,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时40分 ~ 22时24分]"
+          "appearance_count": 17,
+          "time_info": "[12时40分 ~ 23时25分]"
         },
         {
           "title": "复盘苹果AI为何转投谷歌",
@@ -209,6 +209,20 @@
           "time_info": "[15时25分 ~ 20时44分]"
         },
         {
+          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
+          "url": "https://www.cls.cn/detail/2260348",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时24分 ~ 23时25分]"
+        },
+        {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
           "url": "https://www.zhihu.com/question/1995085840762758424",
           "source": "知乎",
@@ -223,17 +237,30 @@
           "time_info": "[00时36分 ~ 06时22分]"
         },
         {
-          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
-          "url": "https://www.cls.cn/detail/2260348",
-          "source": "财联社热门",
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
             9,
             8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[18时24分 ~ 22时24分]"
+          "time_info": "[19时20分 ~ 23时25分]"
+        },
+        {
+          "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
+          "url": "https://www.cls.cn/detail/2260421",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时20分 ~ 23时25分]"
         },
         {
           "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
@@ -320,18 +347,6 @@
           "time_info": "[00时36分 ~ 01时32分]"
         },
         {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 22时24分]"
-        },
-        {
           "title": "1月16日午间收评：沪指高开低走跌0.22%，AI应用端集体调整",
           "url": "https://wallstreetcn.com/livenews/3038441",
           "source": "华尔街见闻-快讯",
@@ -342,19 +357,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时41分 ~ 12时41分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
-          "url": "https://www.cls.cn/detail/2260421",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 22时24分]"
         },
         {
           "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
@@ -391,6 +393,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时24分 ~ 19时20分]"
+        },
+        {
+          "title": "沃尔玛宣布领导层变动：任命Chris Nicholas为沃尔玛国际的总裁兼CEO。 任命新的美国主管和部门领导。 任命Latriece Watkings为Sam’s Club US（美国山姆俱乐部）的总裁兼CEO。 任命David Guggina为美国CEO。 任命Dallaire为EVP兼首席增长官（CGO）。",
+          "url": "https://wallstreetcn.com/livenews/3038866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时25分]"
         },
         {
           "title": "博主：AI应用将成2026年投资新风口",
@@ -484,17 +498,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
-        },
-        {
-          "title": "沃尔玛宣布领导层变动：任命Chris Nicholas为沃尔玛国际的总裁兼CEO。 任命新的美国主管和部门领导。 任命Latriece Watkings为Sam’s Club US（美国山姆俱乐部）的总裁兼CEO。 任命David Guggina为美国CEO。 任命Dallaire为EVP兼首席增长官（CGO）。",
-          "url": "https://wallstreetcn.com/livenews/3038866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
         },
         {
           "title": "马斯克旗下Grok AI遭日本调查",
@@ -651,6 +654,17 @@
           "time_info": "05时22分"
         },
         {
+          "title": "在指出北美化肥需求疲软后，化肥巨头Mosaic股价下跌近5%。",
+          "url": "https://flash.jin10.com/detail/20260116223524603800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "多平台公布涉“AI魔改”违规视频第二批处置结果",
           "url": "https://wallstreetcn.com/livenews/3038102",
           "source": "华尔街见闻-快讯",
@@ -679,7 +693,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -698,7 +712,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "中国航天科技集团：2026年要全力突破重复使用火箭技术，大力发展商业航天、低空经济等战新产业",
@@ -732,6 +746,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        },
+        {
+          "title": "路透调查：预计阿根廷经济2026年增长3.0%，2027年增长3.0%（10月份结果为3.0%和2.7%）。",
+          "url": "https://flash.jin10.com/detail/20260116230613518800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "预告：国新办1月19日就2025年国民经济运行情况举行新闻发布会",
@@ -841,6 +866,18 @@
           "time_info": "[02时38分 ~ 04时26分]"
         },
         {
+          "title": "二人因乞讨相恋五年共同收入32万元",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8C%E4%BA%BA%E5%9B%A0%E4%B9%9E%E8%AE%A8%E7%9B%B8%E6%81%8B%E4%BA%94%E5%B9%B4%E5%85%B1%E5%90%8C%E6%94%B6%E5%85%A532%E4%B8%87%E5%85%83%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 23时25分]"
+        },
+        {
           "title": "道富银行：第四财季净利息收入8.02亿美元，市场预期7.643亿美元。 第四财季资产管理规模5.7万亿美元，市场预期5.62万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3038804",
           "source": "华尔街见闻-快讯",
@@ -917,7 +954,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -939,7 +976,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1241,17 +1278,6 @@
           "time_info": "21时38分"
         },
         {
-          "title": "二人因乞讨相恋五年共同收入32万元",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8C%E4%BA%BA%E5%9B%A0%E4%B9%9E%E8%AE%A8%E7%9B%B8%E6%81%8B%E4%BA%94%E5%B9%B4%E5%85%B1%E5%90%8C%E6%94%B6%E5%85%A532%E4%B8%87%E5%85%83%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
           "title": "美国白宫国家经济委员会主任哈塞特：若接受美联储（主席）职位，我将致力于提升透明度。将承诺维护美联储的独立性。",
           "url": "https://flash.jin10.com/detail/20260116205727637800",
           "source": "金十数据",
@@ -1277,7 +1303,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国总统特朗普将授意关键的美国电网运营商执行紧急（批发电价）拍卖。",
@@ -1289,6 +1315,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "苯乙烯夜盘收涨1.4%，低硫燃油涨1.1%，焦炭涨1%，燃油涨0.8%，焦煤涨0.5%。 铁矿石夜盘收跌1.3%，烧碱跌1.6%，菜粕跌2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3038895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "截至23:00收盘，国内期货主力合约涨跌互现，苯乙烯、低硫燃料油（LU）、焦炭、纯苯涨超1%。跌幅方面，菜粕跌超2%，丁二烯橡胶、烧碱跌近2%。",
+          "url": "https://flash.jin10.com/detail/20260116230048370800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "夜盘期货开盘，沪锡跌近5%，菜粕跌逾2%，沪镍、沪银、沪锌、烧碱、沪铅、焦炭跌逾1%；燃油、原油、低硫燃油、沥青等上涨。",
