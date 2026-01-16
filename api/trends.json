@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T18:25:00.826704+08:00",
-  "total_titles_processed": 1641,
+  "generated_at": "2026-01-16T19:20:56.881792+08:00",
+  "total_titles_processed": 1739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
@@ -115,8 +115,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时40分 ~ 18时25分]"
+          "appearance_count": 12,
+          "time_info": "[12时40分 ~ 19时20分]"
         },
         {
           "title": "复盘苹果AI为何转投谷歌",
@@ -215,11 +215,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时25分 ~ 18时25分]"
+          "appearance_count": 7,
+          "time_info": "[15时25分 ~ 19时20分]"
         },
         {
           "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
@@ -318,6 +319,30 @@
           "time_info": "[00时36分 ~ 02时38分]"
         },
         {
+          "title": "业内首例！数千小时人形机器人训练数据交付 智元机器人为采购方",
+          "url": "https://www.cls.cn/detail/2260010",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 19时20分]"
+        },
+        {
+          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
+          "url": "https://www.cls.cn/detail/2260348",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 19时20分]"
+        },
+        {
           "title": "美国里士满联储主席Barkin：当前经济有两个引擎，人工智能（AI）和富人。 难以判断过去三个月的数据。",
           "url": "https://wallstreetcn.com/livenews/3038156",
           "source": "华尔街见闻-快讯",
@@ -331,15 +356,15 @@
           "time_info": "[02时38分 ~ 04时26分]"
         },
         {
-          "title": "业内首例！数千小时人形机器人训练数据交付 智元机器人为采购方",
-          "url": "https://www.cls.cn/detail/2260010",
-          "source": "财联社热门",
+          "title": "马斯克儿子的妈妈起诉马斯克AI公司",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%84%BF%E5%AD%90%E7%9A%84%E5%A6%88%E5%A6%88%E8%B5%B7%E8%AF%89%E9%A9%AC%E6%96%AF%E5%85%8BAI%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
           "ranks": [
-            13
+            26
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时28分]"
+          "time_info": "[18时24分 ~ 19时20分]"
         },
         {
           "title": "A股机器人概念股持续拉升，绿的谐波涨超12%，股价再创历史新高，恒工精密、恒辉安防、宁波华翔、方正电机等多股涨停，斯菱智驱、德恩精工、震裕科技等涨超10%。",
@@ -363,17 +388,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时21分 ~ 07时22分]"
-        },
-        {
-          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
-          "url": "https://www.cls.cn/detail/2260348",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "券商晨会精华：把握AIDC电源向大功率、高压化、直流化趋势",
@@ -411,17 +425,6 @@
           "time_info": "[17时28分 ~ 18时25分]"
         },
         {
-          "title": "马斯克儿子的妈妈起诉马斯克AI公司",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%84%BF%E5%AD%90%E7%9A%84%E5%A6%88%E5%A6%88%E8%B5%B7%E8%AF%89%E9%A9%AC%E6%96%AF%E5%85%8BAI%E5%85%AC%E5%8F%B8",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
-        },
-        {
           "title": "日本要求X改进 Grok AI 编辑功能问题。（日本共同社）",
           "url": "https://wallstreetcn.com/livenews/3038340",
           "source": "华尔街见闻-快讯",
@@ -450,9 +453,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "AI芯片需求持续火热，台积电Q4净利润大幅增长35%，2025年全年资本支出达409亿美元 | 财报见闻",
@@ -475,6 +489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
+          "url": "https://www.cls.cn/detail/2260421",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "OpenAI：公司已参与脑机接口（BCI）初创公司Merge Labs的种子轮融资。",
@@ -590,7 +615,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "中国航天科技集团：2026年要全力突破重复使用火箭技术，大力发展商业航天、低空经济等战新产业",
@@ -613,6 +638,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时36分 ~ 09时45分]"
+        },
+        {
+          "title": "乌克兰经济部表示，2025年乌克兰国内生产总值增长了2.2%。",
+          "url": "https://flash.jin10.com/detail/20260116185305661800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "预告：国新办1月19日就2025年国民经济运行情况举行新闻发布会",
