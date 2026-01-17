@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T16:26:55.157922+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2026-01-17T17:21:26.617292+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
@@ -67,8 +67,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时40分 ~ 16时26分]"
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 17时21分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
@@ -303,8 +303,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时40分 ~ 16时26分]"
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 17时21分]"
         },
         {
           "title": "多个新高见证中国经济硬实力",
@@ -483,11 +483,12 @@
             12,
             16,
             20,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时23分 ~ 16时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时23分 ~ 17时21分]"
         },
         {
           "title": "山西2025年新能源发电量首次突破1000亿度",
