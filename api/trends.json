@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T20:40:31.745092+08:00",
-  "total_titles_processed": 1240,
+  "generated_at": "2026-01-18T21:29:33.544506+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时32分 ~ 20时40分]"
+          "appearance_count": 9,
+          "time_info": "[14时32分 ~ 21时29分]"
         },
         {
           "title": "Anthropic将Claude Cowork扩展至20美元Pro订阅用户",
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时42分 ~ 20时40分]"
+          "appearance_count": 11,
+          "time_info": "[12时42分 ~ 21时29分]"
         },
         {
           "title": "匈牙利政府及企业家代表团到访天奇股份，考察具身智能机器人工业应用",
@@ -78,8 +78,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时42分 ~ 20时40分]"
+          "appearance_count": 11,
+          "time_info": "[12时42分 ~ 21时29分]"
         },
         {
           "title": "「数字泔水」正浸泡孩子，AI 滥用生成的无脑魔改与错误信息，会影响这代小孩的逻辑与辨别真实的能力吗？",
@@ -112,6 +112,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时47分 ~ 18时21分]"
+        },
+        {
+          "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
+          "url": "https://wallstreetcn.com/articles/3763530",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时21分 ~ 21时29分]"
         },
         {
           "title": "2026年春晚今日完成首次彩排 机器人将再度登上春晚舞台",
@@ -159,31 +174,6 @@
           "time_info": "[00时24分 ~ 06时20分]"
         },
         {
-          "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
-          "url": "https://wallstreetcn.com/articles/3763530",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时21分 ~ 20时40分]"
-        },
-        {
-          "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
-          "url": "https://wallstreetcn.com/livenews/3039251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
           "title": "优必选与空中客车达成人形机器人在航空制造领域的合作",
           "url": "https://wallstreetcn.com/livenews/3039181",
           "source": "华尔街见闻-快讯",
@@ -203,11 +193,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            19
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 21时29分]"
+        },
+        {
+          "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
+          "url": "https://wallstreetcn.com/livenews/3039251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时40分]"
+          "time_info": "[20时40分 ~ 21时29分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
@@ -351,11 +354,12 @@
           "url": "https://wallstreetcn.com/livenews/3039248",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时29分]"
         }
       ]
     }
