@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T05:19:37.150784+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-01-19T06:20:50.907922+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -57,11 +57,12 @@
           "url": "https://flash.jin10.com/detail/20260119042408235800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时20分]"
         },
         {
           "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
@@ -78,7 +79,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
@@ -87,22 +88,35 @@
           "ranks": [
             4,
             11,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 05时19分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 06时20分]"
         },
         {
           "title": "乌克兰首席谈判代表：将于达沃斯世界经济论坛期间继续与美方磋商",
           "url": "https://flash.jin10.com/detail/20260119042225939800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时20分]"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：我们将始终保护我们的战略经济和安全利益。",
+          "url": "https://flash.jin10.com/detail/20260119050207007800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时19分"
+          "time_info": "06时20分"
         }
       ]
     },
