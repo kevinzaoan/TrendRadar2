@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T03:16:58.196478+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-01-19T04:23:34.640654+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时23分]"
         },
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时23分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -37,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时23分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -96,8 +96,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 04时23分]"
         }
       ]
     }
