@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T22:19:31.395500+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2026-01-18T23:20:43.326186+08:00",
+  "total_titles_processed": 1425,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时32分 ~ 22时19分]"
+          "appearance_count": 11,
+          "time_info": "[14时32分 ~ 23时20分]"
         },
         {
           "title": "Anthropic将Claude Cowork扩展至20美元Pro订阅用户",
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时42分 ~ 22时19分]"
+          "appearance_count": 13,
+          "time_info": "[12时42分 ~ 23时20分]"
         },
         {
           "title": "匈牙利政府及企业家代表团到访天奇股份，考察具身智能机器人工业应用",
@@ -69,19 +69,6 @@
           "time_info": "[00时24分 ~ 13时24分]"
         },
         {
-          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
-          "url": "https://www.zhihu.com/question/1995914466735388213",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时42分 ~ 22时19分]"
-        },
-        {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
           "url": "https://wallstreetcn.com/articles/3763530",
           "source": "华尔街见闻",
@@ -93,8 +80,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时21分 ~ 22时19分]"
+          "appearance_count": 8,
+          "time_info": "[17时21分 ~ 23时20分]"
+        },
+        {
+          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
+          "url": "https://www.zhihu.com/question/1995914466735388213",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时42分 ~ 22时19分]"
         },
         {
           "title": "「数字泔水」正浸泡孩子，AI 滥用生成的无脑魔改与错误信息，会影响这代小孩的逻辑与辨别真实的能力吗？",
@@ -194,11 +194,12 @@
           "ranks": [
             4,
             12,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 23时20分]"
         },
         {
           "title": "尹同跃宣告奇瑞AI进入2.0时代，要快速追赶特斯拉FSD",
@@ -357,11 +358,12 @@
           "ranks": [
             6,
             14,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 23时20分]"
         }
       ]
     }
