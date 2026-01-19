@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T19:22:20.110096+08:00",
-  "total_titles_processed": 1473,
+  "generated_at": "2026-01-19T20:51:23.495032+08:00",
+  "total_titles_processed": 1601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
         {
           "title": "2025年国民经济运行情况",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时53分 ~ 19时22分]"
+          "appearance_count": 9,
+          "time_info": "[12时53分 ~ 20时51分]"
         },
         {
           "title": "【图解中国经济年报】2025年GDP同比增长5% 规模以上工业增加值增长5.9%",
@@ -36,6 +36,22 @@
           "time_info": "[11时51分 ~ 19时22分]"
         },
         {
+          "title": "去年人均可支配收入43377元",
+          "url": "https://www.douyin.com/hot/2372493",
+          "source": "抖音",
+          "ranks": [
+            6,
+            9,
+            26,
+            10,
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时51分 ~ 20时51分]"
+        },
+        {
           "title": "全文公布！中共上海市委关于制定上海市国民经济和社会发展第十五个五年规划的建议",
           "url": "https://www.cls.cn/detail/2261560",
           "source": "财联社热门",
@@ -50,21 +66,6 @@
           "time_info": "[09时50分 ~ 15时29分]"
         },
         {
-          "title": "去年人均可支配收入43377元",
-          "url": "https://www.douyin.com/hot/2372493",
-          "source": "抖音",
-          "ranks": [
-            6,
-            9,
-            26,
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时51分 ~ 19时22分]"
-        },
-        {
           "title": "一图读懂2025年中国经济成绩单",
           "url": "https://www.toutiao.com/trending/7596886976813649418/",
           "source": "今日头条",
@@ -76,11 +77,12 @@
             19,
             10,
             6,
-            26
+            26,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时53分 ~ 19时22分]"
+          "appearance_count": 9,
+          "time_info": "[12时53分 ~ 20时51分]"
         },
         {
           "title": "重磅经济数据发布",
@@ -90,8 +92,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 19时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 20时51分]"
         },
         {
           "title": "数读2025中国经济成绩单",
@@ -101,8 +103,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 19时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 20时51分]"
+        },
+        {
+          "title": "事关经济，两场重要新闻发布会将于明日举行",
+          "url": "https://www.cls.cn/detail/2262191",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 20时51分]"
         },
         {
           "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
@@ -119,19 +135,6 @@
           "time_info": "[01时18分 ~ 06时20分]"
         },
         {
-          "title": "事关经济，两场重要新闻发布会将于明日举行",
-          "url": "https://www.cls.cn/detail/2262191",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 19时22分]"
-        },
-        {
           "title": "日本首相高市早苗：战略性财政支出将增加就业和家庭收入，从而带来更高的税收收入。",
           "url": "https://flash.jin10.com/detail/20260119171116381800",
           "source": "金十数据",
@@ -143,6 +146,17 @@
           "time_info": "17时35分"
         },
         {
+          "title": "德国总理默茨：德国经济尚未真正发力。",
+          "url": "https://flash.jin10.com/detail/20260119203606409800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "印度制药商太阳药业正考虑以100亿美元收购Organon。（印度经济时报）",
           "url": "https://wallstreetcn.com/livenews/3039417",
           "source": "华尔街见闻-快讯",
@@ -152,6 +166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "德国总理默茨：北约伙伴国必须采取更多措施确保北极安全。 贸易关税威胁损害跨大西洋关系。 新的关税带来局势升级的风险，损害消费者利益。 欧盟将审慎回应美国最新的关税威胁。 德国经济尚未真正加速。",
+          "url": "https://wallstreetcn.com/livenews/3039771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "2025年居民人均可支配收入43377元",
@@ -169,6 +194,32 @@
           "time_info": "[11时51分 ~ 15时29分]"
         },
         {
+          "title": "四个字概括2025年中国经济表现",
+          "url": "https://www.douyin.com/hot/2372720",
+          "source": "抖音",
+          "ranks": [
+            9,
+            11,
+            21,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时29分 ~ 20时51分]"
+        },
+        {
+          "title": "德国总理默茨：关税上调将由美国公民买单，但也会损害德国和欧洲经济。",
+          "url": "https://flash.jin10.com/detail/20260119203536914800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "2025年国民经济运行情况发布会",
           "url": "https://www.douyin.com/hot/2372470",
           "source": "抖音",
@@ -180,6 +231,17 @@
           "time_info": "11时51分"
         },
         {
+          "title": "德国总理默茨：德国经济复苏已现初步迹象。",
+          "url": "https://flash.jin10.com/detail/20260119203532402800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "国新办介绍2025国民经济运行情况",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E6%96%B0%E5%8A%9E%E4%BB%8B%E7%BB%8D2025%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E6%83%85%E5%86%B5",
           "source": "bilibili 热搜",
@@ -189,31 +251,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
-        },
-        {
-          "title": "最高检：依法维护经济金融安全 严惩严重经济犯罪 严惩走私出口战略矿产等犯罪",
-          "url": "https://wallstreetcn.com/livenews/3039726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "四个字概括2025年中国经济表现",
-          "url": "https://www.douyin.com/hot/2372720",
-          "source": "抖音",
-          "ranks": [
-            9,
-            11,
-            21,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时29分 ~ 19时22分]"
         },
         {
           "title": "日本反对党中道改革联合(CRA)有关基本政策的立场声明：将致力于纠正日元过度贬值，降低食品、燃料等日常必需品的价格。 对已获得当地社区同意并具备有效疏散方案的核电站，将允许重启；同时目标是在未来转向不依赖核能的社会。 将促进对灾害救援和基础设施的定向投资。 将利用设立日本主权财富基金所产生的收入，废除食品消费税。",
@@ -251,6 +288,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时53分 ~ 13时32分]"
+        },
+        {
+          "title": "最高检：依法维护经济金融安全 严惩严重经济犯罪 严惩走私出口战略矿产等犯罪",
+          "url": "https://wallstreetcn.com/livenews/3039726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时51分]"
         },
         {
           "title": "去年居民人均可支配收入43377元",
@@ -301,6 +350,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "保利发展业绩快报：上半年净利润10.26亿元，同比下降79.49%；报告期内，受行业和市场波动影响，公司房地产项目结转毛利率同比下降。",
+          "url": "https://wallstreetcn.com/livenews/3039721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时51分]"
         },
         {
           "title": "乌克兰首席谈判代表：将于达沃斯世界经济论坛期间继续与美方磋商",
@@ -372,17 +433,6 @@
           "time_info": "09时50分"
         },
         {
-          "title": "保利发展业绩快报：上半年净利润10.26亿元，同比下降79.49%；报告期内，受行业和市场波动影响，公司房地产项目结转毛利率同比下降。",
-          "url": "https://wallstreetcn.com/livenews/3039721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
           "title": "凯投宏观：美国若因格陵兰岛问题对欧洲加征关税，经济影响可能有限",
           "url": "https://flash.jin10.com/detail/20260119145702330800",
           "source": "金十数据",
@@ -436,6 +486,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "高盛：美国最新关税威胁对欧洲经济冲击料有限 其中德国恐受最大影响",
+          "url": "https://wallstreetcn.com/livenews/3039741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "国新办发布会丨介绍2025年国民经济运行情况",
@@ -540,7 +601,7 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
@@ -576,8 +637,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时51分 ~ 19时22分]"
+          "appearance_count": 10,
+          "time_info": "[11时51分 ~ 20时51分]"
         },
         {
           "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
@@ -639,11 +700,12 @@
           "url": "https://wallstreetcn.com/livenews/3039725",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时51分]"
         },
         {
           "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
@@ -740,6 +802,17 @@
           "time_info": "17时35分"
         },
         {
+          "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
+          "url": "https://www.cls.cn/detail/2262334",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "OpenAI终向广告“妥协”，GEO逻辑被验证无误了吗？",
           "url": "https://www.cls.cn/detail/2261328",
           "source": "财联社热门",
@@ -749,6 +822,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "“大空头”放话：AI繁荣即将转为长期低迷，英伟达掉下神坛只是时间问题！",
+          "url": "https://www.cls.cn/detail/2262181",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "默克中国与镁睿化学签署合作备忘录，将共同开发定制化AI模型",
@@ -782,6 +866,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "Air手机界来了个真Pro",
+          "url": "https://s.weibo.com/weibo?q=%23Air%E6%89%8B%E6%9C%BA%E7%95%8C%E6%9D%A5%E4%BA%86%E4%B8%AA%E7%9C%9FPro%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "UP主手搓可食用的AI海洋方块",
