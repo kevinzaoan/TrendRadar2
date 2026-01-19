@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T18:29:31.875504+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2026-01-19T19:22:20.110096+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "2025年国民经济运行情况",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时53分 ~ 18时29分]"
+          "appearance_count": 8,
+          "time_info": "[12时53分 ~ 19时22分]"
         },
         {
           "title": "【图解中国经济年报】2025年GDP同比增长5% 规模以上工业增加值增长5.9%",
@@ -28,11 +28,12 @@
             6,
             4,
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时51分 ~ 18时29分]"
+          "appearance_count": 9,
+          "time_info": "[11时51分 ~ 19时22分]"
         },
         {
           "title": "全文公布！中共上海市委关于制定上海市国民经济和社会发展第十五个五年规划的建议",
@@ -56,11 +57,12 @@
             6,
             9,
             26,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时51分 ~ 18时29分]"
+          "appearance_count": 9,
+          "time_info": "[11时51分 ~ 19时22分]"
         },
         {
           "title": "一图读懂2025年中国经济成绩单",
@@ -73,11 +75,34 @@
             23,
             19,
             10,
-            6
+            6,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时53分 ~ 18时29分]"
+          "appearance_count": 8,
+          "time_info": "[12时53分 ~ 19时22分]"
+        },
+        {
+          "title": "重磅经济数据发布",
+          "url": "https://www.toutiao.com/trending/7596638782976364068/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 19时22分]"
+        },
+        {
+          "title": "数读2025中国经济成绩单",
+          "url": "https://www.baidu.com/s?wd=%E6%95%B0%E8%AF%BB2025%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%88%90%E7%BB%A9%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 19时22分]"
         },
         {
           "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
@@ -94,26 +119,17 @@
           "time_info": "[01时18分 ~ 06时20分]"
         },
         {
-          "title": "重磅经济数据发布",
-          "url": "https://www.toutiao.com/trending/7596638782976364068/",
-          "source": "今日头条",
+          "title": "事关经济，两场重要新闻发布会将于明日举行",
+          "url": "https://www.cls.cn/detail/2262191",
+          "source": "财联社热门",
           "ranks": [
-            3
+            6,
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时29分]"
-        },
-        {
-          "title": "数读2025中国经济成绩单",
-          "url": "https://www.baidu.com/s?wd=%E6%95%B0%E8%AF%BB2025%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%88%90%E7%BB%A9%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时29分]"
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 19时22分]"
         },
         {
           "title": "日本首相高市早苗：战略性财政支出将增加就业和家庭收入，从而带来更高的税收收入。",
@@ -175,16 +191,29 @@
           "time_info": "11时51分"
         },
         {
-          "title": "事关经济，两场重要新闻发布会将于明日举行",
-          "url": "https://www.cls.cn/detail/2262191",
-          "source": "财联社热门",
+          "title": "最高检：依法维护经济金融安全 严惩严重经济犯罪 严惩走私出口战略矿产等犯罪",
+          "url": "https://wallstreetcn.com/livenews/3039726",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            3
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "四个字概括2025年中国经济表现",
+          "url": "https://www.douyin.com/hot/2372720",
+          "source": "抖音",
+          "ranks": [
+            9,
+            11,
+            21,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时29分]"
+          "appearance_count": 5,
+          "time_info": "[15时29分 ~ 19时22分]"
         },
         {
           "title": "日本反对党中道改革联合(CRA)有关基本政策的立场声明：将致力于纠正日元过度贬值，降低食品、燃料等日常必需品的价格。 对已获得当地社区同意并具备有效疏散方案的核电站，将允许重启；同时目标是在未来转向不依赖核能的社会。 将促进对灾害救援和基础设施的定向投资。 将利用设立日本主权财富基金所产生的收入，废除食品消费税。",
@@ -236,19 +265,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时51分 ~ 15时29分]"
-        },
-        {
-          "title": "四个字概括2025年中国经济表现",
-          "url": "https://www.douyin.com/hot/2372720",
-          "source": "抖音",
-          "ranks": [
-            9,
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时29分 ~ 18时29分]"
         },
         {
           "title": "2025 年全国居民人均可支配收入 43377 元，比上年增长 5% ，如何看待这一数据？",
@@ -356,6 +372,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "保利发展业绩快报：上半年净利润10.26亿元，同比下降79.49%；报告期内，受行业和市场波动影响，公司房地产项目结转毛利率同比下降。",
+          "url": "https://wallstreetcn.com/livenews/3039721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "凯投宏观：美国若因格陵兰岛问题对欧洲加征关税，经济影响可能有限",
           "url": "https://flash.jin10.com/detail/20260119145702330800",
           "source": "金十数据",
@@ -373,7 +400,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -450,7 +477,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -513,7 +540,7 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
@@ -549,8 +576,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时51分 ~ 18时29分]"
+          "appearance_count": 9,
+          "time_info": "[11时51分 ~ 19时22分]"
         },
         {
           "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
@@ -565,6 +592,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时51分 ~ 17时35分]"
+        },
+        {
+          "title": "镁价底部反弹+全产业链加速卡位 航天与机器人等新需求能否重塑镁行业格局？|行业观察",
+          "url": "https://www.cls.cn/detail/2261815",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时39分 ~ 19时22分]"
         },
         {
           "title": "AI对存储的需求推动SSD发展 高速SSD主控芯片或供应吃紧",
@@ -593,19 +635,27 @@
           "time_info": "[00时25分 ~ 04时23分]"
         },
         {
-          "title": "镁价底部反弹+全产业链加速卡位 航天与机器人等新需求能否重塑镁行业格局？|行业观察",
-          "url": "https://www.cls.cn/detail/2261815",
-          "source": "财联社热门",
+          "title": "小鹏汽车董事长何小鹏发文称，今天，用汽车标准研发的ET1版本第一台机器人顺利落地。",
+          "url": "https://wallstreetcn.com/livenews/3039725",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            9,
-            6,
-            7,
-            8
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
+          "url": "https://www.zhihu.com/question/1995464531351135851",
+          "source": "知乎",
+          "ranks": [
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时39分 ~ 18时29分]"
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 19时22分]"
         },
         {
           "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
@@ -619,18 +669,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时19分 ~ 07时20分]"
-        },
-        {
-          "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
-          "url": "https://www.zhihu.com/question/1995464531351135851",
-          "source": "知乎",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时29分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -778,11 +816,24 @@
           "url": "https://wallstreetcn.com/livenews/3039706",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 19时22分]"
+        },
+        {
+          "title": "美媒赞叹中国发电量超美国两倍",
+          "url": "https://www.toutiao.com/trending/7596955822488292907/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 19时22分]"
         },
         {
           "title": "商品期货开盘，钯主力合约涨超3%，沪银涨超2%，原油、苯乙烯、LU燃油、焦炭、纯苯涨超1%。沪锡跌超7%，碳酸锂跌超3%，集运欧线、菜粕跌超2%。",
@@ -805,17 +856,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        },
-        {
-          "title": "美媒赞叹中国发电量超美国两倍",
-          "url": "https://www.toutiao.com/trending/7596955822488292907/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
         },
         {
           "title": "国家统计局：12月份，规上工业发电量8586亿千瓦时，同比增长0.1%；日均发电量277.0亿千瓦时。 1—12月份，规上工业发电量97159亿千瓦时，同比增长2.2%。",
