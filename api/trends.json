@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-19T12:53:25.166158+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2026-01-19T13:32:22.950123+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
       "match_count": 28,
       "titles": [
+        {
+          "title": "全文公布！中共上海市委关于制定上海市国民经济和社会发展第十五个五年规划的建议",
+          "url": "https://www.cls.cn/detail/2261560",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 13时32分]"
+        },
         {
           "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
           "url": "https://wallstreetcn.com/livenews/3039284",
@@ -22,17 +35,15 @@
           "time_info": "[01时18分 ~ 06时20分]"
         },
         {
-          "title": "全文公布！中共上海市委关于制定上海市国民经济和社会发展第十五个五年规划的建议",
-          "url": "https://www.cls.cn/detail/2261560",
-          "source": "财联社热门",
+          "title": "2025年国民经济运行情况",
+          "url": "https://www.douyin.com/hot/2372470",
+          "source": "抖音",
           "ranks": [
-            6,
-            4,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 12时53分]"
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 13时32分]"
         },
         {
           "title": "印度制药商太阳药业正考虑以100亿美元收购Organon。（印度经济时报）",
@@ -46,28 +57,6 @@
           "time_info": "09时50分"
         },
         {
-          "title": "日本反对党中道改革联合(CRA)有关基本政策的立场声明：将致力于纠正日元过度贬值，降低食品、燃料等日常必需品的价格。 对已获得当地社区同意并具备有效疏散方案的核电站，将允许重启；同时目标是在未来转向不依赖核能的社会。 将促进对灾害救援和基础设施的定向投资。 将利用设立日本主权财富基金所产生的收入，废除食品消费税。",
-          "url": "https://wallstreetcn.com/livenews/3039527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
-        },
-        {
-          "title": "日本在野党联盟中道改革联合：将推动针对灾害救援和基础设施的定向投资。通过设立日本主权财富基金所创造的收入来取消食品销售的消费税。",
-          "url": "https://flash.jin10.com/detail/20260119124223462800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
-        },
-        {
           "title": "2025年国民经济运行情况发布会",
           "url": "https://www.douyin.com/hot/2372470",
           "source": "抖音",
@@ -77,17 +66,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
-        },
-        {
-          "title": "2025年国民经济运行情况",
-          "url": "https://www.douyin.com/hot/2372470",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
         },
         {
           "title": "国新办介绍2025国民经济运行情况",
@@ -106,11 +84,36 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            7
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 13时32分]"
+        },
+        {
+          "title": "日本反对党中道改革联合(CRA)有关基本政策的立场声明：将致力于纠正日元过度贬值，降低食品、燃料等日常必需品的价格。 对已获得当地社区同意并具备有效疏散方案的核电站，将允许重启；同时目标是在未来转向不依赖核能的社会。 将促进对灾害救援和基础设施的定向投资。 将利用设立日本主权财富基金所产生的收入，废除食品消费税。",
+          "url": "https://wallstreetcn.com/livenews/3039527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时51分 ~ 12时53分]"
+          "time_info": "[12时53分 ~ 13时32分]"
+        },
+        {
+          "title": "日本在野党联盟中道改革联合：将推动针对灾害救援和基础设施的定向投资。通过设立日本主权财富基金所创造的收入来取消食品销售的消费税。",
+          "url": "https://flash.jin10.com/detail/20260119124223462800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 13时32分]"
         },
         {
           "title": "去年人均可支配收入43377元",
@@ -120,20 +123,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 12时53分]"
-        },
-        {
-          "title": "去年居民人均可支配收入43377元",
-          "url": "https://www.toutiao.com/trending/7596480213920481286/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 12时53分]"
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 13时32分]"
         },
         {
           "title": "【图解中国经济年报】2025年GDP同比增长5% 规模以上工业增加值增长5.9%",
@@ -141,11 +132,25 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 12时53分]"
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 13时32分]"
+        },
+        {
+          "title": "去年居民人均可支配收入43377元",
+          "url": "https://www.toutiao.com/trending/7596480213920481286/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 13时32分]"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：我们将始终保护我们的战略经济和安全利益。",
@@ -160,6 +165,18 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "一图读懂2025年中国经济成绩单",
+          "url": "https://www.toutiao.com/trending/7596886976813649418/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 13时32分]"
+        },
+        {
           "title": "乌克兰首席谈判代表：将于达沃斯世界经济论坛期间继续与美方磋商",
           "url": "https://flash.jin10.com/detail/20260119042225939800",
           "source": "金十数据",
@@ -170,6 +187,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时20分]"
+        },
+        {
+          "title": "中指研究院：房地产市场有望在“十五五”中后期逐步完成筑底",
+          "url": "https://wallstreetcn.com/livenews/3039518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 13时32分]"
+        },
+        {
+          "title": "《经济日报》解读我国为何一口气申报20万颗卫星",
+          "url": "https://wallstreetcn.com/livenews/3039512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 13时32分]"
+        },
+        {
+          "title": "2025 年全国居民人均可支配收入 43377 元，比上年增长 5% ，如何看待这一数据？",
+          "url": "https://www.zhihu.com/question/1996523556448789013",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 13时32分]"
         },
         {
           "title": "去年全国人均可支配收入43377元",
@@ -205,17 +257,6 @@
           "time_info": "09时50分"
         },
         {
-          "title": "中指研究院：房地产市场有望在“十五五”中后期逐步完成筑底",
-          "url": "https://wallstreetcn.com/livenews/3039518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
-        },
-        {
           "title": "国新办介绍2025年国民经济运行情况",
           "url": "https://www.toutiao.com/trending/7596886976813649418/",
           "source": "今日头条",
@@ -225,28 +266,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
-        },
-        {
-          "title": "一图读懂2025年中国经济成绩单",
-          "url": "https://www.toutiao.com/trending/7596886976813649418/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
-        },
-        {
-          "title": "《经济日报》解读我国为何一口气申报20万颗卫星",
-          "url": "https://wallstreetcn.com/livenews/3039512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
         },
         {
           "title": "国新办发布会丨介绍2025年国民经济运行情况",
@@ -293,17 +312,6 @@
           "time_info": "11时51分"
         },
         {
-          "title": "2025 年全国居民人均可支配收入 43377 元，比上年增长 5% ，如何看待这一数据？",
-          "url": "https://www.zhihu.com/question/1996523556448789013",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
-        },
-        {
           "title": "乌美将在世界经济论坛年会期间继续磋商",
           "url": "https://wallstreetcn.com/livenews/3039463",
           "source": "华尔街见闻-快讯",
@@ -329,7 +337,7 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
@@ -352,8 +360,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 12时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 13时32分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -375,8 +383,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 12时53分]"
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 13时32分]"
+        },
+        {
+          "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
+          "url": "https://wallstreetcn.com/articles/3763537",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 13时32分]"
         },
         {
           "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
@@ -392,6 +412,19 @@
           "time_info": "[05时19分 ~ 07时20分]"
         },
         {
+          "title": "AI对存储的需求推动SSD发展 高速SSD主控芯片或供应吃紧",
+          "url": "https://www.cls.cn/detail/2261597",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 13时32分]"
+        },
+        {
           "title": "翁家翌谈OpenAI模型跃迁",
           "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
           "source": "bilibili 热搜",
@@ -404,30 +437,6 @@
           "time_info": "[02时28分 ~ 03时16分]"
         },
         {
-          "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
-          "url": "https://wallstreetcn.com/articles/3763537",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 12时53分]"
-        },
-        {
-          "title": "AI对存储的需求推动SSD发展 高速SSD主控芯片或供应吃紧",
-          "url": "https://www.cls.cn/detail/2261597",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 12时53分]"
-        },
-        {
           "title": "绩优基金2025年四季度调仓动向：聚焦景气度，优化AI持仓",
           "url": "https://wallstreetcn.com/livenews/3039323",
           "source": "华尔街见闻-快讯",
@@ -437,6 +446,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "马斯克：AI5双芯片协同相当于英伟达Blackwell水平",
+          "url": "https://flash.jin10.com/detail/20260119125355949800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "马斯克：AI5双芯配置接近Blackwell级别，但成本极低",
+          "url": "https://wallstreetcn.com/livenews/3039528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "OpenAI终向广告“妥协”，GEO逻辑被验证无误了吗？",
