@@ -1,11 +1,254 @@
 {
-  "generated_at": "2026-01-19T09:50:53.846883+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-01-19T11:51:25.365858+08:00",
+  "total_titles_processed": 779,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "经济 房地产 收入",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
+          "url": "https://wallstreetcn.com/livenews/3039284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 06时20分]"
+        },
+        {
+          "title": "印度制药商太阳药业正考虑以100亿美元收购Organon。（印度经济时报）",
+          "url": "https://wallstreetcn.com/livenews/3039417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "2025年国民经济运行情况发布会",
+          "url": "https://www.douyin.com/hot/2372470",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "2025年居民人均可支配收入43377元",
+          "url": "https://www.baidu.com/s?wd=2025%E5%B9%B4%E5%B1%85%E6%B0%91%E4%BA%BA%E5%9D%87%E5%8F%AF%E6%94%AF%E9%85%8D%E6%94%B6%E5%85%A543377%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "国新办介绍2025国民经济运行情况",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E6%96%B0%E5%8A%9E%E4%BB%8B%E7%BB%8D2025%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E6%83%85%E5%86%B5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "全文公布！中共上海市委关于制定上海市国民经济和社会发展第十五个五年规划的建议",
+          "url": "https://www.cls.cn/detail/2261560",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 11时51分]"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：我们将始终保护我们的战略经济和安全利益。",
+          "url": "https://flash.jin10.com/detail/20260119050207007800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "乌克兰首席谈判代表：将于达沃斯世界经济论坛期间继续与美方磋商",
+          "url": "https://flash.jin10.com/detail/20260119042225939800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时20分]"
+        },
+        {
+          "title": "去年全国人均可支配收入43377元",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%B9%B4%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%9D%87%E5%8F%AF%E6%94%AF%E9%85%8D%E6%94%B6%E5%85%A543377%E5%85%83%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "去年人均可支配收入43377元",
+          "url": "https://www.douyin.com/hot/2372493",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "去年居民人均可支配收入43377元",
+          "url": "https://www.toutiao.com/trending/7596480213920481286/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "统计局介绍2025国民经济运行情况",
+          "url": "https://www.baidu.com/s?wd=%E7%BB%9F%E8%AE%A1%E5%B1%80%E4%BB%8B%E7%BB%8D2025%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E6%83%85%E5%86%B5",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "日本自民党官员西田：如果我们能通过设立日本主权财富基金等方式找到永久性收入来源，就可以永久废除食品销售税。",
+          "url": "https://flash.jin10.com/detail/20260119092917783800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "【图解中国经济年报】2025年GDP同比增长5% 规模以上工业增加值增长5.9%",
+          "url": "https://www.cls.cn/detail/2261758",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "国新办介绍2025年国民经济运行情况",
+          "url": "https://www.toutiao.com/trending/7596886976813649418/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "国新办发布会丨介绍2025年国民经济运行情况",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32400016",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "国家统计局局长：2026年我国有基础、有条件保持经济稳定向好运行",
+          "url": "https://wallstreetcn.com/livenews/3039480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "日本立宪民主党与公明党合并后的新政党“中道改革联合”政策纲领：将致力于实现持续的工资增长，以及经济成长成果的公平分配。",
+          "url": "https://wallstreetcn.com/livenews/3039386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "国家统计局局长康义在国新办新闻发布会上介绍，2025年最终消费支出对经济增长贡献率超过五成。",
+          "url": "https://wallstreetcn.com/livenews/3039473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "乌美将在世界经济论坛年会期间继续磋商",
+          "url": "https://wallstreetcn.com/livenews/3039463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "预告：国新办就落实中央经济工作会议精神，推动“十五五”实现良好开局有关情况举行新闻发布会",
+          "url": "https://wallstreetcn.com/livenews/3039453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
@@ -16,8 +259,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 09时50分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 11时51分]"
         },
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
@@ -27,8 +270,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 09时50分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 11时51分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -67,6 +310,17 @@
           "time_info": "[02时28分 ~ 03时16分]"
         },
         {
+          "title": "开年最惨！美国软件股崩了，因为Claude Code太火了",
+          "url": "https://wallstreetcn.com/articles/3763553",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
           "title": "绩优基金2025年四季度调仓动向：聚焦景气度，优化AI持仓",
           "url": "https://wallstreetcn.com/livenews/3039323",
           "source": "华尔街见闻-快讯",
@@ -78,15 +332,37 @@
           "time_info": "07时20分"
         },
         {
+          "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
+          "url": "https://wallstreetcn.com/articles/3763537",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
           "title": "OpenAI终向广告“妥协”，GEO逻辑被验证无误了吗？",
           "url": "https://www.cls.cn/detail/2261328",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "AI对存储的需求推动SSD发展 高速SSD主控芯片或供应吃紧",
+          "url": "https://www.cls.cn/detail/2261597",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
@@ -102,96 +378,8 @@
       ]
     },
     {
-      "keyword_group": "经济 房地产 收入",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
-          "url": "https://wallstreetcn.com/livenews/3039284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 06时20分]"
-        },
-        {
-          "title": "印度制药商太阳药业正考虑以100亿美元收购Organon。（印度经济时报）",
-          "url": "https://wallstreetcn.com/livenews/3039417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "欧盟委员会主席冯德莱恩：我们将始终保护我们的战略经济和安全利益。",
-          "url": "https://flash.jin10.com/detail/20260119050207007800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时20分]"
-        },
-        {
-          "title": "乌克兰首席谈判代表：将于达沃斯世界经济论坛期间继续与美方磋商",
-          "url": "https://flash.jin10.com/detail/20260119042225939800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时20分]"
-        },
-        {
-          "title": "全文公布！中共上海市委关于制定上海市国民经济和社会发展第十五个五年规划的建议",
-          "url": "https://www.cls.cn/detail/2261560",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "日本自民党官员西田：如果我们能通过设立日本主权财富基金等方式找到永久性收入来源，就可以永久废除食品销售税。",
-          "url": "https://flash.jin10.com/detail/20260119092917783800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "日本立宪民主党与公明党合并后的新政党“中道改革联合”政策纲领：将致力于实现持续的工资增长，以及经济成长成果的公平分配。",
-          "url": "https://wallstreetcn.com/livenews/3039386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        }
-      ]
-    },
-    {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "商品期货开盘，钯主力合约涨超3%，沪银涨超2%，原油、苯乙烯、LU燃油、焦炭、纯苯涨超1%。沪锡跌超7%，碳酸锂跌超3%，集运欧线、菜粕跌超2%。",
@@ -200,7 +388,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -214,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "国家统计局：12月份，规上工业发电量8586亿千瓦时，同比增长0.1%；日均发电量277.0亿千瓦时。 1—12月份，规上工业发电量97159亿千瓦时，同比增长2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3039452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         }
       ]
     }
