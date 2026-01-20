@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T04:13:10.601678+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-01-21T05:21:45.828161+08:00",
+  "total_titles_processed": 599,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 05时21分]"
         },
         {
           "title": "日债遭抛售,经济死相藏不住",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 05时21分]"
         },
         {
           "title": "消息人士：美国总统特朗普和俄罗斯总统普京的特使进入世界经济论坛的“美国之家（USA HOUSE）”。",
@@ -69,7 +69,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -187,7 +187,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -209,7 +209,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -231,7 +231,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         }
