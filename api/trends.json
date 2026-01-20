@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T01:31:28.386906+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-01-21T02:37:28.921132+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "数读2025年中国经济成绩单",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 02时37分]"
         },
         {
           "title": "日债遭抛售,经济死相藏不住",
@@ -26,8 +26,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 02时37分]"
+        },
+        {
+          "title": "消息人士：美国总统特朗普和俄罗斯总统普京的特使进入世界经济论坛的“美国之家（USA HOUSE）”。",
+          "url": "https://flash.jin10.com/detail/20260121020112692800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "美国商务部长卢特尼克：我们拥有一个伟大的经济体，完全能够应对较低的利率。",
@@ -36,9 +47,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "美国商务部长：利率应该更低 降息情况下本季度经济增速可能达到6%",
+          "url": "https://flash.jin10.com/detail/20260121013927690800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "美国商务部长卢特尼克：我们（美联储）的利率太高，高出好几百个基点。 如果将利率下调100个基点，将看到美国经济增速至少达到6%。",
@@ -47,9 +69,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "据华尔街日报：Anthropic首席执行官表示，政府应帮助确保人工智能的经济红利得到共享。",
+          "url": "https://flash.jin10.com/detail/20260121013547745800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "美国商务部长卢特尼克：我们的利率太高了。如果我们下调利率100个基点，你将会看到美国经济增速达到6%甚至更高。",
@@ -58,7 +91,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
@@ -88,8 +121,31 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "英伟达对AI初创公司Baseten投资1.5亿美元，对后者的估值为50亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3040636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "惠誉：美国信用形势温和，AI、消费者、贸易问题都构成风险。",
+          "url": "https://wallstreetcn.com/livenews/3040614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时37分]"
+        },
         {
           "title": "上海中小学开设AI课程",
           "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E8%AE%BEAI%E8%AF%BE%E7%A8%8B",
@@ -108,20 +164,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
         {
-          "title": "惠誉：美国信用形势温和，AI、消费者、贸易问题都构成风险。",
-          "url": "https://wallstreetcn.com/livenews/3040614",
-          "source": "华尔街见闻-快讯",
+          "title": "AnthropicCEO：AI发展未来可能导致10%失业率 政府必须有所作为",
+          "url": "https://flash.jin10.com/detail/20260121014844232800",
+          "source": "金十数据",
           "ranks": [
-            6
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "02时37分"
         },
         {
           "title": "G42的CEO Peng Xiao：预计阿联酋将在未来数月获得第一批由（由英伟达、Cerebras Inc.等供应的）高级AI芯片。",
