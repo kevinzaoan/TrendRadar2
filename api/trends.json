@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T06:23:58.723687+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2026-01-21T07:23:20.042956+08:00",
+  "total_titles_processed": 695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "数读2025年中国经济成绩单",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 07时23分]"
         },
         {
           "title": "日债遭抛售,经济死相藏不住",
@@ -26,8 +26,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 07时23分]"
+        },
+        {
+          "title": "力拓(RIO.N)：全球经济在“持续冲击”下仍保持韧性。",
+          "url": "https://flash.jin10.com/detail/20260121053835345800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时23分]"
+        },
+        {
+          "title": "极致贪婪时刻！美银基金经理调查：全球经济“不着陆”首次成共识，股票对冲比例降至八年最低",
+          "url": "https://wallstreetcn.com/articles/3763691",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "消息人士：美国总统特朗普和俄罗斯总统普京的特使进入世界经济论坛的“美国之家（USA HOUSE）”。",
@@ -39,17 +62,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
-        },
-        {
-          "title": "力拓(RIO.N)：全球经济在“持续冲击”下仍保持韧性。",
-          "url": "https://flash.jin10.com/detail/20260121053835345800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
         },
         {
           "title": "美国商务部长卢特尼克：我们拥有一个伟大的经济体，完全能够应对较低的利率。",
@@ -113,7 +125,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -174,11 +186,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 06时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 07时23分]"
         },
         {
           "title": "惠誉：美国信用形势温和，AI、消费者、贸易问题都构成风险。",
