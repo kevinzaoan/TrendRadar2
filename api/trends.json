@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T20:51:33.296492+08:00",
-  "total_titles_processed": 1914,
+  "generated_at": "2026-01-21T21:46:52.140544+08:00",
+  "total_titles_processed": 2001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "数读2025年中国经济成绩单",
@@ -58,11 +58,12 @@
             24,
             25,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时36分 ~ 20时51分]"
+          "appearance_count": 24,
+          "time_info": "[00时36分 ~ 21时46分]"
         },
         {
           "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
@@ -78,6 +79,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时29分 ~ 20时51分]"
+        },
+        {
+          "title": "特朗普：在达沃斯向朋友“以及少数敌人”发表讲话。 美国通胀已被战胜。 核心通胀率为1.5%，第四季度增长率预计为5.4%。 美国经济增长有望达到国际货币基金组织预测速度的两倍。 相信我的政策能够带来更高的经济增长。 旨在提高民众生活水平。 欧洲没有朝着正确的方向发展。 批评欧洲对绿色能源及移民问题的重视程度。 欧洲的一些地方已经变得面目全非，不再像以前那样了。",
+          "url": "https://wallstreetcn.com/livenews/3041316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "世界经济论坛：特朗普演讲将按计划于当地时间下午2:30（北京时间晚21:30）开始。",
@@ -102,15 +114,18 @@
           "time_info": "15时29分"
         },
         {
-          "title": "嘉信理财四季度净收入63.4亿美元，预估63.7亿美元。 四季度经调整后每股收益1.39美元，预估1.39美元。 第四财季净新增资产总额1582亿美元，预期1440.4亿美元。 嘉信理财美股盘前跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3041290",
-          "source": "华尔街见闻-快讯",
+          "title": "中国 GDP 首破 140 万亿增速 5%，140 万亿意味着什么？在全球经济中处于什么水平？",
+          "url": "https://www.zhihu.com/question/1996534896076808317",
+          "source": "知乎",
           "ranks": [
-            5
+            17,
+            7,
+            12,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时33分 ~ 21时46分]"
         },
         {
           "title": "极致贪婪时刻！美银基金经理调查：全球经济“不着陆”首次成共识，股票对冲比例降至八年最低",
@@ -124,18 +139,40 @@
           "time_info": "[07时23分 ~ 17时33分]"
         },
         {
-          "title": "中国 GDP 首破 140 万亿增速 5%，140 万亿意味着什么？在全球经济中处于什么水平？",
-          "url": "https://www.zhihu.com/question/1996534896076808317",
-          "source": "知乎",
+          "title": "“十五五”新开局，房地产高质量发展有哪些着力点？住建部部长倪虹发声",
+          "url": "https://www.cls.cn/detail/2265380",
+          "source": "财联社热门",
           "ranks": [
-            17,
             7,
-            12,
-            15
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时33分 ~ 20时51分]"
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 21时46分]"
+        },
+        {
+          "title": "嘉信理财四季度净收入63.4亿美元，预估63.7亿美元。 四季度经调整后每股收益1.39美元，预估1.39美元。 第四财季净新增资产总额1582亿美元，预期1440.4亿美元。 嘉信理财美股盘前跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3041290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 21时46分]"
+        },
+        {
+          "title": "苏州“十五五”规划建议：推动具身智能等产业加快形成新的经济增长点",
+          "url": "https://wallstreetcn.com/livenews/3041285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 21时46分]"
         },
         {
           "title": "住建部部长：今年将着力稳定房地产市场，支持房企合理的融资需求",
@@ -173,17 +210,6 @@
           "time_info": "15时29分"
         },
         {
-          "title": "“十五五”新开局，房地产高质量发展有哪些着力点？住建部部长倪虹发声",
-          "url": "https://www.cls.cn/detail/2265380",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
           "title": "英伟达CEO黄仁勋：人工智能将有助于缩小发达经济体与新兴经济体之间的技术鸿沟。",
           "url": "https://flash.jin10.com/detail/20260121185920177800",
           "source": "金十数据",
@@ -212,7 +238,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -245,7 +271,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -259,17 +285,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
-        },
-        {
-          "title": "苏州“十五五”规划建议：推动具身智能等产业加快形成新的经济增长点",
-          "url": "https://wallstreetcn.com/livenews/3041285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
         },
         {
           "title": "消息人士：美国总统特朗普和俄罗斯总统普京的特使进入世界经济论坛的“美国之家（USA HOUSE）”。",
@@ -300,7 +315,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -311,7 +326,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -325,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
+        },
+        {
+          "title": "美国总统特朗普将于十分钟后在世界经济论坛年会就“我们如何在竞争加剧的世界中开展合作？”发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260121212000002800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "韩国总统李在明：可能需要采取额外税收措施以稳定当地房地产市场。",
@@ -344,7 +370,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -498,7 +524,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -523,6 +549,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：若按特朗普想法设定信用卡利率上限 将带来经济灾难",
+          "url": "https://wallstreetcn.com/livenews/3041288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "英伟达CEO黄仁勋：能源、半导体及其他人工智能应用领域已在经济上受益。",
@@ -564,7 +601,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -575,7 +612,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -594,7 +631,7 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "疑似AI玩家确认是Roamer",
@@ -621,11 +658,12 @@
             10,
             9,
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时44分 ~ 20时51分]"
+          "appearance_count": 11,
+          "time_info": "[12时44分 ~ 21时46分]"
         },
         {
           "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
@@ -662,8 +700,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时32分 ~ 20时51分]"
+          "appearance_count": 7,
+          "time_info": "[16时32分 ~ 21时46分]"
         },
         {
           "title": "疑似AI玩家已确认是BRO Roamer",
@@ -692,11 +730,12 @@
           "url": "https://www.toutiao.com/trending/7597721748050444351/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 21时46分]"
         },
         {
           "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
@@ -723,6 +762,19 @@
           "time_info": "[02时37分 ~ 04时13分]"
         },
         {
+          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
+          "url": "https://www.cls.cn/detail/2265232",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时46分]"
+        },
+        {
           "title": "云深处科技四足机器人专利获授权",
           "url": "https://wallstreetcn.com/livenews/3040951",
           "source": "华尔街见闻-快讯",
@@ -746,18 +798,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时36分 ~ 07时23分]"
-        },
-        {
-          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
-          "url": "https://www.cls.cn/detail/2265232",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时51分]"
         },
         {
           "title": "手术机器人收费“定标”：医保局发力价格立项 加速药械创新商业化",
@@ -805,6 +845,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 02时37分]"
+        },
+        {
+          "title": "咻咻满COS翻唱icantwait",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 21时46分]"
         },
         {
           "title": "上海国际学校的孩子都在使用AI",
@@ -862,17 +914,6 @@
           "time_info": "14时37分"
         },
         {
-          "title": "咻咻满COS翻唱icantwait",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
           "title": "盖茨基金会和OpenAI计划投资5000万美元 资助非洲AI医疗",
           "url": "https://flash.jin10.com/detail/20260121131506452800",
           "source": "金十数据",
@@ -904,6 +945,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "OpenAI CFO：星际之门（Stargate）园区建设进度已过半。",
+          "url": "https://wallstreetcn.com/livenews/3041298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "AnthropicCEO：AI发展未来可能导致10%失业率 政府必须有所作为",
@@ -948,6 +1000,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32418066",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "OpenAI：年龄预测功能正面向全球推广，欧盟将在未来几周跟进。",
