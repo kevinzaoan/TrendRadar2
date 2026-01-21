@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T05:29:22.385445+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-01-22T06:26:18.211712+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 06时26分]"
         },
         {
           "title": "中国 GDP 首破 140 万亿增速 5%，140 万亿意味着什么？在全球经济中处于什么水平？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 06时26分]"
         },
         {
           "title": "黑白颠周媛付费课收入已超2400万",
@@ -42,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 06时26分]"
         },
         {
           "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
@@ -56,8 +57,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 06时26分]"
         },
         {
           "title": "贵金属集体飙升，黄金白银双双刷新历史新高，这背后反映了哪些经济信号？",
@@ -70,8 +71,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 06时26分]"
         },
         {
           "title": "Anthropic的收入在2025年年底超过90亿美元。",
@@ -113,11 +114,12 @@
           "source": "今日头条",
           "ranks": [
             30,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时27分 ~ 05时29分]"
+          "appearance_count": 3,
+          "time_info": "[03时27分 ~ 06时26分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：一项重大住房政策即将出台。",
@@ -214,7 +216,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -241,11 +243,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时26分]"
         },
         {
           "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
@@ -255,8 +258,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 06时26分]"
         },
         {
           "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
@@ -267,8 +270,23 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 06时26分]"
+        },
+        {
+          "title": "咻咻满COS翻唱icantwait",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            16,
+            13,
+            15,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时49分 ~ 05时29分]"
+          "time_info": "[00时51分 ~ 06时26分]"
         },
         {
           "title": "UP主带你玩转全球顶级AI现场",
@@ -284,21 +302,6 @@
           "time_info": "[00时51分 ~ 04时31分]"
         },
         {
-          "title": "咻咻满COS翻唱icantwait",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            16,
-            13,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时29分]"
-        },
-        {
           "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
           "url": "https://wallstreetcn.com/articles/3763773",
           "source": "华尔街见闻",
@@ -306,8 +309,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时42分 ~ 05时29分]"
+          "appearance_count": 6,
+          "time_info": "[02时42分 ~ 06时26分]"
         },
         {
           "title": "OpenAI首席财务官为ChatGPT引入广告辩解，称其为“强劲的商业模式”",
@@ -345,6 +348,18 @@
           "time_info": "[02时43分 ~ 03时27分]"
         },
         {
+          "title": "据知情人士透露，人工智能（AI）初创公司SambaNova Systems Inc.寻求融资，此前英特尔收购该公司的磋商陷入停滞。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3041510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时26分]"
+        },
+        {
           "title": "苹果公司正开发AI可穿戴设备PIN。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3041492",
           "source": "华尔街见闻-快讯",
@@ -377,17 +392,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
-        },
-        {
-          "title": "据知情人士透露，人工智能（AI）初创公司SambaNova Systems Inc.寻求融资，此前英特尔收购该公司的磋商陷入停滞。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3041510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
         },
         {
           "title": "白宫披露对AI的研究情况，以及对美国经济影响的研究。",
