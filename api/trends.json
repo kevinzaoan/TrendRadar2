@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T07:26:53.234772+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2026-01-22T09:48:34.880481+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "图灵的猫回应预测韩服AI疑云",
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 09时48分]"
         },
         {
           "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
@@ -52,11 +52,12 @@
           "ranks": [
             5,
             8,
-            29
+            29,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 07时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 09时48分]"
         },
         {
           "title": "咻咻满COS翻唱icantwait",
@@ -83,6 +84,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时42分 ~ 07时26分]"
+        },
+        {
+          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
+          "url": "https://www.cls.cn/detail/2265732",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 09时48分]"
         },
         {
           "title": "OpenAI首席财务官为ChatGPT引入广告辩解，称其为“强劲的商业模式”",
@@ -144,15 +157,15 @@
           "time_info": "[04时31分 ~ 05时29分]"
         },
         {
-          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
-          "url": "https://www.cls.cn/detail/2265732",
+          "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
+          "url": "https://www.cls.cn/detail/2265674",
           "source": "财联社热门",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时26分"
+          "time_info": "09时48分"
         },
         {
           "title": "苹果计划将Siri重塑为内置聊天机器人 或在6月官宣",
@@ -166,13 +179,35 @@
           "time_info": "04时31分"
         },
         {
+          "title": "GPU租赁价格随需求激增，黄仁勋：AI需数万亿美元基础设施支撑",
+          "url": "https://wallstreetcn.com/articles/3763828",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "黄仁勋：AI机器人是欧洲“一代人难得一遇”的重大机遇",
+          "url": "https://www.cls.cn/detail/2265632",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
           "title": "OpenAI创始人奥特曼亲赴中东洽谈500亿美元新融资",
           "url": "https://flash.jin10.com/detail/20260122063934524800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -183,7 +218,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -205,7 +240,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -268,7 +303,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "“十五五”新开局，房地产高质量发展有哪些着力点？住建部部长倪虹发声",
@@ -289,11 +324,12 @@
             4,
             5,
             6,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 09时48分]"
         },
         {
           "title": "黑白颠周媛付费课收入已超2400万",
@@ -319,11 +355,12 @@
             17,
             15,
             14,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 09时48分]"
         },
         {
           "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
@@ -336,8 +373,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 09时48分]"
         },
         {
           "title": "Anthropic的收入在2025年年底超过90亿美元。",
@@ -386,6 +423,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时27分 ~ 07时26分]"
+        },
+        {
+          "title": "“眼神给出去”网红已收入超2400万",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%9C%BC%E7%A5%9E%E7%BB%99%E5%87%BA%E5%8E%BB%E2%80%9D%E7%BD%91%E7%BA%A2%E5%B7%B2%E6%94%B6%E5%85%A5%E8%B6%852400%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：一项重大住房政策即将出台。",
@@ -474,6 +522,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "房地产利好消息不断落地",
+          "url": "https://www.baidu.com/s?wd=%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%88%A9%E5%A5%BD%E6%B6%88%E6%81%AF%E4%B8%8D%E6%96%AD%E8%90%BD%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "美国总统特朗普：希望美国白宫国家经济委员会主任哈塞特留任现职，美联储主席人选已缩减至两到三位，我个人认为很可能已锁定最终人选。",
