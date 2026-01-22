@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T01:29:59.002073+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-01-23T02:33:52.101529+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时33分]"
         },
         {
           "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
@@ -57,22 +57,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时33分]"
         },
         {
           "title": "宇树科技：2025全年人形机器人实际出货量超5500台",
           "url": "https://www.cls.cn/detail/2266790",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时33分]"
         },
         {
           "title": "美国参议员沃伦警告AI债务隐忧，敦促特朗普政府调查“不透明”的数据中心融资",
@@ -144,7 +146,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "2025农业农村经济运行成绩单来了",
@@ -154,8 +156,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时33分]"
         },
         {
           "title": "2025农业农村经济运行成绩单",
@@ -165,8 +167,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时33分]"
         },
         {
           "title": "《灌篮高手》中主要球员的家庭经济状况都如何？",
@@ -190,6 +192,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "达沃斯2026把脉全球经济未来",
+          "url": "https://www.toutiao.com/trending/7597745574812614698/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
         },
         {
           "title": "马斯克：美国的太阳能关税壁垒极高，壁垒人为推高了部署太阳能的经济成本。",
