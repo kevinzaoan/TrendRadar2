@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T17:31:38.827434+08:00",
-  "total_titles_processed": 1687,
+  "generated_at": "2026-01-23T18:26:46.179093+08:00",
+  "total_titles_processed": 1761,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时43分 ~ 17时31分]"
+          "appearance_count": 9,
+          "time_info": "[11时43分 ~ 18时26分]"
         },
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时45分 ~ 17时31分]"
+          "appearance_count": 10,
+          "time_info": "[09时45分 ~ 18时26分]"
         },
         {
           "title": "马斯克突袭达沃斯放预告：人形机器人或于明年年底前开卖",
@@ -54,6 +54,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时45分 ~ 14时36分]"
+        },
+        {
+          "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
+          "url": "https://www.cls.cn/detail/2267470",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时35分 ~ 18时26分]"
         },
         {
           "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
@@ -81,19 +94,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时36分 ~ 07时22分]"
-        },
-        {
-          "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
-          "url": "https://www.cls.cn/detail/2267470",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时35分 ~ 17时31分]"
         },
         {
           "title": "马斯克：人形机器人明年底开售，FSD最快有望2月在华获批",
@@ -196,8 +196,45 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 18时26分]"
+        },
+        {
+          "title": "仅用半小时！Claude Code“终结”英伟达“最强护城河”？",
+          "url": "https://wallstreetcn.com/articles/3764001",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时26分 ~ 17时31分]"
+          "time_info": "[16时31分 ~ 18时26分]"
+        },
+        {
+          "title": "AI需求爆棚但英特尔产能告急？CEO财报会坦言：我很失望！（附会议实录）",
+          "url": "https://www.cls.cn/detail/2267399",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时26分]"
+        },
+        {
+          "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
+          "url": "https://www.zhihu.com/question/1997844624513975566",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时26分]"
         },
         {
           "title": "AI 将答案、解题思路全喂到孩子嘴边，孩子还会去思考吗？长期用 AI 孩子会变笨吗？",
@@ -224,18 +261,6 @@
           "time_info": "[03时25分 ~ 04时29分]"
         },
         {
-          "title": "仅用半小时！Claude Code“终结”英伟达“最强护城河”？",
-          "url": "https://wallstreetcn.com/articles/3764001",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时31分]"
-        },
-        {
           "title": "OpenAI拟从客户AI辅助研发成果中分成",
           "url": "https://flash.jin10.com/detail/20260123024532109800",
           "source": "金十数据",
@@ -248,28 +273,27 @@
           "time_info": "[03时25分 ~ 04时29分]"
         },
         {
-          "title": "AI需求爆棚但英特尔产能告急？CEO财报会坦言：我很失望！（附会议实录）",
-          "url": "https://www.cls.cn/detail/2267399",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时31分]"
-        },
-        {
-          "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
-          "url": "https://www.zhihu.com/question/1997844624513975566",
+          "title": "智谱 AI 因算力告急「限购」GLM 编程计划，暴露出 AI 行业哪些问题？",
+          "url": "https://www.zhihu.com/question/1997433388664131775",
           "source": "知乎",
           "ranks": [
-            14,
-            13
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时31分]"
+          "time_info": "[17时31分 ~ 18时26分]"
+        },
+        {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时26分]"
         },
         {
           "title": "美国参议员沃伦警告AI债务隐忧，敦促特朗普政府调查“不透明”的数据中心融资",
@@ -327,17 +351,6 @@
           "time_info": "07时22分"
         },
         {
-          "title": "智谱 AI 因算力告急「限购」GLM 编程计划，暴露出 AI 行业哪些问题？",
-          "url": "https://www.zhihu.com/question/1997433388664131775",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
           "title": "OpenAI的CEO Altman：12月份，从API业务获得大约10亿美元ARR。",
           "url": "https://wallstreetcn.com/livenews/3042253",
           "source": "华尔街见闻-快讯",
@@ -371,17 +384,6 @@
           "time_info": "03时25分"
         },
         {
-          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
-          "url": "https://www.zhihu.com/question/1997802145714569913",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
           "title": "马斯克讲话之际，特斯拉(TSLA.O)上涨1.8%，创盘中新高。马斯克表示，到明年年底将向公众出售人形机器人。",
           "url": "https://flash.jin10.com/detail/20260122235433792800",
           "source": "金十数据",
@@ -399,7 +401,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -528,7 +530,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "2025农业农村经济运行成绩单来了",
@@ -645,6 +647,18 @@
           "time_info": "[11时43分 ~ 12时43分]"
         },
         {
+          "title": "【招商银行：2025年净利润1501.81亿元，同比增长1.21%】招商银行公告，2025年，本集团实现营业收入3375.32亿元，同比增加0.44亿元，增幅0.01%；利润总额1789.93亿元，同比增加3.41亿元，增幅0.19%；归属于本行股东的净利润1501.81亿元，同比增加17.9亿元，增幅1.21%。",
+          "url": "https://wallstreetcn.com/livenews/3042790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时26分]"
+        },
+        {
           "title": "日本央行：如果经济和通胀展望实现，将继续加息。",
           "url": "https://wallstreetcn.com/livenews/3042531",
           "source": "华尔街见闻-快讯",
@@ -681,6 +695,17 @@
           "time_info": "[11时43分 ~ 12时43分]"
         },
         {
+          "title": "2026全球经济展望",
+          "url": "https://search.bilibili.com/all?keyword=2026%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E5%B1%95%E6%9C%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "日本央行行长植田和男：今日的价格前景已计入政府的经济措施。",
           "url": "https://flash.jin10.com/detail/20260123151732192800",
           "source": "金十数据",
@@ -690,6 +715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "美媒惊讶：万斯一本正经将美国经济比作泰坦尼克号",
+          "url": "https://news.ifeng.com/c/8q9KkztYYOk",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "英特尔(INTC.O)CFO津斯纳：定制芯片业务在2025年增长超过50%，并在第四季度实现了超过10亿美元的年化收入规模。",
@@ -780,17 +816,6 @@
           "time_info": "15时26分"
         },
         {
-          "title": "【招商银行：2025年净利润1501.81亿元，同比增长1.21%】招商银行公告，2025年，本集团实现营业收入3375.32亿元，同比增加0.44亿元，增幅0.01%；利润总额1789.93亿元，同比增加3.41亿元，增幅0.19%；归属于本行股东的净利润1501.81亿元，同比增加17.9亿元，增幅1.21%。",
-          "url": "https://wallstreetcn.com/livenews/3042790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
           "title": "日本央行行长植田和男：将评估每次加息对经济和物价的影响。",
           "url": "https://flash.jin10.com/detail/20260123151234706800",
           "source": "金十数据",
@@ -800,6 +825,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "据路透调查：受访的15位经济学家一致预计，匈牙利央行下周将维持基准利率在6.5%不变。",
+          "url": "https://flash.jin10.com/detail/20260123180231353800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "工业经济发展这些方面很亮眼",
@@ -970,7 +1006,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美总统称在中国找不到任何风力发电场，外交部回应",
@@ -1008,6 +1044,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
+        },
+        {
+          "title": "市场消息：印度反垄断调查通过WhatsApp聊天记录及生产数据，将塔塔钢铁、JSW钢铁、印度钢铁管理局（SAIL）以及RINL与钢铁价格垄断联盟联系起来。报告称，“有充分的间接证据”表明SAIL、RINL、JSW和塔塔钢铁进行了协同行动。",
+          "url": "https://flash.jin10.com/detail/20260123175410057800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "在中国找不到风力发电场？外交部回应",
