@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T06:19:19.926017+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-01-24T07:22:20.743188+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时22分]"
         },
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
@@ -30,6 +30,18 @@
           "time_info": "[00时31分 ~ 06时19分]"
         },
         {
+          "title": "仅用半小时！Claude Code“终结”英伟达“最强护城河”？",
+          "url": "https://wallstreetcn.com/articles/3764001",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时22分]"
+        },
+        {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
           "url": "https://www.zhihu.com/question/1997802145714569913",
           "source": "知乎",
@@ -37,22 +49,12 @@
             5,
             10,
             16,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时19分]"
-        },
-        {
-          "title": "仅用半小时！Claude Code“终结”英伟达“最强护城河”？",
-          "url": "https://wallstreetcn.com/articles/3764001",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时22分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -64,11 +66,12 @@
             17,
             7,
             12,
-            13
+            13,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时22分]"
         },
         {
           "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
@@ -143,7 +146,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "一图解读2025年国民经济大数据",
@@ -153,8 +156,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时22分]"
         },
         {
           "title": "美媒惊讶：万斯一本正经将美国经济比作泰坦尼克号",
@@ -164,8 +167,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时22分]"
         },
         {
           "title": "美国领先经济指标在10月和11月再次下滑 消费者信心疲弱是主要原因",
@@ -178,6 +181,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 02时35分]"
+        },
+        {
+          "title": "日元涨破158！日央行行长植田和男：若经济如预期将继续加息，将在特殊情况下灵活开展债券操作",
+          "url": "https://wallstreetcn.com/articles/3764013",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "2026年房地产市场怎么走",
