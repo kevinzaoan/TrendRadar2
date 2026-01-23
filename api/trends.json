@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T12:43:32.017951+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2026-01-23T13:28:37.271381+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -54,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时28分]"
         },
         {
           "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
@@ -65,8 +65,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时28分]"
+        },
+        {
+          "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3763967",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时28分]"
         },
         {
           "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
@@ -100,18 +112,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        },
-        {
-          "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3763967",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 12时43分]"
         },
         {
           "title": "机器人、火箭、Robotaxi....马斯克在达沃斯“又画了很多饼”",
@@ -168,8 +168,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时28分]"
         },
         {
           "title": "报道：OpenAI拟从客户AI辅助研发成果中分成",
@@ -271,6 +271,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "AI 将答案、解题思路全喂到孩子嘴边，孩子还会去思考吗？长期用 AI 孩子会变笨吗？",
+          "url": "https://www.zhihu.com/question/1997937872972505781",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "马斯克讲话之际，特斯拉(TSLA.O)上涨1.8%，创盘中新高。马斯克表示，到明年年底将向公众出售人形机器人。",
@@ -545,7 +556,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -589,7 +600,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -622,7 +633,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -704,11 +715,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时28分]"
         },
         {
           "title": "在中国找不到风力发电场？外交部回应",
