@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T13:28:37.271381+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2026-01-23T14:36:03.774698+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -17,6 +17,29 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时36分 ~ 07时22分]"
+        },
+        {
+          "title": "马斯克突袭达沃斯放预告：人形机器人或于明年年底前开卖",
+          "url": "https://www.cls.cn/detail/2267073",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时45分 ~ 14时36分]"
+        },
+        {
+          "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
+          "url": "https://wallstreetcn.com/articles/3763964",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 14时36分]"
         },
         {
           "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
@@ -46,29 +69,6 @@
           "time_info": "[00时36分 ~ 07时22分]"
         },
         {
-          "title": "马斯克突袭达沃斯放预告：人形机器人或于明年年底前开卖",
-          "url": "https://www.cls.cn/detail/2267073",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 13时28分]"
-        },
-        {
-          "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
-          "url": "https://wallstreetcn.com/articles/3763964",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 13时28分]"
-        },
-        {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3763967",
           "source": "华尔街见闻",
@@ -77,8 +77,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 13时28分]"
+          "appearance_count": 6,
+          "time_info": "[09时45分 ~ 14时36分]"
         },
         {
           "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
@@ -112,6 +112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "马斯克：人形机器人明年底开售，FSD最快有望2月在华获批",
+          "url": "https://news.ifeng.com/c/8q8vzmQpQIS",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 14时36分]"
         },
         {
           "title": "机器人、火箭、Robotaxi....马斯克在达沃斯“又画了很多饼”",
@@ -161,15 +172,27 @@
           "time_info": "[04时29分 ~ 05时24分]"
         },
         {
-          "title": "马斯克：人形机器人明年底开售，FSD最快有望2月在华获批",
-          "url": "https://news.ifeng.com/c/8q8vzmQpQIS",
-          "source": "凤凰网",
+          "title": "AI 将答案、解题思路全喂到孩子嘴边，孩子还会去思考吗？长期用 AI 孩子会变笨吗？",
+          "url": "https://www.zhihu.com/question/1997937872972505781",
+          "source": "知乎",
           "ranks": [
-            7
+            20,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时43分 ~ 13时28分]"
+          "time_info": "[13时28分 ~ 14时36分]"
+        },
+        {
+          "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
+          "url": "https://www.cls.cn/detail/2267470",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 14时36分]"
         },
         {
           "title": "报道：OpenAI拟从客户AI辅助研发成果中分成",
@@ -271,17 +294,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
-        },
-        {
-          "title": "AI 将答案、解题思路全喂到孩子嘴边，孩子还会去思考吗？长期用 AI 孩子会变笨吗？",
-          "url": "https://www.zhihu.com/question/1997937872972505781",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
         },
         {
           "title": "马斯克讲话之际，特斯拉(TSLA.O)上涨1.8%，创盘中新高。马斯克表示，到明年年底将向公众出售人形机器人。",
@@ -386,7 +398,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "2025农业农村经济运行成绩单来了",
@@ -409,6 +421,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时36分 ~ 11时43分]"
+        },
+        {
+          "title": "日本央行行长植田和男：日本经济正在温和复苏。",
+          "url": "https://wallstreetcn.com/livenews/3042632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "「必须学十年数学才能搞懂经济学，否则不如大专」怎么理解经济学对于数学的需要？",
@@ -594,6 +617,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "李蓓：很有可能两个季度内房地产市场会见底 后续是十年级别的上升周期",
+          "url": "https://wallstreetcn.com/livenews/3042614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "工业经济发展这些方面很亮眼",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%B8%9A%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E8%BF%99%E4%BA%9B%E6%96%B9%E9%9D%A2%E5%BE%88%E4%BA%AE%E7%9C%BC%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -671,6 +705,17 @@
           "time_info": "11时43分"
         },
         {
+          "title": "路透调查：79位经济学家中67位预计欧洲央行将维持存款利率在2.00%至2026年（12月调查中91位经济学家中68位持此观点）。",
+          "url": "https://flash.jin10.com/detail/20260123132418486800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "达沃斯2026把脉全球经济未来",
           "url": "https://www.toutiao.com/trending/7597745574812614698/",
           "source": "今日头条",
@@ -707,8 +752,19 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "焦炭主力合约日内大涨4.00%，现报1747.50元/吨。焦煤主力合约日内涨幅达3.69%，现报1166元/吨。",
+          "url": "https://flash.jin10.com/detail/20260123141616100800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
         {
           "title": "美总统称在中国找不到任何风力发电场，外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32440677",
@@ -716,11 +772,23 @@
           "ranks": [
             19,
             18,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 13时28分]"
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 14时36分]"
+        },
+        {
+          "title": "焦炭主力合约日内大涨4%，现报1747.50元/吨。 焦煤主力合约日内涨幅达3.69%，现报1166元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3042620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "在中国找不到风力发电场？外交部回应",
