@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T20:47:58.466948+08:00",
-  "total_titles_processed": 1963,
+  "generated_at": "2026-01-23T21:43:40.369400+08:00",
+  "total_titles_processed": 2054,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时43分 ~ 20时47分]"
+          "appearance_count": 12,
+          "time_info": "[11时43分 ~ 21时43分]"
         },
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时45分 ~ 20时47分]"
+          "appearance_count": 13,
+          "time_info": "[09时45分 ~ 21时43分]"
         },
         {
           "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
@@ -116,11 +116,38 @@
             13,
             19,
             12,
-            10
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时26分 ~ 21时43分]"
+        },
+        {
+          "title": "仅用半小时！Claude Code“终结”英伟达“最强护城河”？",
+          "url": "https://wallstreetcn.com/articles/3764001",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[15时26分 ~ 20时47分]"
+          "time_info": "[16时31分 ~ 21时43分]"
+        },
+        {
+          "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
+          "url": "https://www.zhihu.com/question/1997844624513975566",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 21时43分]"
         },
         {
           "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
@@ -156,19 +183,6 @@
           "time_info": "05时24分"
         },
         {
-          "title": "仅用半小时！Claude Code“终结”英伟达“最强护城河”？",
-          "url": "https://wallstreetcn.com/articles/3764001",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 20时47分]"
-        },
-        {
           "title": "机器人、火箭、Robotaxi....马斯克在达沃斯“又画了很多饼”",
           "url": "https://wallstreetcn.com/articles/3763964",
           "source": "华尔街见闻",
@@ -189,19 +203,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        },
-        {
-          "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
-          "url": "https://www.zhihu.com/question/1997844624513975566",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 20时47分]"
         },
         {
           "title": "AI电力需求激增，加速美国得州及中西部碳捕集产业发展",
@@ -229,6 +230,19 @@
           "time_info": "[04时29分 ~ 05时24分]"
         },
         {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 21时43分]"
+        },
+        {
           "title": "AI需求爆棚但英特尔产能告急？CEO财报会坦言：我很失望！（附会议实录）",
           "url": "https://www.cls.cn/detail/2267399",
           "source": "财联社热门",
@@ -252,18 +266,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时28分 ~ 14时36分]"
-        },
-        {
-          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
-          "url": "https://www.zhihu.com/question/1997802145714569913",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 20时47分]"
         },
         {
           "title": "报道：OpenAI拟从客户AI辅助研发成果中分成",
@@ -299,6 +301,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时31分 ~ 18时26分]"
+        },
+        {
+          "title": "马斯克首次亮相达沃斯：人形机器人明年底开售，FSD最快有望2月在华获批",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32447461",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时43分]"
         },
         {
           "title": "美国参议员沃伦警告AI债务隐忧，敦促特朗普政府调查“不透明”的数据中心融资",
@@ -356,6 +370,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "刘润说终于有硅谷抄不来的AI了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%A6%E8%AF%B4%E7%BB%88%E4%BA%8E%E6%9C%89%E7%A1%85%E8%B0%B7%E6%8A%84%E4%B8%8D%E6%9D%A5%E7%9A%84AI%E4%BA%86%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "OpenAI的CEO Altman：12月份，从API业务获得大约10亿美元ARR。",
           "url": "https://wallstreetcn.com/livenews/3042253",
           "source": "华尔街见闻-快讯",
@@ -387,17 +412,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
-        },
-        {
-          "title": "马斯克首次亮相达沃斯：人形机器人明年底开售，FSD最快有望2月在华获批",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32447461",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
         },
         {
           "title": "影视飓风说荣耀Air是独一档",
@@ -638,6 +652,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "美媒惊讶：万斯一本正经将美国经济比作泰坦尼克号",
+          "url": "https://news.ifeng.com/c/8q9KkztYYOk",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 21时43分]"
+        },
+        {
           "title": "1月22日达沃斯全球经济论坛要点总结",
           "url": "https://wallstreetcn.com/livenews/3042273",
           "source": "华尔街见闻-快讯",
@@ -648,17 +673,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时24分]"
-        },
-        {
-          "title": "美媒惊讶：万斯一本正经将美国经济比作泰坦尼克号",
-          "url": "https://news.ifeng.com/c/8q9KkztYYOk",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时47分]"
         },
         {
           "title": "日本央行：近期食品价格（如米价）的上涨，很大程度上反映了暂时的供应侧因素。 全球经济前景仍存在不确定性，例如贸易政策的影响，这可能导致供应侧驱动的进口价格上涨。 迄今为止宣布的贸易政策可能会拖累全球经济。 关于美国经济，需要关注的因素包括关税通过恶化企业利润对就业和收入形成产生的影响。 如果进口价格大幅上涨，家庭对支出的防御性心态可能会进一步加强。 迄今为止宣布的贸易政策可能会引发全球化趋势的改变。",
@@ -761,7 +775,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -1055,7 +1069,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美总统称在中国找不到任何风力发电场，外交部回应",
@@ -1094,6 +1108,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时21分 ~ 20时47分]"
+        },
+        {
+          "title": "乌克兰电网运营商表示，多家发电设施正在进行紧急维修。",
+          "url": "https://flash.jin10.com/detail/20260123210740244800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "焦炭主力合约日内大涨4%，现报1747.50元/吨。 焦煤主力合约日内涨幅达3.69%，现报1166元/吨。",
