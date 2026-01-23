@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T11:43:25.576418+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-01-23T12:43:32.017951+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
@@ -54,8 +54,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 12时43分]"
+        },
+        {
+          "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
+          "url": "https://wallstreetcn.com/articles/3763964",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时45分 ~ 11时43分]"
+          "time_info": "[11时43分 ~ 12时43分]"
         },
         {
           "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
@@ -91,15 +102,16 @@
           "time_info": "05时24分"
         },
         {
-          "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
-          "url": "https://wallstreetcn.com/articles/3763964",
+          "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3763967",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 12时43分]"
         },
         {
           "title": "机器人、火箭、Robotaxi....马斯克在达沃斯“又画了很多饼”",
@@ -149,16 +161,15 @@
           "time_info": "[04时29分 ~ 05时24分]"
         },
         {
-          "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3763967",
-          "source": "华尔街见闻",
+          "title": "马斯克：人形机器人明年底开售，FSD最快有望2月在华获批",
+          "url": "https://news.ifeng.com/c/8q8vzmQpQIS",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时45分 ~ 11时43分]"
+          "time_info": "[11时43分 ~ 12时43分]"
         },
         {
           "title": "报道：OpenAI拟从客户AI辅助研发成果中分成",
@@ -194,17 +205,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        },
-        {
-          "title": "马斯克：人形机器人明年底开售，FSD最快有望2月在华获批",
-          "url": "https://news.ifeng.com/c/8q8vzmQpQIS",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
         },
         {
           "title": "谷歌：在谷歌搜索中将个人智能扩展至AI模式。",
@@ -334,7 +334,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -356,7 +356,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -375,7 +375,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "2025农业农村经济运行成绩单来了",
@@ -385,8 +385,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 11时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 12时43分]"
         },
         {
           "title": "2025农业农村经济运行成绩单",
@@ -418,7 +418,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -429,7 +429,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -457,6 +457,42 @@
           "time_info": "[04时29分 ~ 05时24分]"
         },
         {
+          "title": "日本央行：近期食品价格（如米价）的上涨，很大程度上反映了暂时的供应侧因素。 全球经济前景仍存在不确定性，例如贸易政策的影响，这可能导致供应侧驱动的进口价格上涨。 迄今为止宣布的贸易政策可能会拖累全球经济。 关于美国经济，需要关注的因素包括关税通过恶化企业利润对就业和收入形成产生的影响。 如果进口价格大幅上涨，家庭对支出的防御性心态可能会进一步加强。 迄今为止宣布的贸易政策可能会引发全球化趋势的改变。",
+          "url": "https://wallstreetcn.com/livenews/3042539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时43分]"
+        },
+        {
+          "title": "日本央行：日本经济可能会持续温和复苏。 消费者通胀或将逐步加速。 维持薪资与通胀同步上升的机制。 产出缺口可望随着趋势改善，温和扩张。 中长期通胀预期可能持续温和上升。",
+          "url": "https://wallstreetcn.com/livenews/3042534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时43分]"
+        },
+        {
+          "title": "日本央行：如果经济和通胀展望实现，将继续加息。",
+          "url": "https://wallstreetcn.com/livenews/3042531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时43分]"
+        },
+        {
           "title": "《灌篮高手》中主要球员的家庭经济状况都如何？",
           "url": "https://www.zhihu.com/question/28012317",
           "source": "知乎",
@@ -469,15 +505,16 @@
           "time_info": "[00时36分 ~ 01时29分]"
         },
         {
-          "title": "日本央行：近期食品价格（如米价）的上涨，很大程度上反映了暂时的供应侧因素。 全球经济前景仍存在不确定性，例如贸易政策的影响，这可能导致供应侧驱动的进口价格上涨。 迄今为止宣布的贸易政策可能会拖累全球经济。 关于美国经济，需要关注的因素包括关税通过恶化企业利润对就业和收入形成产生的影响。 如果进口价格大幅上涨，家庭对支出的防御性心态可能会进一步加强。 迄今为止宣布的贸易政策可能会引发全球化趋势的改变。",
-          "url": "https://wallstreetcn.com/livenews/3042539",
+          "title": "日本央行：经济和通胀前景面临的风险大致平衡。 前景面临的风险包括贸易政策对海外经济的影响、国内企业的工资和价格设定行为，以及金融和外汇市场的发展。 核心消费者通胀率在今年上半年可能放缓至2%以下。 在2025至2027财年预测期的后半段，潜在核心消费者通胀率可能处于与2%目标基本一致的水平。 日本近期的潜在增长率预计在0.5%左右。 通胀预期正在温和上升。",
+          "url": "https://wallstreetcn.com/livenews/3042527",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            16,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时43分]"
         },
         {
           "title": "英特尔(INTC.O)CFO津斯纳：定制芯片业务在2025年增长超过50%，并在第四季度实现了超过10亿美元的年化收入规模。",
@@ -497,9 +534,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        },
+        {
+          "title": "日经225指数站上54000点，日内涨0.61%。此前日本央行维持利率不变，并上调近期经济预期。",
+          "url": "https://flash.jin10.com/detail/20260123115258735800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "克里姆林宫：美国总统特使威特科夫与德米特里耶夫将就经济问题举行会晤。",
@@ -519,7 +567,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -535,26 +583,15 @@
           "time_info": "05时24分"
         },
         {
-          "title": "日本央行：日本经济可能会持续温和复苏。 消费者通胀或将逐步加速。 维持薪资与通胀同步上升的机制。 产出缺口可望随着趋势改善，温和扩张。 中长期通胀预期可能持续温和上升。",
-          "url": "https://wallstreetcn.com/livenews/3042534",
-          "source": "华尔街见闻-快讯",
+          "title": "工业经济发展这些方面很亮眼",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%B8%9A%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E8%BF%99%E4%BA%9B%E6%96%B9%E9%9D%A2%E5%BE%88%E4%BA%AE%E7%9C%BC%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "日本央行：如果经济和通胀展望实现，将继续加息。",
-          "url": "https://wallstreetcn.com/livenews/3042531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "12时43分"
         },
         {
           "title": "英特尔：预计代工收入季环比将达到两位数（百分比）增幅。",
@@ -568,26 +605,26 @@
           "time_info": "07时22分"
         },
         {
-          "title": "日本央行：经济和通胀前景面临的风险大致平衡。 前景面临的风险包括贸易政策对海外经济的影响、国内企业的工资和价格设定行为，以及金融和外汇市场的发展。 核心消费者通胀率在今年上半年可能放缓至2%以下。 在2025至2027财年预测期的后半段，潜在核心消费者通胀率可能处于与2%目标基本一致的水平。 日本近期的潜在增长率预计在0.5%左右。 通胀预期正在温和上升。",
-          "url": "https://wallstreetcn.com/livenews/3042527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
           "title": "日本央行：日本经济很可能继续温和复苏。",
           "url": "https://flash.jin10.com/detail/20260123111014946800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        },
+        {
+          "title": "日本央行上调经济增长和通胀预期",
+          "url": "https://flash.jin10.com/detail/20260123113234070800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "美国经济分析局：10月价格由9月至11月CPI的几何平均值推算得出。",
@@ -607,7 +644,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -618,7 +655,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -666,11 +703,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32440677",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时43分]"
         },
         {
           "title": "在中国找不到风力发电场？外交部回应",
