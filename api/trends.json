@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T09:45:20.974359+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2026-01-23T11:43:25.576418+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -46,6 +46,18 @@
           "time_info": "[00时36分 ~ 07时22分]"
         },
         {
+          "title": "马斯克突袭达沃斯放预告：人形机器人或于明年年底前开卖",
+          "url": "https://www.cls.cn/detail/2267073",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 11时43分]"
+        },
+        {
           "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
           "url": "https://wallstreetcn.com/livenews/3042190",
           "source": "华尔街见闻-快讯",
@@ -55,17 +67,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        },
-        {
-          "title": "马斯克突袭达沃斯放预告：人形机器人或于明年年底前开卖",
-          "url": "https://www.cls.cn/detail/2267073",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
         },
         {
           "title": "谷歌：即日起，谷歌AI Pro和AI Ultra订阅用户可选择安全地将Gmail和谷歌相册连接到AI模式。",
@@ -90,13 +91,24 @@
           "time_info": "05时24分"
         },
         {
+          "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
+          "url": "https://wallstreetcn.com/articles/3763964",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
           "title": "机器人、火箭、Robotaxi....马斯克在达沃斯“又画了很多饼”",
           "url": "https://wallstreetcn.com/articles/3763964",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -137,6 +149,18 @@
           "time_info": "[04时29分 ~ 05时24分]"
         },
         {
+          "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3763967",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 11时43分]"
+        },
+        {
           "title": "报道：OpenAI拟从客户AI辅助研发成果中分成",
           "url": "https://wallstreetcn.com/livenews/3042264",
           "source": "华尔街见闻-快讯",
@@ -161,17 +185,6 @@
           "time_info": "[03时25分 ~ 04时29分]"
         },
         {
-          "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3763967",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
           "title": "美国参议员沃伦警告AI债务隐忧，敦促特朗普政府调查“不透明”的数据中心融资",
           "url": "https://wallstreetcn.com/livenews/3042186",
           "source": "华尔街见闻-快讯",
@@ -181,6 +194,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "马斯克：人形机器人明年底开售，FSD最快有望2月在华获批",
+          "url": "https://news.ifeng.com/c/8q8vzmQpQIS",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
         },
         {
           "title": "谷歌：在谷歌搜索中将个人智能扩展至AI模式。",
@@ -304,6 +328,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "商务部：2025年手机、智能机器人等数字产品网零额分别增长20.5%和18%",
+          "url": "https://wallstreetcn.com/livenews/3042511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
           "title": "马斯克：到明年年底，我们将向公众出售人形机器人。",
           "url": "https://flash.jin10.com/detail/20260122235219610800",
           "source": "金十数据",
@@ -313,6 +348,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "王玉雯陈星旭撒糖给AI上了一课",
+          "url": "https://www.douyin.com/hot/2376144",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
         },
         {
           "title": "英特尔四季度营收136.7亿美元，分析师预期134.3亿美元。 四季度数据中心和AI营收47.4亿美元，分析师预期44.2亿美元。 四季度客户计算营收81.9亿美元，分析师预期83.0亿美元。 四季度英特尔代工（Intel Foundry）营收45.1亿美元，分析师预期43.6亿美元。 预计一季度营收117亿-127亿美元，分析师预期125.6亿美元。 英特尔（INTC）美股盘后跌4.62%。",
@@ -329,7 +375,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 14,
+      "match_count": 25,
       "titles": [
         {
           "title": "2025农业农村经济运行成绩单来了",
@@ -339,8 +385,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 09时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 11时43分]"
         },
         {
           "title": "2025农业农村经济运行成绩单",
@@ -350,8 +396,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 09时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 11时43分]"
         },
         {
           "title": "「必须学十年数学才能搞懂经济学，否则不如大专」怎么理解经济学对于数学的需要？",
@@ -364,6 +410,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时25分 ~ 07时22分]"
+        },
+        {
+          "title": "金十图示：2026年01月23日（周五）日本央行经济预期",
+          "url": "https://flash.jin10.com/detail/20260123111826430800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "日本央行：关于美国经济，有必要关注关税通过企业利润恶化对就业和收入形成产生的影响等因素。",
+          "url": "https://flash.jin10.com/detail/20260123111503186800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
         },
         {
           "title": "标普500指数初步收涨0.5%，电信、可选消费板块涨超1%，科技板块涨0.6%，房地产板块跌1%。 纳斯达克100指数初步收涨0.7%，成分股中，Datadog涨6.5%，Meta涨5.6%，MercadoLibre涨5%，特斯拉涨4%，奈飞跌2.3%，新思科技跌2.4%，罗斯百货跌2.6%，拉姆研究跌3.4%。 Salesforce初步收涨2.9%，3M涨2.9%，宝洁涨2.7%，美国运通涨2.1%，联合健康涨1.9%，霍尼韦尔涨1.5%，领跑道指成分股，IBM、沃尔玛、SHW、Merck则至少跌约1%。",
@@ -401,6 +469,17 @@
           "time_info": "[00时36分 ~ 01时29分]"
         },
         {
+          "title": "日本央行：近期食品价格（如米价）的上涨，很大程度上反映了暂时的供应侧因素。 全球经济前景仍存在不确定性，例如贸易政策的影响，这可能导致供应侧驱动的进口价格上涨。 迄今为止宣布的贸易政策可能会拖累全球经济。 关于美国经济，需要关注的因素包括关税通过恶化企业利润对就业和收入形成产生的影响。 如果进口价格大幅上涨，家庭对支出的防御性心态可能会进一步加强。 迄今为止宣布的贸易政策可能会引发全球化趋势的改变。",
+          "url": "https://wallstreetcn.com/livenews/3042539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
           "title": "英特尔(INTC.O)CFO津斯纳：定制芯片业务在2025年增长超过50%，并在第四季度实现了超过10亿美元的年化收入规模。",
           "url": "https://flash.jin10.com/detail/20260123063100745800",
           "source": "金十数据",
@@ -412,15 +491,37 @@
           "time_info": "07时22分"
         },
         {
+          "title": "日本央行：全球经济前景仍存在不确定性，例如贸易政策的影响，这可能导致供给端进口价格上涨。",
+          "url": "https://flash.jin10.com/detail/20260123111235262800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
           "title": "克里姆林宫：美国总统特使威特科夫与德米特里耶夫将就经济问题举行会晤。",
           "url": "https://flash.jin10.com/detail/20260123092658834800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "日本央行：前景面临的风险包括贸易政策对海外经济体的影响、国内企业工资和定价行为，以及金融和外汇市场的发展。",
+          "url": "https://flash.jin10.com/detail/20260123111206357800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
         },
         {
           "title": "哥伦比亚将经济紧急状态延长30天。（La FM）",
@@ -434,6 +535,28 @@
           "time_info": "05时24分"
         },
         {
+          "title": "日本央行：日本经济可能会持续温和复苏。 消费者通胀或将逐步加速。 维持薪资与通胀同步上升的机制。 产出缺口可望随着趋势改善，温和扩张。 中长期通胀预期可能持续温和上升。",
+          "url": "https://wallstreetcn.com/livenews/3042534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "日本央行：如果经济和通胀展望实现，将继续加息。",
+          "url": "https://wallstreetcn.com/livenews/3042531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
           "title": "英特尔：预计代工收入季环比将达到两位数（百分比）增幅。",
           "url": "https://wallstreetcn.com/livenews/3042347",
           "source": "华尔街见闻-快讯",
@@ -445,6 +568,28 @@
           "time_info": "07时22分"
         },
         {
+          "title": "日本央行：经济和通胀前景面临的风险大致平衡。 前景面临的风险包括贸易政策对海外经济的影响、国内企业的工资和价格设定行为，以及金融和外汇市场的发展。 核心消费者通胀率在今年上半年可能放缓至2%以下。 在2025至2027财年预测期的后半段，潜在核心消费者通胀率可能处于与2%目标基本一致的水平。 日本近期的潜在增长率预计在0.5%左右。 通胀预期正在温和上升。",
+          "url": "https://wallstreetcn.com/livenews/3042527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "日本央行：日本经济很可能继续温和复苏。",
+          "url": "https://flash.jin10.com/detail/20260123111014946800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
           "title": "美国经济分析局：10月价格由9月至11月CPI的几何平均值推算得出。",
           "url": "https://wallstreetcn.com/livenews/3042170",
           "source": "华尔街见闻-快讯",
@@ -454,6 +599,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "日本央行：经济前景的风险大致平衡。",
+          "url": "https://flash.jin10.com/detail/20260123110918229800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "日本央行：若经济和物价走势与其预测一致，并随着经济和物价的改善，将继续上调政策利率。",
+          "url": "https://flash.jin10.com/detail/20260123110912235800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
         },
         {
           "title": "达沃斯2026把脉全球经济未来",
@@ -492,8 +659,19 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美总统称在中国找不到任何风力发电场，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440677",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
         {
           "title": "在中国找不到风力发电场？外交部回应",
           "url": "https://www.toutiao.com/trending/7598069439411224630/",
