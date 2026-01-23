@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T03:25:49.452047+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-01-24T04:27:34.040238+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
@@ -26,19 +26,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
           "url": "https://www.zhihu.com/question/1997802145714569913",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "仅用半小时！Claude Code“终结”英伟达“最强护城河”？",
@@ -48,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -62,8 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
@@ -148,8 +149,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "美媒惊讶：万斯一本正经将美国经济比作泰坦尼克号",
@@ -159,8 +160,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "美国领先经济指标在10月和11月再次下滑 消费者信心疲弱是主要原因",
