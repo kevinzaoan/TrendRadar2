@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T04:22:51.409928+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-01-25T05:19:36.718543+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时19分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时19分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -38,11 +38,12 @@
             17,
             14,
             25,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时19分]"
         },
         {
           "title": "苹果一个月内多次促销 iPhone Air大降2500元",
@@ -52,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 05时19分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -63,11 +64,12 @@
             30,
             18,
             25,
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 05时19分]"
         },
         {
           "title": "据知情人士透露，Databricks已经发行18亿美元新债务，现在拥有接触超过70亿美元债务融资的机会。 在12月份宣布的那一轮融资中，投资者们对这家数据分析软件开发商的估值为1340亿美元。 和Anthropic、Canva、OpenAI、Stripe一样，该公司也有望在2026年IPO。（CNBC）",
@@ -77,8 +79,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 05时19分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -107,8 +109,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时19分]"
         },
         {
           "title": "五粮液：伴随宏观经济持续回升向好等因素，行业将逐渐步入修复期",
@@ -118,8 +120,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 05时19分]"
         },
         {
           "title": "中国稀土集团：统筹稀土经济价值与战略价值，以科技创新培育新质生产力",
@@ -129,8 +131,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 05时19分]"
         },
         {
           "title": "北京经开区经济总量迈上四千亿新台阶",
@@ -140,8 +142,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 05时19分]"
         }
       ]
     }
