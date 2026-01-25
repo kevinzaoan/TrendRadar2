@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T02:31:19.747351+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2026-01-26T03:18:10.320740+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
@@ -27,19 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时31分]"
-        },
-        {
-          "title": "百度APP文心助手入局春节AI战，将发放5亿现金、合作2026北京台春晚",
-          "url": "https://wallstreetcn.com/livenews/3043398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
@@ -50,8 +39,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "AI热潮点燃金属需求 全球矿业股或迎新一轮“超级周期”",
@@ -61,19 +50,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时31分]"
-        },
-        {
-          "title": "银河通用成为2026春晚指定具身大模型机器人",
-          "url": "https://wallstreetcn.com/livenews/3043383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "语法正确，疑似AI：人工智能如何重塑我们的写作与信任",
@@ -85,8 +63,30 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时18分]"
+        },
+        {
+          "title": "百度APP文心助手入局春节AI战，将发放5亿现金、合作2026北京台春晚",
+          "url": "https://wallstreetcn.com/livenews/3043398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
+        },
+        {
+          "title": "银河通用成为2026春晚指定具身大模型机器人",
+          "url": "https://wallstreetcn.com/livenews/3043383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         }
       ]
     },
@@ -103,8 +103,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "宁夏银川：加速打造“算力之都” 数字经济总量达1200亿元",
@@ -114,8 +114,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "世界经济论坛非洲峰会将于2027年恢复举办",
@@ -125,8 +125,21 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
+        },
+        {
+          "title": "上海人均收入首破9万 11个省份超4万",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%BA%BA%E5%9D%87%E6%94%B6%E5%85%A5%E9%A6%96%E7%A0%B49%E4%B8%87+11%E4%B8%AA%E7%9C%81%E4%BB%BD%E8%B6%854%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "陈茂波：世界经济论坛与会者对香港经济发展态度相当正面",
@@ -136,20 +149,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时31分]"
-        },
-        {
-          "title": "上海人均收入首破9万 11个省份超4万",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%BA%BA%E5%9D%87%E6%94%B6%E5%85%A5%E9%A6%96%E7%A0%B49%E4%B8%87+11%E4%B8%AA%E7%9C%81%E4%BB%BD%E8%B6%854%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         }
       ]
     }
