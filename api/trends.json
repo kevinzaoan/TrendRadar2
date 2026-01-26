@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T01:31:26.108466+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-01-27T02:37:12.039773+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "宇树成为2026年春晚机器人合作伙伴",
@@ -15,8 +15,63 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时37分]"
+        },
+        {
+          "title": "阶跃星辰印奇谈AI商业化",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0%E5%8D%B0%E5%A5%87%E8%B0%88AI%E5%95%86%E4%B8%9A%E5%8C%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时37分]"
+        },
+        {
+          "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
+          "url": "https://wallstreetcn.com/articles/3764155",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时37分]"
+        },
+        {
+          "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
+          "url": "https://wallstreetcn.com/articles/3764149",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时37分]"
+        },
+        {
+          "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
+          "url": "https://www.cls.cn/detail/2270223",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时37分]"
+        },
+        {
+          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时37分]"
         },
         {
           "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
@@ -43,61 +98,6 @@
           "time_info": "[00时35分 ~ 01时31分]"
         },
         {
-          "title": "阶跃星辰印奇谈AI商业化",
-          "url": "https://search.bilibili.com/all?keyword=%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0%E5%8D%B0%E5%A5%87%E8%B0%88AI%E5%95%86%E4%B8%9A%E5%8C%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时31分]"
-        },
-        {
-          "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
-          "url": "https://wallstreetcn.com/articles/3764155",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时31分]"
-        },
-        {
-          "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
-          "url": "https://wallstreetcn.com/articles/3764149",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时31分]"
-        },
-        {
-          "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
-          "url": "https://www.cls.cn/detail/2270223",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时31分]"
-        },
-        {
-          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时31分]"
-        },
-        {
           "title": "中国造出全球80%的AI眼镜",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%87%BA%E5%85%A8%E7%90%8380%25%E7%9A%84AI%E7%9C%BC%E9%95%9C",
           "source": "百度热搜",
@@ -107,6 +107,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时35分 ~ 01时31分]"
+        },
+        {
+          "title": "Claude Skill 的思路并不复杂，为什么又是再次被 Claude 优先提出？",
+          "url": "https://www.zhihu.com/question/1998162232379458760",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 02时37分]"
         },
         {
           "title": "微软(MSFT.O)：推出MAIA 200芯片，这是一款基于台积电3纳米工艺打造的AI推理加速器。MAIA 200 将服务于多种人工智能模型，包括来自OpenAI的最新 GPT-5.2 模型。",
@@ -144,8 +155,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时37分]"
         },
         {
           "title": "山东、山西、河南、河北2025年经济成绩单均已出炉",
@@ -155,8 +166,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时37分]"
         },
         {
           "title": "55%经济学家的预测，英国央行将在3月底前将银行利率下调至3.50%。除两名经济学家外，56位受访经济学家均表示，英国央行将于2月5日将银行利率维持在3.75%。",
@@ -181,11 +192,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时37分]"
         }
       ]
     }
