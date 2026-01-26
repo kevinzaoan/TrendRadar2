@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T21:44:54.919140+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2026-01-26T22:29:34.644326+08:00",
+  "total_titles_processed": 1791,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 34,
+      "match_count": 42,
       "titles": [
         {
           "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
@@ -74,8 +74,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时38分 ~ 21时44分]"
+          "appearance_count": 12,
+          "time_info": "[13时38分 ~ 22时29分]"
         },
         {
           "title": "AI热潮点燃金属需求 全球矿业股或迎新一轮“超级周期”",
@@ -160,6 +160,39 @@
           "time_info": "[00时26分 ~ 05时20分]"
         },
         {
+          "title": "据The Information：OpenAI在早期广告推广中寻求溢价定价。",
+          "url": "https://flash.jin10.com/detail/20260126220859936800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
+          "title": "苹果推出新款AirTag。",
+          "url": "https://wallstreetcn.com/livenews/3044055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
+          "title": "苹果(AAPL.O)：全新AirTag今日上市，单个AirTag售价29美元，四件装售价99美元。",
+          "url": "https://flash.jin10.com/detail/20260126220730931800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "智元机器人旗下灵巧手子公司临界点连续完成两轮融资",
           "url": "https://wallstreetcn.com/livenews/3043698",
           "source": "华尔街见闻-快讯",
@@ -225,11 +258,12 @@
           "url": "https://wallstreetcn.com/articles/3764155",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时49分 ~ 21时44分]"
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 22时29分]"
         },
         {
           "title": "首届特种机器人科产融合大会举办",
@@ -285,9 +319,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
+        },
+        {
+          "title": "英伟达推出开源软件和模型，帮助政府和企业更加容易利用AI和复杂数据来构建自己的气象模型。",
+          "url": "https://wallstreetcn.com/livenews/3044053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "腾讯神秘AI项目曝光",
@@ -312,6 +357,28 @@
           "time_info": "14时38分"
         },
         {
+          "title": "苹果(AAPL.O)推出新款AirTag，其覆盖范围更广，查找功能更强大。",
+          "url": "https://flash.jin10.com/detail/20260126220348815800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
+          "title": "由卡普空开发，与机器人女孩一同冒险的游戏 PRAGMATA 即将发售，但还缺正式中文名，你有什么好提案吗？",
+          "url": "https://www.zhihu.com/question/1999208523578512141",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "全球首条机器人关节自动化产线启动，浦东按下人形机器人量产“加速键”",
           "url": "https://www.cls.cn/detail/2268757",
           "source": "财联社热门",
@@ -323,13 +390,24 @@
           "time_info": "09时57分"
         },
         {
+          "title": "宇树成为2026年春晚机器人合作伙伴",
+          "url": "https://www.cls.cn/detail/2270217",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "英伟达(NVDA.O)与Coreweave(CRWV.O)达成协议，加速AI工厂的建设。Coreweave将采用英伟达的CPU和存储平台。",
           "url": "https://flash.jin10.com/detail/20260126210142025800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -356,13 +434,24 @@
           "time_info": "14时38分"
         },
         {
+          "title": "高盛贵金属交易主管Binet-Laisne据悉将离职",
+          "url": "https://wallstreetcn.com/livenews/3044044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "有奖征集！与机器人女孩一同冒险的游戏 PRAGMATA 即将发售，但卡普空说缺个正式中文名，你有好提案吗？",
           "url": "https://www.zhihu.com/question/1999208523578512141",
           "source": "知乎",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -440,6 +529,19 @@
           "time_info": "[00时26分 ~ 07时21分]"
         },
         {
+          "title": "山东、山西、河南、河北2025年经济成绩单均已出炉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32464152",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时33分 ~ 22时29分]"
+        },
+        {
           "title": "上海人均收入首破9万 11个省份超4万",
           "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%BA%BA%E5%9D%87%E6%94%B6%E5%85%A5%E9%A6%96%E7%A0%B49%E4%B8%87+11%E4%B8%AA%E7%9C%81%E4%BB%BD%E8%B6%854%E4%B8%87",
           "source": "百度热搜",
@@ -454,19 +556,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 07时21分]"
-        },
-        {
-          "title": "山东、山西、河南、河北2025年经济成绩单均已出炉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32464152",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时33分 ~ 21时44分]"
         },
         {
           "title": "中国经济第一大省定了",
@@ -549,6 +638,18 @@
           "time_info": "[13时38分 ~ 14时38分]"
         },
         {
+          "title": "浙文互联：公司旗下“派智”数字人业务产生的收入和利润占比较小 对公司经营业绩无重大影响",
+          "url": "https://wallstreetcn.com/livenews/3044024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 22时29分]"
+        },
+        {
           "title": "有哪些我们习以为常的事物和现象其实只有在经济高速增长时期才会普遍存在？",
           "url": "https://www.zhihu.com/question/1995254368061105318",
           "source": "知乎",
@@ -583,24 +684,13 @@
           "time_info": "19时21分"
         },
         {
-          "title": "浙文互联：公司旗下“派智”数字人业务产生的收入和利润占比较小 对公司经营业绩无重大影响",
-          "url": "https://wallstreetcn.com/livenews/3044024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
           "title": "加拿大至1月23日全国经济信心指数 50.4，前值50.2。",
           "url": "https://flash.jin10.com/detail/20260126210021311800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
