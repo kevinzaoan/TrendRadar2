@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T17:35:40.195863+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-01-26T18:28:11.381183+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
@@ -75,6 +75,20 @@
           "time_info": "[00时26分 ~ 11时58分]"
         },
         {
+          "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
+          "url": "https://www.zhihu.com/question/1998735057154744752",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时38分 ~ 18时28分]"
+        },
+        {
           "title": "“达沃斯论AI”结语：2026年能源需求和基建将继续狂飙，核能备受关注！",
           "url": "https://www.cls.cn/detail/2269090",
           "source": "财联社热门",
@@ -90,17 +104,31 @@
           "time_info": "[12时59分 ~ 17时35分]"
         },
         {
-          "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
-          "url": "https://www.zhihu.com/question/1998735057154744752",
-          "source": "知乎",
+          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
-            4,
-            11
+            13,
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 17时35分]"
+          "appearance_count": 8,
+          "time_info": "[13时38分 ~ 18时28分]"
+        },
+        {
+          "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
+          "url": "https://www.cls.cn/detail/2269386",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时38分 ~ 18时28分]"
         },
         {
           "title": "百度APP文心助手入局春节AI战，将发放5亿现金、合作2026北京台春晚",
@@ -116,19 +144,6 @@
           "time_info": "[00时26分 ~ 06时21分]"
         },
         {
-          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时38分 ~ 17时35分]"
-        },
-        {
           "title": "银河通用成为2026春晚指定具身大模型机器人",
           "url": "https://wallstreetcn.com/livenews/3043383",
           "source": "华尔街见闻-快讯",
@@ -141,31 +156,6 @@
           "time_info": "[00时26分 ~ 05时20分]"
         },
         {
-          "title": "具身智能机器人直连卫星，完成地面无网络环境自主作业",
-          "url": "https://wallstreetcn.com/livenews/3043875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
-          "url": "https://www.cls.cn/detail/2269386",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 17时35分]"
-        },
-        {
           "title": "智元机器人旗下灵巧手子公司临界点连续完成两轮融资",
           "url": "https://wallstreetcn.com/livenews/3043698",
           "source": "华尔街见闻-快讯",
@@ -176,6 +166,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时38分 ~ 14时38分]"
+        },
+        {
+          "title": "具身智能机器人直连卫星，完成地面无网络环境自主作业",
+          "url": "https://wallstreetcn.com/livenews/3043875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 18时28分]"
         },
         {
           "title": "银河通用成为2026春晚指定具身大模型机器人",
@@ -332,7 +334,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         }
@@ -340,7 +342,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "上海人均收入首破9万 11个省份超4万",
@@ -369,6 +371,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 07时21分]"
+        },
+        {
+          "title": "中国经济第一大省定了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%9C%81%E5%AE%9A%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 18时28分]"
         },
         {
           "title": "宁夏银川：加速打造“算力之都” 数字经济总量达1200亿元",
@@ -406,15 +419,16 @@
           "time_info": "09时57分"
         },
         {
-          "title": "中国经济第一大省定了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%9C%81%E5%AE%9A%E4%BA%86",
-          "source": "百度热搜",
+          "title": "山东、山西、河南、河北2025年经济成绩单均已出炉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32464152",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            10,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时33分 ~ 18时28分]"
         },
         {
           "title": "陈茂波：世界经济论坛与会者对香港经济发展态度相当正面",
@@ -426,18 +440,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 04时25分]"
-        },
-        {
-          "title": "山东、山西、河南、河北2025年经济成绩单均已出炉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32464152",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 17时35分]"
         },
         {
           "title": "广东2026年将加快发展平台经济、楼宇经济新型专门经济形态",
@@ -462,6 +464,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时57分 ~ 11时58分]"
+        },
+        {
+          "title": "白银有色：公司白银产品的收入占总营业收入的比重较低",
+          "url": "https://wallstreetcn.com/livenews/3043884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "广东经济总量连续37年居全国首位",
