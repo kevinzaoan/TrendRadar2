@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T20:52:09.461499+08:00",
-  "total_titles_processed": 1834,
+  "generated_at": "2026-01-27T21:48:33.812863+08:00",
+  "total_titles_processed": 1945,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
         {
           "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时48分 ~ 20时52分]"
+          "appearance_count": 14,
+          "time_info": "[11时48分 ~ 21时48分]"
         },
         {
           "title": "宇树成为2026年春晚机器人合作伙伴",
@@ -56,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时51分 ~ 20时52分]"
+          "appearance_count": 15,
+          "time_info": "[09时51分 ~ 21时48分]"
         },
         {
           "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
@@ -72,6 +72,20 @@
           "time_info": "[09时51分 ~ 19时24分]"
         },
         {
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时34分 ~ 21时48分]"
+        },
+        {
           "title": "阶跃星辰印奇谈AI商业化",
           "url": "https://search.bilibili.com/all?keyword=%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0%E5%8D%B0%E5%A5%87%E8%B0%88AI%E5%95%86%E4%B8%9A%E5%8C%96",
           "source": "bilibili 热搜",
@@ -83,20 +97,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时35分 ~ 13时27分]"
-        },
-        {
-          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-          "url": "https://wallstreetcn.com/articles/3764241",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时34分 ~ 20时52分]"
         },
         {
           "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
@@ -187,17 +187,6 @@
           "time_info": "[11时48分 ~ 16时34分]"
         },
         {
-          "title": "天奇股份：公司于2025年12月参与银河通用机器人融资，获得银河通用机器人不高于0.38%股权。本次投资事项已经公司管理层审议，且未达到信息披露标准。截至本公告披露日，本次投资尚未完成交割。本次投资事项对公司未来业绩影响存在不确定性。",
-          "url": "https://wallstreetcn.com/livenews/3044776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
           "title": "AI承诺内容有误赔偿10万 用户起诉",
           "url": "https://www.baidu.com/s?wd=AI%E6%89%BF%E8%AF%BA%E5%86%85%E5%AE%B9%E6%9C%89%E8%AF%AF%E8%B5%94%E5%81%BF10%E4%B8%87+%E7%94%A8%E6%88%B7%E8%B5%B7%E8%AF%89",
           "source": "百度热搜",
@@ -261,6 +250,18 @@
           "time_info": "[00时35分 ~ 01时31分]"
         },
         {
+          "title": "天奇股份：公司于2025年12月参与银河通用机器人融资，获得银河通用机器人不高于0.38%股权。本次投资事项已经公司管理层审议，且未达到信息披露标准。截至本公告披露日，本次投资尚未完成交割。本次投资事项对公司未来业绩影响存在不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3044776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时48分]"
+        },
+        {
           "title": "微软发布第二代AI芯片Maia 200 ，希望降低对英伟达的依赖",
           "url": "https://wallstreetcn.com/livenews/3044107",
           "source": "华尔街见闻-快讯",
@@ -289,11 +290,12 @@
           "url": "https://www.cls.cn/detail/2271331",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 20时52分]"
+          "appearance_count": 4,
+          "time_info": "[18时28分 ~ 21时48分]"
         },
         {
           "title": "中国造出全球80%的AI眼镜",
@@ -342,6 +344,17 @@
           "time_info": "[13时27分 ~ 14时36分]"
         },
         {
+          "title": "当《姑苏繁华图》遇见AI",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E3%80%8A%E5%A7%91%E8%8B%8F%E7%B9%81%E5%8D%8E%E5%9B%BE%E3%80%8B%E9%81%87%E8%A7%81AI",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "微软(MSFT.O)：推出MAIA 200芯片，这是一款基于台积电3纳米工艺打造的AI推理加速器。MAIA 200 将服务于多种人工智能模型，包括来自OpenAI的最新 GPT-5.2 模型。",
           "url": "https://flash.jin10.com/detail/20260127000150023800",
           "source": "金十数据",
@@ -353,6 +366,28 @@
           "time_info": "00时35分"
         },
         {
+          "title": "Clawdbot引爆整个AI agent生态",
+          "url": "https://wallstreetcn.com/articles/3764269",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
+          "url": "https://www.zhihu.com/question/1999166962421429182",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "印度国有天然气公司GAIL CEO：如果价格走软，印度将签署更多长期液化天然气进口合同。",
           "url": "https://flash.jin10.com/detail/20260127165949365800",
           "source": "金十数据",
@@ -362,6 +397,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
+        },
+        {
+          "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
+          "url": "https://www.cls.cn/detail/2271472",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "英伟达20亿美元投资AI云服务厂商 算力紧缺推动云计算定价逻辑转变",
@@ -507,6 +553,17 @@
           "time_info": "19时24分"
         },
         {
+          "title": "李清都：人形机器人上岗得过两道关",
+          "url": "https://www.toutiao.com/trending/7599988988174143019/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "降价2000元iPhoneAir疑为库存机",
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%8D%E4%BB%B72000%E5%85%83iPhoneAir%E7%96%91%E4%B8%BA%E5%BA%93%E5%AD%98%E6%9C%BA%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -559,6 +616,17 @@
           "time_info": "[00时35分 ~ 09时51分]"
         },
         {
+          "title": "「疗愈经济」崛起，有人一次充值 5000 元，年轻人为何愿为香气买单？「闻香」真能进行心理疗愈吗？",
+          "url": "https://www.zhihu.com/question/1997730524471455984",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时33分 ~ 21时48分]"
+        },
+        {
           "title": "经济增长主引擎 动力足",
           "url": "https://www.toutiao.com/trending/7599691226657259561/",
           "source": "今日头条",
@@ -579,17 +647,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时36分 ~ 16时34分]"
-        },
-        {
-          "title": "「疗愈经济」崛起，有人一次充值 5000 元，年轻人为何愿为香气买单？「闻香」真能进行心理疗愈吗？",
-          "url": "https://www.zhihu.com/question/1997730524471455984",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时33分 ~ 20时52分]"
         },
         {
           "title": "韩国总统李在明表示，经济正逐步改善。将继续改进股市的不公平规则。将在住房市场采取积极措施。",
@@ -771,7 +828,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -782,7 +839,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -856,7 +913,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "探秘2000米高空发电站",
@@ -869,11 +926,12 @@
             24,
             13,
             29,
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时35分 ~ 20时52分]"
+          "appearance_count": 22,
+          "time_info": "[00时35分 ~ 21时48分]"
         },
         {
           "title": "双焦期货短线下挫，焦煤主力合约日内跌幅扩大至2.78%，现报1119.5元/吨。焦炭主力合约日内跌幅达2%，现报1681元/吨。",
@@ -933,6 +991,17 @@
           "time_info": "15时28分"
         },
         {
+          "title": "夜盘期货开盘，沪锡涨逾2%，棕榈油涨逾1%，沪银、氧化铝、沪镍等上涨；焦炭、焦煤、国际铜跌逾1%；沪铜、液化石油气、玻璃等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3044798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "商品期货收盘，沪银主力合约涨超7%，棕榈油涨超2%，沪锡、菜籽油、沪金、碳酸锂涨超1%。铂跌超4%，PTA跌超3%，焦煤跌3%，焦炭、对二甲苯、瓶片、钯跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3044523",
           "source": "华尔街见闻-快讯",
@@ -975,6 +1044,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "夜盘开盘，国内期货主力合约涨跌不一，沪锡涨超2%，棕榈油涨超1%，豆油、沪银、氧化铝小幅上涨。跌幅方面，BR橡胶、焦炭、焦煤、国际铜跌超1%，沪铜、瓶片小幅下跌。",
+          "url": "https://flash.jin10.com/detail/20260127210004381800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "午盘收盘，国内期货主力合约跌多涨少，铂跌超4%，PTA跌超3%，焦煤跌3%，PX、焦炭跌近3%，钯、瓶片跌超2%，沪镍、短纤、合成橡胶跌近2%。涨幅方面，沪银涨超7%，棕榈油涨超2%，沪锡、菜油涨近2%。",
