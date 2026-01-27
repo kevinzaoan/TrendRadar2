@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T11:48:56.795679+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2026-01-27T12:48:21.612259+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "宇树成为2026年春晚机器人合作伙伴",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 11时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 12时48分]"
         },
         {
           "title": "阶跃星辰印奇谈AI商业化",
@@ -37,11 +37,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 11时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 12时48分]"
         },
         {
           "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
@@ -53,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 11时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 12时48分]"
         },
         {
           "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
@@ -82,6 +83,17 @@
           "time_info": "[00时35分 ~ 07时23分]"
         },
         {
+          "title": "EDA巨头：AI基建吞噬世界产能 存储芯片紧缺或持续到明年",
+          "url": "https://www.cls.cn/detail/2270449",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 12时48分]"
+        },
+        {
           "title": "Claude Skill 的思路并不复杂，为什么又是再次被 Claude 优先提出？",
           "url": "https://www.zhihu.com/question/1998162232379458760",
           "source": "知乎",
@@ -96,15 +108,15 @@
           "time_info": "[02时36分 ~ 07时23分]"
         },
         {
-          "title": "EDA巨头：AI基建吞噬世界产能 存储芯片紧缺或持续到明年",
-          "url": "https://www.cls.cn/detail/2270449",
-          "source": "财联社热门",
+          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时51分 ~ 11时48分]"
+          "time_info": "[11时48分 ~ 12时48分]"
         },
         {
           "title": "百度智能云上调AI相关收入增速目标至200%，全力冲刺抢AI云第一",
@@ -118,6 +130,18 @@
           "time_info": "09时51分"
         },
         {
+          "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466140",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 12时48分]"
+        },
+        {
           "title": "巨额红包“助燃”，机构看好AI应用方向投资机遇",
           "url": "https://wallstreetcn.com/livenews/3044230",
           "source": "华尔街见闻-快讯",
@@ -129,27 +153,16 @@
           "time_info": "07时23分"
         },
         {
-          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
-          "source": "澎湃新闻",
+          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
+          "url": "https://wallstreetcn.com/articles/3764198",
+          "source": "华尔街见闻",
           "ranks": [
+            8,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466140",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            1
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 12时48分]"
         },
         {
           "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
@@ -176,16 +189,17 @@
           "time_info": "[00时35分 ~ 01时31分]"
         },
         {
-          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
-          "url": "https://wallstreetcn.com/articles/3764198",
-          "source": "华尔街见闻",
+          "title": "AI 霸总「围猎」老年女性，婚介机构借此引流、老人被骗上千元学电商，类似情况为何屡禁不止？监管难在哪？",
+          "url": "https://www.zhihu.com/question/1998804557132690728",
+          "source": "知乎",
           "ranks": [
-            8,
-            5
+            20,
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 12时48分]"
         },
         {
           "title": "中国造出全球80%的AI眼镜",
@@ -199,23 +213,22 @@
           "time_info": "[00时35分 ~ 01时31分]"
         },
         {
+          "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
+          "url": "https://www.cls.cn/detail/2270597",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 12时48分]"
+        },
+        {
           "title": "拳打亚马逊、脚踢谷歌TPU 微软发布新一代AI加速器Maia 200",
           "url": "https://www.cls.cn/detail/2270429",
           "source": "财联社热门",
           "ranks": [
             11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 11时48分]"
-        },
-        {
-          "title": "AI 霸总「围猎」老年女性，婚介机构借此引流、老人被骗上千元学电商，类似情况为何屡禁不止？监管难在哪？",
-          "url": "https://www.zhihu.com/question/1998804557132690728",
-          "source": "知乎",
-          "ranks": [
-            20,
             12
           ],
           "is_new": false,
@@ -234,17 +247,6 @@
           "time_info": "00时35分"
         },
         {
-          "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
-          "url": "https://www.cls.cn/detail/2270597",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
           "title": "“流量战”再打响 元宝要重现11年前微信红包盛况 马化腾正亲自内测AI新“大招”",
           "url": "https://www.cls.cn/detail/2270277",
           "source": "财联社热门",
@@ -256,13 +258,24 @@
           "time_info": "09时51分"
         },
         {
+          "title": "开源 AI 助理 Clawdbot 获 Karpathy 点赞，它究竟是什么，有何亮点？",
+          "url": "https://www.zhihu.com/question/1998931277835941056",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
           "title": "美光加码投资240亿美元在新加坡扩产 以应对AI芯片短缺",
           "url": "https://flash.jin10.com/detail/20260127110940817800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -284,7 +297,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -314,8 +327,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 11时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 12时48分]"
         },
         {
           "title": "英媒称英首相斯塔默将携最高级别官员和企业高管访问中国，如何看待此次来访？中英经济合作会有变化吗？",
@@ -418,7 +431,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -429,7 +442,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         }
@@ -451,8 +464,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 11时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 12时48分]"
         },
         {
           "title": "双焦期货短线下挫，焦煤主力合约日内跌幅扩大至2.78%，现报1119.5元/吨。焦炭主力合约日内跌幅达2%，现报1681元/吨。",
@@ -470,11 +483,12 @@
           "url": "https://flash.jin10.com/detail/20260127113101377800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 12时48分]"
         },
         {
           "title": "纽柯钢铁(NUE.N)盘后跌超4%，公司第四季度销售额为76.9亿美元，而IBES的预测为78.68亿美元。",
