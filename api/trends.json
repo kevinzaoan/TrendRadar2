@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T05:19:12.712550+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-01-28T06:23:50.927384+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 05时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 06时23分]"
         },
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 05时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 06时23分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -40,19 +40,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 05时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 06时23分]"
         },
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
           "url": "https://www.cls.cn/detail/2271331",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 05时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 06时23分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -164,7 +165,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         }
@@ -172,8 +173,19 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "德州仪器(TXN.O)盘后涨幅扩大至10%，公司第四季度数据中心部门的收入增长了70%。",
+          "url": "https://flash.jin10.com/detail/20260128054956354800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
         {
           "title": "路威酩轩（LVMH）首席执行官：经济环境难以预测。",
           "url": "https://flash.jin10.com/detail/20260128010317117800",
@@ -195,8 +207,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时27分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[03时27分 ~ 06时23分]"
         },
         {
           "title": "欧洲央行管委内格尔：我同意欧洲央行首席经济学家连恩的观点，即目前在利率方向上没有充分的理由进行调整。",
@@ -233,6 +245,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 02时40分]"
+        },
+        {
+          "title": "德州仪器(TXN.O)首席执行官：第四季度数据中心部门的收入增长了70%。",
+          "url": "https://flash.jin10.com/detail/20260128054803026800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "德州仪器(TXN.O)首席执行官：2025年数据中心收入为15亿美元，同比增长64%。",
+          "url": "https://flash.jin10.com/detail/20260128054716414800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "路威酩轩（LVMH）首席执行官：地缘政治危机和经济不确定性使我们有理由对前景保持谨慎。",
@@ -304,7 +338,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         }
