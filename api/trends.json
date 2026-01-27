@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T15:28:53.314801+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2026-01-27T16:34:23.653999+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "宇树成为2026年春晚机器人合作伙伴",
@@ -45,6 +45,18 @@
           "time_info": "[00时35分 ~ 13时27分]"
         },
         {
+          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时48分 ~ 16时34分]"
+        },
+        {
           "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
           "url": "https://wallstreetcn.com/articles/3764149",
           "source": "华尔街见闻",
@@ -57,6 +69,19 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时35分 ~ 15时28分]"
+        },
+        {
+          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
+          "url": "https://wallstreetcn.com/articles/3764198",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 16时34分]"
         },
         {
           "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
@@ -84,31 +109,6 @@
           "time_info": "[00时35分 ~ 07时23分]"
         },
         {
-          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时48分 ~ 15时28分]"
-        },
-        {
-          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
-          "url": "https://wallstreetcn.com/articles/3764198",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 15时28分]"
-        },
-        {
           "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
           "url": "https://m.thepaper.cn/newsDetail_forward_32466140",
           "source": "澎湃新闻",
@@ -117,8 +117,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 15时28分]"
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 16时34分]"
+        },
+        {
+          "title": "工业机器人当“车间主任”还有多远",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%93%E2%80%9C%E8%BD%A6%E9%97%B4%E4%B8%BB%E4%BB%BB%E2%80%9D%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 16时34分]"
         },
         {
           "title": "EDA巨头：AI基建吞噬世界产能 存储芯片紧缺或持续到明年",
@@ -146,15 +157,17 @@
           "time_info": "[02时36分 ~ 07时23分]"
         },
         {
-          "title": "工业机器人当“车间主任”还有多远",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%93%E2%80%9C%E8%BD%A6%E9%97%B4%E4%B8%BB%E4%BB%BB%E2%80%9D%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C",
-          "source": "百度热搜",
+          "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
+          "url": "https://www.cls.cn/detail/2270597",
+          "source": "财联社热门",
           "ranks": [
-            3
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 15时28分]"
+          "appearance_count": 6,
+          "time_info": "[11时48分 ~ 16时34分]"
         },
         {
           "title": "百度智能云上调AI相关收入增速目标至200%，全力冲刺抢AI云第一",
@@ -177,19 +190,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
-          "url": "https://www.cls.cn/detail/2270597",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时48分 ~ 15时28分]"
         },
         {
           "title": "AI 霸总「围猎」老年女性，婚介机构借此引流、老人被骗上千元学电商，类似情况为何屡禁不止？监管难在哪？",
@@ -243,6 +243,19 @@
           "time_info": "[13时27分 ~ 14时36分]"
         },
         {
+          "title": "AI承诺内容有误赔偿10万 用户起诉",
+          "url": "https://www.baidu.com/s?wd=AI%E6%89%BF%E8%AF%BA%E5%86%85%E5%AE%B9%E6%9C%89%E8%AF%AF%E8%B5%94%E5%81%BF10%E4%B8%87+%E7%94%A8%E6%88%B7%E8%B5%B7%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 16时34分]"
+        },
+        {
           "title": "中国造出全球80%的AI眼镜",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%87%BA%E5%85%A8%E7%90%8380%25%E7%9A%84AI%E7%9C%BC%E9%95%9C",
           "source": "百度热搜",
@@ -264,18 +277,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时51分 ~ 11时48分]"
-        },
-        {
-          "title": "AI承诺内容有误赔偿10万 用户起诉",
-          "url": "https://www.baidu.com/s?wd=AI%E6%89%BF%E8%AF%BA%E5%86%85%E5%AE%B9%E6%9C%89%E8%AF%AF%E8%B5%94%E5%81%BF10%E4%B8%87+%E7%94%A8%E6%88%B7%E8%B5%B7%E8%AF%89",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 15时28分]"
         },
         {
           "title": "开源 AI 助理 Clawdbot 获 Karpathy 点赞，它究竟是什么，有何亮点？",
@@ -301,6 +302,17 @@
           "time_info": "[13时27分 ~ 14时36分]"
         },
         {
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "微软(MSFT.O)：推出MAIA 200芯片，这是一款基于台积电3纳米工艺打造的AI推理加速器。MAIA 200 将服务于多种人工智能模型，包括来自OpenAI的最新 GPT-5.2 模型。",
           "url": "https://flash.jin10.com/detail/20260127000150023800",
           "source": "金十数据",
@@ -318,7 +330,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -395,9 +407,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "降价2000元iPhoneAir疑为库存机",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%8D%E4%BB%B72000%E5%85%83iPhoneAir%E7%96%91%E4%B8%BA%E5%BA%93%E5%AD%98%E6%9C%BA%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "中信证券：AI产业趋势明确 持续看好光通信板块",
@@ -448,8 +471,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 15时28分]"
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 16时34分]"
         },
         {
           "title": "2026年经济九大风向",
@@ -459,8 +482,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 15时28分]"
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 16时34分]"
         },
         {
           "title": "韩国总统李在明表示，经济正逐步改善。将继续改进股市的不公平规则。将在住房市场采取积极措施。",
@@ -511,6 +534,18 @@
           "time_info": "[03时24分 ~ 04时28分]"
         },
         {
+          "title": "明代的「白银经济」带来了哪些连锁效应？",
+          "url": "https://www.zhihu.com/question/1997323994072839330",
+          "source": "知乎",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 16时34分]"
+        },
+        {
           "title": "美国白宫：总统特朗普将于周二前往艾奥瓦州就经济发表演讲。",
           "url": "https://flash.jin10.com/detail/20260127023746619800",
           "source": "金十数据",
@@ -543,17 +578,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
-        },
-        {
-          "title": "明代的「白银经济」带来了哪些连锁效应？",
-          "url": "https://www.zhihu.com/question/1997323994072839330",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时28分"
         },
         {
           "title": "55%经济学家的预测，英国央行将在3月底前将银行利率下调至3.50%。除两名经济学家外，56位受访经济学家均表示，英国央行将于2月5日将银行利率维持在3.75%。",
@@ -592,7 +616,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "探秘2000米高空发电站",
@@ -606,8 +630,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 14时36分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 16时34分]"
         },
         {
           "title": "双焦期货短线下挫，焦煤主力合约日内跌幅扩大至2.78%，现报1119.5元/吨。焦炭主力合约日内跌幅达2%，现报1681元/吨。",
@@ -651,7 +675,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -662,9 +686,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "印欧贸易协定：印度正力争作为自贸协定伙伴获得更高的对欧盟钢铁出口配额。",
+          "url": "https://flash.jin10.com/detail/20260127160129432800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "印欧贸易协定：欧盟将在7年内分阶段将对印度商品的关税降至零，但汽车、钢铁和农产品除外。",
+          "url": "https://flash.jin10.com/detail/20260127160044748800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "午盘收盘，国内期货主力合约跌多涨少，铂跌超4%，PTA跌超3%，焦煤跌3%，PX、焦炭跌近3%，钯、瓶片跌超2%，沪镍、短纤、合成橡胶跌近2%。涨幅方面，沪银涨超7%，棕榈油涨超2%，沪锡、菜油涨近2%。",
@@ -673,7 +719,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         }
