@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T21:48:33.812863+08:00",
-  "total_titles_processed": 1945,
+  "generated_at": "2026-01-27T22:31:46.789897+08:00",
+  "total_titles_processed": 2006,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时48分 ~ 21时48分]"
+          "appearance_count": 15,
+          "time_info": "[11时48分 ~ 22时31分]"
         },
         {
           "title": "宇树成为2026年春晚机器人合作伙伴",
@@ -56,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时51分 ~ 21时48分]"
+          "appearance_count": 16,
+          "time_info": "[09时51分 ~ 22时31分]"
         },
         {
           "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
@@ -82,8 +82,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时34分 ~ 21时48分]"
+          "appearance_count": 10,
+          "time_info": "[16时34分 ~ 22时31分]"
         },
         {
           "title": "阶跃星辰印奇谈AI商业化",
@@ -223,6 +223,19 @@
           "time_info": "07时23分"
         },
         {
+          "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
+          "url": "https://www.cls.cn/detail/2271331",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 22时31分]"
+        },
+        {
           "title": "AI 霸总「围猎」老年女性，婚介机构借此引流、老人被骗上千元学电商，类似情况为何屡禁不止？监管难在哪？",
           "url": "https://www.zhihu.com/question/1998804557132690728",
           "source": "知乎",
@@ -286,18 +299,6 @@
           "time_info": "[13时27分 ~ 14时36分]"
         },
         {
-          "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
-          "url": "https://www.cls.cn/detail/2271331",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 21时48分]"
-        },
-        {
           "title": "中国造出全球80%的AI眼镜",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%87%BA%E5%85%A8%E7%90%8380%25%E7%9A%84AI%E7%9C%BC%E9%95%9C",
           "source": "百度热搜",
@@ -307,6 +308,42 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时35分 ~ 01时31分]"
+        },
+        {
+          "title": "Clawdbot引爆整个AI agent生态",
+          "url": "https://wallstreetcn.com/articles/3764269",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时31分]"
+        },
+        {
+          "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
+          "url": "https://www.zhihu.com/question/1999166962421429182",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时31分]"
+        },
+        {
+          "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
+          "url": "https://www.cls.cn/detail/2271472",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时31分]"
         },
         {
           "title": "拳打亚马逊、脚踢谷歌TPU 微软发布新一代AI加速器Maia 200",
@@ -350,7 +387,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -366,28 +403,6 @@
           "time_info": "00时35分"
         },
         {
-          "title": "Clawdbot引爆整个AI agent生态",
-          "url": "https://wallstreetcn.com/articles/3764269",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
-          "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
-          "url": "https://www.zhihu.com/question/1999166962421429182",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
           "title": "印度国有天然气公司GAIL CEO：如果价格走软，印度将签署更多长期液化天然气进口合同。",
           "url": "https://flash.jin10.com/detail/20260127165949365800",
           "source": "金十数据",
@@ -397,17 +412,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
-        },
-        {
-          "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
-          "url": "https://www.cls.cn/detail/2271472",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
         },
         {
           "title": "英伟达20亿美元投资AI云服务厂商 算力紧缺推动云计算定价逻辑转变",
@@ -559,7 +563,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -573,6 +577,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "据纽约时报：OpenAI创始人奥尔特曼表示，美国移民和海关执法局的情况太过分了。",
+          "url": "https://flash.jin10.com/detail/20260127215123302800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "中信证券：AI产业趋势明确 持续看好光通信板块",
@@ -589,7 +604,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "山东、山西、河南、河北2025年经济成绩单均已出炉",
@@ -623,8 +638,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时33分 ~ 21时48分]"
+          "appearance_count": 9,
+          "time_info": "[17时33分 ~ 22时31分]"
         },
         {
           "title": "经济增长主引擎 动力足",
@@ -647,6 +662,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时36分 ~ 16时34分]"
+        },
+        {
+          "title": "法国财政部长：七国集团的优先议题将包括稀土问题、对乌克兰的支持，以及减少全球宏观经济失衡。",
+          "url": "https://flash.jin10.com/detail/20260127220837269800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "韩国总统李在明表示，经济正逐步改善。将继续改进股市的不公平规则。将在住房市场采取积极措施。",
@@ -927,11 +953,12 @@
             13,
             29,
             28,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时35分 ~ 21时48分]"
+          "appearance_count": 23,
+          "time_info": "[00时35分 ~ 22时31分]"
         },
         {
           "title": "双焦期货短线下挫，焦煤主力合约日内跌幅扩大至2.78%，现报1119.5元/吨。焦炭主力合约日内跌幅达2%，现报1681元/吨。",
@@ -980,6 +1007,18 @@
           "time_info": "[06时22分 ~ 07时23分]"
         },
         {
+          "title": "夜盘期货开盘，沪锡涨逾2%，棕榈油涨逾1%，沪银、氧化铝、沪镍等上涨；焦炭、焦煤、国际铜跌逾1%；沪铜、液化石油气、玻璃等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3044798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时31分]"
+        },
+        {
           "title": "印度-欧盟协议：将取消对超过90%欧盟商品的关税。 提议对钢铁产品实行零关税。 印度协议将取消或降低对欧盟农产品的高关税。 葡萄酒关税为20%-30%，烈酒关税为40%，啤酒关税为50%。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3044534",
           "source": "华尔街见闻-快讯",
@@ -989,17 +1028,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
-        },
-        {
-          "title": "夜盘期货开盘，沪锡涨逾2%，棕榈油涨逾1%，沪银、氧化铝、沪镍等上涨；焦炭、焦煤、国际铜跌逾1%；沪铜、液化石油气、玻璃等下跌。",
-          "url": "https://wallstreetcn.com/livenews/3044798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
         },
         {
           "title": "商品期货收盘，沪银主力合约涨超7%，棕榈油涨超2%，沪锡、菜籽油、沪金、碳酸锂涨超1%。铂跌超4%，PTA跌超3%，焦煤跌3%，焦炭、对二甲苯、瓶片、钯跌超2%。",
@@ -1052,7 +1080,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
