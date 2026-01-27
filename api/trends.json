@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T06:23:50.927384+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-01-28T07:22:57.676257+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时22分]"
         },
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时22分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -40,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时22分]"
         },
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
@@ -52,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时22分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -148,6 +148,17 @@
           "time_info": "03时27分"
         },
         {
+          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
           "title": "OpenAI：PRISM将很快面向使用ChatGPT商业版、团队版、企业版和教育版计划的组织开放。",
           "url": "https://flash.jin10.com/detail/20260128021207935800",
           "source": "金十数据",
@@ -176,15 +187,16 @@
       "match_count": 12,
       "titles": [
         {
-          "title": "德州仪器(TXN.O)盘后涨幅扩大至10%，公司第四季度数据中心部门的收入增长了70%。",
-          "url": "https://flash.jin10.com/detail/20260128054956354800",
-          "source": "金十数据",
+          "title": "专家：美国会诱使中国“经济自杀”",
+          "url": "https://www.toutiao.com/trending/7599903959884500499/",
+          "source": "今日头条",
           "ranks": [
-            5
+            26,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时27分 ~ 07时22分]"
         },
         {
           "title": "路威酩轩（LVMH）首席执行官：经济环境难以预测。",
@@ -199,16 +211,28 @@
           "time_info": "[01时28分 ~ 02时40分]"
         },
         {
-          "title": "专家：美国会诱使中国“经济自杀”",
-          "url": "https://www.toutiao.com/trending/7599903959884500499/",
-          "source": "今日头条",
+          "title": "德州仪器(TXN.O)盘后涨幅扩大至10%，公司第四季度数据中心部门的收入增长了70%。",
+          "url": "https://flash.jin10.com/detail/20260128054956354800",
+          "source": "金十数据",
           "ranks": [
-            26,
-            19
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时27分 ~ 06时23分]"
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "德州仪器(TXN.O)首席执行官：第四季度数据中心部门的收入增长了70%。",
+          "url": "https://flash.jin10.com/detail/20260128054803026800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时22分]"
         },
         {
           "title": "欧洲央行管委内格尔：我同意欧洲央行首席经济学家连恩的观点，即目前在利率方向上没有充分的理由进行调整。",
@@ -235,6 +259,18 @@
           "time_info": "[01时28分 ~ 02时40分]"
         },
         {
+          "title": "德州仪器(TXN.O)首席执行官：2025年数据中心收入为15亿美元，同比增长64%。",
+          "url": "https://flash.jin10.com/detail/20260128054716414800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
           "title": "路威酩轩（LVMH）财年收入808亿欧元，市场预计为805亿欧元。",
           "url": "https://flash.jin10.com/detail/20260128004609260800",
           "source": "金十数据",
@@ -245,28 +281,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 02时40分]"
-        },
-        {
-          "title": "德州仪器(TXN.O)首席执行官：第四季度数据中心部门的收入增长了70%。",
-          "url": "https://flash.jin10.com/detail/20260128054803026800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "德州仪器(TXN.O)首席执行官：2025年数据中心收入为15亿美元，同比增长64%。",
-          "url": "https://flash.jin10.com/detail/20260128054716414800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
         },
         {
           "title": "路威酩轩（LVMH）首席执行官：地缘政治危机和经济不确定性使我们有理由对前景保持谨慎。",
