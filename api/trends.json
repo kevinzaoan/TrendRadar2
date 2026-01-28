@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T11:46:16.588868+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-01-28T12:44:40.297943+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 11时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 12时44分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 11时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 12时44分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -66,8 +66,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 11时46分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时44分]"
+        },
+        {
+          "title": "马云：AI时代不要再犹豫用不用AI 而是怎么教我们的孩子去用好AI",
+          "url": "https://wallstreetcn.com/livenews/3045264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 12时44分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -82,17 +106,15 @@
           "time_info": "[02时40分 ~ 03时27分]"
         },
         {
-          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
-          "source": "澎湃新闻",
+          "title": "国内首例「AI 幻觉」案宣判平台无责，背后的法律考量是什么？该如何判断 AI 提供信息的真实性？",
+          "url": "https://www.zhihu.com/question/1999418734398366788",
+          "source": "知乎",
           "ranks": [
-            20,
-            16,
-            18
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 11时46分]"
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 12时44分]"
         },
         {
           "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
@@ -142,15 +164,15 @@
           "time_info": "[02时40分 ~ 03时27分]"
         },
         {
-          "title": "国内首例「AI 幻觉」案宣判平台无责，背后的法律考量是什么？该如何判断 AI 提供信息的真实性？",
-          "url": "https://www.zhihu.com/question/1999418734398366788",
-          "source": "知乎",
+          "title": "AirPods实时翻译实用吗",
+          "url": "https://search.bilibili.com/all?keyword=AirPods%E5%AE%9E%E6%97%B6%E7%BF%BB%E8%AF%91%E5%AE%9E%E7%94%A8%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            19
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "荷兰提出银行奖金制度松绑建议的国会议员娜塔莉·范·贝尔克尔（Nathalie van Berkel）：特定IT知识、AI 专家和数据专家的需求日益增长。 如果你想让荷兰保持竞争力，那么银行就需要有能力留住并吸引合适的人才。（彭博）",
@@ -162,6 +184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
+          "url": "https://www.cls.cn/detail/2272264",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "OpenAI和Anthropic的老板们支持科技工人，也谴责移民驱逐执法在美国明尼苏达州造成的暴力事件",
@@ -181,7 +214,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -219,13 +252,24 @@
           "time_info": "09时47分"
         },
         {
+          "title": "马云：孩子不应和AI比拼计算和记忆",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%BA%94%E5%92%8CAI%E6%AF%94%E6%8B%BC%E8%AE%A1%E7%AE%97%E5%92%8C%E8%AE%B0%E5%BF%86",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "创业板指跌超1%，沪指涨0.17%，深成指跌0.44%，光伏设备、机器人、军工、医疗器械等方向跌幅居前，沪深京三市下跌个股超3600只。",
           "url": "https://wallstreetcn.com/livenews/3045196",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -255,7 +299,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "欧洲央行执委奇波洛内：欧洲经济已被证明具有韧性，我们预计数据可能会超出我们的预测。",
@@ -313,8 +357,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 11时46分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时44分]"
         },
         {
           "title": "德州仪器(TXN.O)首席执行官：第四季度数据中心部门的收入增长了70%。",
@@ -377,6 +421,17 @@
           "time_info": "[01时28分 ~ 02时40分]"
         },
         {
+          "title": "生态环境部：长江经济带生态环境保护发生转折性变化",
+          "url": "https://wallstreetcn.com/livenews/3045255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "路威酩轩（LVMH）首席执行官：地缘政治危机和经济不确定性使我们有理由对前景保持谨慎。",
           "url": "https://flash.jin10.com/detail/20260128012509070800",
           "source": "金十数据",
@@ -427,7 +482,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         }
@@ -435,7 +490,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "探秘2000米高空发电站",
@@ -449,6 +504,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时28分 ~ 03时27分]"
+        },
+        {
+          "title": "川普说「中国制造了几乎所有风力发电设备，自己却没安装」，真实情况如何？你怎么看？",
+          "url": "https://www.zhihu.com/question/1997722076698654465",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "商品期货开盘，碳酸锂主力合约涨超5%，沪锡、沪银、沥青、铂、燃料油涨超2%。BR橡胶、不锈钢、焦煤、焦炭跌超1%。",
@@ -468,7 +534,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -490,7 +556,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -501,7 +567,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         }
