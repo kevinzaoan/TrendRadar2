@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T04:32:10.620923+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-01-29T05:30:35.660532+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "马上评｜情绪价值、情绪经济何以成地方两会热词",
@@ -18,8 +18,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 04时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 05时30分]"
         },
         {
           "title": "美联储FOMC声明：经济前景的不确定性依然高企。",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "标普500指数初步大致收平，能源板块涨0.8%，科技板块涨0.6%，保健板块跌0.7%，房地产板块跌0.8%。 纳斯达克100指数初步收涨0.4%，成分股中，希捷科技初步收涨超19%，英特尔涨10.9%，西部数据涨10%，德州仪器、微芯科技、MPWR、美光科技、恩智浦至少涨超4.6%，拼多多则跌超3%，Arm控股跌4.4%，Palantir跌4.8%，AXON跌9.5%。 联合健康收盘初步反弹4%，英伟达、强生、SHW涨超1%，领跑道指成分股，波音则跌0.9%，家得宝跌1.3%，霍尼韦尔跌1.8%，安进跌2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3045825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时30分"
         },
         {
           "title": "经济学家：加央行料长期按兵不动 不确定性高企",
@@ -52,8 +63,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 04时32分]"
+          "appearance_count": 4,
+          "time_info": "[04时31分 ~ 05时30分]"
         },
         {
           "title": "31省2025年经济成绩单出炉",
@@ -63,8 +74,32 @@
             24
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时31分 ~ 05时29分]"
+        },
+        {
+          "title": "鲍威尔：零售商们说，低收入消费者考虑的是节省开销。",
+          "url": "https://wallstreetcn.com/livenews/3045804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时31分 ~ 04时32分]"
+          "time_info": "[04时32分 ~ 05时30分]"
+        },
+        {
+          "title": "鲍威尔：经济的强劲势头再次让人感到惊讶。 整体消费开支数据良好。",
+          "url": "https://wallstreetcn.com/livenews/3045802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时32分 ~ 05时30分]"
         },
         {
           "title": "提醒：北京时间03:00，美联储发布FOMC利率决议声明（没有“季度性”经济预期概要/SEP），美联储主席将在03:30举行例行新闻发布会。",
@@ -78,26 +113,15 @@
           "time_info": "03时28分"
         },
         {
-          "title": "鲍威尔：零售商们说，低收入消费者考虑的是节省开销。",
-          "url": "https://wallstreetcn.com/livenews/3045804",
+          "title": "“新债王”Gundlach：相信美联储主席鲍威尔任期内不会再次降息。 需要重置（美国）经济的运作方式。 预计理事沃勒有望出任美联储主席。",
+          "url": "https://wallstreetcn.com/livenews/3045816",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "鲍威尔：经济的强劲势头再次让人感到惊讶。 整体消费开支数据良好。",
-          "url": "https://wallstreetcn.com/livenews/3045802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时32分"
+          "time_info": "05时30分"
         },
         {
           "title": "美国贸易代表办公室就格里尔与墨西哥经济部长的会晤表示，双方同意就关键工业品更严格的原产地规则、关键矿物领域的强化合作以及对外贸易政策协调加强展开磋商。",
@@ -139,7 +163,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
         },
@@ -155,13 +179,24 @@
           "time_info": "03时28分"
         },
         {
+          "title": "微软(MSFT.O)第二财季Azure和其他云服务收入增长38%。",
+          "url": "https://flash.jin10.com/detail/20260129050244294800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
           "title": "美联储主席鲍威尔：对于那些正面临经济负担压力的人们来说，我们能做的最好的事情就是降低通胀。",
           "url": "https://flash.jin10.com/detail/20260129040249647800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
         },
@@ -172,7 +207,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
         },
@@ -183,7 +218,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
         },
@@ -194,7 +229,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
         },
@@ -205,7 +240,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
         },
@@ -227,7 +262,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
         },
@@ -238,7 +273,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
         },
@@ -260,7 +295,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
         },
@@ -271,7 +306,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
         }
@@ -279,7 +314,7 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -287,11 +322,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 04时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 05时30分]"
         },
         {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
@@ -301,8 +337,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 04时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 05时30分]"
         },
         {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
@@ -312,8 +348,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 04时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 05时30分]"
         },
         {
           "title": "AI将替代9200万工作岗位",
@@ -327,8 +363,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 04时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 05时30分]"
         },
         {
           "title": "马云谈AI时代教育",
@@ -339,8 +375,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 04时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 05时30分]"
         },
         {
           "title": "刘强东给老家建了间AI教室",
@@ -350,8 +386,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 04时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 05时30分]"
         },
         {
           "title": "宇树等机器人企业扎堆上春晚，谁是去年全球出货量第一？",
@@ -363,8 +399,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 04时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 05时30分]"
+        },
+        {
+          "title": "特斯拉与XAI框架达成协议，评估人工智能合作。",
+          "url": "https://flash.jin10.com/detail/20260129051436140800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时30分"
         },
         {
           "title": "前高盛贵金属业务主管Binet-Laisne加盟Mercuria。",
@@ -394,11 +441,34 @@
           "url": "https://wallstreetcn.com/livenews/3045805",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时32分 ~ 05时30分]"
+        },
+        {
+          "title": "特斯拉将投资20亿美元购买XAI公司的E系列优先股。",
+          "url": "https://flash.jin10.com/detail/20260129051210358800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：将进一步投资自主机器人基础设施。",
+          "url": "https://flash.jin10.com/detail/20260129050817558800",
+          "source": "金十数据",
+          "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时32分"
+          "time_info": "05时30分"
         },
         {
           "title": "分析师：苹果公司的AI路线图仍是投资者最关心的问题",
