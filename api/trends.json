@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T21:49:54.202969+08:00",
-  "total_titles_processed": 2026,
+  "generated_at": "2026-01-28T22:31:41.817573+08:00",
+  "total_titles_processed": 2095,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -46,8 +46,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时44分 ~ 21时49分]"
+          "appearance_count": 14,
+          "time_info": "[12时44分 ~ 22时31分]"
         },
         {
           "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
@@ -110,8 +110,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时33分 ~ 21时49分]"
+          "appearance_count": 9,
+          "time_info": "[16时33分 ~ 22时31分]"
         },
         {
           "title": "宇树等机器人企业扎堆上春晚，谁是去年全球出货量第一？",
@@ -125,8 +125,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时33分 ~ 21时49分]"
+          "appearance_count": 9,
+          "time_info": "[16时33分 ~ 22时31分]"
         },
         {
           "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
@@ -149,11 +149,12 @@
           "ranks": [
             27,
             23,
-            12
+            12,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时29分 ~ 21时49分]"
+          "appearance_count": 7,
+          "time_info": "[18时29分 ~ 22时31分]"
         },
         {
           "title": "阿斯麦(ASML.O)CEO：2026年可能有更多EUV（极紫外光刻）设备出货。对先进AI芯片的需求巨大且不断增长。",
@@ -165,6 +166,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
+          "url": "https://www.cls.cn/detail/2272560",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时29分 ~ 22时31分]"
         },
         {
           "title": "马云：孩子不应和AI比拼计算和记忆",
@@ -188,6 +202,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时44分 ~ 13时29分]"
+        },
+        {
+          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
+          "url": "https://www.zhihu.com/question/1999415789258826467",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 22时31分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -238,16 +264,16 @@
           "time_info": "[17时35分 ~ 18时29分]"
         },
         {
-          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
-          "url": "https://www.cls.cn/detail/2272560",
-          "source": "财联社热门",
+          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764353",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            11
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时29分 ~ 21时49分]"
+          "time_info": "[20时51分 ~ 22时31分]"
         },
         {
           "title": "AirPods实时翻译实用吗",
@@ -260,28 +286,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时44分 ~ 13时29分]"
-        },
-        {
-          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
-          "url": "https://www.zhihu.com/question/1999415789258826467",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 21时49分]"
-        },
-        {
-          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764353",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 21时49分]"
         },
         {
           "title": "国内首例「AI 幻觉」案宣判平台无责，背后的法律考量是什么？该如何判断 AI 提供信息的真实性？",
@@ -373,6 +377,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
+        },
+        {
+          "title": "刘强东给老家建了间AI教室",
+          "url": "https://news.ifeng.com/c/8qHvWO6SnwI",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "深圳：鼓励智能家居企业加快适配国产操作系统和芯片，推动家具、电视、扫地机器人等全面接入AI",
@@ -510,7 +525,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "马上评｜情绪价值、情绪经济何以成地方两会热词",
@@ -524,8 +539,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时35分 ~ 21时49分]"
+          "appearance_count": 8,
+          "time_info": "[17时35分 ~ 22时31分]"
         },
         {
           "title": "欧盟正式通过全面禁止进口俄天然气法规，扎哈罗娃称「他们已经放弃了自由」，这对欧洲和俄经济有何影响？",
@@ -549,17 +564,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
-        },
-        {
-          "title": "德国政府预计今年经济增长率为1%。",
-          "url": "https://wallstreetcn.com/livenews/3045624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
         },
         {
           "title": "欧洲央行执委奇波洛内：欧洲经济已被证明具有韧性，我们预计数据可能会超出我们的预测。",
@@ -595,6 +599,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时29分 ~ 14时37分]"
+        },
+        {
+          "title": "德国政府预计今年经济增长率为1%。",
+          "url": "https://wallstreetcn.com/livenews/3045624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 22时31分]"
         },
         {
           "title": "路威酩轩（LVMH）首席执行官：经济环境难以预测。",
@@ -728,6 +744,17 @@
           "time_info": "13时29分"
         },
         {
+          "title": "加纳央行行长：宏观经济状况显著改善。",
+          "url": "https://flash.jin10.com/detail/20260128220340669800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
           "title": "中国台湾金管会将召集寿险公司开会，讨论外汇避险配套措施。（中国台湾经济日报）",
           "url": "https://wallstreetcn.com/livenews/3045539",
           "source": "华尔街见闻-快讯",
@@ -761,6 +788,17 @@
           "time_info": "19时24分"
         },
         {
+          "title": "德国经济部长Reiche：预计德国经济在2027年增长1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3045628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
           "title": "瑞士1月ZEW经济现况指数 0，前值16.6。",
           "url": "https://flash.jin10.com/detail/20260128170030042800",
           "source": "金十数据",
@@ -778,9 +816,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
+        },
+        {
+          "title": "美国政府停摆危机再度逼近 经济数据发布面临威胁",
+          "url": "https://flash.jin10.com/detail/20260128220009242800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "路威酩轩（LVMH）首席执行官：地缘政治危机和经济不确定性使我们有理由对前景保持谨慎。",
@@ -800,7 +849,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -811,7 +860,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -965,7 +1014,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         }
@@ -1029,11 +1078,12 @@
           "url": "https://wallstreetcn.com/livenews/3045612",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 22时31分]"
         },
         {
           "title": "商品期货开盘，碳酸锂主力合约涨超5%，沪锡、沪银、沥青、铂、燃料油涨超2%。BR橡胶、不锈钢、焦煤、焦炭跌超1%。",
@@ -1064,7 +1114,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
