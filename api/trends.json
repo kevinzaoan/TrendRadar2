@@ -1,134 +1,11 @@
 {
-  "generated_at": "2026-01-29T03:28:57.171855+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-01-29T04:32:10.620923+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "github AI 机器人 Claude",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
-          "url": "https://www.zhihu.com/question/1999415789258826467",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时28分]"
-        },
-        {
-          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764353",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时28分]"
-        },
-        {
-          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
-          "url": "https://www.cls.cn/detail/2272560",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时28分]"
-        },
-        {
-          "title": "AI将替代9200万工作岗位",
-          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            13,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时28分]"
-        },
-        {
-          "title": "刘强东给老家建了间AI教室",
-          "url": "https://news.ifeng.com/c/8qHvWO6SnwI",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时28分]"
-        },
-        {
-          "title": "宇树等机器人企业扎堆上春晚，谁是去年全球出货量第一？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32475040",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时28分]"
-        },
-        {
-          "title": "马云谈AI时代教育",
-          "url": "https://www.toutiao.com/trending/7600274916425351187/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时28分]"
-        },
-        {
-          "title": "前高盛贵金属业务主管Binet-Laisne加盟Mercuria。",
-          "url": "https://wallstreetcn.com/livenews/3045737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时38分 ~ 03时28分]"
-        },
-        {
-          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
-          "url": "https://www.cls.cn/detail/2272316",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 00时38分]"
-        },
-        {
-          "title": "分析师：苹果公司的AI路线图仍是投资者最关心的问题",
-          "url": "https://wallstreetcn.com/livenews/3045749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 10,
+      "match_count": 24,
       "titles": [
         {
           "title": "马上评｜情绪价值、情绪经济何以成地方两会热词",
@@ -137,11 +14,12 @@
           "ranks": [
             5,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时32分]"
         },
         {
           "title": "美联储FOMC声明：经济前景的不确定性依然高企。",
@@ -150,7 +28,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -167,15 +45,59 @@
           "time_info": "[00时38分 ~ 01时33分]"
         },
         {
+          "title": "美联储换帅对全球经济有何影响",
+          "url": "https://www.douyin.com/hot/2382138",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 04时32分]"
+        },
+        {
+          "title": "31省2025年经济成绩单出炉",
+          "url": "https://www.baidu.com/s?wd=31%E7%9C%812025%E5%B9%B4%E7%BB%8F%E6%B5%8E%E6%88%90%E7%BB%A9%E5%8D%95%E5%87%BA%E7%82%89",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 04时32分]"
+        },
+        {
           "title": "提醒：北京时间03:00，美联储发布FOMC利率决议声明（没有“季度性”经济预期概要/SEP），美联储主席将在03:30举行例行新闻发布会。",
           "url": "https://wallstreetcn.com/livenews/3045752",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "鲍威尔：零售商们说，低收入消费者考虑的是节省开销。",
+          "url": "https://wallstreetcn.com/livenews/3045804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "鲍威尔：经济的强劲势头再次让人感到惊讶。 整体消费开支数据良好。",
+          "url": "https://wallstreetcn.com/livenews/3045802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
         },
         {
           "title": "美国贸易代表办公室就格里尔与墨西哥经济部长的会晤表示，双方同意就关键工业品更严格的原产地规则、关键矿物领域的强化合作以及对外贸易政策协调加强展开磋商。",
@@ -211,15 +133,81 @@
           "time_info": "02时38分"
         },
         {
+          "title": "美联储主席鲍威尔：尽管贸易政策发生了重大变化，但迄今为止经济表现良好。",
+          "url": "https://flash.jin10.com/detail/20260129040735564800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
           "title": "阿波罗首席经济学家Torsten Slok：预计美联储（今天）将说他们保持观望状态。 我们将看到（美国经济）在今年加速增长。 预计增速将高于现阶段的（市场/分析师预期的）共识。 如果到年底通胀率高达4%，需要严肃对待。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3045744",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "美联储主席鲍威尔：对于那些正面临经济负担压力的人们来说，我们能做的最好的事情就是降低通胀。",
+          "url": "https://flash.jin10.com/detail/20260129040249647800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "鲍威尔：关税的大部分影响已经传导至经济。 如果我们看到关税影响的峰值，表明我们可以放宽政策。",
+          "url": "https://wallstreetcn.com/livenews/3045791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "美联储主席鲍威尔：零售商表示，低收入消费者正寻求节省开支。",
+          "url": "https://flash.jin10.com/detail/20260129040158286800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "委内瑞拉反对派代表马查多：有机制确保石油收入流向委内瑞拉人。",
+          "url": "https://flash.jin10.com/detail/20260129040150781800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "鲍威尔：自从12月FOMC货币政策会议以来，数据清晰地表明增速改善。 整体而言，比12月份经济预期概要（SEP）所给预测更加强劲。",
+          "url": "https://wallstreetcn.com/livenews/3045788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
         },
         {
           "title": "阿波罗首席经济学家斯洛克：必须严肃对待美国通胀，年底前可能达到4%。",
@@ -228,9 +216,31 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "美联储主席鲍威尔：（经济）受益于人工智能支出。",
+          "url": "https://flash.jin10.com/detail/20260129040018734800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "美联储主席鲍威尔：消费者支出在不同收入水平上参差不齐，但总体来说还不错。",
+          "url": "https://flash.jin10.com/detail/20260129040003482800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
         },
         {
           "title": "阿波罗首席经济学家斯洛克：美联储将表示他们处于观望模式，我们预计今年美国经济增长将加速，当前预计增长将高于市场共识。",
@@ -239,7 +249,165 @@
           "ranks": [
             30
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "美联储主席鲍威尔：经济强劲表现再次令人称奇。",
+          "url": "https://flash.jin10.com/detail/20260129035953656800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "阿波罗首席经济学家：称沃勒的异见是主席职位的“试镜”并不公平",
+          "url": "https://wallstreetcn.com/livenews/3045784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "github AI 机器人 Claude",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
+          "url": "https://www.zhihu.com/question/1999415789258826467",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时32分]"
+        },
+        {
+          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764353",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时32分]"
+        },
+        {
+          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
+          "url": "https://www.cls.cn/detail/2272560",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时32分]"
+        },
+        {
+          "title": "AI将替代9200万工作岗位",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            13,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时32分]"
+        },
+        {
+          "title": "马云谈AI时代教育",
+          "url": "https://www.toutiao.com/trending/7600274916425351187/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时32分]"
+        },
+        {
+          "title": "刘强东给老家建了间AI教室",
+          "url": "https://news.ifeng.com/c/8qHvWO6SnwI",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时32分]"
+        },
+        {
+          "title": "宇树等机器人企业扎堆上春晚，谁是去年全球出货量第一？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32475040",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时32分]"
+        },
+        {
+          "title": "前高盛贵金属业务主管Binet-Laisne加盟Mercuria。",
+          "url": "https://wallstreetcn.com/livenews/3045737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 03时28分]"
+        },
+        {
+          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
+          "url": "https://www.cls.cn/detail/2272316",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 00时38分]"
+        },
+        {
+          "title": "鲍威尔：短期内可能会看到人工智能（AI）消除就业岗位/AI导致岗位被淘汰。",
+          "url": "https://wallstreetcn.com/livenews/3045805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "分析师：苹果公司的AI路线图仍是投资者最关心的问题",
+          "url": "https://wallstreetcn.com/livenews/3045749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         }
