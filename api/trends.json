@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T16:40:36.971566+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2026-01-29T17:43:39.949425+08:00",
+  "total_titles_processed": 1640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 49,
+      "match_count": 54,
       "titles": [
         {
           "title": "马上评｜情绪价值、情绪经济何以成地方两会热词",
@@ -32,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时43分 ~ 16时40分]"
+          "appearance_count": 6,
+          "time_info": "[13时43分 ~ 17时43分]"
         },
         {
           "title": "三星电子：将在HBM市场专注于高端细分市场。HBM收入将在2026年增长至三倍以上。",
@@ -64,7 +64,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -166,7 +166,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -177,9 +177,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "白银有色：公司黄金、白银产品的收入占总营业收入的比重较低",
+          "url": "https://wallstreetcn.com/livenews/3046340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "瑞典央行：总体而言，12月发布的通胀和经济活动前景基本保持不变。",
@@ -188,7 +199,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -204,15 +215,37 @@
           "time_info": "03时28分"
         },
         {
+          "title": "生益科技：预计2025年净利润32.5亿元到34.5亿元，同比增加87%到98%；在报告期内，公司覆铜板销量同比上升，覆铜板产品营业收入增加。",
+          "url": "https://wallstreetcn.com/livenews/3046338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "瑞典央行：目前的政策利率水平被认为有助于在长期内增强经济活动并使通胀稳定在目标附近。",
           "url": "https://flash.jin10.com/detail/20260129163028838800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "印度首席经济顾问：即便2月将公布基期修订，仍有信心将经济增速维持在6.8%–7.2%。",
+          "url": "https://flash.jin10.com/detail/20260129171919340800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "“新债王”Gundlach：相信美联储主席鲍威尔任期内不会再次降息。 需要重置（美国）经济的运作方式。 预计理事沃勒有望出任美联储主席。",
@@ -325,6 +358,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "国务院办公厅：鼓励地方结合消化存量房地产等政策落实 支持旅居项目用地和服务设施建设",
+          "url": "https://wallstreetcn.com/livenews/3046329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "世界黄金协会：经济和地缘政治不确定性几无缓解迹象 黄金需求强劲势头有望延续",
           "url": "https://wallstreetcn.com/livenews/3046162",
           "source": "华尔街见闻-快讯",
@@ -334,6 +378,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
+        },
+        {
+          "title": "国办：鼓励地方结合消化存量房地产等政策落实，支持旅居项目用地和服务设施建设",
+          "url": "https://wallstreetcn.com/livenews/3046328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "微软(MSFT.O)第二财季Azure和其他云服务收入增长38%。",
@@ -559,7 +614,7 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -574,6 +629,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时37分 ~ 10时01分]"
+        },
+        {
+          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
+          "url": "https://wallstreetcn.com/articles/3764410",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时00分 ~ 17时43分]"
         },
         {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
@@ -655,18 +723,6 @@
           "time_info": "[00时37分 ~ 07时27分]"
         },
         {
-          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
-          "url": "https://wallstreetcn.com/articles/3764410",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时00分 ~ 16时40分]"
-        },
-        {
           "title": "人类基因密码被谷歌AI破解",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
           "source": "bilibili 热搜",
@@ -687,11 +743,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 16时40分]"
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 17时43分]"
         },
         {
           "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
@@ -714,7 +771,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -753,6 +810,19 @@
           "time_info": "[02时38分 ~ 03时28分]"
         },
         {
+          "title": "阿里平头哥新款AI芯片正式亮相！",
+          "url": "https://www.cls.cn/detail/2273750",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 17时43分]"
+        },
+        {
           "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
           "url": "https://www.cls.cn/detail/2272316",
           "source": "财联社热门",
@@ -776,16 +846,39 @@
           "time_info": "[04时32分 ~ 05时30分]"
         },
         {
-          "title": "阿里平头哥新款AI芯片正式亮相！",
-          "url": "https://www.cls.cn/detail/2273750",
+          "title": "民政部：广泛应用人形机器人、脑机接口、人工智能等前沿技术 研制高性能智能养老服务机器人",
+          "url": "https://www.cls.cn/detail/2273653",
           "source": "财联社热门",
           "ranks": [
-            13,
+            12,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时40分 ~ 16时40分]"
+          "time_info": "[16时40分 ~ 17时43分]"
+        },
+        {
+          "title": "马斯克要发力机器人了？2026年训练、制造两手抓 第三代Optimus即将推出",
+          "url": "https://www.cls.cn/detail/2273549",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 17时43分]"
+        },
+        {
+          "title": "阿里自研 AI 芯片亮相，由通义实验室、阿里云、平头哥组成的「通云哥」体系，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2000172562634790267",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 17时43分]"
         },
         {
           "title": "AI应用板块爆发",
@@ -838,7 +931,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -876,17 +969,6 @@
           "time_info": "12时13分"
         },
         {
-          "title": "民政部：广泛应用人形机器人、脑机接口、人工智能等前沿技术 研制高性能智能养老服务机器人",
-          "url": "https://www.cls.cn/detail/2273653",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
           "title": "分析师：苹果公司的AI路线图仍是投资者最关心的问题",
           "url": "https://wallstreetcn.com/livenews/3045749",
           "source": "华尔街见闻-快讯",
@@ -909,26 +991,15 @@
           "time_info": "07时27分"
         },
         {
-          "title": "马斯克要发力机器人了？2026年训练、制造两手抓 第三代Optimus即将推出",
-          "url": "https://www.cls.cn/detail/2273549",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
-          "title": "阿里自研 AI 芯片亮相，由通义实验室、阿里云、平头哥组成的「通云哥」体系，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2000172562634790267",
+          "title": "特斯拉重大战略调整，将停产 Model S 和 X，生产线转向发力 Optimus 机器人，怎样解读？",
+          "url": "https://www.zhihu.com/question/2000138565615576779",
           "source": "知乎",
           "ranks": [
-            17
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时40分"
+          "time_info": "17时43分"
         },
         {
           "title": "特斯拉：CyberCab、Semi、Megapack3都处于2026年规划的正轨之上。 将在多个产品铺开六条新的产品线。 公司将投资20亿美元，购买xAI的系列E优先股；特斯拉与xAI就此达成框架协议。 Cybercab和特斯拉Semi有望在2026年量产，Megapack3也有望在今年量产。 人形机器人Optimus第一代产品线正在铺设中。",
