@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T15:40:48.698336+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2026-01-29T16:40:36.971566+08:00",
+  "total_titles_processed": 1537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
         {
           "title": "马上评｜情绪价值、情绪经济何以成地方两会热词",
@@ -21,6 +21,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时37分 ~ 10时01分]"
+        },
+        {
+          "title": "爱奇艺宣布 2026 年 2 月 1 日起全面实行「收入分账」模式，对影视行业和观众有何影响？",
+          "url": "https://www.zhihu.com/question/1997414292409050897",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时43分 ~ 16时40分]"
         },
         {
           "title": "三星电子：将在HBM市场专注于高端细分市场。HBM收入将在2026年增长至三倍以上。",
@@ -43,6 +56,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时31分 ~ 07时27分]"
+        },
+        {
+          "title": "瑞典央行：尽管存在巨大不确定性，瑞典经济在去年末仍以良好速度增长。",
+          "url": "https://flash.jin10.com/detail/20260129163601221800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "美联储FOMC声明：经济前景的不确定性依然高企。",
@@ -76,18 +100,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "爱奇艺宣布 2026 年 2 月 1 日起全面实行「收入分账」模式，对影视行业和观众有何影响？",
-          "url": "https://www.zhihu.com/question/1997414292409050897",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 15时40分]"
         },
         {
           "title": "经济学家：加央行料长期按兵不动 不确定性高企",
@@ -148,6 +160,39 @@
           "time_info": "12时13分"
         },
         {
+          "title": "瑞典央行：通胀和经济活动前景的不确定性有所加剧。",
+          "url": "https://flash.jin10.com/detail/20260129163153494800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "瑞典央行：迄今为止，瑞典经济在应对地缘政治局势相关不确定性及更高关税方面表现出韧性，但家庭和企业部门的情绪可能迅速恶化。",
+          "url": "https://flash.jin10.com/detail/20260129163127451800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "瑞典央行：总体而言，12月发布的通胀和经济活动前景基本保持不变。",
+          "url": "https://flash.jin10.com/detail/20260129163119666800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "提醒：北京时间03:00，美联储发布FOMC利率决议声明（没有“季度性”经济预期概要/SEP），美联储主席将在03:30举行例行新闻发布会。",
           "url": "https://wallstreetcn.com/livenews/3045752",
           "source": "华尔街见闻-快讯",
@@ -157,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "瑞典央行：目前的政策利率水平被认为有助于在长期内增强经济活动并使通胀稳定在目标附近。",
+          "url": "https://flash.jin10.com/detail/20260129163028838800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "“新债王”Gundlach：相信美联储主席鲍威尔任期内不会再次降息。 需要重置（美国）经济的运作方式。 预计理事沃勒有望出任美联储主席。",
@@ -330,7 +386,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -385,7 +441,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -440,7 +496,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -503,7 +559,7 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -607,8 +663,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时00分 ~ 15时40分]"
+          "appearance_count": 8,
+          "time_info": "[10时00分 ~ 16时40分]"
         },
         {
           "title": "人类基因密码被谷歌AI破解",
@@ -617,11 +673,50 @@
           "ranks": [
             5,
             7,
-            15
+            15,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 15时40分]"
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 16时40分]"
+        },
+        {
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 16时40分]"
+        },
+        {
+          "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
+          "url": "https://www.cls.cn/detail/2273507",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 16时40分]"
+        },
+        {
+          "title": "据报道，阿里巴巴争取到小鹏汽车为其新AI芯片的客户。",
+          "url": "https://wallstreetcn.com/livenews/3046293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "特斯拉与XAI框架达成协议，评估人工智能合作。",
@@ -644,31 +739,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764408",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 15时40分]"
-        },
-        {
-          "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
-          "url": "https://www.cls.cn/detail/2273507",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 15时40分]"
         },
         {
           "title": "前高盛贵金属业务主管Binet-Laisne加盟Mercuria。",
@@ -704,6 +774,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时30分]"
+        },
+        {
+          "title": "阿里平头哥新款AI芯片正式亮相！",
+          "url": "https://www.cls.cn/detail/2273750",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时40分 ~ 16时40分]"
         },
         {
           "title": "AI应用板块爆发",
@@ -750,6 +832,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "软银任命首席运营官Jun Shimba为董事长，4月1日起生效。现任董事长Yasuyuki Imai将担任特别顾问。",
+          "url": "https://wallstreetcn.com/livenews/3046285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "特斯拉(TSLA.O)：将进一步投资自主机器人基础设施。",
           "url": "https://flash.jin10.com/detail/20260129050817558800",
           "source": "金十数据",
@@ -783,6 +876,17 @@
           "time_info": "12时13分"
         },
         {
+          "title": "民政部：广泛应用人形机器人、脑机接口、人工智能等前沿技术 研制高性能智能养老服务机器人",
+          "url": "https://www.cls.cn/detail/2273653",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "分析师：苹果公司的AI路线图仍是投资者最关心的问题",
           "url": "https://wallstreetcn.com/livenews/3045749",
           "source": "华尔街见闻-快讯",
@@ -805,15 +909,26 @@
           "time_info": "07时27分"
         },
         {
-          "title": "阿里平头哥新款AI芯片正式亮相！",
-          "url": "https://www.cls.cn/detail/2273750",
+          "title": "马斯克要发力机器人了？2026年训练、制造两手抓 第三代Optimus即将推出",
+          "url": "https://www.cls.cn/detail/2273549",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时40分"
+          "time_info": "16时40分"
+        },
+        {
+          "title": "阿里自研 AI 芯片亮相，由通义实验室、阿里云、平头哥组成的「通云哥」体系，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2000172562634790267",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "特斯拉：CyberCab、Semi、Megapack3都处于2026年规划的正轨之上。 将在多个产品铺开六条新的产品线。 公司将投资20亿美元，购买xAI的系列E优先股；特斯拉与xAI就此达成框架协议。 Cybercab和特斯拉Semi有望在2026年量产，Megapack3也有望在今年量产。 人形机器人Optimus第一代产品线正在铺设中。",
@@ -949,7 +1064,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -960,7 +1075,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         }
