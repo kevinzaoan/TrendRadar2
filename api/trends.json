@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T13:44:12.880837+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-01-29T14:47:57.956585+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "马上评｜情绪价值、情绪经济何以成地方两会热词",
@@ -90,6 +90,17 @@
           "time_info": "[00时38分 ~ 01时33分]"
         },
         {
+          "title": "爱奇艺宣布 2026 年 2 月 1 日起全面实行「收入分账」模式，对影视行业和观众有何影响？",
+          "url": "https://www.zhihu.com/question/1997414292409050897",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 14时47分]"
+        },
+        {
           "title": "31省2025年经济成绩单出炉",
           "url": "https://www.baidu.com/s?wd=31%E7%9C%812025%E5%B9%B4%E7%BB%8F%E6%B5%8E%E6%88%90%E7%BB%A9%E5%8D%95%E5%87%BA%E7%82%89",
           "source": "百度热搜",
@@ -99,17 +110,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时31分 ~ 05时29分]"
-        },
-        {
-          "title": "爱奇艺宣布 2026 年 2 月 1 日起全面实行「收入分账」模式，对影视行业和观众有何影响？",
-          "url": "https://www.zhihu.com/question/1997414292409050897",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 13时44分]"
         },
         {
           "title": "鲍威尔：零售商们说，低收入消费者考虑的是节省开销。",
@@ -246,6 +246,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "世界黄金协会：经济和地缘政治不确定性几无缓解迹象 黄金需求强劲势头有望延续",
+          "url": "https://flash.jin10.com/detail/20260129140704592800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "阿波罗首席经济学家Torsten Slok：预计美联储（今天）将说他们保持观望状态。 我们将看到（美国经济）在今年加速增长。 预计增速将高于现阶段的（市场/分析师预期的）共识。 如果到年底通胀率高达4%，需要严肃对待。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3045744",
           "source": "华尔街见闻-快讯",
@@ -255,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "世界黄金协会：经济和地缘政治不确定性几无缓解迹象 黄金需求强劲势头有望延续",
+          "url": "https://wallstreetcn.com/livenews/3046162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "微软(MSFT.O)第二财季Azure和其他云服务收入增长38%。",
@@ -274,7 +296,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -288,6 +310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "经济学家：澳洲联储今年或将完全逆转2025年的降息举措",
+          "url": "https://flash.jin10.com/detail/20260129135537383800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "美联储主席鲍威尔：对于那些正面临经济负担压力的人们来说，我们能做的最好的事情就是降低通胀。",
@@ -351,7 +384,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -373,7 +406,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -436,7 +469,7 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -463,8 +496,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 13时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 14时47分]"
         },
         {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
@@ -540,8 +573,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时00分 ~ 13时44分]"
+          "appearance_count": 6,
+          "time_info": "[10时00分 ~ 14时47分]"
+        },
+        {
+          "title": "人类基因密码被谷歌AI破解",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 14时47分]"
         },
         {
           "title": "特斯拉与XAI框架达成协议，评估人工智能合作。",
@@ -566,18 +612,6 @@
           "time_info": "07时27分"
         },
         {
-          "title": "人类基因密码被谷歌AI破解",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 13时44分]"
-        },
-        {
           "title": "前高盛贵金属业务主管Binet-Laisne加盟Mercuria。",
           "url": "https://wallstreetcn.com/livenews/3045737",
           "source": "华尔街见闻-快讯",
@@ -594,22 +628,24 @@
           "url": "https://wallstreetcn.com/articles/3764408",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 14时47分]"
         },
         {
           "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
           "url": "https://www.cls.cn/detail/2273507",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 14时47分]"
         },
         {
           "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
@@ -745,6 +781,17 @@
           "time_info": "06时28分"
         },
         {
+          "title": "受资金流入与AI热潮提振 韩元有望创13年来最长连涨纪录",
+          "url": "https://flash.jin10.com/detail/20260129135917654800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "Meta四季度营收598.9亿美元，分析师预期584.2亿美元。 四季度运营利润247.5亿美元，同比增长5.9%。 预计2026年资本开支1150亿-1350亿美元，分析师预期1106.2亿美元。 预计2026年总体开支1620亿 预计一季度营收535亿-565亿美元，分析师预期512.7亿美元。 公司将在优先领域招聘，尤其是人工智能（AI）方面。",
           "url": "https://wallstreetcn.com/livenews/3045830",
           "source": "华尔街见闻-快讯",
@@ -798,6 +845,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：非常愿意投资OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260129134256119800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "银河通用发布首款工业级重载机器人，Galbot G1年出货破1200台",
+          "url": "https://wallstreetcn.com/livenews/3046149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "特斯拉首席财务官：特斯拉可能在几个月内发布Optimus机器人。",
