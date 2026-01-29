@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T22:02:47.625760+08:00",
-  "total_titles_processed": 2060,
+  "generated_at": "2026-01-29T23:36:42.438439+08:00",
+  "total_titles_processed": 2177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "爱奇艺宣布 2026 年 2 月 1 日起全面实行「收入分账」模式，对影视行业和观众有何影响？",
@@ -15,11 +15,12 @@
             8,
             7,
             5,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时43分 ~ 22时02分]"
+          "appearance_count": 13,
+          "time_info": "[13时43分 ~ 23时36分]"
         },
         {
           "title": "马上评｜情绪价值、情绪经济何以成地方两会热词",
@@ -205,6 +206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "星巴克：预计未来数年资本开支与收入的比率为5%。",
+          "url": "https://wallstreetcn.com/livenews/3046569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "瑞典央行：总体而言，12月发布的通胀和经济活动前景基本保持不变。",
@@ -683,7 +695,7 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -700,6 +712,18 @@
           "time_info": "[00时37分 ~ 10时01分]"
         },
         {
+          "title": "够飒!AI女团跨界维修通马桶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349904&amp;topic_name=%E5%A4%9F%E9%A3%92%21AI%E5%A5%B3%E5%9B%A2%E8%B7%A8%E7%95%8C%E7%BB%B4%E4%BF%AE%E9%80%9A%E9%A9%AC%E6%A1%B6",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时37分 ~ 23时36分]"
+        },
+        {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
           "url": "https://wallstreetcn.com/articles/3764410",
           "source": "华尔街见闻",
@@ -709,20 +733,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时00分 ~ 22时02分]"
-        },
-        {
-          "title": "够飒!AI女团跨界维修通马桶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349904&amp;topic_name=%E5%A4%9F%E9%A3%92%21AI%E5%A5%B3%E5%9B%A2%E8%B7%A8%E7%95%8C%E7%BB%B4%E4%BF%AE%E9%80%9A%E9%A9%AC%E6%A1%B6",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时37分 ~ 22时02分]"
+          "appearance_count": 16,
+          "time_info": "[10时00分 ~ 23时36分]"
         },
         {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
@@ -762,8 +774,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时13分 ~ 22时02分]"
+          "appearance_count": 14,
+          "time_info": "[12时13分 ~ 23时36分]"
         },
         {
           "title": "AI将替代9200万工作岗位",
@@ -968,6 +980,18 @@
           "time_info": "[16时40分 ~ 17时43分]"
         },
         {
+          "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
+          "url": "https://www.cls.cn/detail/2274202",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 23时36分]"
+        },
+        {
           "title": "马斯克要发力机器人了？2026年训练、制造两手抓 第三代Optimus即将推出",
           "url": "https://www.cls.cn/detail/2273549",
           "source": "财联社热门",
@@ -1079,6 +1103,28 @@
           "time_info": "20时58分"
         },
         {
+          "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
+          "url": "https://wallstreetcn.com/articles/3764497",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
+          "title": "新兴市场股票、外汇指数走低，微软业绩报告加重投资者对AI的顾虑。",
+          "url": "https://wallstreetcn.com/livenews/3046567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "1月29日午间收评：创业板指冲高回落微跌，AI应用端集体爆发",
           "url": "https://wallstreetcn.com/livenews/3046069",
           "source": "华尔街见闻-快讯",
@@ -1088,17 +1134,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
-        },
-        {
-          "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
-          "url": "https://www.cls.cn/detail/2274202",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
         },
         {
           "title": "分析师：苹果公司的AI路线图仍是投资者最关心的问题",
@@ -1140,7 +1175,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1269,8 +1304,19 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "合成橡胶夜盘收涨将近5.1%，燃油涨超4.9%，焦煤涨4.6%，焦炭涨超3.3%",
+          "url": "https://wallstreetcn.com/livenews/3046564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
         {
           "title": "早盘收盘，国内期货主力合约大面积飘红，沪金涨超7%，沪铜、国际铜涨超6%，沪银涨近6%，燃油涨超4%，SC原油、低硫燃料油（LU）、沪铝涨超3%，沥青、沪锌涨近3%，钯、橡胶、20号胶、铂、焦炭涨超2%。跌幅方面，多晶硅跌近3%，碳酸锂跌超1%。",
           "url": "https://flash.jin10.com/detail/20260129113115255800",
@@ -1281,6 +1327,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "截至23:00收盘，国内期货主力合约大面积飘红，BR橡胶涨超5%，燃料油、焦煤涨超4%，焦炭、纯苯、LPG涨超3%，对二甲苯、PTA、低硫燃料油、沥青、PVC、苯乙烯、甲醇涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260129230200262800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "午盘收盘，国内期货主力合约大多数上涨，沪银涨超8%，沪金涨近8%，国际铜涨超7%，沪铜涨近7%，燃油涨4%，SC原油、焦煤涨近4%，沥青、焦炭涨超3%，钯、沪铝、橡胶、纯苯涨近3%，纯碱、20号胶涨超2%。跌幅方面，多晶硅跌超4%，碳酸锂跌超3%，生猪跌近1%。",
@@ -1311,7 +1368,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         }
