@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T14:47:57.956585+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2026-01-29T15:40:48.698336+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "马上评｜情绪价值、情绪经济何以成地方两会热词",
@@ -78,6 +78,18 @@
           "time_info": "07时27分"
         },
         {
+          "title": "爱奇艺宣布 2026 年 2 月 1 日起全面实行「收入分账」模式，对影视行业和观众有何影响？",
+          "url": "https://www.zhihu.com/question/1997414292409050897",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 15时40分]"
+        },
+        {
           "title": "经济学家：加央行料长期按兵不动 不确定性高企",
           "url": "https://flash.jin10.com/detail/20260129002938985800",
           "source": "金十数据",
@@ -88,17 +100,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时33分]"
-        },
-        {
-          "title": "爱奇艺宣布 2026 年 2 月 1 日起全面实行「收入分账」模式，对影视行业和观众有何影响？",
-          "url": "https://www.zhihu.com/question/1997414292409050897",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时43分 ~ 14时47分]"
         },
         {
           "title": "31省2025年经济成绩单出炉",
@@ -252,7 +253,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -274,7 +275,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -318,9 +319,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
+        },
+        {
+          "title": "劳埃德银行第四季度法定税前利润19.8亿英镑，预估17.2亿英镑。 第四季度营业成本25.9亿英镑，预估25.8亿英镑。 第四季度净利息收入35.3亿英镑，预估35.4亿英镑。 第四季度净息差3.1％，预估3.11％。 劳埃德银行预计2026年有形股本回报率超过16％，此前预计超过15％。",
+          "url": "https://wallstreetcn.com/livenews/3046207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "美联储主席鲍威尔：对于那些正面临经济负担压力的人们来说，我们能做的最好的事情就是降低通胀。",
@@ -367,6 +379,17 @@
           "time_info": "04时32分"
         },
         {
+          "title": "印度经济调查：卢比走弱确实令投资者暂时持观望态度；投资者不愿在印度长期投资的状况值得深入研究。",
+          "url": "https://flash.jin10.com/detail/20260129145559421800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
           "title": "鲍威尔：自从12月FOMC货币政策会议以来，数据清晰地表明增速改善。 整体而言，比12月份经济预期概要（SEP）所给预测更加强劲。",
           "url": "https://wallstreetcn.com/livenews/3045788",
           "source": "华尔街见闻-快讯",
@@ -409,6 +432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "印度经济调查：卢比被低估并无害处，因为它能抵消高关税的影响，且对通胀不构成威胁。",
+          "url": "https://flash.jin10.com/detail/20260129145535308800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "美联储主席鲍威尔：（经济）受益于人工智能支出。",
@@ -469,7 +503,7 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -496,8 +530,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 14时47分]"
+          "appearance_count": 18,
+          "time_info": "[00时37分 ~ 15时40分]"
         },
         {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
@@ -573,8 +607,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时00分 ~ 14时47分]"
+          "appearance_count": 7,
+          "time_info": "[10时00分 ~ 15时40分]"
         },
         {
           "title": "人类基因密码被谷歌AI破解",
@@ -586,8 +620,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时47分]"
+          "appearance_count": 5,
+          "time_info": "[12时13分 ~ 15时40分]"
         },
         {
           "title": "特斯拉与XAI框架达成协议，评估人工智能合作。",
@@ -612,6 +646,31 @@
           "time_info": "07时27分"
         },
         {
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时13分 ~ 15时40分]"
+        },
+        {
+          "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
+          "url": "https://www.cls.cn/detail/2273507",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时13分 ~ 15时40分]"
+        },
+        {
           "title": "前高盛贵金属业务主管Binet-Laisne加盟Mercuria。",
           "url": "https://wallstreetcn.com/livenews/3045737",
           "source": "华尔街见闻-快讯",
@@ -622,30 +681,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 03时28分]"
-        },
-        {
-          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764408",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时47分]"
-        },
-        {
-          "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
-          "url": "https://www.cls.cn/detail/2273507",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时47分]"
         },
         {
           "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
@@ -770,6 +805,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "阿里平头哥新款AI芯片正式亮相！",
+          "url": "https://www.cls.cn/detail/2273750",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
           "title": "特斯拉：CyberCab、Semi、Megapack3都处于2026年规划的正轨之上。 将在多个产品铺开六条新的产品线。 公司将投资20亿美元，购买xAI的系列E优先股；特斯拉与xAI就此达成框架协议。 Cybercab和特斯拉Semi有望在2026年量产，Megapack3也有望在今年量产。 人形机器人Optimus第一代产品线正在铺设中。",
           "url": "https://wallstreetcn.com/livenews/3045838",
           "source": "华尔街见闻-快讯",
@@ -787,7 +833,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -853,7 +899,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -864,7 +910,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -883,7 +929,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "早盘收盘，国内期货主力合约大面积飘红，沪金涨超7%，沪铜、国际铜涨超6%，沪银涨近6%，燃油涨超4%，SC原油、低硫燃料油（LU）、沪铝涨超3%，沥青、沪锌涨近3%，钯、橡胶、20号胶、铂、焦炭涨超2%。跌幅方面，多晶硅跌近3%，碳酸锂跌超1%。",
@@ -895,6 +941,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约大多数上涨，沪银涨超8%，沪金涨近8%，国际铜涨超7%，沪铜涨近7%，燃油涨4%，SC原油、焦煤涨近4%，沥青、焦炭涨超3%，钯、沪铝、橡胶、纯苯涨近3%，纯碱、20号胶涨超2%。跌幅方面，多晶硅跌超4%，碳酸锂跌超3%，生猪跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260129150150705800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "内盘期货多数收涨，沪银收涨逾8%，沪金涨近8%，国际铜涨7%，沪铜涨逾6%，燃油涨4%，焦煤、原油、沥青、焦炭、低硫燃油涨逾3%；多晶硅收跌逾4%，碳酸锂跌逾3%。",
+          "url": "https://wallstreetcn.com/livenews/3046206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         }
       ]
     }
