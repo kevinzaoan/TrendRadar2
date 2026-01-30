@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-31T04:31:13.131518+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-01-31T05:28:37.277392+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
       "match_count": 17,
       "titles": [
-        {
-          "title": "碾压预期！苹果上季营收和iPhone销售均创新高，在华收入劲增近40% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764518",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 02时43分]"
-        },
         {
           "title": "美联储穆萨莱姆：经济顺风有望提振2026年经济增长。",
           "url": "https://flash.jin10.com/detail/20260131023245253800",
@@ -28,8 +17,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 04时31分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 05时28分]"
         },
         {
           "title": "美联储穆萨莱姆：预计在信贷条件和财政政策的推动下，经济将继续以高于趋势水平的速度增长。",
@@ -41,8 +30,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 04时31分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 05时28分]"
+        },
+        {
+          "title": "碾压预期！苹果上季营收和iPhone销售均创新高，在华收入劲增近40% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764518",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时43分]"
         },
         {
           "title": "美联储理事米兰：美联储主席提名人凯文·沃什一贯富有创新精神。 我会假设沃什将接替我的美联储理事职位。 预计美联储官员们也会很好地接纳沃什。 沃什有说服力，他的大量观点都是正确的。 必须继续实施规模正确的监管。 去监管会允许美联储缩表。 美联储（经济预期概要/SEP）预测可能会被现代化。 美联储的指引可能已经推迟了加息周期。",
@@ -66,8 +66,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 04时31分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 05时28分]"
         },
         {
           "title": "俄罗斯总统普京：俄罗斯2025年武器出口收入超过150亿美元。",
@@ -75,11 +75,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 04时31分]"
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 05时28分]"
         },
         {
           "title": "2028年FOMC票委、圣路易联储主席穆萨莱姆将于十分钟后就美国经济和货币政策发表讲话。",
@@ -219,8 +220,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 05时28分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -230,8 +231,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 05时28分]"
         },
         {
           "title": "美国众议院共和党领袖们寻求在2026年年底之前出台AI框架。（PunchBowl）",
@@ -239,11 +240,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 04时31分]"
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 05时28分]"
         },
         {
           "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
@@ -251,11 +253,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 04时31分]"
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 05时28分]"
         },
         {
           "title": "白宫顾问哈塞特：原材料价格上涨是因为AI和数据中心开支的缘故。",
