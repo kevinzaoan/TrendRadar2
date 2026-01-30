@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T21:57:53.604394+08:00",
-  "total_titles_processed": 2004,
+  "generated_at": "2026-01-30T22:39:51.571723+08:00",
+  "total_titles_processed": 2090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时01分 ~ 21时57分]"
+          "appearance_count": 14,
+          "time_info": "[10时01分 ~ 22时39分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -61,8 +61,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时16分 ~ 21时57分]"
+          "appearance_count": 13,
+          "time_info": "[12时16分 ~ 22时39分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -93,11 +93,12 @@
             17,
             18,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时44分 ~ 21时57分]"
+          "appearance_count": 25,
+          "time_info": "[00时44分 ~ 22时39分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -336,6 +337,18 @@
           "time_info": "[16时40分 ~ 17时38分]"
         },
         {
+          "title": "AI股民在股市里会如何表现",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%82%A1%E6%B0%91%E5%9C%A8%E8%82%A1%E5%B8%82%E9%87%8C%E4%BC%9A%E5%A6%82%E4%BD%95%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时39分]"
+        },
+        {
           "title": "据英国《金融时报》：苹果收购以色列初创公司Q.AI，交易估值接近20亿美元。",
           "url": "https://flash.jin10.com/detail/20260130013359793800",
           "source": "金十数据",
@@ -404,6 +417,17 @@
           "time_info": "15时41分"
         },
         {
+          "title": "据AXIOS网站：OpenAI总裁布罗克曼与风险投资公司A16Z向支持人工智能的超级政治行动委员会（Pro-AI Super PAC）捐款。",
+          "url": "https://flash.jin10.com/detail/20260130220348095800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "苹果(AAPL.O)CEO库克：AirPods Pro 3第一季度供应受限。",
           "url": "https://flash.jin10.com/detail/20260130053408045800",
           "source": "金十数据",
@@ -426,6 +450,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "报道：OpenAI总裁布罗克曼与a16z向亲AI超级政治行动委员会注资",
+          "url": "https://wallstreetcn.com/livenews/3047434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "AI公司为何盯上游戏",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%85%AC%E5%8F%B8%E4%B8%BA%E4%BD%95%E7%9B%AF%E4%B8%8A%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
@@ -435,17 +470,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
-        },
-        {
-          "title": "AI股民在股市里会如何表现",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%82%A1%E6%B0%91%E5%9C%A8%E8%82%A1%E5%B8%82%E9%87%8C%E4%BC%9A%E5%A6%82%E4%BD%95%E8%A1%A8%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
         },
         {
           "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
@@ -550,7 +574,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "西方领导人掀起“访华热”，学者：不仅为寻求经济利益",
@@ -580,6 +604,18 @@
           "time_info": "[01时37分 ~ 10时01分]"
         },
         {
+          "title": "碾压预期！苹果上季营收和iPhone销售均创新高，在华收入劲增近40% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764518",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时16分 ~ 22时39分]"
+        },
+        {
           "title": "房地产市场“没有前景”了吗",
           "url": "https://www.baidu.com/s?wd=%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E2%80%9C%E6%B2%A1%E6%9C%89%E5%89%8D%E6%99%AF%E2%80%9D%E4%BA%86%E5%90%97",
           "source": "百度热搜",
@@ -605,18 +641,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时38分 ~ 18时35分]"
-        },
-        {
-          "title": "碾压预期！苹果上季营收和iPhone销售均创新高，在华收入劲增近40% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764518",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时16分 ~ 21时57分]"
         },
         {
           "title": "爱奇艺宣布 2026 年 2 月 1 日起全面实行「收入分账」模式，对影视行业和观众有何影响？",
@@ -722,6 +746,17 @@
           "time_info": "[05时27分 ~ 05时28分]"
         },
         {
+          "title": "美联储理事沃勒：尽管经济增长稳健，劳动力市场依然疲软。",
+          "url": "https://flash.jin10.com/detail/20260130220234913800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "【财政部：2025年全国一般公共预算收入21.6万亿元，较2024年下降1.7%】在财政部举行的新闻发布会上，财政部国库司副司长郑涌介绍说，2025年全国一般公共预算收入21.6万亿元，较2024年下降1.7%。其中，税收收入增长0.8%，全年总体呈稳步回升走势，反映出我国经济运行延续了稳中有进的发展态势；非税收入下降11.3%，主要是2024年一次性安排的中央单位上缴专项收益抬高了基数。（新华财经）",
           "url": "https://wallstreetcn.com/livenews/3047088",
           "source": "华尔街见闻-快讯",
@@ -797,6 +832,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
+        },
+        {
+          "title": "美联储理事沃勒：在上次会议上投下反对票，支持降息25个基点，因为当前政策仍在过度抑制经济活动。",
+          "url": "https://flash.jin10.com/detail/20260130220040802800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "苹果(AAPL.O)2026财年Q1可穿戴设备收入为114.93亿美元。",
