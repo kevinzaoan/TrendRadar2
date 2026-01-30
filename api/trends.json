@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-01-31T01:34:49.669969+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-01-31T02:43:16.895530+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "美联储穆萨莱姆：经济顺风有望提振2026年经济增长。",
+          "url": "https://flash.jin10.com/detail/20260131023245253800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "美联储穆萨莱姆：预计在信贷条件和财政政策的推动下，经济将继续以高于趋势水平的速度增长。",
+          "url": "https://flash.jin10.com/detail/20260131023214261800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "碾压预期！苹果上季营收和iPhone销售均创新高，在华收入劲增近40% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764518",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时43分]"
+        },
         {
           "title": "美联储理事米兰：美联储主席提名人凯文·沃什一贯富有创新精神。 我会假设沃什将接替我的美联储理事职位。 预计美联储官员们也会很好地接纳沃什。 沃什有说服力，他的大量观点都是正确的。 必须继续实施规模正确的监管。 去监管会允许美联储缩表。 美联储（经济预期概要/SEP）预测可能会被现代化。 美联储的指引可能已经推迟了加息周期。",
           "url": "https://wallstreetcn.com/livenews/3047493",
@@ -20,17 +53,6 @@
           "time_info": "[00时40分 ~ 01时34分]"
         },
         {
-          "title": "碾压预期！苹果上季营收和iPhone销售均创新高，在华收入劲增近40% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764518",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时34分]"
-        },
-        {
           "title": "白宫经济顾问哈塞特：美国财政部奉行强美元政策",
           "url": "https://wallstreetcn.com/livenews/3047471",
           "source": "华尔街见闻-快讯",
@@ -41,6 +63,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时34分]"
+        },
+        {
+          "title": "美联储穆萨莱姆：进一步降息并不可取，当前政策已属中性，经济无需刺激。风险总体平衡，只有在就业市场恶化或通胀下行时才需要进一步降息。",
+          "url": "https://flash.jin10.com/detail/20260131023152058800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "2028年FOMC票委、圣路易联储主席穆萨莱姆将于十分钟后就美国经济和货币政策发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260131022000001800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：（谈房利美和房地美）仍在仔细研究。",
@@ -71,7 +115,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
         },
@@ -152,11 +196,12 @@
           "url": "https://wallstreetcn.com/articles/3764423",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时43分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -166,8 +211,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时43分]"
         },
         {
           "title": "白宫顾问哈塞特：原材料价格上涨是因为AI和数据中心开支的缘故。",
