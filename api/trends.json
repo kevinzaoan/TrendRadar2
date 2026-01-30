@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T15:41:13.510767+08:00",
-  "total_titles_processed": 1330,
+  "generated_at": "2026-01-30T16:40:29.433332+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -32,8 +32,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时44分 ~ 15时41分]"
+          "appearance_count": 18,
+          "time_info": "[00时44分 ~ 16时40分]"
+        },
+        {
+          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 16时40分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -58,22 +69,12 @@
             10,
             11,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时44分 ~ 15时41分]"
-        },
-        {
-          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 15时41分]"
+          "appearance_count": 18,
+          "time_info": "[00时44分 ~ 16时40分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -86,6 +87,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时44分 ~ 07时27分]"
+        },
+        {
+          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时16分 ~ 16时40分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
@@ -110,6 +126,31 @@
           "time_info": "07时27分"
         },
         {
+          "title": "理想汽车高管确认切入人形机器人",
+          "url": "https://wallstreetcn.com/livenews/3047159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时16分 ~ 16时40分]"
+        },
+        {
           "title": "亚马逊正在洽谈向OpenAI投资高达500亿美元",
           "url": "https://flash.jin10.com/detail/20260130044452824800",
           "source": "金十数据",
@@ -132,42 +173,29 @@
           "time_info": "13时47分"
         },
         {
-          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时16分 ~ 15时41分]"
-        },
-        {
           "title": "原新加坡Sea AI Lab高级研究科学家庞天宇即将入职腾讯",
           "url": "https://wallstreetcn.com/livenews/3047095",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
         {
-          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
-          "source": "澎湃新闻",
+          "title": "SpaceX被曝拟合并xAI",
+          "url": "https://www.douyin.com/hot/2383918",
+          "source": "抖音",
           "ranks": [
-            15,
             14,
-            12
+            9,
+            11,
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时16分 ~ 15时41分]"
+          "time_info": "[13时47分 ~ 16时40分]"
         },
         {
           "title": "欧洲军工股几乎全线收跌。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌1.58%。微软让投资者担忧AI、带动市场加速下挫之际，该ETF在北京时间23:00之前开始加速下跌。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌2.05%。",
@@ -219,19 +247,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时01分 ~ 14时49分]"
-        },
-        {
-          "title": "SpaceX被曝拟合并xAI",
-          "url": "https://www.douyin.com/hot/2383918",
-          "source": "抖音",
-          "ranks": [
-            14,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时47分 ~ 15时41分]"
         },
         {
           "title": "机构报告：受AI热潮影响，半数美国人面临电力短缺的高风险",
@@ -337,9 +352,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
+        },
+        {
+          "title": "我的马耶这春晚AI做的",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84%E9%A9%AC%E8%80%B6%E8%BF%99%E6%98%A5%E6%99%9AAI%E5%81%9A%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "苹果(AAPL.O)CEO库克：AirPods Pro 3第一季度供应受限。",
@@ -395,6 +421,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "被称为「跨境电商版 Sora」的 AI 营销视频智能体「Hilight」发布了，有哪些亮点信息值得关注？",
+          "url": "https://www.zhihu.com/question/1999485506963075471",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "铠侠（Kioxia）与Sandisk将Yokkaichi合资协议延长至2034年。",
@@ -466,8 +503,20 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "西方领导人掀起“访华热”，学者：不仅为寻求经济利益",
+          "url": "https://news.ifeng.com/c/8qKZSz48AR6",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时16分 ~ 16时40分]"
+        },
         {
           "title": "日媒：大熊猫失落症或冲击当地经济",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%EF%BC%9A%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%A4%B1%E8%90%BD%E7%97%87%E6%88%96%E5%86%B2%E5%87%BB%E5%BD%93%E5%9C%B0%E7%BB%8F%E6%B5%8E",
@@ -484,18 +533,6 @@
           "time_info": "[01时37分 ~ 10时01分]"
         },
         {
-          "title": "西方领导人掀起“访华热”，学者：不仅为寻求经济利益",
-          "url": "https://news.ifeng.com/c/8qKZSz48AR6",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时16分 ~ 15时41分]"
-        },
-        {
           "title": "爱奇艺宣布 2026 年 2 月 1 日起全面实行「收入分账」模式，对影视行业和观众有何影响？",
           "url": "https://www.zhihu.com/question/1997414292409050897",
           "source": "知乎",
@@ -506,6 +543,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时44分 ~ 07时27分]"
+        },
+        {
+          "title": "2025年我国软件业务收入154831亿元，同比增长13.2%",
+          "url": "https://wallstreetcn.com/livenews/3047154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "房地产市场“没有前景”了吗",
+          "url": "https://www.baidu.com/s?wd=%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E2%80%9C%E6%B2%A1%E6%9C%89%E5%89%8D%E6%99%AF%E2%80%9D%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "美国财政部：韩元的近期贬值与韩国经济基本面不符。",
@@ -542,6 +601,17 @@
           "time_info": "[12时16分 ~ 13时47分]"
         },
         {
+          "title": "碾压预期！苹果上季营收和iPhone销售均创新高，在华收入劲增近40% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764518",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 16时40分]"
+        },
+        {
           "title": "博主：中国经济三大引擎省份已定型",
           "url": "https://www.toutiao.com/trending/7600757071029472831/",
           "source": "今日头条",
@@ -570,20 +640,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        },
-        {
-          "title": "碾压预期！苹果上季营收和iPhone销售均创新高，在华收入劲增近40% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764518",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时16分"
+          "time_info": "15时41分"
         },
         {
           "title": "巴基斯坦总理谢里夫：巴基斯坦必须迈向经济增长。",
@@ -603,7 +662,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -669,7 +728,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -691,9 +750,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
+        },
+        {
+          "title": "金价急涨后现调整压力 经济学家称回调属牛市常态",
+          "url": "https://flash.jin10.com/detail/20260130160751267800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "印度尼西亚经济统筹部长：总统正密切关注股市状况。重申将致力于维护市场信誉与稳定。",
@@ -729,6 +799,17 @@
           "time_info": "06时28分"
         },
         {
+          "title": "瑞士1月KOF经济领先指标 102.5，预期 103，前值 103.4。",
+          "url": "https://wallstreetcn.com/livenews/3047126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "印尼首席经济部长：重申致力于维护信誉与稳定。",
           "url": "https://flash.jin10.com/detail/20260130122522479800",
           "source": "金十数据",
@@ -760,6 +841,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "立陶宛的外交与经济困局",
+          "url": "https://search.bilibili.com/all?keyword=%E7%AB%8B%E9%99%B6%E5%AE%9B%E7%9A%84%E5%A4%96%E4%BA%A4%E4%B8%8E%E7%BB%8F%E6%B5%8E%E5%9B%B0%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         }
       ]
     },
@@ -799,7 +891,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -810,7 +902,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
