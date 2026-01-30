@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T14:49:52.531520+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-01-30T15:41:13.510767+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -32,8 +32,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 14时49分]"
+          "appearance_count": 17,
+          "time_info": "[00时44分 ~ 15时41分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -57,11 +57,23 @@
             5,
             10,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 14时49分]"
+          "appearance_count": 17,
+          "time_info": "[00时44分 ~ 15时41分]"
+        },
+        {
+          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 15时41分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -74,17 +86,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时44分 ~ 07时27分]"
-        },
-        {
-          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 14时49分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
@@ -129,6 +130,44 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
+        },
+        {
+          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 15时41分]"
+        },
+        {
+          "title": "原新加坡Sea AI Lab高级研究科学家庞天宇即将入职腾讯",
+          "url": "https://wallstreetcn.com/livenews/3047095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 15时41分]"
         },
         {
           "title": "欧洲军工股几乎全线收跌。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌1.58%。微软让投资者担忧AI、带动市场加速下挫之际，该ETF在北京时间23:00之前开始加速下跌。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌2.05%。",
@@ -182,17 +221,17 @@
           "time_info": "[10时01分 ~ 14时49分]"
         },
         {
-          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
-          "source": "澎湃新闻",
+          "title": "SpaceX被曝拟合并xAI",
+          "url": "https://www.douyin.com/hot/2383918",
+          "source": "抖音",
           "ranks": [
-            10,
-            8,
-            7
+            14,
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 14时49分]"
+          "appearance_count": 4,
+          "time_info": "[13时47分 ~ 15时41分]"
         },
         {
           "title": "机构报告：受AI热潮影响，半数美国人面临电力短缺的高风险",
@@ -206,19 +245,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时31分 ~ 05时28分]"
-        },
-        {
-          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 14时49分]"
         },
         {
           "title": "据悉SpaceX正与xAI就合并事宜进行谈判",
@@ -257,18 +283,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时31分 ~ 04时31分]"
-        },
-        {
-          "title": "SpaceX被曝拟合并xAI",
-          "url": "https://www.douyin.com/hot/2383918",
-          "source": "抖音",
-          "ranks": [
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 14时49分]"
         },
         {
           "title": "据英国《金融时报》：苹果收购以色列初创公司Q.AI，交易估值接近20亿美元。",
@@ -317,6 +331,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "趁势“错位竞争” 铠侠欲借AI存储实现弯道超车",
+          "url": "https://flash.jin10.com/detail/20260130153439459800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
           "title": "苹果(AAPL.O)CEO库克：AirPods Pro 3第一季度供应受限。",
           "url": "https://flash.jin10.com/detail/20260130053408045800",
           "source": "金十数据",
@@ -345,7 +370,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -441,7 +466,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "日媒：大熊猫失落症或冲击当地经济",
@@ -467,8 +492,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 14时49分]"
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 15时41分]"
         },
         {
           "title": "爱奇艺宣布 2026 年 2 月 1 日起全面实行「收入分账」模式，对影视行业和观众有何影响？",
@@ -539,6 +564,17 @@
           "time_info": "[05时27分 ~ 05时28分]"
         },
         {
+          "title": "【财政部：2025年全国一般公共预算收入21.6万亿元，较2024年下降1.7%】在财政部举行的新闻发布会上，财政部国库司副司长郑涌介绍说，2025年全国一般公共预算收入21.6万亿元，较2024年下降1.7%。其中，税收收入增长0.8%，全年总体呈稳步回升走势，反映出我国经济运行延续了稳中有进的发展态势；非税收入下降11.3%，主要是2024年一次性安排的中央单位上缴专项收益抬高了基数。（新华财经）",
+          "url": "https://wallstreetcn.com/livenews/3047088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
           "title": "碾压预期！苹果上季营收和iPhone销售均创新高，在华收入劲增近40% | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3764518",
           "source": "华尔街见闻",
@@ -556,9 +592,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
+        },
+        {
+          "title": "万科Ａ：房地产行业处于新旧模式转换期，公司全力推进改革化险工作",
+          "url": "https://wallstreetcn.com/livenews/3047083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "日本经济产业省：日本12月原油进口同比增长17.7%，汽油销量同比增长2.4%，成品油销量同比增长2.3%。",
@@ -589,7 +636,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -616,6 +663,17 @@
           "time_info": "13时47分"
         },
         {
+          "title": "多城土地收储有实质性动作 房地产去库存进入关键期",
+          "url": "https://wallstreetcn.com/livenews/3047074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
           "title": "印尼首席经济部长：政府向所有投资者确保透明度和良好治理。",
           "url": "https://flash.jin10.com/detail/20260130122710632800",
           "source": "金十数据",
@@ -625,6 +683,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
+        },
+        {
+          "title": "据《匈牙利之声》报援引反对党经济顾问的话报道，匈牙利蒂萨党（Tisza）正在制定加入欧盟的时间表。",
+          "url": "https://flash.jin10.com/detail/20260130152117461800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "印度尼西亚经济统筹部长：总统正密切关注股市状况。重申将致力于维护市场信誉与稳定。",
@@ -696,7 +765,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国总统特朗普谈及发电站，称：我们不需要电网。",
@@ -722,6 +791,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时46分 ~ 03时31分]"
+        },
+        {
+          "title": "钢铁公司安赛乐米塔尔将向利比里亚支付2亿美元以获得部分采矿权。",
+          "url": "https://flash.jin10.com/detail/20260130153117902800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "利比里亚政府与钢铁公司安赛乐米塔尔签署新的长期矿产开发协议。",
+          "url": "https://flash.jin10.com/detail/20260130153057478800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "美国电网运营商PJM：预计（通往各大发电站的）天然气管道输送网络到下周都几乎没有什么（运力）灵活性。",
