@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T06:23:44.851405+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-02-01T07:23:05.265102+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "机器人扎堆抢上春晚 出场要花1亿",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 07时23分]"
         },
         {
           "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
@@ -27,8 +27,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 07时23分]"
+        },
+        {
+          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
+          "url": "https://www.cls.cn/detail/2275533",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 07时23分]"
         },
         {
           "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
@@ -41,20 +54,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时23分]"
-        },
-        {
-          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
-          "url": "https://www.cls.cn/detail/2275533",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时23分]"
         },
         {
           "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
@@ -64,8 +65,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时23分]"
         },
         {
           "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
@@ -78,8 +79,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时23分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
@@ -89,8 +90,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时23分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
@@ -100,8 +101,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时23分]"
         },
         {
           "title": "爆火AI助手数小时两度改名",
@@ -115,8 +116,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时23分]"
         },
         {
           "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
@@ -126,8 +127,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 06时23分]"
+          "appearance_count": 5,
+          "time_info": "[04时26分 ~ 07时23分]"
         },
         {
           "title": "男子被AI诊断梅毒医生否认却不信",
@@ -137,8 +138,19 @@
             29
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时22分 ~ 07时23分]"
+        },
+        {
+          "title": "沈腾 不方便的话全让AI说了",
+          "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%20%E4%B8%8D%E6%96%B9%E4%BE%BF%E7%9A%84%E8%AF%9D%E5%85%A8%E8%AE%A9AI%E8%AF%B4%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时23分]"
+          "time_info": "[07时22分 ~ 07时23分]"
         },
         {
           "title": "全球首款完全仿生具身智能机器人亮相",
@@ -168,8 +180,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时23分]"
         },
         {
           "title": "北京经济技术开发区：推进数模混合、存算一体等芯片架构研发创新 延伸场景定义芯片、行业专用芯片、使能软件等产业链条",
@@ -182,8 +194,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时23分]"
         },
         {
           "title": "中指研究院发布2026年1月中国房地产企业销售业绩排行榜。",
@@ -211,8 +223,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时23分]"
         },
         {
           "title": "国际原子能机构：今晨，由于电网技术问题影响输电线路，乌克兰核电站暂时降低发电量。",
@@ -222,8 +234,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时23分]"
         }
       ]
     }
