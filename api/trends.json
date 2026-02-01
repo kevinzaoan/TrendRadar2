@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T06:25:00.520393+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-02-02T07:25:40.493072+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时25分]"
         },
         {
           "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时25分]"
         },
         {
           "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
@@ -39,8 +39,23 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时25分]"
+        },
+        {
+          "title": "何小鹏回应IRON机器人走猫步时摔倒",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94IRON%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E7%8C%AB%E6%AD%A5%E6%97%B6%E6%91%94%E5%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24,
+            23,
+            30,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "time_info": "[01时25分 ~ 07时25分]"
         },
         {
           "title": "优必选开源具身智能大模型Thinker，为工业人形机器人提供下一代“大脑”",
@@ -65,20 +80,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 06时25分]"
-        },
-        {
-          "title": "何小鹏回应IRON机器人走猫步时摔倒",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94IRON%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E7%8C%AB%E6%AD%A5%E6%97%B6%E6%91%94%E5%80%92",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            24,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 06时25分]"
         },
         {
           "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
@@ -106,8 +107,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时25分]"
         },
         {
           "title": "欧佩克+声明：重申致力于维护市场稳定，并表示全球经济前景稳定，且当前石油市场基本面健康，库存水平较低。",
@@ -158,8 +159,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 05时24分]"
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 07时25分]"
         },
         {
           "title": "运营商：增值税率升至9%影响收入利润",
