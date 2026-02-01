@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T01:25:21.822159+08:00",
-  "total_titles_processed": 339,
+  "generated_at": "2026-02-02T02:35:45.022836+08:00",
+  "total_titles_processed": 353,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
@@ -38,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "优必选开源具身智能大模型Thinker，为工业人形机器人提供下一代“大脑”",
@@ -49,8 +49,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -60,8 +60,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
@@ -71,19 +71,20 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "何小鹏回应IRON机器人走猫步时摔倒",
           "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94IRON%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E7%8C%AB%E6%AD%A5%E6%97%B6%E6%91%94%E5%80%92",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 02时35分]"
         }
       ]
     },
@@ -99,8 +100,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "“门徒”一统财政部和美联储，是时候学习“德鲁肯米勒经济学”了",
@@ -110,8 +111,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "中国电信：电信服务增值税税目适用范围调整，将对公司收入和利润产生影响",
@@ -121,8 +122,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "中国联通：电信服务增值税税目适用范围调整，将对本公司收入及利润产生影响",
@@ -132,19 +133,20 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "冰雪经济破万亿 下一个“尔滨”在哪",
           "url": "https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%AA%E7%BB%8F%E6%B5%8E%E7%A0%B4%E4%B8%87%E4%BA%BF+%E4%B8%8B%E4%B8%80%E4%B8%AA%E2%80%9C%E5%B0%94%E6%BB%A8%E2%80%9D%E5%9C%A8%E5%93%AA",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 02时35分]"
         }
       ]
     },
@@ -160,8 +162,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时35分]"
         }
       ]
     }
