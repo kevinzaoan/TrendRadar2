@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T05:24:31.884700+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-02-02T06:25:00.520393+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
@@ -39,41 +39,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "优必选开源具身智能大模型Thinker，为工业人形机器人提供下一代“大脑”",
           "url": "https://wallstreetcn.com/livenews/3047809",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
           "url": "https://wallstreetcn.com/livenews/3047808",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时24分]"
-        },
-        {
-          "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
-          "url": "https://wallstreetcn.com/livenews/3047799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "何小鹏回应IRON机器人走猫步时摔倒",
@@ -86,8 +77,20 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 06时25分]"
+        },
+        {
+          "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
+          "url": "https://wallstreetcn.com/livenews/3047799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 06时25分]"
         }
       ]
     },
@@ -96,19 +99,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "欧佩克+声明：重申致力于维护市场稳定，并表示全球经济前景稳定，且当前石油市场基本面健康，库存水平较低。",
-          "url": "https://flash.jin10.com/detail/20260201222442213800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时24分]"
-        },
-        {
           "title": "“门徒”一统财政部和美联储，是时候学习“德鲁肯米勒经济学”了",
           "url": "https://wallstreetcn.com/articles/3764679",
           "source": "华尔街见闻",
@@ -116,30 +106,46 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时25分]"
+        },
+        {
+          "title": "欧佩克+声明：重申致力于维护市场稳定，并表示全球经济前景稳定，且当前石油市场基本面健康，库存水平较低。",
+          "url": "https://flash.jin10.com/detail/20260201222442213800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "中国电信：电信服务增值税税目适用范围调整，将对公司收入和利润产生影响",
           "url": "https://wallstreetcn.com/livenews/3047801",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "中国联通：电信服务增值税税目适用范围调整，将对本公司收入及利润产生影响",
           "url": "https://wallstreetcn.com/livenews/3047797",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "冰雪经济破万亿 下一个“尔滨”在哪",
