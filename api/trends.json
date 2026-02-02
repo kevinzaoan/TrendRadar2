@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T21:01:20.234818+08:00",
-  "total_titles_processed": 1519,
+  "generated_at": "2026-02-02T22:06:50.225406+08:00",
+  "total_titles_processed": 1623,
   "failed_sources": [],
   "trends": [
     {
@@ -71,6 +71,38 @@
           "time_info": "[15时51分 ~ 21时01分]"
         },
         {
+          "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            15,
+            12,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时06分 ~ 22时06分]"
+        },
+        {
+          "title": "红包老奶大战机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E5%8C%85%E8%80%81%E5%A5%B6%E5%A4%A7%E6%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            6,
+            9,
+            11,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时51分 ~ 22时06分]"
+        },
+        {
           "title": "特斯拉：第三代特斯拉人形机器人即将亮相 预计年产百万台",
           "url": "https://www.cls.cn/detail/2277353",
           "source": "财联社热门",
@@ -81,21 +113,6 @@
             6,
             7,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时06分 ~ 21时01分]"
-        },
-        {
-          "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            15,
-            12,
-            7
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -128,21 +145,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时08分 ~ 14时06分]"
-        },
-        {
-          "title": "红包老奶大战机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E5%8C%85%E8%80%81%E5%A5%B6%E5%A4%A7%E6%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            6,
-            9,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时51分 ~ 21时01分]"
         },
         {
           "title": "优必选开源具身智能大模型Thinker，为工业人形机器人提供下一代“大脑”",
@@ -245,7 +247,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -374,7 +376,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "“门徒”一统财政部和美联储，是时候学习“德鲁肯米勒经济学”了",
@@ -441,6 +443,17 @@
           "time_info": "[01时25分 ~ 07时25分]"
         },
         {
+          "title": "道明证券：经济增长前景改善、通胀压力上升 澳洲联储料将加息25个基点",
+          "url": "https://flash.jin10.com/detail/20260202214727979800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "印尼金融监管机构：印尼经济前景良好，呼吁投资者不要恐慌。",
           "url": "https://flash.jin10.com/detail/20260202180526433800",
           "source": "金十数据",
@@ -457,11 +470,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时44分 ~ 21时01分]"
+          "appearance_count": 5,
+          "time_info": "[18时44分 ~ 22时06分]"
         },
         {
           "title": "2025年保险业保费收入同比增长7.43%，总资产实现两位数增长",
@@ -525,7 +539,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -569,7 +583,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
