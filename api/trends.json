@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T18:44:54.394595+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2026-02-02T19:36:32.129846+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
@@ -85,6 +85,20 @@
           "time_info": "[10时08分 ~ 14时06分]"
         },
         {
+          "title": "特斯拉首款量产机器人？擎天柱三代即将亮相 据称“进行了重新设计”",
+          "url": "https://www.cls.cn/detail/2277374",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时51分 ~ 19时36分]"
+        },
+        {
           "title": "优必选开源具身智能大模型Thinker，为工业人形机器人提供下一代“大脑”",
           "url": "https://wallstreetcn.com/livenews/3047809",
           "source": "华尔街见闻-快讯",
@@ -121,18 +135,33 @@
           "time_info": "[00时31分 ~ 06时25分]"
         },
         {
-          "title": "特斯拉首款量产机器人？擎天柱三代即将亮相 据称“进行了重新设计”",
-          "url": "https://www.cls.cn/detail/2277374",
+          "title": "特斯拉：第三代特斯拉人形机器人即将亮相 预计年产百万台",
+          "url": "https://www.cls.cn/detail/2277353",
           "source": "财联社热门",
           "ranks": [
             11,
-            7,
-            5,
-            4
+            8,
+            9,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时51分 ~ 18时44分]"
+          "appearance_count": 6,
+          "time_info": "[14时06分 ~ 19时36分]"
+        },
+        {
+          "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时06分 ~ 19时36分]"
         },
         {
           "title": "AI圈爆火的OpenClaw是个啥",
@@ -146,35 +175,6 @@
           "time_info": "10时08分"
         },
         {
-          "title": "特斯拉：第三代特斯拉人形机器人即将亮相 预计年产百万台",
-          "url": "https://www.cls.cn/detail/2277353",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时06分 ~ 18时44分]"
-        },
-        {
-          "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时06分 ~ 18时44分]"
-        },
-        {
           "title": "红包老奶大战机器人",
           "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E5%8C%85%E8%80%81%E5%A5%B6%E5%A4%A7%E6%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "bilibili 热搜",
@@ -185,8 +185,44 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时51分 ~ 18时44分]"
+          "appearance_count": 5,
+          "time_info": "[15时51分 ~ 19时36分]"
+        },
+        {
+          "title": "蔚来资本领投灵猴机器人超亿元Pre-B轮融资",
+          "url": "https://wallstreetcn.com/livenews/3048302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时36分]"
+        },
+        {
+          "title": "北京大学与中国铁塔合作 推动AI产教融合",
+          "url": "https://wallstreetcn.com/livenews/3048300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时36分]"
+        },
+        {
+          "title": "多平台公布涉“AI魔改”违规视频最终处置结果",
+          "url": "https://wallstreetcn.com/livenews/3048290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时36分]"
         },
         {
           "title": "小鹏全球首款AI汽车正式开启海外大规模发运",
@@ -211,17 +247,6 @@
           "time_info": "12时58分"
         },
         {
-          "title": "蔚来资本领投灵猴机器人超亿元Pre-B轮融资",
-          "url": "https://wallstreetcn.com/livenews/3048302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
           "title": "特斯拉：第三代特斯拉人形机器人即将亮相",
           "url": "https://flash.jin10.com/detail/20260202120934839800",
           "source": "金十数据",
@@ -231,17 +256,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
-        },
-        {
-          "title": "北京大学与中国铁塔合作 推动AI产教融合",
-          "url": "https://wallstreetcn.com/livenews/3048300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
         },
         {
           "title": "特斯拉：第三代特斯拉人形机器人即将亮相",
@@ -277,17 +291,6 @@
           "time_info": "16时43分"
         },
         {
-          "title": "多平台公布涉“AI魔改”违规视频最终处置结果",
-          "url": "https://wallstreetcn.com/livenews/3048290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
           "title": "特斯拉最新人形机器人2026年底前启动量产",
           "url": "https://wallstreetcn.com/livenews/3048081",
           "source": "华尔街见闻-快讯",
@@ -305,7 +308,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -346,7 +349,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "“门徒”一统财政部和美联储，是时候学习“德鲁肯米勒经济学”了",
@@ -419,9 +422,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
+        },
+        {
+          "title": "十部门联合发布《低空经济标准体系建设指南（2025年版）》",
+          "url": "https://www.cls.cn/detail/2277867",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时36分]"
         },
         {
           "title": "2025年保险业保费收入同比增长7.43%，总资产实现两位数增长",
@@ -446,17 +461,6 @@
           "time_info": "10时08分"
         },
         {
-          "title": "十部门联合发布《低空经济标准体系建设指南（2025年版）》",
-          "url": "https://www.cls.cn/detail/2277867",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
           "title": "德国零售业协会HDE：德国零售业预计在2026年实现2%的收入增长。",
           "url": "https://flash.jin10.com/detail/20260202173515552800",
           "source": "金十数据",
@@ -466,6 +470,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
+        },
+        {
+          "title": "德国经济部发言人：天然气供应有保障，并且具备额外的进口能力。",
+          "url": "https://flash.jin10.com/detail/20260202184122631800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "十部门联合发布《低空经济标准体系建设指南（2025年版）》",
@@ -485,7 +500,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -499,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
+        },
+        {
+          "title": "罗马尼亚总统经济顾问：到2027年，罗马尼亚将具备探测能力，以保护黑海能源项目。",
+          "url": "https://flash.jin10.com/detail/20260202182801643800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "运营商：增值税率升至9%影响收入利润",
