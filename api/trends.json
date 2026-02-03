@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-02-03T10:07:32.015977+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-02-03T12:47:03.573146+08:00",
+  "total_titles_processed": 885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "红包老奶大战机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E5%8C%85%E8%80%81%E5%A5%B6%E5%A4%A7%E6%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            10,
+            8,
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 12时47分]"
+        },
         {
           "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
           "url": "https://www.cls.cn/detail/2278216",
@@ -22,29 +37,16 @@
           "time_info": "[00时40分 ~ 10时07分]"
         },
         {
-          "title": "红包老奶大战机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E5%8C%85%E8%80%81%E5%A5%B6%E5%A4%A7%E6%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            10,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 10时07分]"
-        },
-        {
           "title": "SpaceX官宣收购xAI",
           "url": "https://search.bilibili.com/all?keyword=SpaceX%E5%AE%98%E5%AE%A3%E6%94%B6%E8%B4%ADxAI",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 12时47分]"
         },
         {
           "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
@@ -76,9 +78,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
+          "url": "https://www.cls.cn/detail/2278467",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 12时47分]"
         },
         {
           "title": "能生长能上天的中国机器人来了",
@@ -93,6 +107,30 @@
           "time_info": "[00时40分 ~ 07时30分]"
         },
         {
+          "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3764779",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 12时47分]"
+        },
+        {
+          "title": "2月3日投资避雷针：这只人气股紧急澄清 无星云算力调度平台、马来西亚AI数据中心项目",
+          "url": "https://www.cls.cn/detail/2278442",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 12时47分]"
+        },
+        {
           "title": "智元机器人：不参加春晚，研发优先",
           "url": "https://wallstreetcn.com/livenews/3048468",
           "source": "华尔街见闻-快讯",
@@ -103,6 +141,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 02时44分]"
+        },
+        {
+          "title": "解读SpaceX收购xAI",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 12时47分]"
+        },
+        {
+          "title": "SpaceX 收购人工智能企业 xAI，合并估值达 1.25 万亿美元，同为马斯克旗下公司，如何解读？",
+          "url": "https://www.zhihu.com/question/2001947312226848988",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 12时47分]"
+        },
+        {
+          "title": "又一位AI亿万富豪诞生了",
+          "url": "https://www.toutiao.com/trending/7602226721282457650/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 12时47分]"
         },
         {
           "title": "英伟达美股盘后涨幅扩大至0.8%，OpenAI的CEO Altman“驳斥”媒体关于该公司对英伟达供应速度不满的报道。",
@@ -138,15 +209,15 @@
           "time_info": "07时30分"
         },
         {
-          "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
-          "url": "https://www.cls.cn/detail/2278467",
-          "source": "财联社热门",
+          "title": "中科慧灵携手光大同创、迪洛斯智能推进人形机器人规模化量产",
+          "url": "https://wallstreetcn.com/livenews/3048802",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "12时47分"
         },
         {
           "title": "OpenAI：Codex应用今日在MacOS上线。",
@@ -158,28 +229,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
-        },
-        {
-          "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3764779",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "2月3日投资避雷针：这只人气股紧急澄清 无星云算力调度平台、马来西亚AI数据中心项目",
-          "url": "https://www.cls.cn/detail/2278442",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
         },
         {
           "title": "OpenAI的CEO Altman：英伟达制造全球最好的人工智能（AI）芯片。 希望在很长的时期内成为“超级大客户”（Gigantic customer）。",
@@ -204,15 +253,37 @@
           "time_info": "07时30分"
         },
         {
+          "title": "北京人形机器人创新中心完成首轮超7亿元市场化融资",
+          "url": "https://wallstreetcn.com/livenews/3048792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "A股AI应用端开盘活跃，浙文互联直线涨停，福石控股涨超10%，天龙集团、宣亚国际、新华网、引力传媒等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3048677",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "AI只是在“省钱”而非“造饭碗”，蓝领岗位增长或跑赢科技浪潮",
+          "url": "https://flash.jin10.com/detail/20260203121309957800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "SpaceX与xAI关于合并的声明并不包含财务条款。（彭博）",
@@ -224,12 +295,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "软银公司宣布，其子公司SaiMemory将与英特尔展开合作，共同推动下一代存储技术的商业化。 该项目计划在2028年3月31日止的财年内（即2027财年）制造出原型产品；并目标在2029财年实现正式商业化。",
+          "url": "https://wallstreetcn.com/livenews/3048772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "阿根廷经济部长Luis Caputo：阿根廷并不考虑在全球债券市场融资。",
@@ -307,7 +389,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -334,6 +416,17 @@
           "time_info": "02时44分"
         },
         {
+          "title": "澳洲联储：2025年全球经济增长情况好于预期，下行风险已有所降低。",
+          "url": "https://wallstreetcn.com/livenews/3048790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "经济学家：若美联储采用定期公开市场操作TOMOs，可进一步缩减资产负债表",
           "url": "https://wallstreetcn.com/livenews/3048437",
           "source": "华尔街见闻-快讯",
@@ -345,6 +438,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "旅游收入创纪录并剑指新高 新加坡预计2026年迎1800万游客",
+          "url": "https://flash.jin10.com/detail/20260203121722220800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "美联储博斯蒂克：年中时将与经济达到平衡状态。",
           "url": "https://flash.jin10.com/detail/20260203015459430800",
           "source": "金十数据",
@@ -354,6 +458,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "澳洲联储声明：今日的政策决定获得了全票通过。 委员会将密切关注数据，并根据对前景和风险的不断评估，来指导其决策。 近几个月的广泛数据显示，通胀压力在2025年下半年确实出现了实质性的回升。 通胀上升的部分原因反映了更大的产能压力。 委员会认为，通胀率在未来一段时间内很可能持续高于目标区间。 虽然部分通胀回升被归因于临时性因素，但显而易见的是，私人部门需求的增长速度快于预期，且产能压力比此前评估的更为严峻。 劳动力市场状况略显紧张，并且在最近几个月已趋于稳定。 委员会正专注于履行其维持物价稳定和实现充分就业的职责，并将采取一切其认为必要的措施来实现这一目标。 对于国内经济活动和通胀前景，以及货币政策的限制程度，目前存在诸多不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3048775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "美联储博斯蒂克：即使不考虑税改优惠和放松监管，美国经济也显得颇具韧性。",
