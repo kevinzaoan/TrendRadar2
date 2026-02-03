@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T02:57:43.791118+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-02-04T03:46:14.375798+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时46分]"
         },
         {
           "title": "春节为何成为AI红包主战场",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时46分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -42,6 +42,28 @@
           "time_info": "01时53分"
         },
         {
+          "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)对OpenAI的投资计划正在按计划推进。",
+          "url": "https://flash.jin10.com/detail/20260204033202172800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "德意志银行牵头的一个银行团体为软件供应商一宗收购案承销的12亿美元贷款无人问津，投资者被AI相关的担忧情绪笼罩。 未来，该银行团体将通过6.25亿美元定期贷款、一笔2028年到期5.4亿美元贷款来支持Conga Corp.的收购交易。",
+          "url": "https://wallstreetcn.com/livenews/3049297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
           "title": "OpenAI的CEO Altman：Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。",
           "url": "https://wallstreetcn.com/livenews/3049251",
           "source": "华尔街见闻-快讯",
@@ -51,6 +73,87 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
+          "url": "https://www.cls.cn/detail/2279188",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时46分]"
+        },
+        {
+          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
+          "url": "https://www.cls.cn/detail/2279363",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时46分]"
+        },
+        {
+          "title": "小鹏机器人假人疑云后再翻车，线下首秀摔趴被抬走，问题可能出在哪里？双足机器人保持平衡到底有多难？",
+          "url": "https://www.zhihu.com/question/2001257534565150999",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时46分]"
+        },
+        {
+          "title": "一图看懂 | 官宣与xAI合并，SpaceX接下来还有哪些大动作？",
+          "url": "https://www.cls.cn/detail/2279310",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时46分]"
+        },
+        {
+          "title": "解读SpaceX收购xAI",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时46分]"
+        },
+        {
+          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时46分]"
+        },
+        {
+          "title": "红包老奶大战机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E5%8C%85%E8%80%81%E5%A5%B6%E5%A4%A7%E6%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            25,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时46分]"
         },
         {
           "title": "达索系统与英伟达构建合作伙伴关系，将打造工业AI平台。 将为跨行业的AI打造架构。 达索系统的OutScale AI Factories将应用英伟达的基础设施。",
@@ -65,84 +168,52 @@
           "time_info": "[00时54分 ~ 01时53分]"
         },
         {
-          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
-          "url": "https://www.cls.cn/detail/2279188",
-          "source": "财联社热门",
+          "title": "无人机和机器人首次写入中央一号文件",
+          "url": "https://www.toutiao.com/trending/7602599138480111652/",
+          "source": "今日头条",
           "ranks": [
-            8
+            26,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时57分]"
+          "time_info": "[00时54分 ~ 03时46分]"
         },
         {
-          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
-          "url": "https://www.cls.cn/detail/2279363",
-          "source": "财联社热门",
+          "title": "Anthropic PBC：苹果公司的xCode现在支持Claude Agent SDK。",
+          "url": "https://wallstreetcn.com/livenews/3049272",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时57分]"
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时46分]"
         },
         {
-          "title": "小鹏机器人假人疑云后再翻车，线下首秀摔趴被抬走，问题可能出在哪里？双足机器人保持平衡到底有多难？",
-          "url": "https://www.zhihu.com/question/2001257534565150999",
-          "source": "知乎",
+          "title": "英伟达CEO黄仁勋：AI将带来更加廉价的能源成本。",
+          "url": "https://wallstreetcn.com/livenews/3049265",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时57分]"
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时46分]"
         },
         {
-          "title": "一图看懂 | 官宣与xAI合并，SpaceX接下来还有哪些大动作？",
-          "url": "https://www.cls.cn/detail/2279310",
-          "source": "财联社热门",
+          "title": "OpenAI的CEO Altman：公司可能会在AI医药发现方面寻找合作伙伴，或投资。",
+          "url": "https://wallstreetcn.com/livenews/3049262",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时57分]"
-        },
-        {
-          "title": "解读SpaceX收购xAI",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时57分]"
-        },
-        {
-          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时57分]"
-        },
-        {
-          "title": "红包老奶大战机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E5%8C%85%E8%80%81%E5%A5%B6%E5%A4%A7%E6%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时57分]"
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时46分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：Moltbook可能只是一时的潮流，但OpenCLAW并非如此。",
@@ -156,46 +227,13 @@
           "time_info": "01时53分"
         },
         {
-          "title": "Anthropic PBC：苹果公司的xCode现在支持Claude Agent SDK。",
-          "url": "https://wallstreetcn.com/livenews/3049272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
           "title": "报道称OpenAI对英伟达AI芯片不满意，寻求推理芯片替代",
           "url": "https://wallstreetcn.com/articles/3764782",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：AI将带来更加廉价的能源成本。",
-          "url": "https://wallstreetcn.com/livenews/3049265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "OpenAI的CEO Altman：公司可能会在AI医药发现方面寻找合作伙伴，或投资。",
-          "url": "https://wallstreetcn.com/livenews/3049262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -206,20 +244,9 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "无人机和机器人首次写入中央一号文件",
-          "url": "https://www.toutiao.com/trending/7602599138480111652/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "02时57分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：OpenAI或在人工智能药物研发领域开展合作、进行投资。",
@@ -228,7 +255,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -267,22 +294,24 @@
           "url": "https://wallstreetcn.com/livenews/3049273",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时46分]"
         },
         {
           "title": "普京：俄罗斯2025年经济增长1%，放缓符合预期",
           "url": "https://wallstreetcn.com/livenews/3049271",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时46分]"
         },
         {
           "title": "普京：俄罗斯2025年经济增长1% 放缓符合预期",
@@ -291,7 +320,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -313,7 +342,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         }
