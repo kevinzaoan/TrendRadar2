@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T13:52:16.149749+08:00",
-  "total_titles_processed": 972,
+  "generated_at": "2026-02-03T14:53:07.813196+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "红包老奶大战机器人",
@@ -16,11 +16,12 @@
             10,
             8,
             5,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 13时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 14时53分]"
         },
         {
           "title": "SpaceX官宣收购xAI",
@@ -29,11 +30,25 @@
           "ranks": [
             1,
             5,
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时07分 ~ 14时53分]"
+        },
+        {
+          "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
+          "url": "https://www.cls.cn/detail/2278467",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时07分 ~ 13时52分]"
+          "appearance_count": 7,
+          "time_info": "[10时07分 ~ 14时53分]"
         },
         {
           "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
@@ -50,29 +65,55 @@
           "time_info": "[00时40分 ~ 10时07分]"
         },
         {
-          "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
-          "url": "https://www.cls.cn/detail/2278467",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时07分 ~ 13时52分]"
-        },
-        {
           "title": "SpaceX 收购人工智能企业 xAI，合并估值达 1.25 万亿美元，同为马斯克旗下公司，如何解读？",
           "url": "https://www.zhihu.com/question/2001947312226848988",
           "source": "知乎",
           "ranks": [
             14,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 13时52分]"
+          "appearance_count": 6,
+          "time_info": "[12时46分 ~ 14时53分]"
+        },
+        {
+          "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3764779",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时07分 ~ 14时53分]"
+        },
+        {
+          "title": "2月3日投资避雷针：这只人气股紧急澄清 无星云算力调度平台、马来西亚AI数据中心项目",
+          "url": "https://www.cls.cn/detail/2278442",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时07分 ~ 14时53分]"
+        },
+        {
+          "title": "又一位AI亿万富豪诞生了",
+          "url": "https://www.toutiao.com/trending/7602226721282457650/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时46分 ~ 14时53分]"
         },
         {
           "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
@@ -85,6 +126,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时40分 ~ 07时30分]"
+        },
+        {
+          "title": "解读SpaceX收购xAI",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时46分 ~ 14时53分]"
         },
         {
           "title": "OpenAI：Codex应用今日在MacOS上线。",
@@ -109,32 +161,6 @@
           "time_info": "10时07分"
         },
         {
-          "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3764779",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时07分 ~ 13时52分]"
-        },
-        {
-          "title": "2月3日投资避雷针：这只人气股紧急澄清 无星云算力调度平台、马来西亚AI数据中心项目",
-          "url": "https://www.cls.cn/detail/2278442",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时07分 ~ 13时52分]"
-        },
-        {
           "title": "能生长能上天的中国机器人来了",
           "url": "https://www.baidu.com/s?wd=%E8%83%BD%E7%94%9F%E9%95%BF%E8%83%BD%E4%B8%8A%E5%A4%A9%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
@@ -147,27 +173,28 @@
           "time_info": "[00时40分 ~ 07时30分]"
         },
         {
-          "title": "又一位AI亿万富豪诞生了",
-          "url": "https://www.toutiao.com/trending/7602226721282457650/",
-          "source": "今日头条",
+          "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
+          "url": "https://www.cls.cn/detail/2278753",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            10
+            12,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时46分 ~ 13时52分]"
+          "time_info": "[13时51分 ~ 14时53分]"
         },
         {
-          "title": "解读SpaceX收购xAI",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
-          "source": "bilibili 热搜",
+          "title": "A股机器人概念股震荡走强，晋拓股份午后涨停，思看科技、科达制造、丰立智能、长盈精密、联得装备等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3048828",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            7,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 13时52分]"
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时53分]"
         },
         {
           "title": "中科慧灵携手光大同创、迪洛斯智能推进人形机器人规模化量产",
@@ -182,17 +209,6 @@
           "time_info": "[12时47分 ~ 13时52分]"
         },
         {
-          "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
-          "url": "https://www.cls.cn/detail/2278753",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
-        },
-        {
           "title": "智元机器人：不参加春晚，研发优先",
           "url": "https://wallstreetcn.com/livenews/3048468",
           "source": "华尔街见闻-快讯",
@@ -205,6 +221,17 @@
           "time_info": "[01时38分 ~ 02时44分]"
         },
         {
+          "title": "AI 社交平台 Moltbook 火了，多张截图疑有猫腻，有多少炒作成分？对行业的实际影响有多大？",
+          "url": "https://www.zhihu.com/question/2001346637126136295",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 14时53分]"
+        },
+        {
           "title": "英伟达美股盘后涨幅扩大至0.8%，OpenAI的CEO Altman“驳斥”媒体关于该公司对英伟达供应速度不满的报道。",
           "url": "https://wallstreetcn.com/livenews/3048580",
           "source": "华尔街见闻-快讯",
@@ -214,17 +241,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
-        },
-        {
-          "title": "A股机器人概念股震荡走强，晋拓股份午后涨停，思看科技、科达制造、丰立智能、长盈精密、联得装备等涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3048828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "OpenAI：通过使用Codex，人们可以轻松实现多任务处理，比如并行处理多个代理，并通过工作树隔离代理之间的变更；建立并运用技能，如将工具和规范整合为可重复使用的功能模块；设置自动化流程，如将重复性工作委托给Codex，并通过后台的定时工作流来完成。",
@@ -310,7 +326,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -332,7 +348,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -362,8 +378,19 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "印度经济事务秘书：将等待更多关于美国贸易协议的细节，再上调经济增长预测。",
+          "url": "https://flash.jin10.com/detail/20260203142939815800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
         {
           "title": "阿根廷经济部长Luis Caputo：阿根廷并不考虑在全球债券市场融资。",
           "url": "https://wallstreetcn.com/livenews/3048462",
@@ -467,13 +494,24 @@
           "time_info": "02时44分"
         },
         {
+          "title": "阿联酋总统外交顾问表示，阿联酋将奉行一项雄心勃勃的经济政策。",
+          "url": "https://flash.jin10.com/detail/20260203142309098800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "澳洲联储主席Bullock：没有讨论加息50个基点。 政策不会被市场所驱动。 委员会并未对利率设定特定路径。 委员会在利率问题上将保持谨慎。 努力降低通胀率的同时保持接近充分就业的状态。 通过澳元走势可以看到金融环境出现一定程度的收紧。 经济的确处于良好状态，但存在供应方面的限制。",
           "url": "https://wallstreetcn.com/livenews/3048814",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -495,7 +533,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -533,6 +571,17 @@
           "time_info": "02时44分"
         },
         {
+          "title": "阿联酋总统外交顾问表示，伊朗需要达成协议并重建其经济。",
+          "url": "https://flash.jin10.com/detail/20260203141559416800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "澳洲联储声明：今日的政策决定获得了全票通过。 委员会将密切关注数据，并根据对前景和风险的不断评估，来指导其决策。 近几个月的广泛数据显示，通胀压力在2025年下半年确实出现了实质性的回升。 通胀上升的部分原因反映了更大的产能压力。 委员会认为，通胀率在未来一段时间内很可能持续高于目标区间。 虽然部分通胀回升被归因于临时性因素，但显而易见的是，私人部门需求的增长速度快于预期，且产能压力比此前评估的更为严峻。 劳动力市场状况略显紧张，并且在最近几个月已趋于稳定。 委员会正专注于履行其维持物价稳定和实现充分就业的职责，并将采取一切其认为必要的措施来实现这一目标。 对于国内经济活动和通胀前景，以及货币政策的限制程度，目前存在诸多不确定性。",
           "url": "https://wallstreetcn.com/livenews/3048775",
           "source": "华尔街见闻-快讯",
@@ -553,6 +602,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "印度经济事务秘书：希望通过减持、私有化和资产证券化相结合的方式，超额完成8000亿卢比的资产剥离目标。",
+          "url": "https://flash.jin10.com/detail/20260203141341299800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         }
       ]
     },
