@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T17:41:39.617594+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2026-02-03T18:41:00.724000+08:00",
+  "total_titles_processed": 1504,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
@@ -47,8 +47,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时07分 ~ 17时41分]"
+          "appearance_count": 12,
+          "time_info": "[10时07分 ~ 18时41分]"
+        },
+        {
+          "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
+          "url": "https://www.cls.cn/detail/2278753",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时51分 ~ 18时41分]"
         },
         {
           "title": "红包老奶大战机器人",
@@ -63,11 +78,23 @@
             25,
             19,
             23,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 17时41分]"
+          "appearance_count": 18,
+          "time_info": "[00时40分 ~ 18时41分]"
+        },
+        {
+          "title": "解读SpaceX收购xAI",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时46分 ~ 18时41分]"
         },
         {
           "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
@@ -96,31 +123,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时07分 ~ 16时37分]"
-        },
-        {
-          "title": "解读SpaceX收购xAI",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时46分 ~ 17时41分]"
-        },
-        {
-          "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
-          "url": "https://www.cls.cn/detail/2278753",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时51分 ~ 17时41分]"
         },
         {
           "title": "SpaceX 收购人工智能企业 xAI，合并估值达 1.25 万亿美元，同为马斯克旗下公司，如何解读？",
@@ -153,7 +155,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -188,9 +190,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
+        },
+        {
+          "title": "王楚然工作室AI剧宣",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%B7%A5%E4%BD%9C%E5%AE%A4AI%E5%89%A7%E5%AE%A3%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 18时41分]"
         },
         {
           "title": "OpenAI：Codex应用今日在MacOS上线。",
@@ -238,16 +253,16 @@
           "time_info": "[00时40分 ~ 07时30分]"
         },
         {
-          "title": "王楚然工作室AI剧宣",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%B7%A5%E4%BD%9C%E5%AE%A4AI%E5%89%A7%E5%AE%A3%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "春节为何成为AI红包主战场",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            9,
-            4
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 17时41分]"
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 18时41分]"
         },
         {
           "title": "A股机器人概念股震荡走强，晋拓股份午后涨停，思看科技、科达制造、丰立智能、长盈精密、联得装备等涨幅居前。",
@@ -272,6 +287,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时47分 ~ 13时52分]"
+        },
+        {
+          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
+          "url": "https://www.cls.cn/detail/2279188",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 18时41分]"
         },
         {
           "title": "智元机器人放弃春晚，宣布自筹“机器人奇妙夜”晚会",
@@ -320,17 +346,6 @@
           "time_info": "07时30分"
         },
         {
-          "title": "春节为何成为AI红包主战场",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
           "title": "OpenAI：通过使用Codex，人们可以轻松实现多任务处理，比如并行处理多个代理，并通过工作树隔离代理之间的变更；建立并运用技能，如将工具和规范整合为可重复使用的功能模块；设置自动化流程，如将重复性工作委托给Codex，并通过后台的定时工作流来完成。",
           "url": "https://flash.jin10.com/detail/20260203021332925800",
           "source": "金十数据",
@@ -375,6 +390,17 @@
           "time_info": "07时30分"
         },
         {
+          "title": "中央一号文件：促进人工智能与农业发展相结合，拓展无人机、物联网、机器人等应用场景，加快农业生物制造关键技术创新",
+          "url": "https://wallstreetcn.com/livenews/3049050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：我们很乐意与英伟达(NVDA.O)合作，他们生产的AI芯片是全球最出色的。我们希望能长期成为他们的大客户。",
           "url": "https://flash.jin10.com/detail/20260203063954637800",
           "source": "金十数据",
@@ -395,6 +421,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        },
+        {
+          "title": "汇丰：AI投资收益更利好股票而非信贷",
+          "url": "https://flash.jin10.com/detail/20260203181313892800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "A股AI应用端开盘活跃，浙文互联直线涨停，福石控股涨超10%，天龙集团、宣亚国际、新华网、引力传媒等跟涨。",
@@ -466,8 +503,19 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "炬光科技：尽管近期光通信行业景气度提升，但截至2025年三季度，公司光通信领域的收入占公司整体收入比例仍然很低，约为7%，尚未构成核心业绩支柱。",
+          "url": "https://wallstreetcn.com/livenews/3049070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
         {
           "title": "印度经济事务秘书：将等待更多关于美国贸易协议的细节，再上调经济增长预测。",
           "url": "https://flash.jin10.com/detail/20260203142939815800",
@@ -615,6 +663,17 @@
           "time_info": "16时37分"
         },
         {
+          "title": "凯投宏观：韩国股市走强难以提振宏观经济",
+          "url": "https://flash.jin10.com/detail/20260203181542640800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "澳洲联储主席Bullock：没有讨论加息50个基点。 政策不会被市场所驱动。 委员会并未对利率设定特定路径。 委员会在利率问题上将保持谨慎。 努力降低通胀率的同时保持接近充分就业的状态。 通过澳元走势可以看到金融环境出现一定程度的收紧。 经济的确处于良好状态，但存在供应方面的限制。",
           "url": "https://wallstreetcn.com/livenews/3048814",
           "source": "华尔街见闻-快讯",
@@ -637,6 +696,17 @@
           "time_info": "12时47分"
         },
         {
+          "title": "法国财政部长：七国集团需要就应对全球宏观经济失衡的联合工具达成一致。",
+          "url": "https://flash.jin10.com/detail/20260203181044486800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "澳洲联储主席Bullock：通胀的势头过于猛烈了，不能允许通胀失控。 不会对利率给出明确指引，委员会将继续关注数据。 担心目前的这种高通胀水平可能会变得根深蒂固。 认为目前经济中的需求过度。",
           "url": "https://wallstreetcn.com/livenews/3048811",
           "source": "华尔街见闻-快讯",
@@ -646,6 +716,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "福建：将投资培育数字经济独角兽、瞪羚企业情况纳入国有创业投资考核体系",
+          "url": "https://wallstreetcn.com/livenews/3049035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "金十数据整理：每日房地产行业动态汇总（2026-02-03）",
@@ -750,8 +831,19 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "俄罗斯北方钢铁利润率降至16年低点",
+          "url": "https://flash.jin10.com/detail/20260203182950895800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
         {
           "title": "内盘期货夜市多数收跌，燃油跌4%，焦煤涨约0.5%，焦炭涨超0.6%",
           "url": "https://wallstreetcn.com/livenews/3048432",
