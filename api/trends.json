@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T19:35:19.333854+08:00",
-  "total_titles_processed": 1578,
+  "generated_at": "2026-02-03T21:02:02.074212+08:00",
+  "total_titles_processed": 1714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
@@ -37,6 +37,21 @@
           "time_info": "[13时51分 ~ 19时35分]"
         },
         {
+          "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3764779",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[10时07分 ~ 21时02分]"
+        },
+        {
           "title": "SpaceX官宣收购xAI",
           "url": "https://search.bilibili.com/all?keyword=SpaceX%E5%AE%98%E5%AE%A3%E6%94%B6%E8%B4%ADxAI",
           "source": "bilibili 热搜",
@@ -50,20 +65,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时07分 ~ 15时43分]"
-        },
-        {
-          "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3764779",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时07分 ~ 19时35分]"
         },
         {
           "title": "红包老奶大战机器人",
@@ -82,8 +83,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时40分 ~ 19时35分]"
+          "appearance_count": 21,
+          "time_info": "[00时40分 ~ 21时02分]"
         },
         {
           "title": "解读SpaceX收购xAI",
@@ -93,8 +94,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时46分 ~ 19时35分]"
+          "appearance_count": 14,
+          "time_info": "[12时46分 ~ 21时02分]"
         },
         {
           "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
@@ -136,6 +137,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时46分 ~ 14时53分]"
+        },
+        {
+          "title": "春节为何成为AI红包主战场",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时41分 ~ 21时02分]"
         },
         {
           "title": "中国信通院AI原生智算集群服务测试验证工作启动",
@@ -241,6 +255,18 @@
           "time_info": "15时43分"
         },
         {
+          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
+          "url": "https://www.cls.cn/detail/2279188",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时40分 ~ 21时02分]"
+        },
+        {
           "title": "能生长能上天的中国机器人来了",
           "url": "https://www.baidu.com/s?wd=%E8%83%BD%E7%94%9F%E9%95%BF%E8%83%BD%E4%B8%8A%E5%A4%A9%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
@@ -251,30 +277,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时40分 ~ 07时30分]"
-        },
-        {
-          "title": "春节为何成为AI红包主战场",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时41分 ~ 19时35分]"
-        },
-        {
-          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
-          "url": "https://www.cls.cn/detail/2279188",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时40分 ~ 19时35分]"
         },
         {
           "title": "A股机器人概念股震荡走强，晋拓股份午后涨停，思看科技、科达制造、丰立智能、长盈精密、联得装备等涨幅居前。",
@@ -313,6 +315,17 @@
           "time_info": "[16时37分 ~ 17时41分]"
         },
         {
+          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
+          "url": "https://www.cls.cn/detail/2279363",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
           "title": "中央一号文件：促进人工智能与农业发展相结合，拓展无人机、物联网、机器人等应用场景，加快农业生物制造关键技术创新",
           "url": "https://wallstreetcn.com/livenews/3049050",
           "source": "华尔街见闻-快讯",
@@ -323,6 +336,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时41分 ~ 19时35分]"
+        },
+        {
+          "title": "一图看懂|三大巨头豪掷45亿！2026春节AI红包大战打响",
+          "url": "https://www.cls.cn/detail/2279165",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "智元机器人：不参加春晚，研发优先",
@@ -346,6 +370,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时52分 ~ 14时53分]"
+        },
+        {
+          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "英伟达美股盘后涨幅扩大至0.8%，OpenAI的CEO Altman“驳斥”媒体关于该公司对英伟达供应速度不满的报道。",
@@ -505,7 +540,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "印度经济事务秘书：将等待更多关于美国贸易协议的细节，再上调经济增长预测。",
@@ -525,7 +560,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -578,6 +613,29 @@
           "time_info": "[00时41分 ~ 01时38分]"
         },
         {
+          "title": "空姐月工资收入",
+          "url": "https://s.weibo.com/weibo?q=%E7%A9%BA%E5%A7%90%E6%9C%88%E5%B7%A5%E8%B5%84%E6%94%B6%E5%85%A5&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时35分 ~ 21时02分]"
+        },
+        {
+          "title": "87家央企负责人激励收入公开",
+          "url": "https://www.baidu.com/s?wd=87%E5%AE%B6%E5%A4%AE%E4%BC%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%BF%80%E5%8A%B1%E6%94%B6%E5%85%A5%E5%85%AC%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
           "title": "美联储博斯蒂克：让通胀回落对低收入家庭尤为重要。",
           "url": "https://flash.jin10.com/detail/20260203021337657800",
           "source": "金十数据",
@@ -595,9 +653,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
+        },
+        {
+          "title": "美联储理事米兰：很期待沃什担任美联储主席后的表现。 美联储今年需要降息不止一个百分点。 潜在通胀不是问题。 经济方面没有看到太多强劲的价格压力。 市场收益率并没有大幅上升。 未来更好的经济增长并不需要更高的利率。 长期收益率上升部分原因是增长预期改善。 对金属市场价格波动不作过多解读。",
+          "url": "https://wallstreetcn.com/livenews/3049134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "俄外长：对古巴施加经济与武力压力是不可接受的",
@@ -677,6 +746,17 @@
           "time_info": "14时53分"
         },
         {
+          "title": "美联储理事米兰：未见经济中存在大量强劲的价格压力。",
+          "url": "https://flash.jin10.com/detail/20260203202844952800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "北京房地产中介门店咨询量大涨 上海二手房成交量大增24%",
           "url": "https://wallstreetcn.com/livenews/3048964",
           "source": "华尔街见闻-快讯",
@@ -752,17 +832,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
-        },
-        {
-          "title": "空姐月工资收入",
-          "url": "https://s.weibo.com/weibo?q=%E7%A9%BA%E5%A7%90%E6%9C%88%E5%B7%A5%E8%B5%84%E6%94%B6%E5%85%A5&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
         },
         {
           "title": "金十数据整理：每日房地产行业动态汇总（2026-02-03）",
