@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T21:02:02.074212+08:00",
-  "total_titles_processed": 1714,
+  "generated_at": "2026-02-03T22:09:26.297444+08:00",
+  "total_titles_processed": 1813,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时07分 ~ 21时02分]"
+          "appearance_count": 16,
+          "time_info": "[10时07分 ~ 22时09分]"
         },
         {
           "title": "SpaceX官宣收购xAI",
@@ -83,8 +83,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时40分 ~ 21时02分]"
+          "appearance_count": 22,
+          "time_info": "[00时40分 ~ 22时09分]"
         },
         {
           "title": "解读SpaceX收购xAI",
@@ -94,8 +94,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时46分 ~ 21时02分]"
+          "appearance_count": 15,
+          "time_info": "[12时46分 ~ 22时09分]"
         },
         {
           "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
@@ -148,8 +148,21 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时41分 ~ 22时09分]"
+        },
+        {
+          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
+          "url": "https://www.cls.cn/detail/2279188",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时41分 ~ 21时02分]"
+          "time_info": "[18时40分 ~ 22时09分]"
         },
         {
           "title": "中国信通院AI原生智算集群服务测试验证工作启动",
@@ -255,18 +268,6 @@
           "time_info": "15时43分"
         },
         {
-          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
-          "url": "https://www.cls.cn/detail/2279188",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时40分 ~ 21时02分]"
-        },
-        {
           "title": "能生长能上天的中国机器人来了",
           "url": "https://www.baidu.com/s?wd=%E8%83%BD%E7%94%9F%E9%95%BF%E8%83%BD%E4%B8%8A%E5%A4%A9%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
@@ -277,6 +278,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时40分 ~ 07时30分]"
+        },
+        {
+          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
+          "url": "https://www.cls.cn/detail/2279363",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 22时09分]"
+        },
+        {
+          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 22时09分]"
         },
         {
           "title": "A股机器人概念股震荡走强，晋拓股份午后涨停，思看科技、科达制造、丰立智能、长盈精密、联得装备等涨幅居前。",
@@ -313,17 +337,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时37分 ~ 17时41分]"
-        },
-        {
-          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
-          "url": "https://www.cls.cn/detail/2279363",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "中央一号文件：促进人工智能与农业发展相结合，拓展无人机、物联网、机器人等应用场景，加快农业生物制造关键技术创新",
@@ -370,17 +383,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时52分 ~ 14时53分]"
-        },
-        {
-          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "英伟达美股盘后涨幅扩大至0.8%，OpenAI的CEO Altman“驳斥”媒体关于该公司对英伟达供应速度不满的报道。",
@@ -436,6 +438,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "腾讯元宝澄清：不存在“静默监控”、“默认开启AI”、“自动举报”情况",
+          "url": "https://wallstreetcn.com/livenews/3049154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
+          "title": "小鹏机器人假人疑云后再翻车，线下首秀摔趴被抬走，问题可能出在哪里？双足机器人保持平衡到底有多难？",
+          "url": "https://www.zhihu.com/question/2001257534565150999",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
+          "title": "腾讯推出社交 AI 「元宝派」，它的用处有哪些？会重塑线上社交习惯吗？",
+          "url": "https://www.zhihu.com/question/1999077818584228918",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们很乐意与英伟达(NVDA.O)合作，他们生产的AI芯片是全球最出色的。我们希望能长期成为他们的大客户。",
@@ -618,22 +653,36 @@
           "source": "微博",
           "ranks": [
             21,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时35分 ~ 21时02分]"
+          "appearance_count": 4,
+          "time_info": "[19时35分 ~ 22时09分]"
         },
         {
           "title": "87家央企负责人激励收入公开",
           "url": "https://www.baidu.com/s?wd=87%E5%AE%B6%E5%A4%AE%E4%BC%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%BF%80%E5%8A%B1%E6%94%B6%E5%85%A5%E5%85%AC%E5%BC%80",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 22时09分]"
+        },
+        {
+          "title": "美联储理事米兰：很期待沃什担任美联储主席后的表现。 美联储今年需要降息不止一个百分点。 潜在通胀不是问题。 经济方面没有看到太多强劲的价格压力。 市场收益率并没有大幅上升。 未来更好的经济增长并不需要更高的利率。 长期收益率上升部分原因是增长预期改善。 对金属市场价格波动不作过多解读。",
+          "url": "https://wallstreetcn.com/livenews/3049134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
+          "time_info": "[21时02分 ~ 22时09分]"
         },
         {
           "title": "美联储博斯蒂克：让通胀回落对低收入家庭尤为重要。",
@@ -656,17 +705,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
-        },
-        {
-          "title": "美联储理事米兰：很期待沃什担任美联储主席后的表现。 美联储今年需要降息不止一个百分点。 潜在通胀不是问题。 经济方面没有看到太多强劲的价格压力。 市场收益率并没有大幅上升。 未来更好的经济增长并不需要更高的利率。 长期收益率上升部分原因是增长预期改善。 对金属市场价格波动不作过多解读。",
-          "url": "https://wallstreetcn.com/livenews/3049134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
         },
         {
           "title": "俄外长：对古巴施加经济与武力压力是不可接受的",
@@ -752,7 +790,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -936,7 +974,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "俄罗斯北方钢铁利润率降至16年低点",
@@ -949,6 +987,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时41分 ~ 19时35分]"
+        },
+        {
+          "title": "夜盘期货开盘，沪银涨4%，沪锡、沪金、国际铜、沪铜涨逾3%，沪镍涨2%；烧碱、焦炭跌逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3049144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "内盘期货夜市多数收跌，燃油跌4%，焦煤涨约0.5%，焦炭涨超0.6%",
