@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T12:47:03.573146+08:00",
-  "total_titles_processed": 885,
+  "generated_at": "2026-02-03T13:52:16.149749+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "红包老奶大战机器人",
@@ -19,8 +19,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 12时47分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 13时52分]"
+        },
+        {
+          "title": "SpaceX官宣收购xAI",
+          "url": "https://search.bilibili.com/all?keyword=SpaceX%E5%AE%98%E5%AE%A3%E6%94%B6%E8%B4%ADxAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 13时52分]"
         },
         {
           "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
@@ -37,16 +50,29 @@
           "time_info": "[00时40分 ~ 10时07分]"
         },
         {
-          "title": "SpaceX官宣收购xAI",
-          "url": "https://search.bilibili.com/all?keyword=SpaceX%E5%AE%98%E5%AE%A3%E6%94%B6%E8%B4%ADxAI",
-          "source": "bilibili 热搜",
+          "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
+          "url": "https://www.cls.cn/detail/2278467",
+          "source": "财联社热门",
           "ranks": [
-            1,
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 13时52分]"
+        },
+        {
+          "title": "SpaceX 收购人工智能企业 xAI，合并估值达 1.25 万亿美元，同为马斯克旗下公司，如何解读？",
+          "url": "https://www.zhihu.com/question/2001947312226848988",
+          "source": "知乎",
+          "ranks": [
+            14,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 12时47分]"
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 13时52分]"
         },
         {
           "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
@@ -83,16 +109,30 @@
           "time_info": "10时07分"
         },
         {
-          "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
-          "url": "https://www.cls.cn/detail/2278467",
-          "source": "财联社热门",
+          "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3764779",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            5
+            10,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 12时47分]"
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 13时52分]"
+        },
+        {
+          "title": "2月3日投资避雷针：这只人气股紧急澄清 无星云算力调度平台、马来西亚AI数据中心项目",
+          "url": "https://www.cls.cn/detail/2278442",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 13时52分]"
         },
         {
           "title": "能生长能上天的中国机器人来了",
@@ -107,28 +147,50 @@
           "time_info": "[00时40分 ~ 07时30分]"
         },
         {
-          "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3764779",
-          "source": "华尔街见闻",
+          "title": "又一位AI亿万富豪诞生了",
+          "url": "https://www.toutiao.com/trending/7602226721282457650/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            7
+            19,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 12时47分]"
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 13时52分]"
         },
         {
-          "title": "2月3日投资避雷针：这只人气股紧急澄清 无星云算力调度平台、马来西亚AI数据中心项目",
-          "url": "https://www.cls.cn/detail/2278442",
-          "source": "财联社热门",
+          "title": "解读SpaceX收购xAI",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            9
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 12时47分]"
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 13时52分]"
+        },
+        {
+          "title": "中科慧灵携手光大同创、迪洛斯智能推进人形机器人规模化量产",
+          "url": "https://wallstreetcn.com/livenews/3048802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 13时52分]"
+        },
+        {
+          "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
+          "url": "https://www.cls.cn/detail/2278753",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
         },
         {
           "title": "智元机器人：不参加春晚，研发优先",
@@ -143,39 +205,6 @@
           "time_info": "[01时38分 ~ 02时44分]"
         },
         {
-          "title": "解读SpaceX收购xAI",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "SpaceX 收购人工智能企业 xAI，合并估值达 1.25 万亿美元，同为马斯克旗下公司，如何解读？",
-          "url": "https://www.zhihu.com/question/2001947312226848988",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "又一位AI亿万富豪诞生了",
-          "url": "https://www.toutiao.com/trending/7602226721282457650/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
           "title": "英伟达美股盘后涨幅扩大至0.8%，OpenAI的CEO Altman“驳斥”媒体关于该公司对英伟达供应速度不满的报道。",
           "url": "https://wallstreetcn.com/livenews/3048580",
           "source": "华尔街见闻-快讯",
@@ -185,6 +214,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "A股机器人概念股震荡走强，晋拓股份午后涨停，思看科技、科达制造、丰立智能、长盈精密、联得装备等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3048828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "OpenAI：通过使用Codex，人们可以轻松实现多任务处理，比如并行处理多个代理，并通过工作树隔离代理之间的变更；建立并运用技能，如将工具和规范整合为可重复使用的功能模块；设置自动化流程，如将重复性工作委托给Codex，并通过后台的定时工作流来完成。",
@@ -207,17 +247,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
-        },
-        {
-          "title": "中科慧灵携手光大同创、迪洛斯智能推进人形机器人规模化量产",
-          "url": "https://wallstreetcn.com/livenews/3048802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
         },
         {
           "title": "OpenAI：Codex应用今日在MacOS上线。",
@@ -259,7 +288,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -275,15 +304,37 @@
           "time_info": "10时07分"
         },
         {
+          "title": "OpenAI将重点放在ChatGPT的研发上，而非进行更长期的研究，这导致公司高层人员离职。",
+          "url": "https://flash.jin10.com/detail/20260203130436001800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
           "title": "AI只是在“省钱”而非“造饭碗”，蓝领岗位增长或跑赢科技浪潮",
           "url": "https://flash.jin10.com/detail/20260203121309957800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        },
+        {
+          "title": "OpenAI战略大转舵 全速冲刺ChatGPT商业化",
+          "url": "https://flash.jin10.com/detail/20260203130348456800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "SpaceX与xAI关于合并的声明并不包含财务条款。（彭博）",
@@ -303,7 +354,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         }
@@ -311,7 +362,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "阿根廷经济部长Luis Caputo：阿根廷并不考虑在全球债券市场融资。",
@@ -416,15 +467,37 @@
           "time_info": "02时44分"
         },
         {
+          "title": "澳洲联储主席Bullock：没有讨论加息50个基点。 政策不会被市场所驱动。 委员会并未对利率设定特定路径。 委员会在利率问题上将保持谨慎。 努力降低通胀率的同时保持接近充分就业的状态。 通过澳元走势可以看到金融环境出现一定程度的收紧。 经济的确处于良好状态，但存在供应方面的限制。",
+          "url": "https://wallstreetcn.com/livenews/3048814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
           "title": "澳洲联储：2025年全球经济增长情况好于预期，下行风险已有所降低。",
           "url": "https://wallstreetcn.com/livenews/3048790",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        },
+        {
+          "title": "澳洲联储主席Bullock：通胀的势头过于猛烈了，不能允许通胀失控。 不会对利率给出明确指引，委员会将继续关注数据。 担心目前的这种高通胀水平可能会变得根深蒂固。 认为目前经济中的需求过度。",
+          "url": "https://wallstreetcn.com/livenews/3048811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "经济学家：若美联储采用定期公开市场操作TOMOs，可进一步缩减资产负债表",
@@ -444,7 +517,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -466,7 +539,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
