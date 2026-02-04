@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T16:42:19.354529+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2026-02-04T17:44:23.416738+08:00",
+  "total_titles_processed": 1605,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 68,
+      "match_count": 70,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -42,8 +42,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时02分 ~ 16时42分]"
+          "appearance_count": 8,
+          "time_info": "[10时02分 ~ 17时44分]"
+        },
+        {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时50分 ~ 17时44分]"
         },
         {
           "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
@@ -139,18 +151,6 @@
           "time_info": "[07时28分 ~ 14时53分]"
         },
         {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时50分 ~ 16时42分]"
-        },
-        {
           "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
           "url": "https://www.cls.cn/detail/2279758",
           "source": "财联社热门",
@@ -161,6 +161,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时02分 ~ 15时44分]"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时52分 ~ 17时44分]"
         },
         {
           "title": "半导体设备&机器人明星股绩后再创新高 财报全面碾压预期",
@@ -184,18 +196,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时54分 ~ 04时37分]"
-        },
-        {
-          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时52分 ~ 16时42分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -393,6 +393,19 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
+          "title": "【午报】创业板指半日跌1.74%，太空光伏概念持续活跃，AI应用方向陷入调整",
+          "url": "https://www.cls.cn/detail/2280058",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时44分 ~ 17时44分]"
+        },
+        {
           "title": "印度官员Jaishankar：2月3日在华盛顿特区会见美国财政部长贝森特。 讨论美国经济合作伙伴关系与协同。",
           "url": "https://wallstreetcn.com/livenews/3049304",
           "source": "华尔街见闻-快讯",
@@ -415,6 +428,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时28分 ~ 13时50分]"
+        },
+        {
+          "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
+          "url": "https://www.cls.cn/detail/2280128",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时44分]"
         },
         {
           "title": "Anthropic PBC：苹果公司的xCode现在支持Claude Agent SDK。",
@@ -453,18 +478,6 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
-          "title": "【午报】创业板指半日跌1.74%，太空光伏概念持续活跃，AI应用方向陷入调整",
-          "url": "https://www.cls.cn/detail/2280058",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 16时42分]"
-        },
-        {
           "title": "英伟达CEO黄仁勋：AI将带来更加廉价的能源成本。",
           "url": "https://wallstreetcn.com/livenews/3049265",
           "source": "华尔街见闻-快讯",
@@ -487,6 +500,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时57分 ~ 03时46分]"
+        },
+        {
+          "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
+          "url": "https://www.cls.cn/detail/2280373",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "AI自动化浪潮席卷软件行业 亚洲软件股巨头遭遇估值重创",
@@ -533,17 +557,6 @@
           "time_info": "01时53分"
         },
         {
-          "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
-          "url": "https://www.cls.cn/detail/2280128",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
           "title": "美股AI软件先驱指数收跌5.22%，报101.34点，美股盘初快速下跌，北京时间23:00过后持续低位震荡。 成分股HubSpot收跌10.55%，Snowflake跌9.15%，新思科技跌8.46%、铿腾电子跌7.15%，Elastic跌8.34%，Adobe跌7.31%，Datadog跌7.28%，MongoDB跌7.14%，Salesforce跌6.85%，甲骨文跌3.37%，微软跌2.87%，C3.ai跌1.56%跌幅最小，Palantir涨6.85%，是唯一收涨的成分股。",
           "url": "https://wallstreetcn.com/livenews/3049370",
           "source": "华尔街见闻-快讯",
@@ -564,6 +577,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "私募巨头阿波罗警告：“软件已死”！AI正重塑4400亿美元估值逻辑",
+          "url": "https://wallstreetcn.com/articles/3764867",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "最近刷屏的 AI 助手 ClawdBot，爆火的原因是什么？",
@@ -693,7 +717,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -800,7 +824,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 23,
+      "match_count": 30,
       "titles": [
         {
           "title": "87家央企负责人激励收入公开",
@@ -816,6 +840,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时54分 ~ 07时29分]"
+        },
+        {
+          "title": "普京：俄罗斯经济放缓是人为造成的",
+          "url": "https://news.ifeng.com/c/8qSyftiySGT",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时50分 ~ 17时44分]"
         },
         {
           "title": "汇丰：内需与投资指标双双回暖 印尼Q4经济增速料稳守5%",
@@ -840,18 +876,6 @@
           "time_info": "07时29分"
         },
         {
-          "title": "普京：俄罗斯经济放缓是人为造成的",
-          "url": "https://news.ifeng.com/c/8qSyftiySGT",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时50分 ~ 16时42分]"
-        },
-        {
           "title": "AMD的CEO苏姿丰：预计未来3-5年收入增速将超过35%。",
           "url": "https://wallstreetcn.com/livenews/3049365",
           "source": "华尔街见闻-快讯",
@@ -874,6 +898,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "电视剧《太平年》中「吴越」何以凭东南一隅对抗强大的「南唐」数十年之久，从经济角度看其有何特点？",
+          "url": "https://www.zhihu.com/question/2001778800191629083",
+          "source": "知乎",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时44分 ~ 17时44分]"
         },
         {
           "title": "中央农办：严控经营风险和债务 让农村集体经济发展实打实可持续",
@@ -910,17 +946,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时57分 ~ 03时46分]"
-        },
-        {
-          "title": "电视剧《太平年》中「吴越」何以凭东南一隅对抗强大的「南唐」数十年之久，从经济角度看其有何特点？",
-          "url": "https://www.zhihu.com/question/2001778800191629083",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 16时42分]"
         },
         {
           "title": "印度外交部长苏杰生：已与美国财长贝森特就推进印美经济伙伴关系和战略合作进行了讨论。",
@@ -967,6 +992,17 @@
           "time_info": "02时57分"
         },
         {
+          "title": "委内瑞拉首席经济顾问：委内瑞拉需要能够动用我们自己的资产。",
+          "url": "https://flash.jin10.com/detail/20260204171629437800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "俄罗斯总统普京：俄罗斯经济在2025年增长1%。",
           "url": "https://wallstreetcn.com/livenews/3049239",
           "source": "华尔街见闻-快讯",
@@ -987,6 +1023,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "委内瑞拉首席经济顾问：希望委内瑞拉以拥有最高石油产量水平之一的国家而闻名。",
+          "url": "https://flash.jin10.com/detail/20260204171246731800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "AMD(AMD.O)CEO苏姿丰：公司具备良好条件，未来三到五年内数据中心业务收入年增长率有望超过60%。",
@@ -1011,6 +1058,17 @@
           "time_info": "15时44分"
         },
         {
+          "title": "PMI数据显示需求趋弱 欧元区1月经济连续放缓",
+          "url": "https://flash.jin10.com/detail/20260204170412861800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "瑞银(UBS.N)：地缘政治和经济政策不确定性加剧可能导致波动性飙升。",
           "url": "https://flash.jin10.com/detail/20260204135648659800",
           "source": "金十数据",
@@ -1020,6 +1078,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "俄罗斯财政部：1月份石油和天然气销售为国家预算带来3933亿卢布收入，低于12月份的4478亿卢布。",
+          "url": "https://flash.jin10.com/detail/20260204170255631800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "AMD(AMD.O)CEO苏姿丰：第四季度CPU销售额占服务器总收入的一半以上。",
@@ -1044,6 +1113,17 @@
           "time_info": "14时53分"
         },
         {
+          "title": "俄罗斯财政部表示，预计2月份预算能源收入将出现2094亿卢布的缺口。",
+          "url": "https://flash.jin10.com/detail/20260204170112722800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "瑞银第四季度净利润12.0亿美元，同比增长56%，市场预估9.667亿美元。 第四季度总营收121.5亿美元，同比增长4.4%，市场预估117.5亿美元。 第四季度净利息收入21.7亿美元，同比增长18%，市场预估21.6亿美元。 第四季度每股收益0.37美元，上年同期0.23美元，市场预估0.32美元。 计划于2026年回购30亿美元股票，并希望进一步扩大回购规模。",
           "url": "https://wallstreetcn.com/livenews/3049593",
           "source": "华尔街见闻-快讯",
@@ -1064,6 +1144,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "中通快递：预计2025年收入为人民币485亿元-500亿元，同比增长约9.5%至12.9%",
+          "url": "https://wallstreetcn.com/livenews/3049736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "PMI数据显示服务业支撑德国经济 价格与信心走强",
+          "url": "https://flash.jin10.com/detail/20260204170048587800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         }
       ]
     },
