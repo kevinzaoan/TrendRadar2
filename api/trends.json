@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T06:29:26.441237+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2026-02-05T07:28:54.885972+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -19,6 +19,20 @@
           "time_info": "[00时49分 ~ 06时29分]"
         },
         {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            3,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 07时28分]"
+        },
+        {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
           "url": "https://wallstreetcn.com/articles/3764882",
           "source": "华尔街见闻",
@@ -30,31 +44,18 @@
           "time_info": "[00时49分 ~ 05时33分]"
         },
         {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
-          "ranks": [
-            3,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 06时29分]"
-        },
-        {
           "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
           "url": "https://wallstreetcn.com/articles/3764960",
           "source": "华尔街见闻",
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 07时28分]"
         },
         {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
@@ -64,8 +65,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 07时28分]"
         },
         {
           "title": "机器人表演碰倒老人 双双倒地不起",
@@ -76,11 +77,12 @@
             20,
             13,
             8,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 07时28分]"
         },
         {
           "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
@@ -91,30 +93,31 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 07时28分]"
+        },
+        {
+          "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "Arm控股CEO：AI软件抛售是一个“微观的歇斯底里”（Micro hysteria）。",
           "url": "https://wallstreetcn.com/livenews/3050122",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "Alphabet(GOOG.O)CEO皮查伊：自AI模式推出以来，观察到每位用户的每日AI模式查询量翻倍。",
-          "url": "https://flash.jin10.com/detail/20260205054238420800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时28分]"
         },
         {
           "title": "Alphabet(GOOGL.O)：谷歌云收入增长48%至177亿美元，主要得益于企业对AI基础设施（GCP）及AI解决方案的需求增长，核心GCP产品亦表现强劲。",
@@ -129,6 +132,42 @@
           "time_info": "[05时33分 ~ 06时29分]"
         },
         {
+          "title": "Alphabet(GOOG.O)CEO皮查伊：自AI模式推出以来，观察到每位用户的每日AI模式查询量翻倍。",
+          "url": "https://flash.jin10.com/detail/20260205054238420800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时28分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
+          "url": "https://wallstreetcn.com/livenews/3050117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时28分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet：谷歌Gemini服务部门成本较2025年下调78%。 YouTube年收入突破600亿美元。 Alphabet按优先云供应商的身份与苹果公司合作。 Gemini企业用户超过12万，同比增幅65%。 AI Solutions收入同比增长超过300%。 12月份，自动驾驶部门Waymo出行次数超过2000万。 直播间设备商Podcast观众较2025年增长75%。",
+          "url": "https://wallstreetcn.com/livenews/3050115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时28分]"
+        },
+        {
           "title": "德国财政部长：AI中心将增强数字主权",
           "url": "https://wallstreetcn.com/livenews/3050094",
           "source": "华尔街见闻-快讯",
@@ -141,37 +180,38 @@
           "time_info": "[05时33分 ~ 06时29分]"
         },
         {
-          "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
-          "url": "https://wallstreetcn.com/livenews/3050117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "谷歌母公司Alphabet：谷歌Gemini服务部门成本较2025年下调78%。 YouTube年收入突破600亿美元。 Alphabet按优先云供应商的身份与苹果公司合作。 Gemini企业用户超过12万，同比增幅65%。 AI Solutions收入同比增长超过300%。 12月份，自动驾驶部门Waymo出行次数超过2000万。 直播间设备商Podcast观众较2025年增长75%。",
-          "url": "https://wallstreetcn.com/livenews/3050115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
           "title": "人形机器人表演碰到老人 双双倒地",
           "url": "https://www.toutiao.com/trending/7602353123482566702/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 07时28分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet ：我们大约50%的代码由AI代理编写。",
+          "url": "https://wallstreetcn.com/livenews/3050126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "07时28分"
+        },
+        {
+          "title": "谷歌母公司Alphabet研发（R&D）开支增长42%，受到AI人才和无人驾驶部门的驱动。 科技基础设施投资中，60%投入服务器、40%投入数据中心。 科技基建（投资）的增幅在2025年收缩38%。 谷歌云（订单）积压同比超过翻倍，至2400亿美元。 Alphabet在Waymo本轮融资中贡献重大。",
+          "url": "https://wallstreetcn.com/livenews/3050124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "美国得克萨斯州电力可靠性委员会（ERCOT）考虑重新评估某些与人工智能（AI）相关的数据中心项目。 此前，当地电力监管部门因新用户激增而批准了多个数据中心项目。",
@@ -183,6 +223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "国民党副主席到访清华看机器人表演",
+          "url": "https://www.toutiao.com/trending/7603146508497866278/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "亚马逊计划利用AI来加速电视和电影产品。（路透）",
@@ -210,7 +261,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "Arm控股第三财季总体营收12.4亿美元，分析师预期12.3亿美元。 第三财季年化合同价值16.2亿美元，分析师预期15.2亿美元。 第三财季使用费收入7.37亿美元，分析师预期7.101亿美元。 第三财季许可和其他收入5.05亿美元，分析师预期5.201亿美元。 预计第四财季营收14.2亿-15.2亿美元，分析师预期14.3亿美元。",
@@ -218,11 +269,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时29分]"
+          "appearance_count": 3,
+          "time_info": "[05时33分 ~ 07时28分]"
         },
         {
           "title": "Alphabet(GOOGL.O)2025年Q4谷歌广告收入822.84亿美元。",
@@ -249,6 +301,17 @@
           "time_info": "[05时33分 ~ 06时29分]"
         },
         {
+          "title": "Arm(ARM.O)CFO：预计第四季度专利授权收入同比将增长10%-15%，技术许可收入同比将增长15%-20%。",
+          "url": "https://flash.jin10.com/detail/20260205061918393800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "标普500指数初步收跌0.5%，科技板块跌1.8%，电信板块跌1.7%，可选消费板块跌1.2%，保健、房地产、原材料板块涨超1%，能源板块涨2.2%。 纳斯达克100指数初步收跌1.7%，成分股中，AMD初步收跌16.6%，Applovin跌16%，Palantir跌11.6%，美光科技、西部数据、核电股CEG、应用材料、希捷科技至少跌6%，Diamondback Energy则涨3.6%，安进涨8%。 耐克涨5.3%，3M涨5%，迪士尼涨3.1%，苹果涨2.7%，和安静领跑道指成分股，英伟达跌3.3%表现最差。",
           "url": "https://wallstreetcn.com/livenews/3050097",
           "source": "华尔街见闻-快讯",
@@ -258,6 +321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "高通(QCOM.O)CFO：预计第二财季手机芯片收入约为60亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205060524377800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         }
       ]
     }
