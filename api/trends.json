@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T14:53:10.332652+08:00",
-  "total_titles_processed": 1279,
+  "generated_at": "2026-02-04T15:44:38.556154+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时54分 ~ 07时29分]"
+        },
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时02分 ~ 15时44分]"
         },
         {
           "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
@@ -115,17 +126,6 @@
           "time_info": "[00时54分 ~ 07时29分]"
         },
         {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时02分 ~ 14时53分]"
-        },
-        {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
           "url": "https://www.cls.cn/detail/2279710",
           "source": "财联社热门",
@@ -138,16 +138,16 @@
           "time_info": "[07时28分 ~ 14时53分]"
         },
         {
-          "title": "半导体设备&机器人明星股绩后再创新高 财报全面碾压预期",
-          "url": "https://www.cls.cn/detail/2279679",
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
           "source": "财联社热门",
           "ranks": [
-            6,
-            5
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时02分 ~ 14时53分]"
+          "appearance_count": 6,
+          "time_info": "[10时02分 ~ 15时44分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -158,8 +158,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 14时53分]"
+          "appearance_count": 4,
+          "time_info": "[13时50分 ~ 15时44分]"
+        },
+        {
+          "title": "半导体设备&机器人明星股绩后再创新高 财报全面碾压预期",
+          "url": "https://www.cls.cn/detail/2279679",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 14时53分]"
         },
         {
           "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
@@ -239,17 +251,6 @@
           "time_info": "01时53分"
         },
         {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时02分 ~ 14时53分]"
-        },
-        {
           "title": "OpenAI：ChatGPT部分用户在加载或开始对话时可能会遇到问题。",
           "url": "https://flash.jin10.com/detail/20260204115113569800",
           "source": "金十数据",
@@ -292,6 +293,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "中央一号文件促进AI与农业发展相结合 AI赋能种植链前景可期",
+          "url": "https://www.cls.cn/detail/2279757",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 15时44分]"
         },
         {
           "title": "无人机和机器人首次写入中央一号文件",
@@ -366,18 +380,6 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
-          "title": "中央一号文件促进AI与农业发展相结合 AI赋能种植链前景可期",
-          "url": "https://www.cls.cn/detail/2279757",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 14时53分]"
-        },
-        {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
           "url": "https://wallstreetcn.com/articles/3764901",
           "source": "华尔街见闻",
@@ -385,8 +387,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 14时53分]"
+          "appearance_count": 3,
+          "time_info": "[14时52分 ~ 15时44分]"
         },
         {
           "title": "印度官员Jaishankar：2月3日在华盛顿特区会见美国财政部长贝森特。 讨论美国经济合作伙伴关系与协同。",
@@ -537,6 +539,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "【午报】创业板指半日跌1.74%，太空光伏概念持续活跃，AI应用方向陷入调整",
+          "url": "https://www.cls.cn/detail/2280058",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "最近刷屏的 AI 助手 ClawdBot，爆火的原因是什么？",
@@ -762,7 +775,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "87家央企负责人激励收入公开",
@@ -802,6 +815,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "普京：俄罗斯经济放缓是人为造成的",
+          "url": "https://news.ifeng.com/c/8qSyftiySGT",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时50分 ~ 15时44分]"
+        },
+        {
           "title": "AMD的CEO苏姿丰：预计未来3-5年收入增速将超过35%。",
           "url": "https://wallstreetcn.com/livenews/3049365",
           "source": "华尔街见闻-快讯",
@@ -824,17 +848,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时29分]"
-        },
-        {
-          "title": "普京：俄罗斯经济放缓是人为造成的",
-          "url": "https://news.ifeng.com/c/8qSyftiySGT",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 14时53分]"
         },
         {
           "title": "中央农办：严控经营风险和债务 让农村集体经济发展实打实可持续",
@@ -928,6 +941,17 @@
           "time_info": "01时53分"
         },
         {
+          "title": "电视剧《太平年》中「吴越」何以凭东南一隅对抗强大的「南唐」数十年之久，从经济角度看其有何特点？",
+          "url": "https://www.zhihu.com/question/2001778800191629083",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "白宫新闻秘书：特朗普认为政府停摆只会损害经济。",
           "url": "https://flash.jin10.com/detail/20260204021331387800",
           "source": "金十数据",
@@ -950,13 +974,24 @@
           "time_info": "07时29分"
         },
         {
+          "title": "市场消息：韩国企业计划向本地经济投资270万亿韩元。",
+          "url": "https://flash.jin10.com/detail/20260204150520424800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "瑞银(UBS.N)：地缘政治和经济政策不确定性加剧可能导致波动性飙升。",
           "url": "https://flash.jin10.com/detail/20260204135648659800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -978,7 +1013,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -989,7 +1024,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -1000,7 +1035,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         }
@@ -1008,7 +1043,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "早盘收盘，国内期货主力合约涨多跌少，沪银涨超7%，沪金涨超6%，焦煤涨超5%，燃料油涨超4%，沪锡、低硫燃料油、玻璃、钯、焦炭、铂涨超3%，沪镍、国际铜、SC原油、沪铜、碳酸锂、苯乙烯、纯碱、BR橡胶、纯苯涨超2%。跌幅方面，集运欧线跌超1%，菜粕、菜籽小幅下跌。",
@@ -1020,6 +1055,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨多跌少，沪银涨超11%，沪金涨超7%，铂、钯涨超6%，沪锡涨超5%，多晶硅涨超4%，燃料油、沪镍、国际铜、焦煤、沪铜、低硫燃料油、玻璃涨超3%，焦炭、纯苯、SC原油、铝合金、苯乙烯、集运欧线、BR橡胶、纯碱涨超2%。跌幅方面，菜粕、菜籽、烧碱小幅下跌。",
+          "url": "https://flash.jin10.com/detail/20260204150116248800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         }
       ]
     }
