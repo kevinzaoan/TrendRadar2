@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T03:39:24.429801+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-02-05T04:35:40.108302+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时35分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时35分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -35,11 +35,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时35分]"
         },
         {
           "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
@@ -50,8 +51,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时35分]"
         },
         {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
@@ -61,8 +62,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时35分]"
+        },
+        {
+          "title": "机器人表演碰倒老人 双双倒地不起",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%A8%E6%BC%94%E7%A2%B0%E5%80%92%E8%80%81%E4%BA%BA+%E5%8F%8C%E5%8F%8C%E5%80%92%E5%9C%B0%E4%B8%8D%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            20,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时35分]"
         },
         {
           "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
@@ -72,21 +87,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时39分]"
-        },
-        {
-          "title": "机器人表演碰倒老人 双双倒地不起",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%A8%E6%BC%94%E7%A2%B0%E5%80%92%E8%80%81%E4%BA%BA+%E5%8F%8C%E5%8F%8C%E5%80%92%E5%9C%B0%E4%B8%8D%E8%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 04时35分]"
         },
         {
           "title": "人形机器人表演碰到老人 双双倒地",
