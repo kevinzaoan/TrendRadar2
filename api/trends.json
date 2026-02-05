@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-05T16:43:15.662486+08:00",
-  "total_titles_processed": 1414,
+  "generated_at": "2026-02-05T17:44:57.188120+08:00",
+  "total_titles_processed": 1528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时28分 ~ 17时44分]"
+        },
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
           "url": "https://wallstreetcn.com/articles/3764901",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时49分 ~ 06时29分]"
-        },
-        {
-          "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时28分 ~ 16时43分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -44,6 +44,18 @@
           "time_info": "[00时49分 ~ 07时28分]"
         },
         {
+          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764994",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时03分 ~ 17时44分]"
+        },
+        {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
           "url": "https://wallstreetcn.com/articles/3764882",
           "source": "华尔街见闻",
@@ -55,17 +67,6 @@
           "time_info": "[00时49分 ~ 05时33分]"
         },
         {
-          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764994",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 16时43分]"
-        },
-        {
           "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
           "url": "https://wallstreetcn.com/articles/3764960",
           "source": "华尔街见闻",
@@ -74,11 +75,12 @@
             8,
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时49分 ~ 16时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时49分 ~ 17时44分]"
         },
         {
           "title": "机器人表演碰倒老人 双双倒地不起",
@@ -151,15 +153,17 @@
           "time_info": "[10时03分 ~ 16时43分]"
         },
         {
-          "title": "19990美元起！贾跃亭发布人形机器人",
-          "url": "https://www.toutiao.com/trending/7602939814740754441/",
-          "source": "今日头条",
+          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
+          "url": "https://www.cls.cn/detail/2281373",
+          "source": "财联社热门",
           "ranks": [
-            2
+            12,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 17时44分]"
         },
         {
           "title": "比DeepSeek风暴还惨烈！一文读懂：华尔街“抛AI”妖风祸从何来？",
@@ -170,20 +174,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 16时43分]"
-        },
-        {
-          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
-          "url": "https://www.cls.cn/detail/2281373",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 16时43分]"
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 17时44分]"
         },
         {
           "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
@@ -191,11 +183,34 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时56分 ~ 16时43分]"
+          "appearance_count": 6,
+          "time_info": "[13时56分 ~ 17时44分]"
+        },
+        {
+          "title": "腾讯游戏发布寒假限玩日历，推出3款AI工具降低家长管控门槛",
+          "url": "https://wallstreetcn.com/livenews/3050550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "19990美元起！贾跃亭发布人形机器人",
+          "url": "https://www.toutiao.com/trending/7602939814740754441/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "Arm控股CEO：AI软件抛售是一个“微观的歇斯底里”（Micro hysteria）。",
@@ -246,6 +261,18 @@
           "time_info": "[14时59分 ~ 15时55分]"
         },
         {
+          "title": "贾跃亭发布人形机器人",
+          "url": "https://www.cls.cn/detail/2281103",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 17时44分]"
+        },
+        {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
           "url": "https://wallstreetcn.com/livenews/3050117",
           "source": "华尔街见闻-快讯",
@@ -268,17 +295,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时28分]"
-        },
-        {
-          "title": "贾跃亭发布人形机器人",
-          "url": "https://www.cls.cn/detail/2281103",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 16时43分]"
         },
         {
           "title": "德国财政部长：AI中心将增强数字主权",
@@ -405,6 +421,17 @@
           "time_info": "00时49分"
         },
         {
+          "title": "复星医药：控股子公司复宏汉霖与Eisai签订《许可协议》，由复宏汉霖授予Eisai于许可区域（即日本）及领域（即用于肿瘤适应症治疗）开发、生产及商业化斯鲁利单抗注射液的权利。根据约定，Eisai应就许可产品向复宏汉霖支付至多1.55亿美元不可退还的首付款、监管里程碑款项。",
+          "url": "https://wallstreetcn.com/livenews/3050517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "花旗：智能体AI难以撼动旅游平台 指跨平台比价仍是用户刚需",
           "url": "https://flash.jin10.com/detail/20260205112646440800",
           "source": "金十数据",
@@ -441,7 +468,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "中国经济春潮涌动",
@@ -455,13 +482,38 @@
           "time_info": "[12时48分 ~ 16时43分]"
         },
         {
+          "title": "不上班有经济问题 上班带来精神问题",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E4%B8%8A%E7%8F%AD%E6%9C%89%E7%BB%8F%E6%B5%8E%E9%97%AE%E9%A2%98+%E4%B8%8A%E7%8F%AD%E5%B8%A6%E6%9D%A5%E7%B2%BE%E7%A5%9E%E9%97%AE%E9%A2%98",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            16,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时56分 ~ 17时44分]"
+        },
+        {
+          "title": "冰雪经济“燃”起来",
+          "url": "https://www.toutiao.com/trending/7603038501449465875/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "马来西亚财政部长：对2026年经济增长前景可能出现积极调整持乐观态度。",
           "url": "https://flash.jin10.com/detail/20260205162924161800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -475,20 +527,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
-        },
-        {
-          "title": "不上班有经济问题 上班带来精神问题",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E4%B8%8A%E7%8F%AD%E6%9C%89%E7%BB%8F%E6%B5%8E%E9%97%AE%E9%A2%98+%E4%B8%8A%E7%8F%AD%E5%B8%A6%E6%9D%A5%E7%B2%BE%E7%A5%9E%E9%97%AE%E9%A2%98",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            16,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时56分 ~ 16时43分]"
         },
         {
           "title": "Arm控股第三财季总体营收12.4亿美元，分析师预期12.3亿美元。 第三财季年化合同价值16.2亿美元，分析师预期15.2亿美元。 第三财季使用费收入7.37亿美元，分析师预期7.101亿美元。 第三财季许可和其他收入5.05亿美元，分析师预期5.201亿美元。 预计第四财季营收14.2亿-15.2亿美元，分析师预期14.3亿美元。",
@@ -551,6 +589,17 @@
           "time_info": "[05时33分 ~ 06时29分]"
         },
         {
+          "title": "明星科技股美股盘前涨跌不一，英伟达涨超1%；谷歌跌超1%，Q4云收入猛增48%，今年支出指引接近翻倍大超预期；存储板块反弹，闪迪涨超3%，美光科技涨近2%，博通涨超5%；高通跌超11%，公司二季度营收指引不及市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3050540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "菲律宾央行：国内经济活动前景进一步走弱。",
           "url": "https://flash.jin10.com/detail/20260205094922499800",
           "source": "金十数据",
@@ -562,6 +611,17 @@
           "time_info": "10时03分"
         },
         {
+          "title": "三星长公主之子被首尔大学经济系录取",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E9%95%BF%E5%85%AC%E4%B8%BB%E4%B9%8B%E5%AD%90%E8%A2%AB%E9%A6%96%E5%B0%94%E5%A4%A7%E5%AD%A6%E7%BB%8F%E6%B5%8E%E7%B3%BB%E5%BD%95%E5%8F%96%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "Arm(ARM.O)CFO：预计第四季度专利授权收入同比将增长10%-15%，技术许可收入同比将增长15%-20%。",
           "url": "https://flash.jin10.com/detail/20260205061918393800",
           "source": "金十数据",
@@ -571,6 +631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "2025年全国消协组织为消费者挽回经济损失9.25亿元",
+          "url": "https://wallstreetcn.com/livenews/3050537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "标普500指数初步收跌0.5%，科技板块跌1.8%，电信板块跌1.7%，可选消费板块跌1.2%，保健、房地产、原材料板块涨超1%，能源板块涨2.2%。 纳斯达克100指数初步收跌1.7%，成分股中，AMD初步收跌16.6%，Applovin跌16%，Palantir跌11.6%，美光科技、西部数据、核电股CEG、应用材料、希捷科技至少跌6%，Diamondback Energy则涨3.6%，安进涨8%。 耐克涨5.3%，3M涨5%，迪士尼涨3.1%，苹果涨2.7%，和安静领跑道指成分股，英伟达跌3.3%表现最差。",
@@ -612,9 +683,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
+        },
+        {
+          "title": "马士基首席执行官：我担忧许多国家庞大的财政赤字；经济正处于“强效刺激”状态，这种状况可能会产生反效果。",
+          "url": "https://flash.jin10.com/detail/20260205171016423800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "法国巴黎银行第四季度净利润29.7亿欧元，同比增长28%，市场预估28.6亿欧元。 第四季度营收131.1亿欧元，同比增长8%，市场预估128.5亿欧元。 第四季度固定收益、外汇和大宗商品业务销售和交易营收11.7亿欧元，同比增长0.8%，市场预估11.3亿欧元。 第四季度股票交易收入9.08亿欧元，同比增长5.5%，市场预估9.463亿欧元。",
@@ -626,6 +708,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
+        },
+        {
+          "title": "Arm(ARM.O)盘前跌近8%，公司第三财季许可收入不及预期。",
+          "url": "https://flash.jin10.com/detail/20260205170655383800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         }
       ]
     }
