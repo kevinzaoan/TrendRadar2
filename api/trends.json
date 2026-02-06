@@ -1,11 +1,460 @@
 {
-  "generated_at": "2026-02-06T16:42:13.079115+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2026-02-06T17:43:09.548703+08:00",
+  "total_titles_processed": 1539,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "经济 房地产 收入",
+      "match_count": 40,
+      "titles": [
+        {
+          "title": "澳洲联储主席Bullock：海外同行（其他国家/地区的央行）也对全球经济的强度感到惊讶。",
+          "url": "https://wallstreetcn.com/livenews/3050918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "日本央行委员增一行：关税影响正在减弱，几乎未对日本经济产生负面影响。",
+          "url": "https://flash.jin10.com/detail/20260206094232662800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "日本央行委员增一行：如果经济展望实现，将提高利率。 物价趋势正迈向2%，基础通胀仍低于2%，但已相当接近该水平。 日本央行密切关注外汇市场的波动及其对经济和物价的影响。 必须警惕日元走弱引发的通胀是否会推高整体物价水平，以及是否会影响基础通胀。 显而易见，通缩习俗正在被根除，日本正进入通胀时期。 关键在于以及时且恰当的方式加息，以确保基础通胀率不会超过2%。 日本央行还必须谨慎行动，避免过度加息破坏刚刚开始转动的“通胀与工资适度上涨”的循环。 日本央行在审查未来购债进度时，必须仔细研判市场动态。 日本的实际利率目前仍然处于深度的负值区间。",
+          "url": "https://wallstreetcn.com/livenews/3051017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：对于经济动荡的应对将决定未来的繁荣。",
+          "url": "https://flash.jin10.com/detail/20260206013101490800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "欧洲央行调查：通胀走势与三个月前持平；预计今年经济增长将触及更高水平。",
+          "url": "https://flash.jin10.com/detail/20260206170143814800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "印尼财长表示，不担心信用评级被下调，认为没有理由会发生评级下调，因印尼经济正在改善，且赤字受控。",
+          "url": "https://wallstreetcn.com/livenews/3051105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 13时54分]"
+        },
+        {
+          "title": "加拿大央行行长：若在经济未完全适应结构性变化下降息 恐助推通胀",
+          "url": "https://flash.jin10.com/detail/20260206031316368800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 04时35分]"
+        },
+        {
+          "title": "Panmure Liberum策略主管Joachim Klement指出：美国疲软的就业数据最直观地反映了其K型经济特征，科技行业蓬勃发展，其余领域却因关税攀升和需求萎缩而陷入困境。",
+          "url": "https://wallstreetcn.com/livenews/3050829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时51分 ~ 03时38分]"
+        },
+        {
+          "title": "经济学家警告比特币持续暴跌风险",
+          "url": "https://www.toutiao.com/trending/7603358148941843974/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时37分 ~ 03时38分]"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：如果经济疲弱是由于生产能力下降而非需求的周期性下滑所致，那么在经济疲弱的情况下降息可能会加剧通胀。",
+          "url": "https://flash.jin10.com/detail/20260206013038029800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "澳洲联储主席Michele Bullock出席澳大利亚议会听证会：自从2022年出现峰值以来，（澳大利亚）通胀“大幅”回落。 联储正关注通胀回升是顽固的，还是暂时性的。 某些通胀上升似乎是顽固的。 预计通胀在2027年年中之前不会重返（政策）目标区间之内。 诸多指标暗示，澳洲就业市场条件是紧俏的，认为劳动力市场仍然“略微紧俏”。 全球经济仍然面临重大的不确定性",
+          "url": "https://wallstreetcn.com/livenews/3050914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "欧洲央行管委兼法国央行行长Villeroy：我们在通胀方面处于良好状态。 通胀下行风险可能更为显著。 欧洲央行没有汇率目标，但汇率对经济活动很重要。 正密切关注外汇市场。",
+          "url": "https://wallstreetcn.com/livenews/3051175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：很难区分结构性变化与周期性波动；我们必须小心，不要误判经济的疲弱。",
+          "url": "https://flash.jin10.com/detail/20260206013002853800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "法国兴业银行第四季度净利润14.2亿欧元，同比增长36%，市场预估12.2亿欧元。 第四季度股票业务收入7.89亿欧元，同比下降5.4%，市场预估8.35亿欧元。 第四季度经营利润19.7亿欧元，同比增长17%，市场预估18.9亿欧元。 预计全年有形股本回报率增长超过10％。 法国兴业银行计划回购14.6亿欧元股份。",
+          "url": "https://wallstreetcn.com/livenews/3051127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "欧洲央行管委Stournaras：欧元区经济已经经受住了关税带来的冲击。 我们处于一个稳定的均衡状态。 正在监控汇率，已将更高的欧元汇率纳入基线预测。 欧元升值幅度并不剧烈。 并未特别关注某一具体汇率水平。 欧洲央行目前处于良好状态。 风险已实现均衡。",
+          "url": "https://wallstreetcn.com/livenews/3051170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "澳洲联储主席布洛克：除非经济供给端能够稍微更快地扩张，否则我们需要抑制需求增长。",
+          "url": "https://flash.jin10.com/detail/20260206063841697800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "美国财长贝森特：加拿大游客下滑，这可能在一定程度上与他们糟糕的经济有关。",
+          "url": "https://wallstreetcn.com/livenews/3050785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时50分"
+        },
+        {
+          "title": "欧洲央行管委Muller：去年12月的展望仍是决策的良好基础。 短期内经济保持平衡。",
+          "url": "https://wallstreetcn.com/livenews/3051284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：人工智能的兴起有可能将经济推向更高轨道并提高生活水平；但迄今为止，几乎没有证据表明人工智能正在提高生产力。",
+          "url": "https://flash.jin10.com/detail/20260206012842466800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "欧洲央行调查：今年经济增长率预计为1.2%，高于三个月前预期的1.1%。",
+          "url": "https://flash.jin10.com/detail/20260206170023536800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：加拿大经济的重组和生产率的提升将需要数年时间。",
+          "url": "https://flash.jin10.com/detail/20260206012808718800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "墨西哥央行：美国新政府经济政策的变动持续为预测增添不确定性。",
+          "url": "https://flash.jin10.com/detail/20260206030536579800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时38分"
+        },
+        {
+          "title": "印尼财长：经济基本面依然强劲，无需担心债务违约。",
+          "url": "https://flash.jin10.com/detail/20260206125656969800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：（在被问及央行的经济预测时）我们不可能对美国总统特朗普的每一项威胁都做出回应。那样的话，我们就是在自掘坟墓。",
+          "url": "https://flash.jin10.com/detail/20260206022354312800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "欧洲央行管委穆勒：经济短期内保持平衡。",
+          "url": "https://flash.jin10.com/detail/20260206165407090800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：“深刻的结构性变化”正在重塑经济。",
+          "url": "https://flash.jin10.com/detail/20260206012744025800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：加拿大（企业）高管“需要调整”以适应新的经济现实。",
+          "url": "https://flash.jin10.com/detail/20260206012735473800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "一财：房地产交付难风险基本化解",
+          "url": "https://wallstreetcn.com/livenews/3050992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：人工智能带来的生产率提升意味着加拿大经济可以在不增加通胀压力的情况下实现更强劲的增长。",
+          "url": "https://flash.jin10.com/detail/20260206021740650800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：2%的CPI目标将在经济结构性转变期间成为“政策灯塔”。",
+          "url": "https://flash.jin10.com/detail/20260206012651266800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "日本央行委员增一行：若经济和物价符合日本央行的预期将加息。",
+          "url": "https://flash.jin10.com/detail/20260206093240550800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：预计未来两年经济增长率平均为1.5%。",
+          "url": "https://flash.jin10.com/detail/20260206012632277800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "日本央行委员增一行：日本央行正密切关注外汇市场走势及其对经济和物价的影响。",
+          "url": "https://flash.jin10.com/detail/20260206093226272800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：向新经济模式的转变可能会比我们预期的更加艰难。",
+          "url": "https://flash.jin10.com/detail/20260206012622166800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "印度央行：贸易协议将使得经济增长动能得以在更长一段时间内维持。",
+          "url": "https://wallstreetcn.com/livenews/3051110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "欧洲央行管委卡扎克斯：欧元大幅且快速走强将通过削弱竞争力和经济活动来降低通胀前景，从而可能引发政策回应。",
+          "url": "https://flash.jin10.com/detail/20260206151226391800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "印度央行行长：2027财年经济活动将表现良好。上调通胀预测以反映贵金属价格。服务行业将保持韧性。",
+          "url": "https://flash.jin10.com/detail/20260206123731622800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "农业农村部：深化农村集体产权制度改革，不对集体收入提硬性目标",
+          "url": "https://wallstreetcn.com/livenews/3050981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "印尼Danantara主权基金：穆迪确认投资级评级体现了对印尼经济韧性、财政纪律及长期增长前景的信心。",
+          "url": "https://flash.jin10.com/detail/20260206111409334800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "印度央行行长：当前政策利率是适当的。印度经济正沿着稳步改善的轨道发展。",
+          "url": "https://flash.jin10.com/detail/20260206123555759800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -19,6 +468,17 @@
           "time_info": "[00时50分 ~ 06时28分]"
         },
         {
+          "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
+          "url": "https://wallstreetcn.com/articles/3765096",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时03分 ~ 17时43分]"
+        },
+        {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3764994",
           "source": "华尔街见闻",
@@ -30,31 +490,16 @@
           "time_info": "[00时50分 ~ 06时28分]"
         },
         {
-          "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
-          "url": "https://wallstreetcn.com/articles/3765096",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 16时42分]"
-        },
-        {
-          "title": "UP主们用AI办了场春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
+          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
+          "url": "https://www.cls.cn/detail/2282565",
+          "source": "财联社热门",
           "ranks": [
             3,
-            2,
-            23,
-            25,
-            22,
-            18
+            1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时50分 ~ 16时42分]"
+          "appearance_count": 8,
+          "time_info": "[12时47分 ~ 17时43分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -71,16 +516,21 @@
           "time_info": "[00时50分 ~ 07时23分]"
         },
         {
-          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
-          "url": "https://www.cls.cn/detail/2282565",
-          "source": "财联社热门",
+          "title": "UP主们用AI办了场春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
           "ranks": [
             3,
-            1
+            2,
+            23,
+            25,
+            22,
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时47分 ~ 16时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时50分 ~ 17时43分]"
         },
         {
           "title": "宇树机器人在 -47.4°C 阿勒泰自主行走 13 万步，实现了哪些突破？极寒环境对人形机器人有哪些挑战？",
@@ -97,6 +547,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时50分 ~ 07时23分]"
+        },
+        {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时03分 ~ 17时43分]"
         },
         {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
@@ -124,15 +586,19 @@
           "time_info": "[07时23分 ~ 15时47分]"
         },
         {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
+          "title": "机器人商场表演时一脚踢飞路过大爷，之后双双倒地不起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32541813",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            15,
+            14,
+            13,
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 16时42分]"
+          "appearance_count": 8,
+          "time_info": "[12时47分 ~ 17时43分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
@@ -144,20 +610,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "机器人商场表演时一脚踢飞路过大爷，之后双双倒地不起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32541813",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时47分 ~ 16时42分]"
         },
         {
           "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
@@ -233,6 +685,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时51分 ~ 04时35分]"
+        },
+        {
+          "title": "微信连环封禁千问、元宝红包口令 AI春节获客大战遇阻",
+          "url": "https://www.cls.cn/detail/2282814",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 17时43分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：5.3-Codex是我们首个在网络安全准备框架中达到“高”级别标准的模型。我们正在试行一个“可信访问”框架，并投入1000万美元的API信用额度以加快网络安全防御工作。",
@@ -442,414 +905,20 @@
       ]
     },
     {
-      "keyword_group": "经济 房地产 收入",
-      "match_count": 36,
+      "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
+      "match_count": 2,
       "titles": [
         {
-          "title": "澳洲联储主席Bullock：海外同行（其他国家/地区的央行）也对全球经济的强度感到惊讶。",
-          "url": "https://wallstreetcn.com/livenews/3050918",
+          "title": "预计美日投资首轮金额为6万亿至7万亿日元，投资项目拟包括天然气发电和港口。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3051297",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时23分"
+          "time_info": "17时43分"
         },
-        {
-          "title": "日本央行委员增一行：关税影响正在减弱，几乎未对日本经济产生负面影响。",
-          "url": "https://flash.jin10.com/detail/20260206094232662800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "日本央行委员增一行：如果经济展望实现，将提高利率。 物价趋势正迈向2%，基础通胀仍低于2%，但已相当接近该水平。 日本央行密切关注外汇市场的波动及其对经济和物价的影响。 必须警惕日元走弱引发的通胀是否会推高整体物价水平，以及是否会影响基础通胀。 显而易见，通缩习俗正在被根除，日本正进入通胀时期。 关键在于以及时且恰当的方式加息，以确保基础通胀率不会超过2%。 日本央行还必须谨慎行动，避免过度加息破坏刚刚开始转动的“通胀与工资适度上涨”的循环。 日本央行在审查未来购债进度时，必须仔细研判市场动态。 日本的实际利率目前仍然处于深度的负值区间。",
-          "url": "https://wallstreetcn.com/livenews/3051017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：对于经济动荡的应对将决定未来的繁荣。",
-          "url": "https://flash.jin10.com/detail/20260206013101490800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "印尼财长表示，不担心信用评级被下调，认为没有理由会发生评级下调，因印尼经济正在改善，且赤字受控。",
-          "url": "https://wallstreetcn.com/livenews/3051105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 13时54分]"
-        },
-        {
-          "title": "加拿大央行行长：若在经济未完全适应结构性变化下降息 恐助推通胀",
-          "url": "https://flash.jin10.com/detail/20260206031316368800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时35分]"
-        },
-        {
-          "title": "Panmure Liberum策略主管Joachim Klement指出：美国疲软的就业数据最直观地反映了其K型经济特征，科技行业蓬勃发展，其余领域却因关税攀升和需求萎缩而陷入困境。",
-          "url": "https://wallstreetcn.com/livenews/3050829",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 03时38分]"
-        },
-        {
-          "title": "经济学家警告比特币持续暴跌风险",
-          "url": "https://www.toutiao.com/trending/7603358148941843974/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 03时38分]"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：如果经济疲弱是由于生产能力下降而非需求的周期性下滑所致，那么在经济疲弱的情况下降息可能会加剧通胀。",
-          "url": "https://flash.jin10.com/detail/20260206013038029800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "澳洲联储主席Michele Bullock出席澳大利亚议会听证会：自从2022年出现峰值以来，（澳大利亚）通胀“大幅”回落。 联储正关注通胀回升是顽固的，还是暂时性的。 某些通胀上升似乎是顽固的。 预计通胀在2027年年中之前不会重返（政策）目标区间之内。 诸多指标暗示，澳洲就业市场条件是紧俏的，认为劳动力市场仍然“略微紧俏”。 全球经济仍然面临重大的不确定性",
-          "url": "https://wallstreetcn.com/livenews/3050914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "欧洲央行管委兼法国央行行长Villeroy：我们在通胀方面处于良好状态。 通胀下行风险可能更为显著。 欧洲央行没有汇率目标，但汇率对经济活动很重要。 正密切关注外汇市场。",
-          "url": "https://wallstreetcn.com/livenews/3051175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：很难区分结构性变化与周期性波动；我们必须小心，不要误判经济的疲弱。",
-          "url": "https://flash.jin10.com/detail/20260206013002853800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "法国兴业银行第四季度净利润14.2亿欧元，同比增长36%，市场预估12.2亿欧元。 第四季度股票业务收入7.89亿欧元，同比下降5.4%，市场预估8.35亿欧元。 第四季度经营利润19.7亿欧元，同比增长17%，市场预估18.9亿欧元。 预计全年有形股本回报率增长超过10％。 法国兴业银行计划回购14.6亿欧元股份。",
-          "url": "https://wallstreetcn.com/livenews/3051127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "欧洲央行管委Stournaras：欧元区经济已经经受住了关税带来的冲击。 我们处于一个稳定的均衡状态。 正在监控汇率，已将更高的欧元汇率纳入基线预测。 欧元升值幅度并不剧烈。 并未特别关注某一具体汇率水平。 欧洲央行目前处于良好状态。 风险已实现均衡。",
-          "url": "https://wallstreetcn.com/livenews/3051170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "澳洲联储主席布洛克：除非经济供给端能够稍微更快地扩张，否则我们需要抑制需求增长。",
-          "url": "https://flash.jin10.com/detail/20260206063841697800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美国财长贝森特：加拿大游客下滑，这可能在一定程度上与他们糟糕的经济有关。",
-          "url": "https://wallstreetcn.com/livenews/3050785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：人工智能的兴起有可能将经济推向更高轨道并提高生活水平；但迄今为止，几乎没有证据表明人工智能正在提高生产力。",
-          "url": "https://flash.jin10.com/detail/20260206012842466800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：加拿大经济的重组和生产率的提升将需要数年时间。",
-          "url": "https://flash.jin10.com/detail/20260206012808718800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "墨西哥央行：美国新政府经济政策的变动持续为预测增添不确定性。",
-          "url": "https://flash.jin10.com/detail/20260206030536579800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
-          "title": "印尼财长：经济基本面依然强劲，无需担心债务违约。",
-          "url": "https://flash.jin10.com/detail/20260206125656969800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：（在被问及央行的经济预测时）我们不可能对美国总统特朗普的每一项威胁都做出回应。那样的话，我们就是在自掘坟墓。",
-          "url": "https://flash.jin10.com/detail/20260206022354312800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时51分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：“深刻的结构性变化”正在重塑经济。",
-          "url": "https://flash.jin10.com/detail/20260206012744025800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：加拿大（企业）高管“需要调整”以适应新的经济现实。",
-          "url": "https://flash.jin10.com/detail/20260206012735473800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "一财：房地产交付难风险基本化解",
-          "url": "https://wallstreetcn.com/livenews/3050992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：人工智能带来的生产率提升意味着加拿大经济可以在不增加通胀压力的情况下实现更强劲的增长。",
-          "url": "https://flash.jin10.com/detail/20260206021740650800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时51分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：2%的CPI目标将在经济结构性转变期间成为“政策灯塔”。",
-          "url": "https://flash.jin10.com/detail/20260206012651266800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "日本央行委员增一行：若经济和物价符合日本央行的预期将加息。",
-          "url": "https://flash.jin10.com/detail/20260206093240550800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：预计未来两年经济增长率平均为1.5%。",
-          "url": "https://flash.jin10.com/detail/20260206012632277800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "日本央行委员增一行：日本央行正密切关注外汇市场走势及其对经济和物价的影响。",
-          "url": "https://flash.jin10.com/detail/20260206093226272800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：向新经济模式的转变可能会比我们预期的更加艰难。",
-          "url": "https://flash.jin10.com/detail/20260206012622166800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "印度央行：贸易协议将使得经济增长动能得以在更长一段时间内维持。",
-          "url": "https://wallstreetcn.com/livenews/3051110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "欧洲央行管委卡扎克斯：欧元大幅且快速走强将通过削弱竞争力和经济活动来降低通胀前景，从而可能引发政策回应。",
-          "url": "https://flash.jin10.com/detail/20260206151226391800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "印度央行行长：2027财年经济活动将表现良好。上调通胀预测以反映贵金属价格。服务行业将保持韧性。",
-          "url": "https://flash.jin10.com/detail/20260206123731622800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "农业农村部：深化农村集体产权制度改革，不对集体收入提硬性目标",
-          "url": "https://wallstreetcn.com/livenews/3050981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "印尼Danantara主权基金：穆迪确认投资级评级体现了对印尼经济韧性、财政纪律及长期增长前景的信心。",
-          "url": "https://flash.jin10.com/detail/20260206111409334800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "印度央行行长：当前政策利率是适当的。印度经济正沿着稳步改善的轨道发展。",
-          "url": "https://flash.jin10.com/detail/20260206123555759800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 1,
-      "titles": [
         {
           "title": "内盘期货多数收跌，沪银跌近15%，铂跌近8%，钯跌逾6%，沪锡跌近6%，烧碱跌逾4%，焦煤跌逾3%，集运欧线、碳酸锂、焦炭、沪镍、沪铜、国际铜、沪金跌逾2%；液化石油气、氧化铝、燃油涨逾1%。",
           "url": "https://wallstreetcn.com/livenews/3051196",
