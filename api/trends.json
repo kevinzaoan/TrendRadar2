@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T05:31:59.226707+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-02-07T06:24:38.714807+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时24分]"
         },
         {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时24分]"
         },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
@@ -38,8 +38,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时24分]"
         },
         {
           "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
@@ -49,8 +49,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时24分]"
         },
         {
           "title": "苹果计划允许第三方语音控制AI聊天机器人接入CarPlay",
@@ -60,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[04时35分 ~ 06时24分]"
         },
         {
           "title": "Gravity AI：拟申请在纳斯达克资本市场上市，正提交IPO申请，拟发行375万股，每股发行价格暂定为4.00美元，处于4.00美元至5.00美元发行区间低端。",
@@ -71,8 +71,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[04时35分 ~ 06时24分]"
         },
         {
           "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
@@ -82,8 +82,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[04时35分 ~ 06时24分]"
         },
         {
           "title": "据媒体报道：Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。",
@@ -92,7 +92,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -108,36 +108,23 @@
           "time_info": "01时41分"
         },
         {
+          "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
+          "url": "https://www.cls.cn/detail/2283020",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 06时24分]"
+        },
+        {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
           "url": "https://www.cls.cn/detail/2282989",
           "source": "财联社热门",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时38分]"
-        },
-        {
-          "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
-          "url": "https://www.cls.cn/detail/2283020",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 05时31分]"
-        },
-        {
-          "title": "UP主们用AI办了场春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            26,
-            21,
-            23
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -152,8 +139,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 05时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 06时24分]"
+        },
+        {
+          "title": "UP主们用AI办了场春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            26,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 03时38分]"
         },
         {
           "title": "高盛引入Anthropic的Claude，实现会计及合规角色自动化",
@@ -182,6 +183,17 @@
           "time_info": "[00时44分 ~ 02时52分]"
         },
         {
+          "title": "市场消息：苹果(AAPL.O)将允许在CarPlay AI中使用外部语音控制聊天机器人。",
+          "url": "https://flash.jin10.com/detail/20260207032751728800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时35分 ~ 06时24分]"
+        },
+        {
           "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
           "url": "https://wallstreetcn.com/livenews/3051561",
           "source": "华尔街见闻-快讯",
@@ -192,6 +204,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时41分 ~ 02时52分]"
+        },
+        {
+          "title": "报道：苹果车载迎来战略转变，计划开放第三方语音AI助手",
+          "url": "https://wallstreetcn.com/livenews/3051609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时24分]"
         },
         {
           "title": "市场消息：高盛引入Anthropic的Claude模型以实现会计和合规工作自动化。",
@@ -206,26 +230,15 @@
           "time_info": "[02时52分 ~ 03时38分]"
         },
         {
-          "title": "市场消息：苹果(AAPL.O)将允许在CarPlay AI中使用外部语音控制聊天机器人。",
-          "url": "https://flash.jin10.com/detail/20260207032751728800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时31分]"
-        },
-        {
-          "title": "报道：苹果车载迎来战略转变，计划开放第三方语音AI助手",
-          "url": "https://wallstreetcn.com/livenews/3051609",
+          "title": "Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3051623",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时31分"
+          "time_info": "06时24分"
         },
         {
           "title": "美媒：OpenAI正与阿布扎比企业洽谈，以为阿联酋打造一款专属ChatGPT",
@@ -297,7 +310,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美联储副主席杰斐逊：当前的货币政策对诸多风险准备就绪。 劳动力市场大致平衡，但仍然存在下行风险。 一旦（美国总统特朗普挑起的）关税的影响过去，通胀有望再次放缓。 强劲的生产力增速可能会推高中性利率。 生产力增速可能有助于遏制通胀。 我已经将自己对2026年经济增长速度的预期上修至2.2%。",
@@ -333,6 +346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：预计（2025年）美国GDP增速将从5%略微放缓至4.5%。 预计今年经济增速将超过3%。 （企业）利润正在激增，薪资正在赶上。（福克斯商业新闻）",
+          "url": "https://wallstreetcn.com/livenews/3051628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         },
         {
           "title": "美联储副主席杰斐逊：美联储的立场为经济的供给侧发展提供了“回旋余地”。",
