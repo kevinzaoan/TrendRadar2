@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T15:47:41.644086+08:00",
-  "total_titles_processed": 1330,
+  "generated_at": "2026-02-06T16:42:13.079115+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,17 @@
           "time_info": "[00时50分 ~ 06时28分]"
         },
         {
+          "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
+          "url": "https://wallstreetcn.com/articles/3765096",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时03分 ~ 16时42分]"
+        },
+        {
           "title": "UP主们用AI办了场春晚",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
           "source": "bilibili 热搜",
@@ -38,11 +49,12 @@
             2,
             23,
             25,
-            22
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时50分 ~ 15时47分]"
+          "appearance_count": 17,
+          "time_info": "[00时50分 ~ 16时42分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -57,6 +69,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时50分 ~ 07时23分]"
+        },
+        {
+          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
+          "url": "https://www.cls.cn/detail/2282565",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 16时42分]"
         },
         {
           "title": "宇树机器人在 -47.4°C 阿勒泰自主行走 13 万步，实现了哪些突破？极寒环境对人形机器人有哪些挑战？",
@@ -75,17 +99,6 @@
           "time_info": "[00时50分 ~ 07时23分]"
         },
         {
-          "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
-          "url": "https://wallstreetcn.com/articles/3765096",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时03分 ~ 15时47分]"
-        },
-        {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
           "url": "https://www.cls.cn/detail/2281879",
           "source": "财联社热门",
@@ -97,17 +110,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时50分 ~ 06时28分]"
-        },
-        {
-          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
-          "url": "https://www.cls.cn/detail/2282565",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时47分 ~ 15时47分]"
         },
         {
           "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
@@ -122,6 +124,17 @@
           "time_info": "[07时23分 ~ 15时47分]"
         },
         {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时03分 ~ 16时42分]"
+        },
+        {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
           "url": "https://wallstreetcn.com/articles/3765023",
           "source": "华尔街见闻",
@@ -131,6 +144,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "机器人商场表演时一脚踢飞路过大爷，之后双双倒地不起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32541813",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 16时42分]"
         },
         {
           "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
@@ -154,17 +181,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
-        },
-        {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时03分 ~ 15时47分]"
         },
         {
           "title": "唐宫奇案剧宣闯入ai赛道",
@@ -204,20 +220,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时35分]"
-        },
-        {
-          "title": "机器人商场表演时一脚踢飞路过大爷，之后双双倒地不起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32541813",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时47分 ~ 15时47分]"
         },
         {
           "title": "OpenAI创始人Altman：GPT-5.3-Codex来了！ 它拥有最佳编码性能，任务执行过程中的可操控性和实时更新功能，对于相同任务处理量，它仅需5.2-Codex一半的tokens，单 token处理速度提升25%以上，此外，它将能高效利用计算机资源。",
@@ -794,7 +796,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -855,7 +857,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         }
