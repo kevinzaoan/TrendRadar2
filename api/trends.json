@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T14:55:57.436152+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2026-02-06T15:47:41.644086+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
             3,
             2,
             23,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 14时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 15时47分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -74,6 +75,17 @@
           "time_info": "[00时50分 ~ 07时23分]"
         },
         {
+          "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
+          "url": "https://wallstreetcn.com/articles/3765096",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 15时47分]"
+        },
+        {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
           "url": "https://www.cls.cn/detail/2281879",
           "source": "财联社热门",
@@ -87,17 +99,6 @@
           "time_info": "[00时50分 ~ 06时28分]"
         },
         {
-          "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
-          "url": "https://wallstreetcn.com/articles/3765096",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 14时55分]"
-        },
-        {
           "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
           "url": "https://www.cls.cn/detail/2282565",
           "source": "财联社热门",
@@ -105,8 +106,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 14时55分]"
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 15时47分]"
         },
         {
           "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
@@ -117,8 +118,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 14时55分]"
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 15时47分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
@@ -132,6 +133,18 @@
           "time_info": "07时23分"
         },
         {
+          "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
+          "url": "https://www.cls.cn/detail/2282228",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 15时47分]"
+        },
+        {
           "title": "A股三大指数均跌超1%，贵金属、AI应用、油气、零售等方向跌幅居前，沪深京三市下跌个股近4500只。",
           "url": "https://wallstreetcn.com/livenews/3051015",
           "source": "华尔街见闻-快讯",
@@ -141,6 +154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 15时47分]"
         },
         {
           "title": "唐宫奇案剧宣闯入ai赛道",
@@ -170,18 +194,6 @@
           "time_info": "[03时38分 ~ 05时29分]"
         },
         {
-          "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
-          "url": "https://www.cls.cn/detail/2282228",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 14时55分]"
-        },
-        {
           "title": "Anthropic发布新AI 金融服务公司承压",
           "url": "https://flash.jin10.com/detail/20260206032448754800",
           "source": "金十数据",
@@ -194,15 +206,18 @@
           "time_info": "[03时38分 ~ 04时35分]"
         },
         {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
+          "title": "机器人商场表演时一脚踢飞路过大爷，之后双双倒地不起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32541813",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            15,
+            14,
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时03分 ~ 14时55分]"
+          "time_info": "[12时47分 ~ 15时47分]"
         },
         {
           "title": "OpenAI创始人Altman：GPT-5.3-Codex来了！ 它拥有最佳编码性能，任务执行过程中的可操控性和实时更新功能，对于相同任务处理量，它仅需5.2-Codex一半的tokens，单 token处理速度提升25%以上，此外，它将能高效利用计算机资源。",
@@ -216,19 +231,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时51分 ~ 04时35分]"
-        },
-        {
-          "title": "机器人商场表演时一脚踢飞路过大爷，之后双双倒地不起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32541813",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 14时55分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：5.3-Codex是我们首个在网络安全准备框架中达到“高”级别标准的模型。我们正在试行一个“可信访问”框架，并投入1000万美元的API信用额度以加快网络安全防御工作。",
@@ -376,7 +378,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -409,7 +411,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -439,7 +441,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "澳洲联储主席Bullock：海外同行（其他国家/地区的央行）也对全球经济的强度感到惊讶。",
@@ -561,7 +563,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -594,7 +596,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -786,6 +788,17 @@
           "time_info": "13时54分"
         },
         {
+          "title": "欧洲央行管委卡扎克斯：欧元大幅且快速走强将通过削弱竞争力和经济活动来降低通胀前景，从而可能引发政策回应。",
+          "url": "https://flash.jin10.com/detail/20260206151226391800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
           "title": "印度央行行长：2027财年经济活动将表现良好。上调通胀预测以反映贵金属价格。服务行业将保持韧性。",
           "url": "https://flash.jin10.com/detail/20260206123731622800",
           "source": "金十数据",
@@ -828,6 +841,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "内盘期货多数收跌，沪银跌近15%，铂跌近8%，钯跌逾6%，沪锡跌近6%，烧碱跌逾4%，焦煤跌逾3%，集运欧线、碳酸锂、焦炭、沪镍、沪铜、国际铜、沪金跌逾2%；液化石油气、氧化铝、燃油涨逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3051196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
         }
       ]
     }
