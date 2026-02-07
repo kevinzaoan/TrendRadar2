@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-02-07T22:27:43.211162+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2026-02-07T23:26:28.035551+08:00",
+  "total_titles_processed": 1536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
       "match_count": 49,
       "titles": [
-        {
-          "title": "UP主联合自制AI春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时42分 ~ 22时27分]"
-        },
         {
           "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
           "url": "https://wallstreetcn.com/articles/3765096",
@@ -33,6 +20,20 @@
           "time_info": "[00时44分 ~ 07时30分]"
         },
         {
+          "title": "UP主联合自制AI春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[13时42分 ~ 23时26分]"
+        },
+        {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
           "url": "https://www.cls.cn/detail/2283350",
           "source": "财联社热门",
@@ -43,8 +44,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时13分 ~ 22时27分]"
+          "appearance_count": 16,
+          "time_info": "[12时13分 ~ 23时26分]"
         },
         {
           "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
@@ -88,8 +89,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时41分 ~ 22时27分]"
+          "appearance_count": 13,
+          "time_info": "[14时41分 ~ 23时26分]"
         },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
@@ -266,6 +267,21 @@
           "time_info": "[12时13分 ~ 17时31分]"
         },
         {
+          "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
+          "url": "https://wallstreetcn.com/livenews/3051719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            13,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时22分 ~ 23时26分]"
+        },
+        {
           "title": "据媒体报道：Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。",
           "url": "https://wallstreetcn.com/livenews/3051623",
           "source": "华尔街见闻-快讯",
@@ -303,20 +319,6 @@
           "time_info": "01时41分"
         },
         {
-          "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
-          "url": "https://wallstreetcn.com/livenews/3051719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时22分 ~ 22时27分]"
-        },
-        {
           "title": "百度AI生成他人虚假犯罪信息案开庭，百度答辩：系AI幻觉，非故意所为",
           "url": "https://wallstreetcn.com/livenews/3051704",
           "source": "华尔街见闻-快讯",
@@ -340,6 +342,31 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 03时38分]"
+        },
+        {
+          "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
+          "url": "https://wallstreetcn.com/articles/3765198",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时43分 ~ 23时26分]"
+        },
+        {
+          "title": "小米推出触觉驱动的机器人精细抓取微调模型TacRefineNet",
+          "url": "https://wallstreetcn.com/livenews/3051722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            11,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时49分 ~ 23时26分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)将允许在CarPlay AI中使用外部语音控制聊天机器人。",
@@ -379,17 +406,6 @@
           "time_info": "[09时59分 ~ 12时13分]"
         },
         {
-          "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
-          "url": "https://wallstreetcn.com/articles/3765198",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时43分 ~ 22时27分]"
-        },
-        {
           "title": "高盛引入Anthropic的Claude，实现会计及合规角色自动化",
           "url": "https://wallstreetcn.com/livenews/3051595",
           "source": "华尔街见闻-快讯",
@@ -401,19 +417,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时38分 ~ 05时31分]"
-        },
-        {
-          "title": "小米推出触觉驱动的机器人精细抓取微调模型TacRefineNet",
-          "url": "https://wallstreetcn.com/livenews/3051722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时49分 ~ 22时27分]"
         },
         {
           "title": "AI 能救得了 SaaS 么？",
@@ -489,6 +492,17 @@
           "time_info": "[02时52分 ~ 03时38分]"
         },
         {
+          "title": "从“AI红包大战”透视互联网流量重构：留存才是真正的考验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32556126",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时26分]"
+        },
+        {
           "title": "阿里如何用AI重新定义自己",
           "url": "https://www.toutiao.com/trending/7603783138296204806/",
           "source": "今日头条",
@@ -531,17 +545,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
-        },
-        {
-          "title": "从“AI红包大战”透视互联网流量重构：留存才是真正的考验",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32556126",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
         },
         {
           "title": "美媒：OpenAI正与阿布扎比企业洽谈，以为阿联酋打造一款专属ChatGPT",
@@ -651,11 +654,12 @@
             1,
             11,
             12,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时22分 ~ 22时27分]"
+          "appearance_count": 5,
+          "time_info": "[19时22分 ~ 23时26分]"
         },
         {
           "title": "监管部门：今年北京将重点查处平台经济领域垄断行为",
@@ -665,11 +669,12 @@
             4,
             14,
             15,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时22分 ~ 22时27分]"
+          "appearance_count": 5,
+          "time_info": "[19时22分 ~ 23时26分]"
         },
         {
           "title": "巴西总统卢拉：我接受了央行自治（独立性）的理念。 我不会因为高水平的利率而哭哭啼啼的。 巴西需要经济稳定性、财政稳定性、社会稳定性、法律稳定性，以及可预见性。 我们配置3000亿巴西雷亚尔的信用措施，来刺激所有行业的活动，这使得经济实现了增长。 巴西失业率创历史最低。 巴西股市在1月份获得外国资金流入，超过了2025年的（月度）最高水平。（地方广播电台TV Aratu）",
@@ -707,8 +712,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 20时49分]"
+          "appearance_count": 4,
+          "time_info": "[19时22分 ~ 23时26分]"
         },
         {
           "title": "美联储副主席杰斐逊：当前的货币政策对诸多风险准备就绪。 劳动力市场大致平衡，但仍然存在下行风险。 一旦（美国总统特朗普挑起的）关税的影响过去，通胀有望再次放缓。 强劲的生产力增速可能会推高中性利率。 生产力增速可能有助于遏制通胀。 我已经将自己对2026年经济增长速度的预期上修至2.2%。",
@@ -802,11 +807,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时27分]"
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时26分]"
         },
         {
           "title": "乌克兰能源部长：俄罗斯袭击了乌克兰的能源发电与配电设施。",
