@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T20:49:07.285970+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2026-02-07T21:44:15.646506+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "UP主联合自制AI春晚",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时42分 ~ 20时49分]"
+          "appearance_count": 13,
+          "time_info": "[13时42分 ~ 21时44分]"
         },
         {
           "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
@@ -42,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时13分 ~ 20时49分]"
+          "appearance_count": 14,
+          "time_info": "[12时13分 ~ 21时44分]"
         },
         {
           "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
@@ -83,11 +83,12 @@
             8,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时41分 ~ 20时49分]"
+          "appearance_count": 11,
+          "time_info": "[14时41分 ~ 21时44分]"
         },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
@@ -207,16 +208,18 @@
           "time_info": "[12时13分 ~ 17时31分]"
         },
         {
-          "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
-          "url": "https://www.cls.cn/detail/2283020",
-          "source": "财联社热门",
+          "title": "你认为AI会替代软件开发吗",
+          "url": "https://www.toutiao.com/trending/7603910615171301402/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            12
+            19,
+            8,
+            7,
+            18
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时44分 ~ 07时30分]"
+          "time_info": "[16时32分 ~ 21时44分]"
         },
         {
           "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
@@ -230,8 +233,20 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时32分 ~ 20时49分]"
+          "appearance_count": 6,
+          "time_info": "[16时32分 ~ 21时44分]"
+        },
+        {
+          "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
+          "url": "https://www.cls.cn/detail/2283020",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 07时30分]"
         },
         {
           "title": "AI引发风格轮动，对冲基金遭遇数月来表现最差的一天",
@@ -287,19 +302,6 @@
           "time_info": "01时41分"
         },
         {
-          "title": "你认为AI会替代软件开发吗",
-          "url": "https://www.toutiao.com/trending/7603910615171301402/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时32分 ~ 20时49分]"
-        },
-        {
           "title": "百度AI生成他人虚假犯罪信息案开庭，百度答辩：系AI幻觉，非故意所为",
           "url": "https://wallstreetcn.com/livenews/3051704",
           "source": "华尔街见闻-快讯",
@@ -314,6 +316,19 @@
           "time_info": "[17时31分 ~ 20时49分]"
         },
         {
+          "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
+          "url": "https://wallstreetcn.com/livenews/3051719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 21时44分]"
+        },
+        {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
           "url": "https://www.cls.cn/detail/2282989",
           "source": "财联社热门",
@@ -323,18 +338,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 03时38分]"
-        },
-        {
-          "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
-          "url": "https://wallstreetcn.com/livenews/3051719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时49分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)将允许在CarPlay AI中使用外部语音控制聊天机器人。",
@@ -400,6 +403,17 @@
           "time_info": "[00时44分 ~ 02时52分]"
         },
         {
+          "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
+          "url": "https://wallstreetcn.com/articles/3765198",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 21时44分]"
+        },
+        {
           "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
           "url": "https://wallstreetcn.com/livenews/3051561",
           "source": "华尔街见闻-快讯",
@@ -410,6 +424,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时41分 ~ 02时52分]"
+        },
+        {
+          "title": "小米推出触觉驱动的机器人精细抓取微调模型TacRefineNet",
+          "url": "https://wallstreetcn.com/livenews/3051722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 21时44分]"
         },
         {
           "title": "百度AI生成他人虚假犯罪信息案开庭，百度答辩：系AI幻觉，非故意所为",
@@ -469,17 +495,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时42分 ~ 13时43分]"
-        },
-        {
-          "title": "小米推出触觉驱动的机器人精细抓取微调模型TacRefineNet",
-          "url": "https://wallstreetcn.com/livenews/3051722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
         },
         {
           "title": "AI考验我人脉的时候到了",
@@ -615,6 +630,19 @@
           "time_info": "[13时43分 ~ 19时22分]"
         },
         {
+          "title": "特朗普在经济演讲中宣称通胀胜利近20次，尽管物价高企",
+          "url": "https://wallstreetcn.com/livenews/3051720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 21时44分]"
+        },
+        {
           "title": "巴西总统卢拉：我接受了央行自治（独立性）的理念。 我不会因为高水平的利率而哭哭啼啼的。 巴西需要经济稳定性、财政稳定性、社会稳定性、法律稳定性，以及可预见性。 我们配置3000亿巴西雷亚尔的信用措施，来刺激所有行业的活动，这使得经济实现了增长。 巴西失业率创历史最低。 巴西股市在1月份获得外国资金流入，超过了2025年的（月度）最高水平。（地方广播电台TV Aratu）",
           "url": "https://wallstreetcn.com/livenews/3051647",
           "source": "华尔街见闻-快讯",
@@ -628,28 +656,17 @@
           "time_info": "[07时30分 ~ 12时13分]"
         },
         {
-          "title": "特朗普在经济演讲中宣称通胀胜利近20次，尽管物价高企",
-          "url": "https://wallstreetcn.com/livenews/3051720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时49分]"
-        },
-        {
           "title": "监管部门：今年北京将重点查处平台经济领域垄断行为",
           "url": "https://wallstreetcn.com/livenews/3051716",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时49分]"
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 21时44分]"
         },
         {
           "title": "乌克兰总统泽连斯基：阿布扎比的谈判代表讨论了顿巴斯自由经济区。",
@@ -761,8 +778,19 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "四川省最大天然气发电基地全面建成投产",
+          "url": "https://wallstreetcn.com/livenews/3051732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
         {
           "title": "乌克兰能源部长：俄罗斯袭击了乌克兰的能源发电与配电设施。",
           "url": "https://flash.jin10.com/detail/20260207145501937800",
