@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-07T19:22:25.289339+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2026-02-07T20:49:07.285970+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
+        {
+          "title": "UP主联合自制AI春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时42分 ~ 20时49分]"
+        },
         {
           "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
           "url": "https://wallstreetcn.com/articles/3765096",
@@ -20,18 +32,6 @@
           "time_info": "[00时44分 ~ 07时30分]"
         },
         {
-          "title": "UP主联合自制AI春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时42分 ~ 19时22分]"
-        },
-        {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
           "url": "https://www.cls.cn/detail/2283350",
           "source": "财联社热门",
@@ -42,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时13分 ~ 19时22分]"
+          "appearance_count": 12,
+          "time_info": "[12时13分 ~ 20时49分]"
         },
         {
           "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
@@ -56,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时59分 ~ 19时22分]"
+          "appearance_count": 14,
+          "time_info": "[09时59分 ~ 20时49分]"
         },
         {
           "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
@@ -73,6 +73,21 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时44分 ~ 17时31分]"
+        },
+        {
+          "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
+          "url": "https://wallstreetcn.com/articles/3765209",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时41分 ~ 20时49分]"
         },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
@@ -179,21 +194,6 @@
           "time_info": "[04时35分 ~ 07时30分]"
         },
         {
-          "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
-          "url": "https://wallstreetcn.com/articles/3765209",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时41分 ~ 19时22分]"
-        },
-        {
           "title": "赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩",
           "url": "https://www.cls.cn/detail/2283603",
           "source": "财联社热门",
@@ -217,6 +217,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时44分 ~ 07时30分]"
+        },
+        {
+          "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
+          "url": "https://wallstreetcn.com/livenews/3051701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            12,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时32分 ~ 20时49分]"
         },
         {
           "title": "AI引发风格轮动，对冲基金遭遇数月来表现最差的一天",
@@ -246,17 +261,6 @@
           "time_info": "05时31分"
         },
         {
-          "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
-          "url": "https://wallstreetcn.com/livenews/3051719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
           "title": "存储芯片概念股指数收涨超6.3%，泰瑞达涨超10%，西数涨超8%，AI软件指数本周仍跌约9.4%",
           "url": "https://wallstreetcn.com/livenews/3051663",
           "source": "华尔街见闻-快讯",
@@ -283,18 +287,17 @@
           "time_info": "01时41分"
         },
         {
-          "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
-          "url": "https://wallstreetcn.com/livenews/3051701",
-          "source": "华尔街见闻-快讯",
+          "title": "你认为AI会替代软件开发吗",
+          "url": "https://www.toutiao.com/trending/7603910615171301402/",
+          "source": "今日头条",
           "ranks": [
-            2,
-            6,
-            12,
-            18
+            19,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 19时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时32分 ~ 20时49分]"
         },
         {
           "title": "百度AI生成他人虚假犯罪信息案开庭，百度答辩：系AI幻觉，非故意所为",
@@ -303,11 +306,12 @@
           "ranks": [
             3,
             9,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 19时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 20时49分]"
         },
         {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
@@ -319,6 +323,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 03时38分]"
+        },
+        {
+          "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
+          "url": "https://wallstreetcn.com/livenews/3051719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时49分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)将允许在CarPlay AI中使用外部语音控制聊天机器人。",
@@ -344,19 +360,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 03时38分]"
-        },
-        {
-          "title": "你认为AI会替代软件开发吗",
-          "url": "https://www.toutiao.com/trending/7603910615171301402/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 19时22分]"
         },
         {
           "title": "Claude新模型4.6来了！更多饭碗没了：华尔街财务、编译器、安全白帽、PPT…通通失守",
@@ -466,6 +469,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "小米推出触觉驱动的机器人精细抓取微调模型TacRefineNet",
+          "url": "https://wallstreetcn.com/livenews/3051722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "AI考验我人脉的时候到了",
@@ -601,28 +615,6 @@
           "time_info": "[13时43分 ~ 19时22分]"
         },
         {
-          "title": "特朗普在经济演讲中宣称通胀胜利近20次，尽管物价高企",
-          "url": "https://wallstreetcn.com/livenews/3051720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "监管部门：今年北京将重点查处平台经济领域垄断行为",
-          "url": "https://wallstreetcn.com/livenews/3051716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
           "title": "巴西总统卢拉：我接受了央行自治（独立性）的理念。 我不会因为高水平的利率而哭哭啼啼的。 巴西需要经济稳定性、财政稳定性、社会稳定性、法律稳定性，以及可预见性。 我们配置3000亿巴西雷亚尔的信用措施，来刺激所有行业的活动，这使得经济实现了增长。 巴西失业率创历史最低。 巴西股市在1月份获得外国资金流入，超过了2025年的（月度）最高水平。（地方广播电台TV Aratu）",
           "url": "https://wallstreetcn.com/livenews/3051647",
           "source": "华尔街见闻-快讯",
@@ -636,17 +628,54 @@
           "time_info": "[07时30分 ~ 12时13分]"
         },
         {
+          "title": "特朗普在经济演讲中宣称通胀胜利近20次，尽管物价高企",
+          "url": "https://wallstreetcn.com/livenews/3051720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时49分]"
+        },
+        {
+          "title": "监管部门：今年北京将重点查处平台经济领域垄断行为",
+          "url": "https://wallstreetcn.com/livenews/3051716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时49分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：阿布扎比的谈判代表讨论了顿巴斯自由经济区。",
           "url": "https://flash.jin10.com/detail/20260207170058661800",
           "source": "金十数据",
           "ranks": [
             7,
             15,
-            18
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 20时49分]"
+        },
+        {
+          "title": "《终末地》收入首曝 两周流水12亿",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%BB%88%E6%9C%AB%E5%9C%B0%E3%80%8B%E6%94%B6%E5%85%A5%E9%A6%96%E6%9B%9D+%E4%B8%A4%E5%91%A8%E6%B5%81%E6%B0%B412%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时31分 ~ 19时22分]"
+          "time_info": "[19时22分 ~ 20时49分]"
         },
         {
           "title": "美联储副主席杰斐逊：当前的货币政策对诸多风险准备就绪。 劳动力市场大致平衡，但仍然存在下行风险。 一旦（美国总统特朗普挑起的）关税的影响过去，通胀有望再次放缓。 强劲的生产力增速可能会推高中性利率。 生产力增速可能有助于遏制通胀。 我已经将自己对2026年经济增长速度的预期上修至2.2%。",
@@ -727,17 +756,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
-        },
-        {
-          "title": "《终末地》收入首曝 两周流水12亿",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%BB%88%E6%9C%AB%E5%9C%B0%E3%80%8B%E6%94%B6%E5%85%A5%E9%A6%96%E6%9B%9D+%E4%B8%A4%E5%91%A8%E6%B5%81%E6%B0%B412%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
         }
       ]
     },
