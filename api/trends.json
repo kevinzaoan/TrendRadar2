@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T18:26:53.183010+08:00",
-  "total_titles_processed": 1262,
+  "generated_at": "2026-02-07T19:22:25.289339+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
@@ -28,22 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时42分 ~ 18时26分]"
-        },
-        {
-          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
-          "url": "https://wallstreetcn.com/articles/3765171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时59分 ~ 18时26分]"
+          "appearance_count": 9,
+          "time_info": "[13时42分 ~ 19时22分]"
         },
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -56,8 +42,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时13分 ~ 18时26分]"
+          "appearance_count": 10,
+          "time_info": "[12时13分 ~ 19时22分]"
+        },
+        {
+          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
+          "url": "https://wallstreetcn.com/articles/3765171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时59分 ~ 19时22分]"
         },
         {
           "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
@@ -98,11 +98,12 @@
           "ranks": [
             9,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时59分 ~ 18时26分]"
+          "appearance_count": 12,
+          "time_info": "[09时59分 ~ 19时22分]"
         },
         {
           "title": "贾跃亭发布 FF 人形机器人，要打造「人车协同」生态，他这次能成功吗？",
@@ -117,8 +118,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时59分 ~ 18时26分]"
+          "appearance_count": 12,
+          "time_info": "[09时59分 ~ 19时22分]"
         },
         {
           "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
@@ -178,19 +179,6 @@
           "time_info": "[04时35分 ~ 07时30分]"
         },
         {
-          "title": "赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩",
-          "url": "https://www.cls.cn/detail/2283603",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时13分 ~ 17时31分]"
-        },
-        {
           "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
           "url": "https://wallstreetcn.com/articles/3765209",
           "source": "华尔街见闻",
@@ -202,8 +190,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时41分 ~ 18时26分]"
+          "appearance_count": 7,
+          "time_info": "[14时41分 ~ 19时22分]"
+        },
+        {
+          "title": "赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩",
+          "url": "https://www.cls.cn/detail/2283603",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时13分 ~ 17时31分]"
         },
         {
           "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
@@ -245,6 +246,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
+          "url": "https://wallstreetcn.com/livenews/3051719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "存储芯片概念股指数收涨超6.3%，泰瑞达涨超10%，西数涨超8%，AI软件指数本周仍跌约9.4%",
           "url": "https://wallstreetcn.com/livenews/3051663",
           "source": "华尔街见闻-快讯",
@@ -277,11 +289,25 @@
           "ranks": [
             2,
             6,
-            12
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 19时22分]"
+        },
+        {
+          "title": "百度AI生成他人虚假犯罪信息案开庭，百度答辩：系AI幻觉，非故意所为",
+          "url": "https://wallstreetcn.com/livenews/3051704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时32分 ~ 18时26分]"
+          "time_info": "[17时31分 ~ 19时22分]"
         },
         {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
@@ -293,18 +319,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 03时38分]"
-        },
-        {
-          "title": "百度AI生成他人虚假犯罪信息案开庭，百度答辩：系AI幻觉，非故意所为",
-          "url": "https://wallstreetcn.com/livenews/3051704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时26分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)将允许在CarPlay AI中使用外部语音控制聊天机器人。",
@@ -330,6 +344,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 03时38分]"
+        },
+        {
+          "title": "你认为AI会替代软件开发吗",
+          "url": "https://www.toutiao.com/trending/7603910615171301402/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 19时22分]"
         },
         {
           "title": "Claude新模型4.6来了！更多饭碗没了：华尔街财务、编译器、安全白帽、PPT…通通失守",
@@ -370,18 +397,6 @@
           "time_info": "[00时44分 ~ 02时52分]"
         },
         {
-          "title": "你认为AI会替代软件开发吗",
-          "url": "https://www.toutiao.com/trending/7603910615171301402/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 18时26分]"
-        },
-        {
           "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
           "url": "https://wallstreetcn.com/livenews/3051561",
           "source": "华尔街见闻-快讯",
@@ -392,6 +407,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时41分 ~ 02时52分]"
+        },
+        {
+          "title": "百度AI生成他人虚假犯罪信息案开庭，百度答辩：系AI幻觉，非故意所为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32558072",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时22分]"
         },
         {
           "title": "报道：苹果车载迎来战略转变，计划开放第三方语音AI助手",
@@ -450,17 +477,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
-        },
-        {
-          "title": "百度AI生成他人虚假犯罪信息案开庭，百度答辩：系AI幻觉，非故意所为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32558072",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
         },
         {
           "title": "全新QQ用AI重塑小车之王",
@@ -565,7 +581,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "上海市经信委：瞄准智能终端、商业航天、低空经济等新赛道，再造万亿级产业新增量",
@@ -577,11 +593,34 @@
             6,
             11,
             15,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时43分 ~ 18时26分]"
+          "appearance_count": 7,
+          "time_info": "[13时43分 ~ 19时22分]"
+        },
+        {
+          "title": "特朗普在经济演讲中宣称通胀胜利近20次，尽管物价高企",
+          "url": "https://wallstreetcn.com/livenews/3051720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "监管部门：今年北京将重点查处平台经济领域垄断行为",
+          "url": "https://wallstreetcn.com/livenews/3051716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "巴西总统卢拉：我接受了央行自治（独立性）的理念。 我不会因为高水平的利率而哭哭啼啼的。 巴西需要经济稳定性、财政稳定性、社会稳定性、法律稳定性，以及可预见性。 我们配置3000亿巴西雷亚尔的信用措施，来刺激所有行业的活动，这使得经济实现了增长。 巴西失业率创历史最低。 巴西股市在1月份获得外国资金流入，超过了2025年的（月度）最高水平。（地方广播电台TV Aratu）",
@@ -602,11 +641,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时26分]"
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时22分]"
         },
         {
           "title": "美联储副主席杰斐逊：当前的货币政策对诸多风险准备就绪。 劳动力市场大致平衡，但仍然存在下行风险。 一旦（美国总统特朗普挑起的）关税的影响过去，通胀有望再次放缓。 强劲的生产力增速可能会推高中性利率。 生产力增速可能有助于遏制通胀。 我已经将自己对2026年经济增长速度的预期上修至2.2%。",
@@ -687,6 +727,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "《终末地》收入首曝 两周流水12亿",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%BB%88%E6%9C%AB%E5%9C%B0%E3%80%8B%E6%94%B6%E5%85%A5%E9%A6%96%E6%9B%9D+%E4%B8%A4%E5%91%A8%E6%B5%81%E6%B0%B412%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         }
       ]
     },
