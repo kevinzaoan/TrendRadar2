@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T22:28:17.906811+08:00",
-  "total_titles_processed": 1288,
+  "generated_at": "2026-02-08T23:27:36.598163+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时03分 ~ 22时28分]"
+          "appearance_count": 13,
+          "time_info": "[13时03分 ~ 23时27分]"
         },
         {
           "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
@@ -60,8 +60,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时31分 ~ 22时28分]"
+          "appearance_count": 25,
+          "time_info": "[00时31分 ~ 23时27分]"
         },
         {
           "title": "UP主联合自制AI春晚",
@@ -74,23 +74,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 22时28分]"
-        },
-        {
-          "title": "UP主用AI做影游融合沉浸式科普",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            4,
-            5,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时51分 ~ 22时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 23时27分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -103,8 +88,24 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时39分 ~ 22时28分]"
+          "appearance_count": 10,
+          "time_info": "[15时39分 ~ 23时27分]"
+        },
+        {
+          "title": "UP主用AI做影游融合沉浸式科普",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            4,
+            5,
+            19,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时51分 ~ 23时27分]"
         },
         {
           "title": "人民日报：孩子用AI写作业，你怎么看？",
@@ -119,8 +120,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时51分 ~ 22时28分]"
+          "appearance_count": 11,
+          "time_info": "[14时51分 ~ 23时27分]"
         },
         {
           "title": "美科技股“崩盘式”回调的信号：风险资产普涨时代终结，AI输家将被无情抛弃！",
@@ -148,8 +149,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时34分 ~ 22时28分]"
+          "appearance_count": 9,
+          "time_info": "[16时34分 ~ 23时27分]"
+        },
+        {
+          "title": "下周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
+          "url": "https://wallstreetcn.com/articles/3765243",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时51分 ~ 23时27分]"
         },
         {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
@@ -199,23 +213,12 @@
           "ranks": [
             14,
             6,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时24分 ~ 22时28分]"
-        },
-        {
-          "title": "下周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
-          "url": "https://wallstreetcn.com/articles/3765243",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时51分 ~ 22时28分]"
+          "appearance_count": 6,
+          "time_info": "[19时24分 ~ 23时27分]"
         },
         {
           "title": "OpenAI第一款硬件要来了，但可能“没那么AI”?",
@@ -235,11 +238,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时24分 ~ 22时28分]"
+          "appearance_count": 6,
+          "time_info": "[19时24分 ~ 23时27分]"
         },
         {
           "title": "泰国大选：根据选举委员会初步计票结果，在已统计15%有效选票的情况下，自豪泰党（Bhumjaithai Party）暂时领先。",
@@ -247,11 +251,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时46分 ~ 22时28分]"
+          "appearance_count": 3,
+          "time_info": "[21时46分 ~ 23时27分]"
         },
         {
           "title": "你认为AI会替代软件开发吗",
@@ -267,6 +272,19 @@
           "time_info": "[02时36分 ~ 07时31分]"
         },
         {
+          "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
+          "url": "https://www.cls.cn/detail/2283872",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 23时27分]"
+        },
+        {
           "title": "高盛解读本周市场焦点：“AI-SaaS”之争",
           "url": "https://wallstreetcn.com/articles/3765210",
           "source": "华尔街见闻",
@@ -277,18 +295,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时30分 ~ 10时32分]"
-        },
-        {
-          "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
-          "url": "https://www.cls.cn/detail/2283872",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 22时28分]"
         },
         {
           "title": "AI推动先进封装扩产 台积电CoWoS供应紧张 FOPLP登上舞台",
@@ -323,6 +329,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时03分 ~ 13时04分]"
+        },
+        {
+          "title": "如何看待 Anthropic 用纯 AI 实现的 CCC 编译器可编译 Linux?",
+          "url": "https://www.zhihu.com/question/2003524766523473932",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "百年康宁华丽转身：光纤终结二十年亏损，抱上Meta大腿成AI新贵！",
@@ -437,8 +454,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时34分 ~ 22时28分]"
+          "appearance_count": 9,
+          "time_info": "[16时34分 ~ 23时27分]"
         },
         {
           "title": "特朗普在经济演讲中宣称通胀胜利近20次，尽管物价高企",
@@ -508,11 +525,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时46分 ~ 22时28分]"
+          "appearance_count": 3,
+          "time_info": "[21时46分 ~ 23时27分]"
         },
         {
           "title": "江苏省政府召开房地产从业人员座谈会，研究稳定提振房地产市场政策举措",
@@ -530,17 +548,6 @@
           "time_info": "[10时32分 ~ 16时34分]"
         },
         {
-          "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
-          "url": "https://flash.jin10.com/detail/20260208215651951800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
           "title": "加拿大央行行长：若失去特朗普的CUSMA准入，加拿大经济将面临衰退",
           "url": "https://wallstreetcn.com/livenews/3051756",
           "source": "华尔街见闻-快讯",
@@ -554,6 +561,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时32分 ~ 16时34分]"
+        },
+        {
+          "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
+          "url": "https://flash.jin10.com/detail/20260208215651951800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 23时27分]"
         },
         {
           "title": "《终末地》收入首曝 两周流水12亿",
