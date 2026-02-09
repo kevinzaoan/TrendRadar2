@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T19:45:34.050311+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-02-09T21:09:53.275939+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
@@ -31,6 +31,18 @@
           "time_info": "[00时32分 ~ 07时32分]"
         },
         {
+          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
+          "url": "https://wallstreetcn.com/articles/3765243",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时10分 ~ 21时09分]"
+        },
+        {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
           "url": "https://wallstreetcn.com/articles/3765246",
           "source": "华尔街见闻",
@@ -41,17 +53,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时32分 ~ 10时10分]"
-        },
-        {
-          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
-          "url": "https://wallstreetcn.com/articles/3765243",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时10分 ~ 19时45分]"
         },
         {
           "title": "字节又一款AI产品火了！Seedance2.0海内外刷屏 哪些行业将被颠覆？",
@@ -80,6 +81,22 @@
           "time_info": "[00时32分 ~ 07时32分]"
         },
         {
+          "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
+          "url": "https://wallstreetcn.com/articles/3765259",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时10分 ~ 21时09分]"
+        },
+        {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
           "url": "https://wallstreetcn.com/articles/3765245",
           "source": "华尔街见闻",
@@ -106,6 +123,20 @@
           "time_info": "[00时32分 ~ 10时10分]"
         },
         {
+          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
+          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时12分 ~ 21时09分]"
+        },
+        {
           "title": "人民日报：孩子用AI写作业，你怎么看？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
           "source": "澎湃新闻",
@@ -118,32 +149,17 @@
           "time_info": "[00时32分 ~ 06时28分]"
         },
         {
-          "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
-          "url": "https://wallstreetcn.com/articles/3765259",
-          "source": "华尔街见闻",
+          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
+          "url": "https://www.zhihu.com/question/2003997015852482602",
+          "source": "知乎",
           "ranks": [
-            10,
-            7,
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时10分 ~ 19时45分]"
-        },
-        {
-          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
-          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
+            9,
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[14时12分 ~ 19时45分]"
+          "time_info": "[15时57分 ~ 21时09分]"
         },
         {
           "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
@@ -216,29 +232,30 @@
           "time_info": "[10时10分 ~ 19时45分]"
         },
         {
-          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
-          "url": "https://www.zhihu.com/question/2003997015852482602",
-          "source": "知乎",
-          "ranks": [
-            9,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时57分 ~ 19时45分]"
-        },
-        {
           "title": "AIGC整活新春联欢会",
           "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时09分 ~ 19时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时09分 ~ 21时09分]"
+        },
+        {
+          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
+          "url": "https://wallstreetcn.com/articles/3765271",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时58分 ~ 21时09分]"
         },
         {
           "title": "集邦咨询：AI带动超级循环，存储器产值攀升至晶圆代工2倍以上",
@@ -263,18 +280,6 @@
           "time_info": "18时10分"
         },
         {
-          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
-          "url": "https://wallstreetcn.com/articles/3765271",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时58分 ~ 19时45分]"
-        },
-        {
           "title": "这会是改变视频行业的AI吗",
           "url": "https://www.douyin.com/hot/2394323",
           "source": "抖音",
@@ -284,6 +289,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
+          "url": "https://www.cls.cn/detail/2284846",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 21时09分]"
+        },
+        {
+          "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
+          "url": "https://www.cls.cn/detail/2284501",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时09分 ~ 21时09分]"
         },
         {
           "title": "泰国大选：根据选举委员会初步计票结果，在已统计15%有效选票的情况下，自豪泰党（Bhumjaithai Party）暂时领先。",
@@ -307,18 +337,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时32分 ~ 01时27分]"
-        },
-        {
-          "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
-          "url": "https://www.cls.cn/detail/2284501",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时09分 ~ 19时45分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -345,17 +363,6 @@
           "time_info": "[13时01分 ~ 14时12分]"
         },
         {
-          "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
-          "url": "https://www.cls.cn/detail/2284846",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
           "title": "AI应用端开盘大涨，荣信文化、中文在线、掌阅科技、海看股份、风语筑等多股竞价涨停，当虹科技涨超10%，消息面上，开源证券发布研报称，字节跳动在即梦平台上线Seedance2.0视频生成模型，引发AI产业界广泛测评与讨论，且实测效果惊艳。",
           "url": "https://wallstreetcn.com/livenews/3051971",
           "source": "华尔街见闻-快讯",
@@ -373,7 +380,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -417,9 +424,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
+        },
+        {
+          "title": "高盛：AI焦虑引发抛售潮 对冲基金创纪录做空美股",
+          "url": "https://flash.jin10.com/detail/20260209204658735800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "AI应用概念股午后持续拉升，A股方面，东方国信直线涨停，荣信文化、中文在线此前封板，壹网壹创、万兴科技、安诺其跟涨；港股方面，智谱涨超26%，金山云涨超10%，MINIMAX-WP涨近10%。",
@@ -433,6 +451,17 @@
           "time_info": "14时12分"
         },
         {
+          "title": "千家人AI购物实录",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E5%AE%B6%E4%BA%BAAI%E8%B4%AD%E7%89%A9%E5%AE%9E%E5%BD%95%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "夸克AI眼镜全系列升级：S1新增直播功能，G1推超级夜景模式",
           "url": "https://wallstreetcn.com/livenews/3052041",
           "source": "华尔街见闻-快讯",
@@ -444,13 +473,24 @@
           "time_info": "13时01分"
         },
         {
+          "title": "马斯克警告「没有 AI 和机器人，国债危机下美国 1000% 会破产」，AI 和机器人能解美债问题吗？",
+          "url": "https://www.zhihu.com/question/2004143319609993151",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "年前机器人走穴忙 热门款日薪8000",
           "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E5%89%8D%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E7%A9%B4%E5%BF%99+%E7%83%AD%E9%97%A8%E6%AC%BE%E6%97%A5%E8%96%AA8000",
           "source": "百度热搜",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         }
@@ -458,21 +498,8 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 33,
+      "match_count": 39,
       "titles": [
-        {
-          "title": "泰国走到十字路口：经济疲软政治碎片化，同日举行议会选举和宪法公投",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32550732",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 07时32分]"
-        },
         {
           "title": "乘势而上｜专访史晋川：要让民营经济的发展，从政策红利转到法治红利",
           "url": "https://m.thepaper.cn/newsDetail_forward_32307826",
@@ -485,8 +512,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时10分 ~ 19时45分]"
+          "appearance_count": 10,
+          "time_info": "[10时10分 ~ 21时09分]"
+        },
+        {
+          "title": "泰国走到十字路口：经济疲软政治碎片化，同日举行议会选举和宪法公投",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32550732",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 07时32分]"
         },
         {
           "title": "经济第一大省也是人口第一大省",
@@ -510,6 +550,39 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时32分 ~ 05时27分]"
+        },
+        {
+          "title": "加拿大至2月6日全国经济信心指数 51.7，前值50.3。",
+          "url": "https://flash.jin10.com/detail/20260209210016825800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "蓝佛安出席新兴市场经济体埃尔奥拉会议",
+          "url": "https://wallstreetcn.com/livenews/3052345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "前美联储副主席Clarida：沃什是一位成就卓著、受人尊敬的人。 在没有前瞻指引的情况下实行货币政策是有可能的。 美联储主席几乎总能如愿。 沃什必须与美联储委员会合作，才能推动改变。 美联储和财政部就平衡目标进行沟通是合适的。 沃什认为美国经济状况与美联储去年12月的看法一致。 我认为今年美国经济存在上行可能。",
+          "url": "https://wallstreetcn.com/livenews/3052342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
@@ -625,7 +698,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -639,6 +712,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        },
+        {
+          "title": "巴西央行行长Galipolo：我们实施加息以应对不断恶化的环境，包括通胀预期、外汇以及经济过热。",
+          "url": "https://flash.jin10.com/detail/20260209205630824800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "国家体育总局局长：构建现代化体育产业体系，培育经济发展新增长点",
@@ -751,6 +835,17 @@
           "time_info": "18时10分"
         },
         {
+          "title": "前美联储副主席克拉里达：认为今年美国经济存在上行空间。",
+          "url": "https://flash.jin10.com/detail/20260209204348769800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "日本首相高市早苗：将推动全国范围内关于食品减税的讨论。 不会发行赤字债券来为消费税减免提供资金。 在确定资金之后将迅速实施减税。 将通过非税收入和补贴审查等方式筹措资金，争取尽早实现食品消费税暂停。 希望下月访问美国，与美国总统特朗普举行会谈。 必须让日本摆脱过度紧缩的财政政策和投资不足的困境。 政府必须采取大胆措施，推动危机管理和尖端技术领域的公私投资。 积极的财政政策将成为高市政府政策转型的关键组成部分。 将彻底改革日本国家预算制定方式，为促进企业研发和资本支出提供长期政策支持。",
           "url": "https://wallstreetcn.com/livenews/3052226",
           "source": "华尔街见闻-快讯",
@@ -771,6 +866,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        },
+        {
+          "title": "前美联储副主席克拉里达：沃什对美国经济的看法与美联储去年12月的评估一致。",
+          "url": "https://flash.jin10.com/detail/20260209204339818800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "日本1月经济观察家前景指数 50.1，预期 50.7，前值 50.5。",
@@ -812,7 +918,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
