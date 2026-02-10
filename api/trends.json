@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T06:40:45.012157+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2026-02-11T07:38:47.791421+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,39 @@
           "url": "https://wallstreetcn.com/articles/3765363",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 06时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时38分]"
+        },
+        {
+          "title": "AI周星驰视频大量传播 经纪人质疑",
+          "url": "https://www.baidu.com/s?wd=AI%E5%91%A8%E6%98%9F%E9%A9%B0%E8%A7%86%E9%A2%91%E5%A4%A7%E9%87%8F%E4%BC%A0%E6%92%AD+%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%B4%A8%E7%96%91",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            9,
+            10,
+            23,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时38分]"
+        },
+        {
+          "title": "以假乱真,奥特曼大AI时代来临",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时38分]"
         },
         {
           "title": "【每日收评】三大指数缩量震荡涨跌不一，影视、传媒概念股批量涨停，机器人板块午后异动",
@@ -32,31 +60,18 @@
           "time_info": "[00时12分 ~ 06时40分]"
         },
         {
-          "title": "AI周星驰视频大量传播 经纪人质疑",
-          "url": "https://www.baidu.com/s?wd=AI%E5%91%A8%E6%98%9F%E9%A9%B0%E8%A7%86%E9%A2%91%E5%A4%A7%E9%87%8F%E4%BC%A0%E6%92%AD+%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%B4%A8%E7%96%91",
-          "source": "百度热搜",
+          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
+          "url": "https://www.zhihu.com/question/2004524090598323141",
+          "source": "知乎",
           "ranks": [
-            18,
+            16,
             9,
-            10,
-            23,
-            17
+            17,
+            8
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时12分 ~ 06时40分]"
-        },
-        {
-          "title": "以假乱真,奥特曼大AI时代来临",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 06时40分]"
+          "time_info": "[02时02分 ~ 07时38分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -71,17 +86,17 @@
           "time_info": "[00时12分 ~ 06时40分]"
         },
         {
-          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
-          "url": "https://www.zhihu.com/question/2004524090598323141",
-          "source": "知乎",
+          "title": "中国机器人首次走进联合国庆新春",
+          "url": "https://www.toutiao.com/trending/7605078076875116086/",
+          "source": "今日头条",
           "ranks": [
-            16,
+            28,
             9,
-            17
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时02分 ~ 06时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 07时38分]"
         },
         {
           "title": "AI制图骗局",
@@ -95,19 +110,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时59分 ~ 05时43分]"
-        },
-        {
-          "title": "中国机器人首次走进联合国庆新春",
-          "url": "https://www.toutiao.com/trending/7605078076875116086/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 06时40分]"
         },
         {
           "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
@@ -228,8 +230,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 06时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时38分]"
         },
         {
           "title": "中芯国际2025年度收入创新高 折旧致毛利率承压 全年资本开支达81亿美元",
@@ -239,8 +241,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 06时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时38分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -262,11 +264,12 @@
             8,
             9,
             11,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 06时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 07时38分]"
         },
         {
           "title": "美联储哈玛克：现在判断人工智能会对经济产生什么影响还为时过早。",
