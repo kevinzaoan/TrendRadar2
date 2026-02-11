@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T07:38:47.791421+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-02-11T10:23:35.596526+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 10时23分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -28,11 +28,12 @@
             9,
             10,
             23,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 10时23分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -43,8 +44,22 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 10时23分]"
+        },
+        {
+          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
+          "url": "https://www.zhihu.com/question/2004524090598323141",
+          "source": "知乎",
+          "ranks": [
+            16,
+            9,
+            17,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时38分]"
+          "time_info": "[02时02分 ~ 10时23分]"
         },
         {
           "title": "【每日收评】三大指数缩量震荡涨跌不一，影视、传媒概念股批量涨停，机器人板块午后异动",
@@ -58,20 +73,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时12分 ~ 06时40分]"
-        },
-        {
-          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
-          "url": "https://www.zhihu.com/question/2004524090598323141",
-          "source": "知乎",
-          "ranks": [
-            16,
-            9,
-            17,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时02分 ~ 07时38分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -92,11 +93,23 @@
           "ranks": [
             28,
             9,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 07时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 10时23分]"
+        },
+        {
+          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
+          "url": "https://wallstreetcn.com/articles/3765438",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         },
         {
           "title": "AI制图骗局",
@@ -173,6 +186,17 @@
           "time_info": "[04时00分 ~ 04时56分]"
         },
         {
+          "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
+          "url": "https://www.cls.cn/detail/2286559",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
           "title": "AI税务工具冲击财富管理板块 相关股票集体大跌",
           "url": "https://flash.jin10.com/detail/20260211013915640800",
           "source": "金十数据",
@@ -182,6 +206,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "持股持基过节，都买什么？Seedance带疯AI应用，资金再流向红利",
+          "url": "https://www.cls.cn/detail/2286616",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "韩国科学部长：OpenAI、三星和SK将于3月在韩国启动数据中心建设。",
+          "url": "https://flash.jin10.com/detail/20260211093843055800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         },
         {
           "title": "AI应用成为最强主线引爆传媒链",
@@ -206,6 +252,28 @@
           "time_info": "00时12分"
         },
         {
+          "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
+          "url": "https://www.zhihu.com/question/2004629058894389561",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "中芯国际赵海军：与AI、存储、中高端应用相关订单增加",
+          "url": "https://wallstreetcn.com/livenews/3053347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
           "title": "美财长：沃什领导下的美联储将密切关注AI对就业的影响",
           "url": "https://flash.jin10.com/detail/20260210233954360800",
           "source": "金十数据",
@@ -220,7 +288,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "十四届全国人大财政经济委员会副主任委员易炼红被查",
@@ -230,19 +298,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 10时23分]"
         },
         {
           "title": "中芯国际2025年度收入创新高 折旧致毛利率承压 全年资本开支达81亿美元",
           "url": "https://www.cls.cn/detail/2286255",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 10时23分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -253,8 +322,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 06时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 10时23分]"
         },
         {
           "title": "《觉醒年代》里车夫们的收入能吃得起吃涮羊肉，这个设定有根据吗？",
@@ -281,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "澳洲联储副主席豪泽：澳大利亚经济显然比许多国家更接近平衡，即使是相对较小的需求冲击，也可能推高经济的速度上限。",
+          "url": "https://flash.jin10.com/detail/20260211100807409800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         },
         {
           "title": "美联储哈玛克：担忧通胀可能在经济中根深蒂固，但迄今预期仍受控。",
@@ -329,6 +409,17 @@
           "time_info": "00时12分"
         },
         {
+          "title": "澳洲联储副主席Hauser：可能低估了金融市场的限制性程度。 澳元升值有助于收紧金融环境。 澳大利亚经济比其他许多国家更接近平衡状态。",
+          "url": "https://wallstreetcn.com/livenews/3053378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
           "title": "高盛CEO称市场对软件股反应过头，今年美国经济料增长强劲",
           "url": "https://wallstreetcn.com/livenews/3053184",
           "source": "华尔街见闻-快讯",
@@ -338,6 +429,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "澳洲联储副主席豪泽：必须尊重经济的速度限制。",
+          "url": "https://flash.jin10.com/detail/20260211094604391800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "福布斯公布2026年冬奥会运动员收入排行榜，谷爱凌排名第一",
+          "url": "https://news.ifeng.com/c/8qePzzb6mSJ",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "澳洲联储副主席豪泽：通胀过高，经济的许多领域表现相当出色。",
+          "url": "https://flash.jin10.com/detail/20260211094021982800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         },
         {
           "title": "美联储洛根：如果人工智能带来的生产率提升来得较晚，经济可能比提前提升时更加过热。",
