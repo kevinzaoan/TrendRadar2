@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T19:45:12.812670+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2026-02-11T21:10:42.696941+08:00",
+  "total_titles_processed": 1663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 41,
+      "match_count": 46,
       "titles": [
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时23分 ~ 19时45分]"
+          "appearance_count": 11,
+          "time_info": "[10时23分 ~ 21时10分]"
         },
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -55,8 +55,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时03分 ~ 19时45分]"
+          "appearance_count": 10,
+          "time_info": "[13时03分 ~ 21时10分]"
+        },
+        {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时03分 ~ 21时10分]"
         },
         {
           "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
@@ -103,21 +116,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时12分 ~ 19时45分]"
-        },
-        {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时03分 ~ 19时45分]"
+          "appearance_count": 20,
+          "time_info": "[00时12分 ~ 21时10分]"
         },
         {
           "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
@@ -127,11 +127,12 @@
             13,
             11,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时51分 ~ 19时45分]"
+          "appearance_count": 8,
+          "time_info": "[16时51分 ~ 21时10分]"
         },
         {
           "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
@@ -210,6 +211,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[17时53分 ~ 19时45分]"
+        },
+        {
+          "title": "当奶奶遇见AI音乐",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%A5%B6%E5%A5%B6%E9%81%87%E8%A7%81AI%E9%9F%B3%E4%B9%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
@@ -345,6 +357,17 @@
           "time_info": "13时03分"
         },
         {
+          "title": "UP主自己的AI音乐春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%B7%B1%E7%9A%84AI%E9%9F%B3%E4%B9%90%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "美国最大风投押注“AI伴侣”赛道 AI应用有望在陪伴场景率先爆发",
           "url": "https://www.cls.cn/detail/2286560",
           "source": "财联社热门",
@@ -400,6 +423,17 @@
           "time_info": "00时12分"
         },
         {
+          "title": "四川女生相亲焦虑获AI高能量安慰",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%A5%B3%E7%94%9F%E7%9B%B8%E4%BA%B2%E7%84%A6%E8%99%91%E8%8E%B7AI%E9%AB%98%E8%83%BD%E9%87%8F%E5%AE%89%E6%85%B0",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "首个人形机器人格斗联赛来了",
           "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E8%81%94%E8%B5%9B%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
@@ -409,6 +443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
+        },
+        {
+          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：今天我们在ChatGPT中更新了GPT-5.2（即时模型）。虽然变化不大，但希望您觉得有所改进。",
@@ -508,12 +553,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "T-Mobile：推出实时代理AI平台，将推出实时翻译服务。",
+          "url": "https://flash.jin10.com/detail/20260211203001283800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "十四届全国人大财政经济委员会副主任委员易炼红被查",
@@ -550,6 +606,20 @@
           "time_info": "[17时53分 ~ 19时45分]"
         },
         {
+          "title": "经济日报谈预制菜：只要明明白白把选择权交给消费者，就能吃个安心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32580860",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时01分 ~ 21时10分]"
+        },
+        {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
           "url": "https://www.cls.cn/detail/2286272",
           "source": "财联社热门",
@@ -573,19 +643,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[13时03分 ~ 19时45分]"
-        },
-        {
-          "title": "经济日报谈预制菜：只要明明白白把选择权交给消费者，就能吃个安心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32580860",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时01分 ~ 19时45分]"
         },
         {
           "title": "《觉醒年代》里车夫们的收入能吃得起吃涮羊肉，这个设定有根据吗？",
@@ -771,6 +828,50 @@
           "time_info": "15时01分"
         },
         {
+          "title": "房利美（Fannie Mae）第四季度净利润为35.3亿美元，市场预期为38亿美元。 第四季度净利息收入为72.7亿美元 第四季度净营收为73.3亿美元，同比增长0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3053742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：将于周四与欧盟各国领导人讨论碳排放交易体系的收入。",
+          "url": "https://flash.jin10.com/detail/20260211204449496800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：各国政府必须将更多碳排放交易体系收入注入工业。",
+          "url": "https://flash.jin10.com/detail/20260211204148230800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：即将推出的排放交易体系改革重点放在将更多来自排放交易体系的收入用于工业脱碳。",
+          "url": "https://flash.jin10.com/detail/20260211203938181800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "云音乐(09899.HK)2025财年收入77.6亿元人民币。",
           "url": "https://flash.jin10.com/detail/20260211175110833800",
           "source": "金十数据",
@@ -782,13 +883,24 @@
           "time_info": "18时52分"
         },
         {
+          "title": "Shopify第四季度营收为36.7亿美元，市场预期35.9亿美元。 第四季度月度经常性收入为2.05亿美元，同比增长15%，市场预期为2.012亿美元。 第四季度订阅收入为7.77亿美元，市场预期为7.661亿美元。 第四季度营业利润为6.31亿美元，市场预期为5.771亿美元。 Shopify已批准最高20亿美元的股票回购计划。 Shopify美股盘前涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/3053732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "路透调查：57受访位经济学家中，有41位对鲍威尔任期结束后美联储独立性受到削弱的情况表示担忧。",
           "url": "https://flash.jin10.com/detail/20260211185129683800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -799,7 +911,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -821,9 +933,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "夜盘开盘，国内期货主力合约多数上涨，沪银涨近6%，沪锡涨超3%，燃料油、国际铜涨超2%。下跌方面，白糖、焦炭小幅下跌。",
+          "url": "https://flash.jin10.com/detail/20260211210002799800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         }
       ]
     }
