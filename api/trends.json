@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T21:10:42.696941+08:00",
-  "total_titles_processed": 1663,
+  "generated_at": "2026-02-11T22:54:00.138938+08:00",
+  "total_titles_processed": 1788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时23分 ~ 21时10分]"
+          "appearance_count": 13,
+          "time_info": "[10时23分 ~ 22时54分]"
         },
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -55,8 +55,24 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[13时03分 ~ 22时54分]"
+        },
+        {
+          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
+          "url": "https://www.zhihu.com/question/2004565156580049390",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11,
+            5,
+            6,
+            7,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[13时03分 ~ 21时10分]"
+          "time_info": "[16时51分 ~ 22时54分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -68,8 +84,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时03分 ~ 21时10分]"
+          "appearance_count": 12,
+          "time_info": "[13时03分 ~ 22时54分]"
         },
         {
           "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
@@ -116,23 +132,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时12分 ~ 21时10分]"
-        },
-        {
-          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
-          "url": "https://www.zhihu.com/question/2004565156580049390",
-          "source": "知乎",
-          "ranks": [
-            13,
-            11,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时51分 ~ 21时10分]"
+          "appearance_count": 22,
+          "time_info": "[00时12分 ~ 22时54分]"
         },
         {
           "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
@@ -189,6 +190,17 @@
           "time_info": "[00时12分 ~ 06时40分]"
         },
         {
+          "title": "最癫的AI赛博榨菜",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E7%99%AB%E7%9A%84AI%E8%B5%9B%E5%8D%9A%E6%A6%A8%E8%8F%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 22时54分]"
+        },
+        {
           "title": "如何看待《黑神话：悟空》制作人冯骥谈即梦 Seedance 2.0「AIGC 的童年时代，结束了」？",
           "url": "https://www.zhihu.com/question/2004509950915868142",
           "source": "知乎",
@@ -219,7 +231,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -300,6 +312,18 @@
           "time_info": "[02时03分 ~ 04时00分]"
         },
         {
+          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 22时54分]"
+        },
+        {
           "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
           "url": "https://www.zhihu.com/question/2004239051759312966",
           "source": "知乎",
@@ -321,6 +345,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时53分 ~ 17时54分]"
+        },
+        {
+          "title": "中美AI“隔空开打”",
+          "url": "https://www.toutiao.com/trending/7605571340929601066/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 22时54分]"
         },
         {
           "title": "财富管理公司全线暴跌，新AI工具引发对行业前景忧虑",
@@ -363,7 +398,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -429,7 +464,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -443,17 +478,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
-        },
-        {
-          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：今天我们在ChatGPT中更新了GPT-5.2（即时模型）。虽然变化不大，但希望您觉得有所改进。",
@@ -476,6 +500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
+        },
+        {
+          "title": "MiniMax最新大模型M2.5上线Agent平台。 （硬AI）",
+          "url": "https://wallstreetcn.com/livenews/3053783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "雷军：小米汽车工厂有六七百台机器人",
@@ -561,7 +596,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         }
@@ -569,7 +604,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "十四届全国人大财政经济委员会副主任委员易炼红被查",
@@ -613,11 +648,12 @@
             14,
             12,
             13,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时01分 ~ 21时10分]"
+          "appearance_count": 11,
+          "time_info": "[15时01分 ~ 22时54分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -691,6 +727,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "英国房地产股走高，报道称工党政府正酝酿新一轮住房援助计划",
+          "url": "https://wallstreetcn.com/livenews/3053806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "美联储哈玛克：担忧通胀可能在经济中根深蒂固，但迄今预期仍受控。",
@@ -806,6 +853,28 @@
           "time_info": "10时23分"
         },
         {
+          "title": "白宫经济顾问委员会（CEA）代理主席Yared：（美国1月非农）就业报告爆发，私人就业报告超过预期。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3053796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "“新美联储通讯社”Nick Timiraos：美国1月非农就业报告坐实了美联储将延长利率维持不变的“停滞期”。 鲍威尔在1月28日表示：“经济再一次以其强劲表现让我们感到意外——这已经不是第一次了。” 目前市场注意力已转向CPI（消费者价格指数）中“年初价格重置（Turn-of-the-year price resets）”的影响。",
+          "url": "https://wallstreetcn.com/livenews/3053794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "澳洲联储副主席豪泽：通胀过高，经济的许多领域表现相当出色。",
           "url": "https://flash.jin10.com/detail/20260211094021982800",
           "source": "金十数据",
@@ -834,7 +903,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -845,7 +914,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -856,7 +925,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -867,7 +936,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -889,9 +958,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
+        },
+        {
+          "title": "白宫经济顾问委员会代理主席雅里德：美联储必须平衡双重使命，并具有前瞻性。",
+          "url": "https://flash.jin10.com/detail/20260211220503698800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "路透调查：57受访位经济学家中，有41位对鲍威尔任期结束后美联储独立性受到削弱的情况表示担忧。",
@@ -903,6 +983,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
+        },
+        {
+          "title": "白宫经济顾问委员会代理主席雅里德：就业报告表现强劲，私营部门就业超出预期。",
+          "url": "https://flash.jin10.com/detail/20260211220403871800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "路透调查：53位受访经济学家中49人认为，主要风险在于凯文·沃什领导下的美联储可能将货币政策设定得过为宽松。",
@@ -950,7 +1041,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         }
