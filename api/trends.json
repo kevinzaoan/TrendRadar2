@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-11T18:52:05.739419+08:00",
-  "total_titles_processed": 1453,
+  "generated_at": "2026-02-11T19:45:12.812670+08:00",
+  "total_titles_processed": 1537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
       "match_count": 41,
       "titles": [
+        {
+          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
+          "url": "https://wallstreetcn.com/articles/3765438",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时23分 ~ 19时45分]"
+        },
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
           "url": "https://wallstreetcn.com/articles/3765363",
@@ -20,18 +33,6 @@
           "time_info": "[00时12分 ~ 10时23分]"
         },
         {
-          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
-          "url": "https://wallstreetcn.com/articles/3765438",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时23分 ~ 18时52分]"
-        },
-        {
           "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
           "url": "https://www.cls.cn/detail/2286740",
           "source": "财联社热门",
@@ -41,8 +42,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时03分 ~ 18时52分]"
+          "appearance_count": 9,
+          "time_info": "[13时03分 ~ 19时45分]"
+        },
+        {
+          "title": "国产AI降维打击,老外酸了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时03分 ~ 19时45分]"
         },
         {
           "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
@@ -85,23 +99,39 @@
             23,
             24,
             25,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时12分 ~ 18时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时12分 ~ 19时45分]"
         },
         {
-          "title": "国产AI降维打击,老外酸了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
-          "source": "贴吧",
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            10
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时03分 ~ 19时45分]"
+        },
+        {
+          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
+          "url": "https://www.zhihu.com/question/2004565156580049390",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11,
+            5,
+            6
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[13时03分 ~ 18时52分]"
+          "time_info": "[16时51分 ~ 19时45分]"
         },
         {
           "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
@@ -158,30 +188,28 @@
           "time_info": "[00时12分 ~ 06时40分]"
         },
         {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
+          "title": "如何看待《黑神话：悟空》制作人冯骥谈即梦 Seedance 2.0「AIGC 的童年时代，结束了」？",
+          "url": "https://www.zhihu.com/question/2004509950915868142",
+          "source": "知乎",
           "ranks": [
-            10,
-            7,
-            6
+            16,
+            13
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[13时03分 ~ 18时52分]"
+          "time_info": "[16时51分 ~ 19时45分]"
         },
         {
-          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
-          "url": "https://www.zhihu.com/question/2004565156580049390",
-          "source": "知乎",
+          "title": "中国机器人亮相 外交官们举手机拍照",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8+%E5%A4%96%E4%BA%A4%E5%AE%98%E4%BB%AC%E4%B8%BE%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7",
+          "source": "百度热搜",
           "ranks": [
-            13,
-            11,
-            5
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时51分 ~ 18时52分]"
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 19时45分]"
         },
         {
           "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
@@ -223,18 +251,6 @@
           "time_info": "[10时23分 ~ 16时51分]"
         },
         {
-          "title": "如何看待《黑神话：悟空》制作人冯骥谈即梦 Seedance 2.0「AIGC 的童年时代，结束了」？",
-          "url": "https://www.zhihu.com/question/2004509950915868142",
-          "source": "知乎",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时51分 ~ 18时52分]"
-        },
-        {
           "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
           "url": "https://flash.jin10.com/detail/20260211042006504800",
           "source": "金十数据",
@@ -270,17 +286,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时03分 ~ 04时00分]"
-        },
-        {
-          "title": "中国机器人亮相 外交官们举手机拍照",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8+%E5%A4%96%E4%BA%A4%E5%AE%98%E4%BB%AC%E4%B8%BE%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时53分 ~ 18时52分]"
         },
         {
           "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
@@ -478,7 +483,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -508,7 +513,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "十四届全国人大财政经济委员会副主任委员易炼红被查",
@@ -534,6 +539,17 @@
           "time_info": "[00时12分 ~ 10时23分]"
         },
         {
+          "title": "坐高铁感受经济脉动",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9D%90%E9%AB%98%E9%93%81%E6%84%9F%E5%8F%97%E7%BB%8F%E6%B5%8E%E8%84%89%E5%8A%A8%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 19时45分]"
+        },
+        {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
           "url": "https://www.cls.cn/detail/2286272",
           "source": "财联社热门",
@@ -546,15 +562,30 @@
           "time_info": "[00时12分 ~ 10时23分]"
         },
         {
-          "title": "坐高铁感受经济脉动",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9D%90%E9%AB%98%E9%93%81%E6%84%9F%E5%8F%97%E7%BB%8F%E6%B5%8E%E8%84%89%E5%8A%A8%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "2025年经济大省对全国经济增长贡献率为62.2%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32575442",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            17,
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时53分 ~ 18时52分]"
+          "appearance_count": 9,
+          "time_info": "[13时03分 ~ 19时45分]"
+        },
+        {
+          "title": "经济日报谈预制菜：只要明明白白把选择权交给消费者，就能吃个安心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32580860",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时01分 ~ 19时45分]"
         },
         {
           "title": "《觉醒年代》里车夫们的收入能吃得起吃涮羊肉，这个设定有根据吗？",
@@ -570,32 +601,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时12分 ~ 07时38分]"
-        },
-        {
-          "title": "2025年经济大省对全国经济增长贡献率为62.2%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32575442",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时03分 ~ 18时52分]"
-        },
-        {
-          "title": "经济日报谈预制菜：只要明明白白把选择权交给消费者，就能吃个安心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32580860",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时01分 ~ 18时52分]"
         },
         {
           "title": "美联储哈玛克：现在判断人工智能会对经济产生什么影响还为时过早。",
@@ -772,9 +777,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
+        },
+        {
+          "title": "路透调查：57受访位经济学家中，有41位对鲍威尔任期结束后美联储独立性受到削弱的情况表示担忧。",
+          "url": "https://flash.jin10.com/detail/20260211185129683800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "路透调查：53位受访经济学家中49人认为，主要风险在于凯文·沃什领导下的美联储可能将货币政策设定得过为宽松。",
+          "url": "https://flash.jin10.com/detail/20260211185110276800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "美联储洛根：如果人工智能带来的生产率提升来得较晚，经济可能比提前提升时更加过热。",
@@ -786,6 +813,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时00分"
+        },
+        {
+          "title": "路透调查：101名受访经济学家中有60人认为，美联储将在6月底前将联邦基金利率下调25个基点至3.25%-3.50%的区间（1月份调查无共识）。",
+          "url": "https://flash.jin10.com/detail/20260211185016904800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         }
       ]
     }
