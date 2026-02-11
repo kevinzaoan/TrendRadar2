@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T05:34:51.817339+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-02-12T06:30:52.668417+08:00",
+  "total_titles_processed": 665,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "经济日报谈预制菜：只要明明白白把选择权交给消费者，就能吃个安心",
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时30分]"
         },
         {
           "title": "美国财长贝森特：特朗普总统促进经济增长的议程正在为美国工人带来好处。得益于特朗普总统的税收协议、贸易协议和和平协议，美国经济持续繁荣发展——而且最好的还在后头。",
@@ -59,11 +59,23 @@
           "url": "https://wallstreetcn.com/livenews/3053960",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时30分]"
+        },
+        {
+          "title": "美联储哈玛克：我认为利率不会对经济造成太大抑制作用。",
+          "url": "https://flash.jin10.com/detail/20260212054448758800",
+          "source": "金十数据",
+          "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时34分"
+          "time_info": "06时30分"
         },
         {
           "title": "白宫经济委员会主任哈塞特：美联储还有大量降息空间。 人们放弃观望，投身劳动力市场。 高水平的薪资增速驱使人们进入就业市场。 通胀数据将是美联储做决定的关键。 预计美国GDP将在今年增长4%-5%。",
@@ -94,7 +106,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -108,6 +120,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "思科(CSCO.O) CEO：目前预计人工智能订单将超过50亿美元，并在2026财年从超大规模企业中确认超过30亿美元的人工智能基础设施收入。",
+          "url": "https://flash.jin10.com/detail/20260212054012505800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
+          "title": "麦当劳12月在低收入群体斩获市场份额。",
+          "url": "https://wallstreetcn.com/livenews/3053972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
         },
         {
           "title": "美国财长贝森特：2025年美国经济增长率可能达到3%。",
@@ -127,7 +161,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -259,17 +293,6 @@
       "match_count": 21,
       "titles": [
         {
-          "title": "最癫的AI赛博榨菜",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E7%99%AB%E7%9A%84AI%E8%B5%9B%E5%8D%9A%E6%A6%A8%E8%8F%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时34分]"
-        },
-        {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
           "url": "https://wallstreetcn.com/articles/3765438",
           "source": "华尔街见闻",
@@ -282,15 +305,28 @@
           "time_info": "[00时02分 ~ 05时34分]"
         },
         {
+          "title": "最癫的AI赛博榨菜",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E7%99%AB%E7%9A%84AI%E8%B5%9B%E5%8D%9A%E6%A6%A8%E8%8F%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时30分]"
+        },
+        {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
           "url": "https://wallstreetcn.com/articles/3765455",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时30分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -301,8 +337,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时30分]"
         },
         {
           "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
@@ -313,8 +349,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时30分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -324,8 +360,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时30分]"
         },
         {
           "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
@@ -449,7 +485,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -493,7 +529,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         }
@@ -501,8 +537,41 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美国总统特朗普：将于周三签署一项命令，指示美国国防部从燃煤发电厂购买电力，以提振该行业。",
+          "url": "https://flash.jin10.com/detail/20260212054735155800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
+          "title": "美国总统特朗普：今年煤电发电量将增长约25%至30%。",
+          "url": "https://flash.jin10.com/detail/20260212054446683800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
+          "title": "特朗普：美国今年煤炭发电量将增长大约25%-30%。",
+          "url": "https://wallstreetcn.com/livenews/3053975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
         {
           "title": "燃油夜盘收涨约2.77%，低硫燃油涨2.01%，豆一涨1.38%，铁矿石跌0.2%，螺纹钢、白糖、焦炭至多跌0.42%，焦煤跌0.53%。",
           "url": "https://wallstreetcn.com/livenews/3053830",
