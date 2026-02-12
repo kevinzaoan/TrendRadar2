@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-12T22:48:47.747578+08:00",
-  "total_titles_processed": 1902,
+  "generated_at": "2026-02-12T23:54:02.395274+08:00",
+  "total_titles_processed": 2004,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 71,
+      "match_count": 74,
       "titles": [
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
           "url": "https://wallstreetcn.com/articles/3765486",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时32分 ~ 22时48分]"
+          "appearance_count": 16,
+          "time_info": "[07时32分 ~ 23时54分]"
         },
         {
           "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
@@ -27,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时10分 ~ 22时48分]"
+          "appearance_count": 15,
+          "time_info": "[10时10分 ~ 23时54分]"
         },
         {
           "title": "最癫的AI赛博榨菜",
@@ -87,8 +88,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时02分 ~ 22时48分]"
+          "appearance_count": 23,
+          "time_info": "[00时02分 ~ 23时54分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -102,6 +103,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 07时32分]"
+        },
+        {
+          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
+          "url": "https://www.cls.cn/detail/2288655",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时40分 ~ 23时54分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -170,19 +185,6 @@
           "time_info": "[21时07分 ~ 22时48分]"
         },
         {
-          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
-          "url": "https://www.cls.cn/detail/2288655",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时40分 ~ 22时48分]"
-        },
-        {
           "title": "Seedance2.0展示中国AI潜力",
           "url": "https://www.douyin.com/hot/2398167",
           "source": "抖音",
@@ -226,6 +228,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时52分 ~ 18时46分]"
+        },
+        {
+          "title": "AI 视频工具已经能生成导演级镜头，作为观众，你能接受 AI 生成的影视剧或动画吗？愿意买单吗？",
+          "url": "https://www.zhihu.com/question/2004603319558042744",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时40分 ~ 23时54分]"
         },
         {
           "title": "从Deepseek到Seedance中国AI成了",
@@ -308,6 +322,31 @@
           "time_info": "19时40分"
         },
         {
+          "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
+          "url": "https://wallstreetcn.com/articles/3765558",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时07分 ~ 23时54分]"
+        },
+        {
+          "title": "【焦点复盘】市场全天现深强沪弱，AI硬件端表现火热，大消费板块延续调整",
+          "url": "https://www.cls.cn/detail/2288560",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时07分 ~ 23时54分]"
+        },
+        {
           "title": "哈尔滨小哥为早回家过年找AI替班",
           "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B0%8F%E5%93%A5%E4%B8%BA%E6%97%A9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%89%BEAI%E6%9B%BF%E7%8F%AD",
           "source": "百度热搜",
@@ -369,18 +408,6 @@
           "time_info": "[04时39分 ~ 05时34分]"
         },
         {
-          "title": "AI 视频工具已经能生成导演级镜头，作为观众，你能接受 AI 生成的影视剧或动画吗？愿意买单吗？",
-          "url": "https://www.zhihu.com/question/2004603319558042744",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时40分 ~ 22时48分]"
-        },
-        {
           "title": "中美AI“隔空开打”",
           "url": "https://www.toutiao.com/trending/7605571340929601066/",
           "source": "今日头条",
@@ -393,28 +420,16 @@
           "time_info": "[00时02分 ~ 03时05分]"
         },
         {
-          "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
-          "url": "https://wallstreetcn.com/articles/3765558",
-          "source": "华尔街见闻",
+          "title": "雷军公布小米机器人最新进展：兼具视觉语言理解与实时执行能力",
+          "url": "https://www.cls.cn/detail/2288733",
+          "source": "财联社热门",
           "ranks": [
-            10,
+            11,
             9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时07分 ~ 22时48分]"
-        },
-        {
-          "title": "【焦点复盘】市场全天现深强沪弱，AI硬件端表现火热，大消费板块延续调整",
-          "url": "https://www.cls.cn/detail/2288560",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时07分 ~ 22时48分]"
+          "time_info": "[22时48分 ~ 23时54分]"
         },
         {
           "title": "AI淘金热变成AI恐慌潮！华尔街新共识：躲开一切可能被颠覆的公司",
@@ -451,6 +466,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时58分 ~ 14时07分]"
+        },
+        {
+          "title": "中国AI视频双雄并起",
+          "url": "https://www.toutiao.com/trending/7605961413458136639/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时53分 ~ 23时54分]"
         },
         {
           "title": "马斯克在周二深夜主持xAI全体员工会议。 马斯克讨论了该公司的重组事宜，但并非透露具体信息。（Business Insider）",
@@ -536,6 +562,17 @@
           "time_info": "[21时07分 ~ 21时08分]"
         },
         {
+          "title": "2026春节：中国AI的“两弹一星”时刻",
+          "url": "https://www.baidu.com/s?wd=2026%E6%98%A5%E8%8A%82%EF%BC%9A%E4%B8%AD%E5%9B%BDAI%E7%9A%84%E2%80%9C%E4%B8%A4%E5%BC%B9%E4%B8%80%E6%98%9F%E2%80%9D%E6%97%B6%E5%88%BB",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时53分 ~ 23时54分]"
+        },
+        {
           "title": "起猛了 机器人舞剑拜年了",
           "url": "https://www.baidu.com/s?wd=%E8%B5%B7%E7%8C%9B%E4%BA%86+%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%88%9E%E5%89%91%E6%8B%9C%E5%B9%B4%E4%BA%86",
           "source": "百度热搜",
@@ -587,7 +624,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -636,17 +673,6 @@
           "time_info": "14时07分"
         },
         {
-          "title": "雷军公布小米机器人最新进展：兼具视觉语言理解与实时执行能力",
-          "url": "https://www.cls.cn/detail/2288733",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
           "url": "https://wallstreetcn.com/livenews/3054425",
           "source": "华尔街见闻-快讯",
@@ -664,7 +690,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -779,6 +805,17 @@
           "time_info": "19时40分"
         },
         {
+          "title": "大摩：AI引发的财富管理机构股抛售或已过度",
+          "url": "https://wallstreetcn.com/livenews/3054596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "新加坡公布2026年预算案 将加码扶持本地企业、押注AI与国际贸易",
           "url": "https://flash.jin10.com/detail/20260212161832075800",
           "source": "金十数据",
@@ -818,7 +855,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -848,7 +885,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "经济日报谈预制菜：只要明明白白把选择权交给消费者，就能吃个安心",
@@ -861,6 +898,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 07时32分]"
+        },
+        {
+          "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32590657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时40分 ~ 23时54分]"
         },
         {
           "title": "职业教育将重点增设低空经济、人工智能等领域新专业",
@@ -913,7 +962,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -957,7 +1006,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -968,7 +1017,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -1007,18 +1056,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时48分 ~ 17时51分]"
-        },
-        {
-          "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32590657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时40分 ~ 22时48分]"
         },
         {
           "title": "思科业绩向好，上调全年收入预期，季度指引超预期",
@@ -1274,6 +1311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "明尼苏达州州长沃尔兹：漫长的复苏之路从现在开始。对经济、学校和生活的冲击不会一夜之间逆转。",
+          "url": "https://flash.jin10.com/detail/20260212230837401800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "存储概念股美股盘前走强，闪迪(SNDK.O)涨近7%，美光科技(MU.O)涨近4%，西部数据(WDC.O)和希捷科技(STX.O)涨超2%。消息面上，日本存储巨头铠侠第四季度收入5436亿日元，环比增长953亿日元。",
@@ -1554,7 +1602,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美国总统特朗普：将于周三签署一项命令，指示美国国防部从燃煤发电厂购买电力，以提振该行业。",
@@ -1610,6 +1658,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
+        },
+        {
+          "title": "烧碱夜盘收涨3.12%，豆一涨2.56%，豆粕涨0.90%，焦炭涨0.03%。 低硫燃油夜盘收跌1.75%，沥青跌1.58%，PTA跌0.91%，燃油跌0.82%，棕榈油跌0.63%，铁矿石跌0.59%。",
+          "url": "https://wallstreetcn.com/livenews/3054600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "燃油夜盘收涨约2.77%，低硫燃油涨2.01%，豆一涨1.38%，铁矿石跌0.2%，螺纹钢、白糖、焦炭至多跌0.42%，焦煤跌0.53%。",
