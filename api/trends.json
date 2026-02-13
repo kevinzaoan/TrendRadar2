@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T10:13:01.870987+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-02-13T12:53:51.744265+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
@@ -113,6 +113,29 @@
           "time_info": "[04时35分 ~ 06时33分]"
         },
         {
+          "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2289051",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时29分 ~ 12时53分]"
+        },
+        {
+          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 12时53分]"
+        },
+        {
           "title": "2026春节：中国AI的“两弹一星”时刻",
           "url": "https://www.baidu.com/s?wd=2026%E6%98%A5%E8%8A%82%EF%BC%9A%E4%B8%AD%E5%9B%BDAI%E7%9A%84%E2%80%9C%E4%B8%A4%E5%BC%B9%E4%B8%80%E6%98%9F%E2%80%9D%E6%97%B6%E5%88%BB",
           "source": "百度热搜",
@@ -125,29 +148,6 @@
           "time_info": "[00时58分 ~ 05时34分]"
         },
         {
-          "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2289051",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时29分 ~ 10时13分]"
-        },
-        {
-          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 10时13分]"
-        },
-        {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
           "url": "https://www.cls.cn/detail/2289007",
           "source": "财联社热门",
@@ -155,8 +155,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 10时13分]"
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 12时53分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
@@ -190,6 +190,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 12时53分]"
         },
         {
           "title": "美国司法部反垄断事务主管Abigail Slater离职，此前总统特朗普的白宫要求其辞职、否则将把她免职。",
@@ -241,6 +253,19 @@
           "time_info": "[05时34分 ~ 07时29分]"
         },
         {
+          "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
+          "url": "https://www.cls.cn/detail/2288921",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时29分 ~ 12时53分]"
+        },
+        {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
           "url": "https://wallstreetcn.com/livenews/3054632",
           "source": "华尔街见闻-快讯",
@@ -289,27 +314,28 @@
           "time_info": "[06时33分 ~ 07时29分]"
         },
         {
-          "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
-          "url": "https://www.cls.cn/detail/2288921",
-          "source": "财联社热门",
+          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
+          "url": "https://wallstreetcn.com/articles/3765622",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 12时53分]"
+        },
+        {
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
             8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时29分 ~ 10时13分]"
-        },
-        {
-          "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 10时13分]"
+          "time_info": "[10时12分 ~ 12时53分]"
         },
         {
           "title": "市场消息：OpenAI 正在发布 GPT-5.3-Codex-Spark 的研究预览版。",
@@ -334,28 +360,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 05时34分]"
-        },
-        {
-          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
-          "url": "https://wallstreetcn.com/articles/3765622",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 10时13分]"
-        },
-        {
-          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
-          "url": "https://wallstreetcn.com/articles/3765624",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
           "title": "AI引发的资本市场大溃逃 美股商业地产遭遇“黑色星期四”",
@@ -398,7 +402,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -453,7 +457,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -511,12 +515,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "全球首家机器人9S店长沙开业",
+          "url": "https://wallstreetcn.com/livenews/3054875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 13,
+      "match_count": 21,
       "titles": [
         {
           "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
@@ -575,7 +601,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -615,6 +641,39 @@
           "time_info": "[05时33分 ~ 05时34分]"
         },
         {
+          "title": "摩根大通策略师建议将抛售2年期美国国债作为一项“战术性”交易，理由是经济增长前景稳健将使美联储难以大幅降息。",
+          "url": "https://wallstreetcn.com/livenews/3054900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "马来西亚央行：经季调后环比计算，第四季度GDP增长0.8%，而第三季度为增长2.7%。2025年，经济同比增长5.2%。",
+          "url": "https://flash.jin10.com/detail/20260213120124832800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "马来西亚央行：2026年，强劲的国内需求和持续的出口将支撑经济增长。",
+          "url": "https://flash.jin10.com/detail/20260213120046283800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "Anthropic：年化收入现已达到140亿美元。",
           "url": "https://flash.jin10.com/detail/20260213031648169800",
           "source": "金十数据",
@@ -624,6 +683,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "马来西亚央行：预计马来西亚2026年经济前景将保持韧性，总体通胀率将保持温和。",
+          "url": "https://flash.jin10.com/detail/20260213120023129800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：大部分碳排放交易体系收入将返还给成员国政府。",
@@ -637,6 +707,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "日本央行审议委员田村直树：我认为过去加息对日本经济的影响非常有限。",
+          "url": "https://flash.jin10.com/detail/20260213114607439800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "美国能源部长Wright：雪佛龙已经加大在委内瑞拉的投资。 雪佛龙在委内瑞拉的设施的产量将翻倍。 美国（政府）不会向企业提供经济安全保障。 （特朗普政府强行掳走总统马杜罗之后）委内瑞拉第一年（石油）产量将提高30%-40%。",
           "url": "https://wallstreetcn.com/livenews/3054713",
           "source": "华尔街见闻-快讯",
@@ -648,13 +729,46 @@
           "time_info": "05时34分"
         },
         {
+          "title": "日本央行审议委员田村直树：利率距离被视为对经济影响为中性的水平仍有相当一段距离。",
+          "url": "https://flash.jin10.com/detail/20260213114004697800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "日本央行审议委员田村直树：当前的利率距离中性利率水平还很遥远。 我之前曾说过中性利率至少在1%左右。 目前为止加息对经济的影响极其有限。 一旦日本央行政策利率超过1%，其政策的刺激效果将逐渐减弱。 日本央行必须避免过早收紧货币政策，但也必须避免物价持续出现“不温和”的上涨。",
+          "url": "https://wallstreetcn.com/livenews/3054885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "日本央行审议委员田村直树：需要关注潜在通胀。 2%的稳定通胀率可能指日可待。 个人认为日本近期的通胀正变得具有粘性。 可能最早在今年春天就能判断日本央行的物价目标是否已经实现。 我们正处于一个需要审视各项数据，以确定日本能否平稳实现物价目标的阶段。 消费者通胀趋于稳定，但鉴于日元重现贬值趋势，必须对价格前景保持警惕。 预计食品价格将继续上涨。 日本的出产缺口已经处于正值区间，供应能力的短缺正对物价造成上行压力。 预计今年的工资增长将达到与2%物价目标相符的水平。 预计随着经济和物价的改善，日本央行将继续上调利率。",
+          "url": "https://wallstreetcn.com/livenews/3054882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "美联储理事米兰：美国财政前景正在改善且经济增长表现强劲，这进一步巩固了美元的储备货币地位。",
           "url": "https://wallstreetcn.com/livenews/3054813",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -665,7 +779,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         }
@@ -680,11 +794,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E9%92%A2%E9%93%81%E4%BA%A7%E4%B8%9A%E7%9C%9F%E5%B4%9B%E8%B5%B7%E4%BA%86%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 10时13分]"
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 12时53分]"
         },
         {
           "title": "美国能源部：这些项目属于该部门总额5.25亿美元计划的一部分，旨在扩大并振兴美国的燃煤发电机组体系。",
