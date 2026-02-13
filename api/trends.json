@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T16:42:50.001138+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-02-13T17:44:27.146176+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 60,
+      "match_count": 64,
       "titles": [
         {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
@@ -49,8 +49,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时12分 ~ 16时42分]"
+          "appearance_count": 8,
+          "time_info": "[10时12分 ~ 17时44分]"
+        },
+        {
+          "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时12分 ~ 17时44分]"
         },
         {
           "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
@@ -63,20 +78,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时29分 ~ 15时11分]"
-        },
-        {
-          "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时12分 ~ 16时42分]"
         },
         {
           "title": "雷军公布小米机器人最新进展：兼具视觉语言理解与实时执行能力",
@@ -162,6 +163,32 @@
           "time_info": "[10时12分 ~ 15时11分]"
         },
         {
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时12分 ~ 17时44分]"
+        },
+        {
+          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
+          "url": "https://wallstreetcn.com/articles/3765622",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时12分 ~ 17时44分]"
+        },
+        {
           "title": "2026春节：中国AI的“两弹一星”时刻",
           "url": "https://www.baidu.com/s?wd=2026%E6%98%A5%E8%8A%82%EF%BC%9A%E4%B8%AD%E5%9B%BDAI%E7%9A%84%E2%80%9C%E4%B8%A4%E5%BC%B9%E4%B8%80%E6%98%9F%E2%80%9D%E6%97%B6%E5%88%BB",
           "source": "百度热搜",
@@ -174,30 +201,15 @@
           "time_info": "[00时58分 ~ 05时34分]"
         },
         {
-          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
-          "url": "https://wallstreetcn.com/articles/3765624",
-          "source": "华尔街见闻",
+          "title": "老码农裁员理由+1:被AI优化",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
+          "source": "贴吧",
           "ranks": [
-            9,
-            8,
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时12分 ~ 16时42分]"
-        },
-        {
-          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
-          "url": "https://wallstreetcn.com/articles/3765622",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时12分 ~ 16时42分]"
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时44分]"
         },
         {
           "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
@@ -224,6 +236,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "杭州大哥开1人公司靠AI月入200万",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A4%A7%E5%93%A5%E5%BC%801%E4%BA%BA%E5%85%AC%E5%8F%B8%E9%9D%A0AI%E6%9C%88%E5%85%A5200%E4%B8%87%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "以色列总理办公室：内塔尼亚胡将远程参加美国以色列公共事务委员会（AIPAC）年会，因此下周不会飞往华盛顿。内塔尼亚胡也不会参加特朗普组织的和平委员会会议。",
           "url": "https://flash.jin10.com/detail/20260213014349442800",
           "source": "金十数据",
@@ -246,17 +269,6 @@
           "time_info": "07时29分"
         },
         {
-          "title": "老码农裁员理由+1:被AI优化",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
           "title": "【A股三大指数均跌超1%，军工板块逆势走强】市场全天震荡调整，三大指数均跌超1%。军工板块逆势走强，安达维尔、亚星锚链、航发动力等涨停。半导体板块盘中拉升，微导纳米、富创精密涨超10%。机器人概念股表现活跃，百达精工、天奇股份等涨停。下跌方面，CPO等算力硬件股调整，长芯博创、光库科技跌超10%；太空光伏概念下挫，双良节能跌停，协鑫集成接近跌停。个股跌多涨少，沪深京三市约3900股飘绿，今日成交2万亿。截止收盘沪指跌1.26%，深成指跌1.28%，创业板指跌1.57%。",
           "url": "https://wallstreetcn.com/livenews/3054969",
           "source": "华尔街见闻-快讯",
@@ -277,17 +289,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
-        },
-        {
-          "title": "AI整活无底线,赛文演员急了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
         },
         {
           "title": "中国AI视频双雄并起",
@@ -313,6 +314,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时58分 ~ 03时15分]"
+        },
+        {
+          "title": "AI整活无底线,赛文演员急了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时44分]"
         },
         {
           "title": "Yelp与OpenAI构建合作伙伴关系。",
@@ -382,11 +395,36 @@
           "ranks": [
             30,
             29,
-            21
+            21,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 17时44分]"
+        },
+        {
+          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
+          "url": "https://wallstreetcn.com/articles/3765637",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时53分 ~ 16时42分]"
+          "time_info": "[15时11分 ~ 17时44分]"
+        },
+        {
+          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32593042",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时11分 ~ 17时44分]"
         },
         {
           "title": "市场消息：OpenAI 正在发布 GPT-5.3-Codex-Spark 的研究预览版。",
@@ -425,17 +463,6 @@
           "time_info": "[04时35分 ~ 05时34分]"
         },
         {
-          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
-          "url": "https://wallstreetcn.com/articles/3765637",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 16时42分]"
-        },
-        {
           "title": "阿里、谷歌接连“出手” AI购物元年将至？",
           "url": "https://www.cls.cn/detail/2288802",
           "source": "财联社热门",
@@ -447,16 +474,16 @@
           "time_info": "[10时12分 ~ 10时13分]"
         },
         {
-          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32593042",
-          "source": "澎湃新闻",
+          "title": "一个2.6万亿AI独角兽诞生",
+          "url": "https://www.toutiao.com/trending/7606174592784158251/",
+          "source": "今日头条",
           "ranks": [
-            19,
-            12
+            12,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时11分 ~ 16时42分]"
+          "time_info": "[16时42分 ~ 17时44分]"
         },
         {
           "title": "OpenAI CEO：马斯克攻击我们很荒唐",
@@ -468,6 +495,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2026年2月12日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32595090",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时44分]"
         },
         {
           "title": "机器人租赁平台擎天租宣布启动全国城市合伙人战略，春节订单预计超5000",
@@ -520,18 +559,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "一个2.6万亿AI独角兽诞生",
-          "url": "https://www.toutiao.com/trending/7606174592784158251/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -542,7 +570,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -553,7 +581,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -564,9 +592,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "股市“首要难题”被高盛破解了？两张表涵盖AI颠覆下的赢家与输家！",
+          "url": "https://www.cls.cn/detail/2289272",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "AI让你奔赴对MV的所有想象",
@@ -575,7 +614,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -591,24 +630,24 @@
           "time_info": "15时11分"
         },
         {
+          "title": "除夕来京东抽1折机器人",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%A4%E5%A4%95%E6%9D%A5%E4%BA%AC%E4%B8%9C%E6%8A%BD1%E6%8A%98%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "湛逸飞将出任理想人形机器人业务负责人",
           "url": "https://wallstreetcn.com/livenews/3054998",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "澎湃AI晚新闻丨2026年2月12日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32595090",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -633,6 +672,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "杭州大哥开1人公司靠AI月入200万",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A4%A7%E5%93%A5%E5%BC%801%E4%BA%BA%E5%85%AC%E5%8F%B8%E9%9D%A0AI%E6%9C%88%E5%85%A5200%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "OpenAI发布首个搭载英伟达对手Cerebras芯片的AI模型",
@@ -704,7 +754,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
@@ -785,7 +835,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -890,7 +940,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -912,9 +962,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "德国经济部月报：经济复苏日益呈现出更加稳定的迹象。",
+          "url": "https://flash.jin10.com/detail/20260213171451134800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "德国经济部月报：各项指标显示，经济在年初持续复苏。",
+          "url": "https://flash.jin10.com/detail/20260213171306212800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "Anthropic：年化收入现已达到140亿美元。",
@@ -934,7 +1006,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -1030,8 +1102,19 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "印尼Danantara主权财富基金负责人：今年将在数据中心、农业及垃圾发电领域进行多项投资，总额达202.4万亿印尼盾。",
+          "url": "https://flash.jin10.com/detail/20260213173108790800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
         {
           "title": "美国钢铁产业真崛起了吗",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E9%92%A2%E9%93%81%E4%BA%A7%E4%B8%9A%E7%9C%9F%E5%B4%9B%E8%B5%B7%E4%BA%86%E5%90%97",
@@ -1085,9 +1168,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "中国神华：清远二期4号机组通过168小时试运行。至此，清远二期2台100万千瓦超超临界二次再热燃煤发电机组全部建成投运。",
+          "url": "https://wallstreetcn.com/livenews/3055031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         }
       ]
     }
