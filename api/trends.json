@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T18:40:02.993047+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2026-02-13T19:32:46.604746+08:00",
+  "total_titles_processed": 1622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时12分 ~ 18时40分]"
+          "appearance_count": 11,
+          "time_info": "[10时12分 ~ 19时32分]"
         },
         {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
@@ -64,8 +64,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时12分 ~ 18时40分]"
+          "appearance_count": 11,
+          "time_info": "[10时12分 ~ 19时32分]"
         },
         {
           "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
@@ -102,8 +102,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时12分 ~ 18时40分]"
+          "appearance_count": 11,
+          "time_info": "[10时12分 ~ 19时32分]"
         },
         {
           "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
@@ -127,8 +127,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时12分 ~ 18时40分]"
+          "appearance_count": 11,
+          "time_info": "[10时12分 ~ 19时32分]"
         },
         {
           "title": "【焦点复盘】市场全天现深强沪弱，AI硬件端表现火热，大消费板块延续调整",
@@ -166,6 +166,18 @@
           "time_info": "[00时58分 ~ 10时13分]"
         },
         {
+          "title": "老码农裁员理由+1:被AI优化",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时42分 ~ 19时32分]"
+        },
+        {
           "title": "CPI前AI恐慌又袭，盘中标普跌超1%、思科跌超10%、物流股大跌，白银跳水超7%",
           "url": "https://wallstreetcn.com/articles/3765553",
           "source": "华尔街见闻",
@@ -177,15 +189,15 @@
           "time_info": "[04时35分 ~ 06时33分]"
         },
         {
-          "title": "老码农裁员理由+1:被AI优化",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
-          "source": "贴吧",
+          "title": "杭州大哥开1人公司靠AI月入200万",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A4%A7%E5%93%A5%E5%BC%801%E4%BA%BA%E5%85%AC%E5%8F%B8%E9%9D%A0AI%E6%9C%88%E5%85%A5200%E4%B8%87%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时42分 ~ 18时40分]"
+          "time_info": "[17时44分 ~ 19时32分]"
         },
         {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
@@ -200,17 +212,6 @@
           "time_info": "[10时12分 ~ 15时11分]"
         },
         {
-          "title": "杭州大哥开1人公司靠AI月入200万",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A4%A7%E5%93%A5%E5%BC%801%E4%BA%BA%E5%85%AC%E5%8F%B8%E9%9D%A0AI%E6%9C%88%E5%85%A5200%E4%B8%87%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时44分 ~ 18时40分]"
-        },
-        {
           "title": "2026春节：中国AI的“两弹一星”时刻",
           "url": "https://www.baidu.com/s?wd=2026%E6%98%A5%E8%8A%82%EF%BC%9A%E4%B8%AD%E5%9B%BDAI%E7%9A%84%E2%80%9C%E4%B8%A4%E5%BC%B9%E4%B8%80%E6%98%9F%E2%80%9D%E6%97%B6%E5%88%BB",
           "source": "百度热搜",
@@ -223,16 +224,45 @@
           "time_info": "[00时58分 ~ 05时34分]"
         },
         {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            30,
+            29,
+            21,
+            18,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时53分 ~ 19时32分]"
+        },
+        {
           "title": "AI整活无底线,赛文演员急了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时42分 ~ 19时32分]"
+        },
+        {
+          "title": "杭州大哥开1人公司靠AI月入200万",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A4%A7%E5%93%A5%E5%BC%801%E4%BA%BA%E5%85%AC%E5%8F%B8%E9%9D%A0AI%E6%9C%88%E5%85%A5200%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时42分 ~ 18时40分]"
+          "time_info": "[17时44分 ~ 19时32分]"
         },
         {
           "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
@@ -259,19 +289,15 @@
           "time_info": "07时29分"
         },
         {
-          "title": "Seedance2.0展示中国AI潜力",
-          "url": "https://www.douyin.com/hot/2398167",
-          "source": "抖音",
+          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
+          "url": "https://wallstreetcn.com/articles/3765637",
+          "source": "华尔街见闻",
           "ranks": [
-            30,
-            29,
-            21,
-            18,
-            26
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时53分 ~ 18时40分]"
+          "time_info": "[15时11分 ~ 19时32分]"
         },
         {
           "title": "以色列总理办公室：内塔尼亚胡将远程参加美国以色列公共事务委员会（AIPAC）年会，因此下周不会飞往华盛顿。内塔尼亚胡也不会参加特朗普组织的和平委员会会议。",
@@ -307,18 +333,6 @@
           "time_info": "15时11分"
         },
         {
-          "title": "杭州大哥开1人公司靠AI月入200万",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A4%A7%E5%93%A5%E5%BC%801%E4%BA%BA%E5%85%AC%E5%8F%B8%E9%9D%A0AI%E6%9C%88%E5%85%A5200%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时44分 ~ 18时40分]"
-        },
-        {
           "title": "美国司法部反垄断事务主管Abigail Slater离职，此前总统特朗普的白宫要求其辞职、否则将把她免职。",
           "url": "https://wallstreetcn.com/livenews/3054656",
           "source": "华尔街见闻-快讯",
@@ -330,15 +344,41 @@
           "time_info": "01时59分"
         },
         {
-          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
-          "url": "https://wallstreetcn.com/articles/3765637",
-          "source": "华尔街见闻",
+          "title": "智元新一代人形机器人远征A3将于今年量产",
+          "url": "https://wallstreetcn.com/livenews/3055160",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2026年2月12日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32595090",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时11分 ~ 18时40分]"
+          "time_info": "[16时42分 ~ 19时32分]"
+        },
+        {
+          "title": "一个2.6万亿AI独角兽诞生",
+          "url": "https://www.toutiao.com/trending/7606174592784158251/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时42分 ~ 19时32分]"
         },
         {
           "title": "中国AI视频双雄并起",
@@ -427,30 +467,16 @@
           "time_info": "[06时33分 ~ 07时29分]"
         },
         {
-          "title": "澎湃AI晚新闻丨2026年2月12日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32595090",
-          "source": "澎湃新闻",
+          "title": "因制作「奥特曼怀孕」等视频多名博主被罚，AI 二创的伦理边界在哪里？平台与创作者各自该承担什么责任？",
+          "url": "https://www.zhihu.com/question/2005346719148237010",
+          "source": "知乎",
           "ranks": [
-            19,
-            16,
-            11
+            17,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时42分 ~ 18时40分]"
-        },
-        {
-          "title": "一个2.6万亿AI独角兽诞生",
-          "url": "https://www.toutiao.com/trending/7606174592784158251/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时42分 ~ 18时40分]"
+          "appearance_count": 3,
+          "time_info": "[18时39分 ~ 19时32分]"
         },
         {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
@@ -522,17 +548,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时12分 ~ 10时13分]"
-        },
-        {
-          "title": "因制作「奥特曼怀孕」等视频多名博主被罚，AI 二创的伦理边界在哪里？平台与创作者各自该承担什么责任？",
-          "url": "https://www.zhihu.com/question/2005346719148237010",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 18时40分]"
         },
         {
           "title": "机器人租赁平台擎天租宣布启动全国城市合伙人战略，春节订单预计超5000",
@@ -769,7 +784,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
@@ -866,17 +881,6 @@
           "time_info": "10时13分"
         },
         {
-          "title": "俄罗斯央行：俄罗斯经济偏离均衡增长路径的上行偏差正在缩小。",
-          "url": "https://flash.jin10.com/detail/20260213183302730800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
           "title": "加密货币交易所Coinbase四季度总营收18亿美元，分析师预期18.3亿美元。 四季度交易收入9.83亿美元，分析师预期10.2亿美元。 四季度订阅与服务营收7.274亿美元，分析师预期7.483亿美元。 四季度调整后EBITDA为5.66亿美元，分析师预期6.57亿美元。 四季度调整后每股收益（EPS）为0.66美元，分析师预期0.86美元。 预计一季度订阅与服务营收5.50亿-630亿美元。 预计公司人头数目将较四季度略微增长。",
           "url": "https://wallstreetcn.com/livenews/3054732",
           "source": "华尔街见闻-快讯",
@@ -888,6 +892,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时34分 ~ 07时29分]"
+        },
+        {
+          "title": "俄罗斯央行：俄罗斯经济偏离均衡增长路径的上行偏差正在缩小。",
+          "url": "https://flash.jin10.com/detail/20260213183302730800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时32分]"
+        },
+        {
+          "title": "斯洛伐克经济部：预计未来几天通过友谊管道的供应将恢复。",
+          "url": "https://flash.jin10.com/detail/20260213183110846800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时32分]"
         },
         {
           "title": "摩根大通策略师建议将抛售2年期美国国债作为一项“战术性”交易，理由是经济增长前景稳健将使美联储难以大幅降息。",
@@ -960,6 +988,17 @@
           "time_info": "[05时33分 ~ 05时34分]"
         },
         {
+          "title": "俄罗斯央行降息50个基点 经济担忧压倒通胀考量",
+          "url": "https://flash.jin10.com/detail/20260213185610685800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "印度尼西亚总统：我们将向你们证明，我们的经济增长是真实的，而且将高于我们的目标。",
           "url": "https://flash.jin10.com/detail/20260213162132316800",
           "source": "金十数据",
@@ -982,15 +1021,15 @@
           "time_info": "15时11分"
         },
         {
-          "title": "斯洛伐克经济部：预计未来几天通过友谊管道的供应将恢复。",
-          "url": "https://flash.jin10.com/detail/20260213183110846800",
-          "source": "金十数据",
+          "title": "高德红外：近日与客户签订了某型号完整装备系统总体产品订货合同，合同金额为18.51亿元，占公司2024年度经审计营业收入的69.15%。",
+          "url": "https://wallstreetcn.com/livenews/3055156",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时40分"
+          "time_info": "19时32分"
         },
         {
           "title": "报告：1月中国国内游戏市场实际销售收入324.68亿元，同比增长4.47%",
@@ -1010,7 +1049,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -1046,6 +1085,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "韵达股份：1月快递服务业务收入48.02亿元，同比增长18.01%。",
+          "url": "https://wallstreetcn.com/livenews/3055142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "印度尼西亚总统：今年我们的经济将会好得多。",
@@ -1098,7 +1148,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -1161,7 +1211,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "印尼Danantara主权财富基金负责人：今年将在数据中心、农业及垃圾发电领域进行多项投资，总额达202.4万亿印尼盾。",
@@ -1197,6 +1247,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时00分 ~ 15时11分]"
+        },
+        {
+          "title": "乌克兰能源部长称，乌克兰正与合作伙伴一道，在东欧寻找那些具有苏联风格的发电厂和变电站。专家们正在对相关设备进行评估、清查和分析，并将其整体拆卸运走。",
+          "url": "https://flash.jin10.com/detail/20260213184904432800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "报道：美国考虑部分取消铝和钢铁关税",
