@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T22:07:00.636066+08:00",
-  "total_titles_processed": 1862,
+  "generated_at": "2026-02-13T23:42:38.001261+08:00",
+  "total_titles_processed": 1983,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 69,
+      "match_count": 72,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时12分 ~ 22时07分]"
+          "appearance_count": 15,
+          "time_info": "[10时12分 ~ 23时42分]"
         },
         {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
@@ -76,8 +76,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时42分 ~ 22时07分]"
+          "appearance_count": 9,
+          "time_info": "[16时42分 ~ 23时42分]"
         },
         {
           "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
@@ -102,8 +102,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时12分 ~ 22时07分]"
+          "appearance_count": 15,
+          "time_info": "[10时12分 ~ 23时42分]"
+        },
+        {
+          "title": "AI整活无底线,赛文演员急了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时42分 ~ 23时42分]"
         },
         {
           "title": "雷军公布小米机器人最新进展：兼具视觉语言理解与实时执行能力",
@@ -140,8 +153,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时12分 ~ 22时07分]"
+          "appearance_count": 15,
+          "time_info": "[10时12分 ~ 23时42分]"
+        },
+        {
+          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
+          "url": "https://wallstreetcn.com/articles/3765637",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时11分 ~ 23时42分]"
         },
         {
           "title": "【焦点复盘】市场全天现深强沪弱，AI硬件端表现火热，大消费板块延续调整",
@@ -179,19 +204,6 @@
           "time_info": "[00时58分 ~ 10时13分]"
         },
         {
-          "title": "AI整活无底线,赛文演员急了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时42分 ~ 22时07分]"
-        },
-        {
           "title": "CPI前AI恐慌又袭，盘中标普跌超1%、思科跌超10%、物流股大跌，白银跳水超7%",
           "url": "https://wallstreetcn.com/articles/3765553",
           "source": "华尔街见闻",
@@ -214,16 +226,20 @@
           "time_info": "[17时44分 ~ 19时32分]"
         },
         {
-          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
-          "url": "https://wallstreetcn.com/articles/3765637",
-          "source": "华尔街见闻",
+          "title": "一个2.6万亿AI独角兽诞生",
+          "url": "https://www.toutiao.com/trending/7606174592784158251/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            9
+            12,
+            14,
+            18,
+            16,
+            26,
+            22
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[15时11分 ~ 22时07分]"
+          "time_info": "[16时42分 ~ 23时42分]"
         },
         {
           "title": "澎湃AI晚新闻丨2026年2月12日",
@@ -253,21 +269,6 @@
           "time_info": "[10时12分 ~ 15时11分]"
         },
         {
-          "title": "一个2.6万亿AI独角兽诞生",
-          "url": "https://www.toutiao.com/trending/7606174592784158251/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            14,
-            18,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时42分 ~ 22时07分]"
-        },
-        {
           "title": "2026春节：中国AI的“两弹一星”时刻",
           "url": "https://www.baidu.com/s?wd=2026%E6%98%A5%E8%8A%82%EF%BC%9A%E4%B8%AD%E5%9B%BDAI%E7%9A%84%E2%80%9C%E4%B8%A4%E5%BC%B9%E4%B8%80%E6%98%9F%E2%80%9D%E6%97%B6%E5%88%BB",
           "source": "百度热搜",
@@ -292,8 +293,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时53分 ~ 19时32分]"
+          "appearance_count": 8,
+          "time_info": "[12时53分 ~ 23时42分]"
         },
         {
           "title": "杭州大哥开1人公司靠AI月入200万",
@@ -354,6 +355,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "美国联邦贸易委员会（FTC）加速调查微软，就云和AI问题询问该公司的竞争对手们。",
+          "url": "https://wallstreetcn.com/livenews/3055274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "【A股三大指数均跌超1%，军工板块逆势走强】市场全天震荡调整，三大指数均跌超1%。军工板块逆势走强，安达维尔、亚星锚链、航发动力等涨停。半导体板块盘中拉升，微导纳米、富创精密涨超10%。机器人概念股表现活跃，百达精工、天奇股份等涨停。下跌方面，CPO等算力硬件股调整，长芯博创、光库科技跌超10%；太空光伏概念下挫，双良节能跌停，协鑫集成接近跌停。个股跌多涨少，沪深京三市约3900股飘绿，今日成交2万亿。截止收盘沪指跌1.26%，深成指跌1.28%，创业板指跌1.57%。",
           "url": "https://wallstreetcn.com/livenews/3054969",
           "source": "华尔街见闻-快讯",
@@ -363,6 +375,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
+        },
+        {
+          "title": "美国劳工部寻求为工人提高AI培训。（Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3055273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "因制作「奥特曼怀孕」等视频多名博主被罚，AI 二创的伦理边界在哪里？平台与创作者各自该承担什么责任？",
@@ -656,6 +679,17 @@
           "time_info": "17时44分"
         },
         {
+          "title": "马斯克旗下银团正商讨方案，旨在解决SpaceX与xAI合并后的债务问题",
+          "url": "https://wallstreetcn.com/livenews/3055261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "AI让你奔赴对MV的所有想象",
           "url": "https://search.bilibili.com/all?keyword=AI%E8%AE%A9%E4%BD%A0%E5%A5%94%E8%B5%B4%E5%AF%B9MV%E7%9A%84%E6%89%80%E6%9C%89%E6%83%B3%E8%B1%A1",
           "source": "bilibili 热搜",
@@ -739,7 +773,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
         },
@@ -1406,7 +1440,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "印尼Danantara主权财富基金负责人：今年将在数据中心、农业及垃圾发电领域进行多项投资，总额达202.4万亿印尼盾。",
@@ -1418,6 +1452,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
+        },
+        {
+          "title": "据CNBC：白宫贸易顾问纳瓦罗表示，有关政府计划削减钢铁和铝关税的说法毫无事实依据。",
+          "url": "https://flash.jin10.com/detail/20260213230854890800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
+          "title": "白宫贸易顾问纳瓦罗在通话中表示，有关特朗普政府计划削减钢铁和铝关税的说法没有“事实基础”。 对特朗普政府来说，金属关税“是神圣的”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3055271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "美国钢铁产业真崛起了吗",
