@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T15:11:45.217326+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-02-13T16:42:50.001138+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 50,
+      "match_count": 60,
       "titles": [
         {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
@@ -42,6 +42,17 @@
           "time_info": "[00时58分 ~ 07时29分]"
         },
         {
+          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时12分 ~ 16时42分]"
+        },
+        {
           "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
           "url": "https://www.cls.cn/detail/2289051",
           "source": "财联社热门",
@@ -54,15 +65,18 @@
           "time_info": "[07时29分 ~ 15时11分]"
         },
         {
-          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
+          "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            6,
+            4,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时12分 ~ 15时11分]"
+          "appearance_count": 7,
+          "time_info": "[10时12分 ~ 16时42分]"
         },
         {
           "title": "雷军公布小米机器人最新进展：兼具视觉语言理解与实时执行能力",
@@ -125,19 +139,6 @@
           "time_info": "[00时58分 ~ 10时13分]"
         },
         {
-          "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时12分 ~ 15时11分]"
-        },
-        {
           "title": "CPI前AI恐慌又袭，盘中标普跌超1%、思科跌超10%、物流股大跌，白银跳水超7%",
           "url": "https://wallstreetcn.com/articles/3765553",
           "source": "华尔街见闻",
@@ -182,8 +183,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时12分 ~ 15时11分]"
+          "appearance_count": 7,
+          "time_info": "[10时12分 ~ 16时42分]"
+        },
+        {
+          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
+          "url": "https://wallstreetcn.com/articles/3765622",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时12分 ~ 16时42分]"
         },
         {
           "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
@@ -197,19 +211,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时29分 ~ 14时00分]"
-        },
-        {
-          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
-          "url": "https://wallstreetcn.com/articles/3765622",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时12分 ~ 15时11分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
@@ -245,13 +246,24 @@
           "time_info": "07时29分"
         },
         {
+          "title": "老码农裁员理由+1:被AI优化",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "【A股三大指数均跌超1%，军工板块逆势走强】市场全天震荡调整，三大指数均跌超1%。军工板块逆势走强，安达维尔、亚星锚链、航发动力等涨停。半导体板块盘中拉升，微导纳米、富创精密涨超10%。机器人概念股表现活跃，百达精工、天奇股份等涨停。下跌方面，CPO等算力硬件股调整，长芯博创、光库科技跌超10%；太空光伏概念下挫，双良节能跌停，协鑫集成接近跌停。个股跌多涨少，沪深京三市约3900股飘绿，今日成交2万亿。截止收盘沪指跌1.26%，深成指跌1.28%，创业板指跌1.57%。",
           "url": "https://wallstreetcn.com/livenews/3054969",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
@@ -265,6 +277,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "AI整活无底线,赛文演员急了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "中国AI视频双雄并起",
@@ -353,6 +376,19 @@
           "time_info": "[06时33分 ~ 07时29分]"
         },
         {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            30,
+            29,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 16时42分]"
+        },
+        {
           "title": "市场消息：OpenAI 正在发布 GPT-5.3-Codex-Spark 的研究预览版。",
           "url": "https://flash.jin10.com/detail/20260213054809093800",
           "source": "金十数据",
@@ -389,6 +425,17 @@
           "time_info": "[04时35分 ~ 05时34分]"
         },
         {
+          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
+          "url": "https://wallstreetcn.com/articles/3765637",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时11分 ~ 16时42分]"
+        },
+        {
           "title": "阿里、谷歌接连“出手” AI购物元年将至？",
           "url": "https://www.cls.cn/detail/2288802",
           "source": "财联社热门",
@@ -400,6 +447,18 @@
           "time_info": "[10时12分 ~ 10时13分]"
         },
         {
+          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32593042",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时11分 ~ 16时42分]"
+        },
+        {
           "title": "OpenAI CEO：马斯克攻击我们很荒唐",
           "url": "https://www.toutiao.com/trending/7605754485696135187/",
           "source": "今日头条",
@@ -409,18 +468,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时12分 ~ 10时13分]"
-        },
-        {
-          "title": "Seedance2.0展示中国AI潜力",
-          "url": "https://www.douyin.com/hot/2398167",
-          "source": "抖音",
-          "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 15时11分]"
         },
         {
           "title": "机器人租赁平台擎天租宣布启动全国城市合伙人战略，春节订单预计超5000",
@@ -467,15 +514,70 @@
           "time_info": "01时59分"
         },
         {
-          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
-          "url": "https://wallstreetcn.com/articles/3765637",
-          "source": "华尔街见闻",
+          "title": "软件股“遭嫌弃”？亚马逊AWS CEO力挺：因AI产生的恐惧被夸大了！",
+          "url": "https://www.cls.cn/detail/2289134",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时11分"
+          "time_info": "16时42分"
+        },
+        {
+          "title": "一个2.6万亿AI独角兽诞生",
+          "url": "https://www.toutiao.com/trending/7606174592784158251/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "AI算力催生电力需求 核聚变行业资本开支进入上行周期",
+          "url": "https://www.cls.cn/detail/2289093",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "智元发布新一代全尺寸人形机器人远征A3",
+          "url": "https://wallstreetcn.com/livenews/3055006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "券商晨会精华：Agentic AI发展驱动需求 CPU的AI时刻已经来临",
+          "url": "https://www.cls.cn/detail/2289082",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "AI让你奔赴对MV的所有想象",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%AE%A9%E4%BD%A0%E5%A5%94%E8%B5%B4%E5%AF%B9MV%E7%9A%84%E6%89%80%E6%9C%89%E6%83%B3%E8%B1%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "美股饱受AI焦虑摧残 亚洲芯片制造龙头企业受全球资金追捧",
@@ -484,20 +586,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
         {
-          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32593042",
+          "title": "湛逸飞将出任理想人形机器人业务负责人",
+          "url": "https://wallstreetcn.com/livenews/3054998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2026年2月12日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32595090",
           "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时11分"
+          "time_info": "16时42分"
         },
         {
           "title": "谷歌：全新深度思考现已通过Gemini应用向Google AI Ultra订阅用户开放，并通过Gemini API向精选研究人员开放。",
@@ -591,7 +704,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
@@ -639,7 +752,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
@@ -650,7 +763,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
@@ -664,6 +777,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "经济日报：推动“物价合理回升”和“反内卷”，目的不是让东西变贵",
+          "url": "https://wallstreetcn.com/livenews/3055019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "投行：马来西亚四季度GDP终值料上修 2025年经济增速或达到5.0%",
@@ -760,15 +884,37 @@
           "time_info": "[05时33分 ~ 05时34分]"
         },
         {
+          "title": "印度尼西亚总统：我们将向你们证明，我们的经济增长是真实的，而且将高于我们的目标。",
+          "url": "https://flash.jin10.com/detail/20260213162132316800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "摩根士丹利经济学家：韩国央行2月会议可能上调GDP增速预期",
           "url": "https://flash.jin10.com/detail/20260213141423639800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
+        },
+        {
+          "title": "报告：1月中国国内游戏市场实际销售收入324.68亿元，同比增长4.47%",
+          "url": "https://wallstreetcn.com/livenews/3055012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "Anthropic：年化收入现已达到140亿美元。",
@@ -780,6 +926,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "印度尼西亚总统：今年我们的经济将会好得多。",
+          "url": "https://flash.jin10.com/detail/20260213160557649800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：大部分碳排放交易体系收入将返还给成员国政府。",
@@ -873,7 +1030,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国钢铁产业真崛起了吗",
@@ -920,6 +1077,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "国电电力2025年发电量超4600亿千瓦时",
+          "url": "https://wallstreetcn.com/livenews/3054986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         }
       ]
     }
