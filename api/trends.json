@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T12:53:51.744265+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-02-13T14:00:17.753405+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
@@ -42,6 +42,18 @@
           "time_info": "[00时58分 ~ 07时29分]"
         },
         {
+          "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2289051",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时29分 ~ 14时00分]"
+        },
+        {
           "title": "雷军公布小米机器人最新进展：兼具视觉语言理解与实时执行能力",
           "url": "https://www.cls.cn/detail/2288733",
           "source": "财联社热门",
@@ -65,6 +77,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时58分 ~ 07时29分]"
+        },
+        {
+          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 14时00分]"
         },
         {
           "title": "【焦点复盘】市场全天现深强沪弱，AI硬件端表现火热，大消费板块延续调整",
@@ -113,27 +136,17 @@
           "time_info": "[04时35分 ~ 06时33分]"
         },
         {
-          "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2289051",
-          "source": "财联社热门",
+          "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
+          "source": "澎湃新闻",
           "ranks": [
+            6,
             4,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时29分 ~ 12时53分]"
-        },
-        {
-          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 12时53分]"
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 14时00分]"
         },
         {
           "title": "2026春节：中国AI的“两弹一星”时刻",
@@ -152,11 +165,25 @@
           "url": "https://www.cls.cn/detail/2289007",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 12时53分]"
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 14时00分]"
+        },
+        {
+          "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
+          "url": "https://www.cls.cn/detail/2288921",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时29分 ~ 14时00分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
@@ -192,18 +219,6 @@
           "time_info": "07时29分"
         },
         {
-          "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 12时53分]"
-        },
-        {
           "title": "美国司法部反垄断事务主管Abigail Slater离职，此前总统特朗普的白宫要求其辞职、否则将把她免职。",
           "url": "https://wallstreetcn.com/livenews/3054656",
           "source": "华尔街见闻-快讯",
@@ -213,6 +228,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 14时00分]"
+        },
+        {
+          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
+          "url": "https://wallstreetcn.com/articles/3765622",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 14时00分]"
         },
         {
           "title": "中国AI视频双雄并起",
@@ -251,19 +291,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时34分 ~ 07时29分]"
-        },
-        {
-          "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
-          "url": "https://www.cls.cn/detail/2288921",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时29分 ~ 12时53分]"
         },
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
@@ -312,30 +339,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时29分]"
-        },
-        {
-          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
-          "url": "https://wallstreetcn.com/articles/3765622",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 12时53分]"
-        },
-        {
-          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
-          "url": "https://wallstreetcn.com/articles/3765624",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 12时53分]"
         },
         {
           "title": "市场消息：OpenAI 正在发布 GPT-5.3-Codex-Spark 的研究预览版。",
@@ -523,7 +526,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
@@ -534,7 +537,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         }
@@ -619,6 +622,18 @@
           "time_info": "[05时34分 ~ 07时29分]"
         },
         {
+          "title": "摩根大通策略师建议将抛售2年期美国国债作为一项“战术性”交易，理由是经济增长前景稳健将使美联储难以大幅降息。",
+          "url": "https://wallstreetcn.com/livenews/3054900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 14时00分]"
+        },
+        {
           "title": "德国总理：对比中国速度，欧盟不仅太慢了，还监管过度拖垮经济",
           "url": "https://m.thepaper.cn/newsDetail_forward_32590837",
           "source": "澎湃新闻",
@@ -628,6 +643,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "马来西亚央行：经季调后环比计算，第四季度GDP增长0.8%，而第三季度为增长2.7%。2025年，经济同比增长5.2%。",
+          "url": "https://flash.jin10.com/detail/20260213120124832800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 14时00分]"
+        },
+        {
+          "title": "马来西亚央行：2026年，强劲的国内需求和持续的出口将支撑经济增长。",
+          "url": "https://flash.jin10.com/detail/20260213120046283800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 14时00分]"
+        },
+        {
+          "title": "马来西亚央行：预计马来西亚2026年经济前景将保持韧性，总体通胀率将保持温和。",
+          "url": "https://flash.jin10.com/detail/20260213120023129800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 14时00分]"
         },
         {
           "title": "一线城市房地产市场回暖态势明显",
@@ -641,39 +692,6 @@
           "time_info": "[05时33分 ~ 05时34分]"
         },
         {
-          "title": "摩根大通策略师建议将抛售2年期美国国债作为一项“战术性”交易，理由是经济增长前景稳健将使美联储难以大幅降息。",
-          "url": "https://wallstreetcn.com/livenews/3054900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
-        },
-        {
-          "title": "马来西亚央行：经季调后环比计算，第四季度GDP增长0.8%，而第三季度为增长2.7%。2025年，经济同比增长5.2%。",
-          "url": "https://flash.jin10.com/detail/20260213120124832800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
-        },
-        {
-          "title": "马来西亚央行：2026年，强劲的国内需求和持续的出口将支撑经济增长。",
-          "url": "https://flash.jin10.com/detail/20260213120046283800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
-        },
-        {
           "title": "Anthropic：年化收入现已达到140亿美元。",
           "url": "https://flash.jin10.com/detail/20260213031648169800",
           "source": "金十数据",
@@ -683,17 +701,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
-        },
-        {
-          "title": "马来西亚央行：预计马来西亚2026年经济前景将保持韧性，总体通胀率将保持温和。",
-          "url": "https://flash.jin10.com/detail/20260213120023129800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：大部分碳排放交易体系收入将返还给成员国政府。",
@@ -713,7 +720,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
@@ -735,7 +742,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
@@ -746,7 +753,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
@@ -757,7 +764,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
@@ -787,7 +794,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国钢铁产业真崛起了吗",
@@ -800,6 +807,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时12分 ~ 12时53分]"
+        },
+        {
+          "title": "报道：美国考虑部分取消铝和钢铁关税",
+          "url": "https://wallstreetcn.com/livenews/3054913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
+          "title": "英媒：特朗普拟缩减部分钢铁和铝制品关税 以缓解“可负担性危机”",
+          "url": "https://flash.jin10.com/detail/20260213130819738800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
         },
         {
           "title": "美国能源部：这些项目属于该部门总额5.25亿美元计划的一部分，旨在扩大并振兴美国的燃煤发电机组体系。",
