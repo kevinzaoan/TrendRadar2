@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T21:44:43.480777+08:00",
-  "total_titles_processed": 1516,
+  "generated_at": "2026-02-14T22:28:07.425494+08:00",
+  "total_titles_processed": 1564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -19,20 +19,6 @@
           "time_info": "[00时46分 ~ 07时31分]"
         },
         {
-          "title": "AI无视版权,老外集火围殴",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350684&amp;topic_name=AI%E6%97%A0%E8%A7%86%E7%89%88%E6%9D%83%2C%E8%80%81%E5%A4%96%E9%9B%86%E7%81%AB%E5%9B%B4%E6%AE%B4",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            4,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时44分 ~ 21时44分]"
-        },
-        {
           "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
           "url": "https://www.cls.cn/detail/2290109",
           "source": "财联社热门",
@@ -44,6 +30,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[07时31分 ~ 18时27分]"
+        },
+        {
+          "title": "AI女副总因反色情被炒鱿鱼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时31分 ~ 22时28分]"
         },
         {
           "title": "杭州一创业者开 1 人公司，团队完全由 AI 智能体组成，月入 200 万，真能挣这么多钱吗？",
@@ -60,8 +57,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时17分 ~ 21时44分]"
+          "appearance_count": 16,
+          "time_info": "[12时17分 ~ 22时28分]"
+        },
+        {
+          "title": "AI无视版权,老外集火围殴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350684&amp;topic_name=AI%E6%97%A0%E8%A7%86%E7%89%88%E6%9D%83%2C%E8%80%81%E5%A4%96%E9%9B%86%E7%81%AB%E5%9B%B4%E6%AE%B4",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            4,
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[14时44分 ~ 22时28分]"
         },
         {
           "title": "小伙5个月用AI做120多个App",
@@ -78,15 +90,18 @@
           "time_info": "[00时46分 ~ 10时01分]"
         },
         {
-          "title": "AI女副总因反色情被炒鱿鱼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
-          "source": "贴吧",
+          "title": "“我们正在目睹一场AI创造性破坏席卷全球各行各业”！高盛合伙人：本质上，这是一次“护城河检查”",
+          "url": "https://wallstreetcn.com/articles/3765723",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            10,
+            7,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 21时44分]"
+          "appearance_count": 10,
+          "time_info": "[16时32分 ~ 22时28分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -112,25 +127,26 @@
             16,
             18,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时46分 ~ 21时44分]"
+          "appearance_count": 27,
+          "time_info": "[00时46分 ~ 22时28分]"
         },
         {
-          "title": "“我们正在目睹一场AI创造性破坏席卷全球各行各业”！高盛合伙人：本质上，这是一次“护城河检查”",
-          "url": "https://wallstreetcn.com/articles/3765723",
-          "source": "华尔街见闻",
+          "title": "马上评｜AI时代，让我们更懂年味",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32604363",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            7,
-            5,
-            4
+            15,
+            9,
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时32分 ~ 21时44分]"
+          "appearance_count": 10,
+          "time_info": "[16时32分 ~ 22时28分]"
         },
         {
           "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
@@ -156,11 +172,12 @@
             19,
             21,
             22,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时46分 ~ 21时44分]"
+          "appearance_count": 27,
+          "time_info": "[00时46分 ~ 22时28分]"
         },
         {
           "title": "小伙5个月用AI做120多个App",
@@ -190,11 +207,12 @@
             19,
             20,
             16,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[03时42分 ~ 21时44分]"
+          "appearance_count": 24,
+          "time_info": "[03时42分 ~ 22时28分]"
         },
         {
           "title": "一个2.6万亿AI独角兽诞生",
@@ -211,20 +229,6 @@
           "time_info": "[00时46分 ~ 07时31分]"
         },
         {
-          "title": "马上评｜AI时代，让我们更懂年味",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32604363",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            9,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时32分 ~ 21时44分]"
-        },
-        {
           "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
           "url": "https://wallstreetcn.com/articles/3765719",
           "source": "华尔街见闻",
@@ -235,8 +239,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 21时44分]"
+          "appearance_count": 8,
+          "time_info": "[17时31分 ~ 22时28分]"
         },
         {
           "title": "“时机尴尬”！外媒爆“美对委军事行动使用AI模型Claude”，涉事美企回应",
@@ -319,6 +323,18 @@
           "time_info": "[05时35分 ~ 07时31分]"
         },
         {
+          "title": "2026 年春节 AI 红包大战预计烧掉 45 亿，真的能让用户接受 AI 智能成为日常生活的标配吗？",
+          "url": "https://www.zhihu.com/question/2003986885089981631",
+          "source": "知乎",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时23分 ~ 22时28分]"
+        },
+        {
           "title": "Seedance2.0展示中国AI潜力",
           "url": "https://www.douyin.com/hot/2398167",
           "source": "抖音",
@@ -339,11 +355,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时49分 ~ 21时44分]"
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 22时28分]"
         },
         {
           "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
@@ -409,6 +426,18 @@
           "time_info": "[20时49分 ~ 21时44分]"
         },
         {
+          "title": "如何理解开年全球市场？“可负担性”才是 2026 的总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
+          "url": "https://wallstreetcn.com/articles/3765728",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时49分 ~ 22时28分]"
+        },
+        {
           "title": "吴克群AI春晚reaction",
           "url": "https://search.bilibili.com/all?keyword=%E5%90%B4%E5%85%8B%E7%BE%A4AI%E6%98%A5%E6%99%9Areaction",
           "source": "bilibili 热搜",
@@ -419,6 +448,55 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时32分 ~ 18时27分]"
+        },
+        {
+          "title": "Anthropic掌门人重磅访谈：AI正处于指数级增长尾声，2026年将迎“数据中心里的天才国度”，营收正以10倍极速狂飙",
+          "url": "https://wallstreetcn.com/articles/3765732",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 22时28分]"
+        },
+        {
+          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
+          "url": "https://wallstreetcn.com/livenews/3055539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 22时28分]"
+        },
+        {
+          "title": "北航新研究登上《自然-通讯》，或让机器人具备人眼级视觉能力",
+          "url": "https://wallstreetcn.com/livenews/3055538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 22时28分]"
+        },
+        {
+          "title": "本周，“AI颠覆一切”的狼终于来了",
+          "url": "https://wallstreetcn.com/articles/3765735",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 22时28分]"
         },
         {
           "title": "软件股风声鹤唳之际，高盛推出“抗AI替代”主题股票篮子",
@@ -460,16 +538,17 @@
           "time_info": "[16时32分 ~ 21时44分]"
         },
         {
-          "title": "2026 年春节 AI 红包大战预计烧掉 45 亿，真的能让用户接受 AI 智能成为日常生活的标配吗？",
-          "url": "https://www.zhihu.com/question/2003986885089981631",
-          "source": "知乎",
+          "title": "因“不可预见的情况”，英伟达CEO黄仁勋取消下周的印度AI峰会行程",
+          "url": "https://wallstreetcn.com/livenews/3055529",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            18
+            20,
+            25
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时23分 ~ 21时44分]"
+          "time_info": "[20时49分 ~ 22时28分]"
         },
         {
           "title": "如何评价小米开源首代机器人 VLA 大模型 Xiaomi-Robotics-0？",
@@ -496,41 +575,6 @@
           "time_info": "[15时34分 ~ 16时33分]"
         },
         {
-          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
-          "url": "https://wallstreetcn.com/livenews/3055539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时49分 ~ 21时44分]"
-        },
-        {
-          "title": "北航新研究登上《自然-通讯》，或让机器人具备人眼级视觉能力",
-          "url": "https://wallstreetcn.com/livenews/3055538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时49分 ~ 21时44分]"
-        },
-        {
-          "title": "如何理解开年全球市场？“可负担性”才是 2026 的总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
-          "url": "https://wallstreetcn.com/articles/3765728",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时49分 ~ 21时44分]"
-        },
-        {
           "title": "桥水Q4增持英伟达、亚马逊等AI热门股 同时加重黄金股持仓",
           "url": "https://flash.jin10.com/detail/20260214113020245800",
           "source": "金十数据",
@@ -555,18 +599,6 @@
           "time_info": "[13时45分 ~ 14时45分]"
         },
         {
-          "title": "因“不可预见的情况”，英伟达CEO黄仁勋取消下周的印度AI峰会行程",
-          "url": "https://wallstreetcn.com/livenews/3055529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时49分 ~ 21时44分]"
-        },
-        {
           "title": "美团杀入春节AI大战",
           "url": "https://www.toutiao.com/trending/7606531766676885028/",
           "source": "今日头条",
@@ -576,28 +608,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时44分 ~ 13时45分]"
-        },
-        {
-          "title": "Anthropic掌门人重磅访谈：AI正处于指数级增长尾声，2026年将迎“数据中心里的天才国度”，营收正以10倍极速狂飙",
-          "url": "https://wallstreetcn.com/articles/3765732",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "本周，“AI颠覆一切”的狼终于来了",
-          "url": "https://wallstreetcn.com/articles/3765735",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         },
         {
           "title": "报道：法律AI初创公司Legora计划融资，估值或升至60亿美元",
@@ -620,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "意大利能源公司埃尼集团Eni确认，在安哥拉周边海域Algaita-01区块发现石油，储量5亿桶。",
+          "url": "https://wallstreetcn.com/livenews/3055541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "科大讯飞总裁吴晓如：2025年公司海外营收超10亿元 AI核心业务推动出海提速",
@@ -702,7 +723,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "国际货币基金组织：巴基斯坦拟议的电价调整仍至关重要，应避免对中低收入家庭造成不成比例的负担。",
@@ -732,11 +753,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32566200",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时32分 ~ 20时49分]"
+          "appearance_count": 8,
+          "time_info": "[16时32分 ~ 22时28分]"
+        },
+        {
+          "title": "美国务卿：古巴的唯一出路是开放经济",
+          "url": "https://flash.jin10.com/detail/20260214212442292800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "分析师：关税通胀或将在未来几个月继续传导至经济 美联储年内料将降息两次",
@@ -789,6 +822,19 @@
           "time_info": "[12时17分 ~ 15时34分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：乌克兰已准备好讨论自由经济区，这或许会带来妥协。",
+          "url": "https://flash.jin10.com/detail/20260214195636552800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 22时28分]"
+        },
+        {
           "title": "英国与欧洲盟友寻求收紧对俄罗斯经济的限制措施。 英国与欧洲盟友考虑扣押俄罗斯影子船队的船只。",
           "url": "https://wallstreetcn.com/livenews/3055358",
           "source": "华尔街见闻-快讯",
@@ -814,16 +860,16 @@
           "time_info": "[12时17分 ~ 13时45分]"
         },
         {
-          "title": "乌克兰总统泽连斯基：乌克兰已准备好讨论自由经济区，这或许会带来妥协。",
-          "url": "https://flash.jin10.com/detail/20260214195636552800",
+          "title": "北约秘书长吕特：俄罗斯的石油收入下降了三分之一，正迅速消耗其主权财富基金。",
+          "url": "https://flash.jin10.com/detail/20260214204000683800",
           "source": "金十数据",
           "ranks": [
-            6,
-            20
+            9,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时49分 ~ 21时44分]"
+          "time_info": "[21时44分 ~ 22时28分]"
         },
         {
           "title": "加拿大政府网站：加拿大根据《特别经济措施（伊朗）条例》对伊朗7名个人实施额外制裁。",
@@ -857,17 +903,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
-        },
-        {
-          "title": "北约秘书长吕特：俄罗斯的石油收入下降了三分之一，正迅速消耗其主权财富基金。",
-          "url": "https://flash.jin10.com/detail/20260214204000683800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         },
         {
           "title": "美国总统特朗普称赞今日公布的良好经济数据。",
