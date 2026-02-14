@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T07:31:38.168745+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-02-14T10:01:36.494884+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -13,19 +13,6 @@
           "source": "华尔街见闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时31分]"
-        },
-        {
-          "title": "小伙5个月用AI做120多个App",
-          "url": "https://www.toutiao.com/trending/7605526928975659054/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            4,
-            10
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -40,8 +27,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 10时01分]"
+        },
+        {
+          "title": "小伙5个月用AI做120多个App",
+          "url": "https://www.toutiao.com/trending/7605526928975659054/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            4,
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 10时01分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -64,8 +65,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 10时01分]"
         },
         {
           "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
@@ -100,11 +101,12 @@
           "ranks": [
             12,
             15,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时42分 ~ 07时31分]"
+          "appearance_count": 8,
+          "time_info": "[03时42分 ~ 10时01分]"
         },
         {
           "title": "美国五角大楼在强行掳走委内瑞拉总统马杜罗的过程中使用了Anthropic的Claude模型。（华尔街日报）",
@@ -113,7 +115,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -185,6 +187,18 @@
           "time_info": "[02时51分 ~ 04时39分]"
         },
         {
+          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
+          "url": "https://www.cls.cn/detail/2290109",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 10时01分]"
+        },
+        {
           "title": "软件股风声鹤唳之际，高盛推出“抗AI替代”主题股票篮子",
           "url": "https://wallstreetcn.com/livenews/3055325",
           "source": "华尔街见闻-快讯",
@@ -198,15 +212,15 @@
           "time_info": "[02时51分 ~ 04时39分]"
         },
         {
-          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
-          "url": "https://www.cls.cn/detail/2290109",
-          "source": "财联社热门",
+          "title": "小伙5个月用AI做120多个App",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%995%E4%B8%AA%E6%9C%88%E7%94%A8AI%E5%81%9A120%E5%A4%9A%E4%B8%AAApp",
+          "source": "百度热搜",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "10时01分"
         },
         {
           "title": "报道：法律AI初创公司Legora计划融资，估值或升至60亿美元",
@@ -229,6 +243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "科大讯飞总裁吴晓如：2025年公司海外营收超10亿元 AI核心业务推动出海提速",
+          "url": "https://wallstreetcn.com/livenews/3055412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "美国联邦贸易委员会（FTC）加速调查微软，就云和AI问题询问该公司的竞争对手们。",
@@ -264,6 +289,17 @@
           "time_info": "02时51分"
         },
         {
+          "title": "跨界投入 腾笼换鸟 汽车企业加速布局机器人赛道",
+          "url": "https://wallstreetcn.com/livenews/3055404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "马斯克旗下银团正商讨方案，旨在解决SpaceX与xAI合并后的债务问题",
           "url": "https://wallstreetcn.com/livenews/3055261",
           "source": "华尔街见闻-快讯",
@@ -278,7 +314,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "国际货币基金组织：巴基斯坦电力部门改革进展顺利；配电和发电公司私有化稳步推进；输电重组正在推进。",
@@ -315,6 +351,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时51分 ~ 04时39分]"
+        },
+        {
+          "title": "伦铝跳水！报道：美国考虑部分取消铝和钢铁关税",
+          "url": "https://wallstreetcn.com/articles/3765658",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "国际首套零碳复温天然气压差发电系统正式投运",
@@ -375,7 +422,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "国际货币基金组织：巴基斯坦拟议的电价调整仍至关重要，应避免对中低收入家庭造成不成比例的负担。",
@@ -445,6 +492,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "南向资金持续“扫货”港股，房地产、金融等板块受青睐",
+          "url": "https://wallstreetcn.com/livenews/3055403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     }
