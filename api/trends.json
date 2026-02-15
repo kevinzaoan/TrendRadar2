@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T22:28:47.901855+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2026-02-15T23:26:26.348010+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "“我们正在目睹一场AI创造性破坏席卷全球各行各业”！高盛合伙人：本质上，这是一次“护城河检查”",
@@ -47,8 +47,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时56分 ~ 22时28分]"
+          "appearance_count": 14,
+          "time_info": "[13时56分 ~ 23时26分]"
         },
         {
           "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
@@ -62,6 +62,23 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时30分 ~ 07时25分]"
+        },
+        {
+          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            7,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[10时12分 ~ 23时26分]"
         },
         {
           "title": "本周，“AI颠覆一切”的狼终于来了",
@@ -78,22 +95,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时30分 ~ 16时34分]"
-        },
-        {
-          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            7,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时12分 ~ 22时28分]"
         },
         {
           "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
@@ -121,8 +122,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时54分 ~ 22时28分]"
+          "appearance_count": 15,
+          "time_info": "[12时54分 ~ 23时26分]"
         },
         {
           "title": "杭州一创业者开 1 人公司，团队完全由 AI 智能体组成，月入 200 万，真能挣这么多钱吗？",
@@ -162,11 +163,12 @@
             9,
             11,
             14,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时30分 ~ 22时28分]"
+          "appearance_count": 27,
+          "time_info": "[00时30分 ~ 23时26分]"
         },
         {
           "title": "如何理解开年全球市场？“可负担性”才是 2026 的总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
@@ -181,6 +183,20 @@
           "time_info": "[00时30分 ~ 07时25分]"
         },
         {
+          "title": "AI遇上最强春节档 Token通胀已成必然？",
+          "url": "https://www.cls.cn/detail/2290600",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时26分 ~ 23时26分]"
+        },
+        {
           "title": "AI无视版权,老外集火围殴",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350684&amp;topic_name=AI%E6%97%A0%E8%A7%86%E7%89%88%E6%9D%83%2C%E8%80%81%E5%A4%96%E9%9B%86%E7%81%AB%E5%9B%B4%E6%AE%B4",
           "source": "贴吧",
@@ -190,11 +206,12 @@
             13,
             15,
             18,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时30分 ~ 22时28分]"
+          "appearance_count": 27,
+          "time_info": "[00时30分 ~ 23时26分]"
         },
         {
           "title": "马上评｜AI时代，让我们更懂年味",
@@ -224,6 +241,21 @@
           "time_info": "[01时26分 ~ 07时25分]"
         },
         {
+          "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610345",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时34分 ~ 23时26分]"
+        },
+        {
           "title": "老码农裁员理由+1:被AI优化",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
           "source": "贴吧",
@@ -247,20 +279,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时30分 ~ 07时25分]"
-        },
-        {
-          "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32610345",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时34分 ~ 22时28分]"
         },
         {
           "title": "印度AI峰会“五天赛程”安排",
@@ -305,19 +323,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时12分 ~ 18时27分]"
-        },
-        {
-          "title": "AI遇上最强春节档 Token通胀已成必然？",
-          "url": "https://www.cls.cn/detail/2290600",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时26分 ~ 22时28分]"
         },
         {
           "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
@@ -407,6 +412,32 @@
           "time_info": "[12时54分 ~ 15时39分]"
         },
         {
+          "title": "分析师：AI风险主导市场 投资者抛售相关股票",
+          "url": "https://flash.jin10.com/detail/20260215225328791800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "抖音机器人联欢会先演上了",
+          "url": "https://www.douyin.com/hot/2401648",
+          "source": "抖音",
+          "ranks": [
+            11,
+            23,
+            25,
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时32分 ~ 23时26分]"
+        },
+        {
           "title": "网文行业在未来二三十年真的会被 AI 给废掉吗？",
           "url": "https://www.zhihu.com/question/1997776604575864283",
           "source": "知乎",
@@ -419,20 +450,6 @@
           "time_info": "[14时54分 ~ 16时34分]"
         },
         {
-          "title": "抖音机器人联欢会先演上了",
-          "url": "https://www.douyin.com/hot/2401648",
-          "source": "抖音",
-          "ranks": [
-            11,
-            23,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时32分 ~ 19时23分]"
-        },
-        {
           "title": "你认为 AI 编程未来真的会取代程序员吗？",
           "url": "https://www.zhihu.com/question/1962444467077358693",
           "source": "知乎",
@@ -443,6 +460,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时32分 ~ 19时23分]"
+        },
+        {
+          "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
+          "url": "https://wallstreetcn.com/articles/3765760",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 23时26分]"
         },
         {
           "title": "“AI交易”的关键变量：服务业敞口越高，AI颠覆风险越大，“AI基建”最有利",
@@ -469,18 +498,6 @@
           "time_info": "[04时27分 ~ 06时24分]"
         },
         {
-          "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
-          "url": "https://wallstreetcn.com/articles/3765760",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 22时28分]"
-        },
-        {
           "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
           "url": "https://www.cls.cn/detail/2290580",
           "source": "财联社热门",
@@ -489,30 +506,56 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 22时28分]"
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 23时26分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
           "url": "https://wallstreetcn.com/articles/3765755",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 22时28分]"
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 23时26分]"
         },
         {
           "title": "美军被曝在委内瑞拉军事行动中使用AI模型，开发公司回应质疑",
           "url": "https://m.thepaper.cn/newsDetail_forward_32615186",
           "source": "澎湃新闻",
           "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 23时26分]"
+        },
+        {
+          "title": "从“玩具”到“工具”，AI是否正在逼近影视生产力拐点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610730",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时45分 ~ 22时28分]"
+          "time_info": "[22时28分 ~ 23时26分]"
+        },
+        {
+          "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32617346",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 23时26分]"
         },
         {
           "title": "Anthropic：我们尚未就将“Claude”模型用于与国防部的具体操作事宜进行过讨论。",
@@ -584,28 +627,6 @@
           "time_info": "15时39分"
         },
         {
-          "title": "从“玩具”到“工具”，AI是否正在逼近影视生产力拐点？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32610730",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32617346",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
           "title": "今年的年货都是AI一手包办",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E7%9A%84%E5%B9%B4%E8%B4%A7%E9%83%BD%E6%98%AFAI%E4%B8%80%E6%89%8B%E5%8C%85%E5%8A%9E%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -664,7 +685,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美国务卿：古巴的唯一出路是开放经济",
@@ -676,6 +697,36 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时30分 ~ 07时25分]"
+        },
+        {
+          "title": "习近平：当前经济工作的重点任务",
+          "url": "https://www.cls.cn/detail/2290573",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6,
+            4,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时32分 ~ 23时26分]"
+        },
+        {
+          "title": "《求是》杂志发表习近平总书记重要文章《当前经济工作的重点任务》",
+          "url": "https://wallstreetcn.com/articles/3765758",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时32分 ~ 23时26分]"
         },
         {
           "title": "陈茂波：将积极拼经济、谋发展，同时开拓新市场、发展新兴产业",
@@ -695,35 +746,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时54分 ~ 20时51分]"
-        },
-        {
-          "title": "《求是》杂志发表习近平总书记重要文章《当前经济工作的重点任务》",
-          "url": "https://wallstreetcn.com/articles/3765758",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时32分 ~ 22时28分]"
-        },
-        {
-          "title": "习近平：当前经济工作的重点任务",
-          "url": "https://www.cls.cn/detail/2290573",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时32分 ~ 22时28分]"
         },
         {
           "title": "40余年春晚赞助商变化，见证中国经济社会发展变迁",
@@ -823,6 +845,28 @@
           "time_info": "[12时54分 ~ 16时34分]"
         },
         {
+          "title": "“新美联储通讯社”：美国经济或已实现软着陆，但现在宣布胜利为时过早",
+          "url": "https://wallstreetcn.com/livenews/3055632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "美联储传声筒：美国经济或已实现软着陆，但无人愿轻言胜利",
+          "url": "https://flash.jin10.com/detail/20260215223002947800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "陈茂波：将积极拼经济、谋发展，同时开拓新市场、发展新兴产业",
           "url": "https://flash.jin10.com/detail/20260215115626307800",
           "source": "金十数据",
@@ -865,7 +909,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
