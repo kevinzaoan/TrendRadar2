@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T13:58:24.262659+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-02-17T15:05:37.544969+08:00",
+  "total_titles_processed": 1004,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 90,
+      "match_count": 93,
       "titles": [
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 13时58分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 15时05分]"
         },
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 13时58分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 15时05分]"
         },
         {
           "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 13时58分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 15时05分]"
         },
         {
           "title": "今年春晚，机器人刷屏了",
@@ -63,8 +63,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 13时58分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 15时05分]"
         },
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -101,8 +101,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 13时58分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 15时05分]"
         },
         {
           "title": "春晚机器人中国功夫夯爆了",
@@ -155,8 +155,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 13时58分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 15时05分]"
         },
         {
           "title": "蔡明30年后成真机器人",
@@ -260,6 +260,18 @@
           "time_info": "[00时43分 ~ 07时30分]"
         },
         {
+          "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
+          "url": "https://www.cls.cn/detail/2290580",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 15时05分]"
+        },
+        {
           "title": "太夯!宇树机器人三刷春晚",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350744&amp;topic_name=%E5%A4%AA%E5%A4%AF%21%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%89%E5%88%B7%E6%98%A5%E6%99%9A",
           "source": "贴吧",
@@ -269,8 +281,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 13时58分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 15时05分]"
         },
         {
           "title": "机器人中国功夫夯爆了",
@@ -285,27 +297,17 @@
           "time_info": "[00时43分 ~ 07时30分]"
         },
         {
-          "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
-          "url": "https://www.cls.cn/detail/2290580",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 13时58分]"
-        },
-        {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
           "url": "https://www.cls.cn/detail/2290650",
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 13时58分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 15时05分]"
         },
         {
           "title": "揭秘春晚机器人背后概念股",
@@ -332,11 +334,12 @@
             12,
             11,
             10,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 13时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 15时05分]"
         },
         {
           "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
@@ -369,6 +372,18 @@
           "time_info": "[00时43分 ~ 07时30分]"
         },
         {
+          "title": "马年春晚为何独爱机器人",
+          "url": "https://www.douyin.com/hot/2403458",
+          "source": "抖音",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时38分 ~ 15时05分]"
+        },
+        {
           "title": "宇树科技王兴兴谈机器人集群控制技术",
           "url": "https://www.toutiao.com/trending/7606661055244435499/",
           "source": "今日头条",
@@ -394,17 +409,6 @@
           "time_info": "[00时43分 ~ 06时29分]"
         },
         {
-          "title": "马年春晚为何独爱机器人",
-          "url": "https://www.douyin.com/hot/2403458",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时38分 ~ 06时29分]"
-        },
-        {
           "title": "春晚机器人们是什么来头",
           "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%AC%E6%98%AF%E4%BB%80%E4%B9%88%E6%9D%A5%E5%A4%B4",
           "source": "bilibili 热搜",
@@ -412,8 +416,43 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时05分 ~ 15时05分]"
+        },
+        {
+          "title": "机器人春晚摔倒是故意的？王兴兴回应",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%98%A5%E6%99%9A%E6%91%94%E5%80%92%E6%98%AF%E6%95%85%E6%84%8F%E7%9A%84%EF%BC%9F%E7%8E%8B%E5%85%B4%E5%85%B4%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时05分 ~ 13时58分]"
+          "time_info": "[12时52分 ~ 15时05分]"
+        },
+        {
+          "title": "机器人扎堆,亮眼还是视疲劳",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350752&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8E%E5%A0%86%2C%E4%BA%AE%E7%9C%BC%E8%BF%98%E6%98%AF%E8%A7%86%E7%96%B2%E5%8A%B3",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 15时05分]"
+        },
+        {
+          "title": "如何评价宇树机器人在 2026 年春晚的表现？相比去年，你观察到了哪些进步？",
+          "url": "https://www.zhihu.com/question/2006736136949691490",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时05分 ~ 15时05分]"
         },
         {
           "title": "这波三角洲AI春晚真该留到今晚看",
@@ -444,28 +483,6 @@
           "time_info": "[01时38分 ~ 06时29分]"
         },
         {
-          "title": "机器人春晚摔倒是故意的？王兴兴回应",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%98%A5%E6%99%9A%E6%91%94%E5%80%92%E6%98%AF%E6%95%85%E6%84%8F%E7%9A%84%EF%BC%9F%E7%8E%8B%E5%85%B4%E5%85%B4%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时58分]"
-        },
-        {
-          "title": "机器人扎堆,亮眼还是视疲劳",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350752&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8E%E5%A0%86%2C%E4%BA%AE%E7%9C%BC%E8%BF%98%E6%98%AF%E8%A7%86%E7%96%B2%E5%8A%B3",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时58分]"
-        },
-        {
           "title": "1.3亿人春节首次体验AI购物，千问一跃成为国民级AI助手",
           "url": "https://wallstreetcn.com/livenews/3055799",
           "source": "华尔街见闻-快讯",
@@ -480,19 +497,6 @@
           "time_info": "[00时43分 ~ 04时32分]"
         },
         {
-          "title": "如何评价宇树机器人在 2026 年春晚的表现？相比去年，你观察到了哪些进步？",
-          "url": "https://www.zhihu.com/question/2006736136949691490",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时05分 ~ 13时58分]"
-        },
-        {
           "title": "机器人浓度超高 春晚总导演回应",
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B5%93%E5%BA%A6%E8%B6%85%E9%AB%98+%E6%98%A5%E6%99%9A%E6%80%BB%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -504,15 +508,27 @@
           "time_info": "10时05分"
         },
         {
-          "title": "人民日报快评：春晚“机器人浓度超高”，具身智能未来已来",
-          "url": "https://wallstreetcn.com/livenews/3055885",
-          "source": "华尔街见闻-快讯",
+          "title": "春晚同款机器人85000？客服回应",
+          "url": "https://www.toutiao.com/trending/7607681739867328027/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 15时05分]"
+        },
+        {
+          "title": "揭秘春晚机器人武术表演",
+          "url": "https://www.douyin.com/hot/2403923",
+          "source": "抖音",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "15时05分"
         },
         {
           "title": "OpenAI：系统（恢复）全面运作。",
@@ -583,28 +599,17 @@
           "time_info": "[10时05分 ~ 13时58分]"
         },
         {
-          "title": "春晚同款机器人85000？客服回应",
-          "url": "https://www.toutiao.com/trending/7607681739867328027/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时58分]"
-        },
-        {
           "title": "春晚后机器人卖爆了",
           "url": "https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E5%90%8E%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%96%E7%88%86%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
             27,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 13时58分]"
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 15时05分]"
         },
         {
           "title": "蔡明仿生机器人咋做的",
@@ -612,11 +617,24 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            14
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 15时05分]"
+        },
+        {
+          "title": "宇树春晚同款机器人售价208850元",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%98%A5%E6%99%9A%E5%90%8C%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%94%AE%E4%BB%B7208850%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时58分]"
+          "time_info": "[13时58分 ~ 15时05分]"
         },
         {
           "title": "Meta内部测试显示其AI聊天机器人未能有效保护儿童",
@@ -629,6 +647,44 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时30分]"
+        },
+        {
+          "title": "人民日报快评：春晚“机器人浓度超高”，具身智能未来已来",
+          "url": "https://wallstreetcn.com/livenews/3055885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时05分]"
+        },
+        {
+          "title": "春晚机器人齐聚抖音",
+          "url": "https://www.douyin.com/hot/2403438",
+          "source": "抖音",
+          "ranks": [
+            7,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时29分 ~ 15时05分]"
+        },
+        {
+          "title": "春晚机器人还是太全面了",
+          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%98%E6%98%AF%E5%A4%AA%E5%85%A8%E9%9D%A2%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时05分 ~ 15时05分]"
         },
         {
           "title": "机器人在春晚进化成宗师了",
@@ -644,16 +700,29 @@
           "time_info": "[00时43分 ~ 04时32分]"
         },
         {
-          "title": "春晚机器人齐聚抖音",
-          "url": "https://www.douyin.com/hot/2403438",
-          "source": "抖音",
+          "title": "宇树机器人春晚武术表演再炸场，王兴兴：高动态高协同集群控制技术全球首秀",
+          "url": "https://wallstreetcn.com/articles/3765800",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            10
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时29分 ~ 10时05分]"
+          "time_info": "[12时52分 ~ 15时05分]"
+        },
+        {
+          "title": "春晚同款机器人85000元？客服回应",
+          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E5%90%8C%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA85000%E5%85%83%EF%BC%9F%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 15时05分]"
         },
         {
           "title": "Anthropic将Claude Code嵌入印度国家航空公司等公司",
@@ -682,18 +751,6 @@
           "time_info": "[05时29分 ~ 07时30分]"
         },
         {
-          "title": "春晚机器人还是太全面了",
-          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%98%E6%98%AF%E5%A4%AA%E5%85%A8%E9%9D%A2%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时05分 ~ 13时58分]"
-        },
-        {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
           "url": "https://wallstreetcn.com/articles/3765781",
           "source": "华尔街见闻",
@@ -717,6 +774,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时43分 ~ 02时43分]"
+        },
+        {
+          "title": "媒体人：机器人“硬控”春晚",
+          "url": "https://www.toutiao.com/trending/7607669602272693779/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 15时05分]"
         },
         {
           "title": "王兴兴揭秘机器人“练功秘籍”",
@@ -743,16 +812,27 @@
           "time_info": "[00时43分 ~ 02时43分]"
         },
         {
-          "title": "春晚同款机器人85000元？客服回应",
-          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E5%90%8C%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA85000%E5%85%83%EF%BC%9F%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
+          "title": "深度解密春晚机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E5%AF%86%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            6,
-            15
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时58分]"
+          "time_info": "[13时58分 ~ 15时05分]"
+        },
+        {
+          "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32622644",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时05分]"
         },
         {
           "title": "市场消息：OpenAI当前遭遇一些问题，购物搜索功能陷入宕机状态。",
@@ -767,16 +847,27 @@
           "time_info": "[05时29分 ~ 06时29分]"
         },
         {
-          "title": "宇树机器人春晚武术表演再炸场，王兴兴：高动态高协同集群控制技术全球首秀",
-          "url": "https://wallstreetcn.com/articles/3765800",
-          "source": "华尔街见闻",
+          "title": "豆包：除夕AI互动19亿次，Seedance2.0为春晚提供技术支持",
+          "url": "https://wallstreetcn.com/livenews/3055884",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            7
+            6,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时58分]"
+          "time_info": "[13时58分 ~ 15时05分]"
+        },
+        {
+          "title": "王兴兴称春晚机器人摔倒系剧情需要",
+          "url": "https://www.toutiao.com/trending/7607051298697088554/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时05分]"
         },
         {
           "title": "春晚总导演回应机器人浓度高",
@@ -850,18 +941,6 @@
           "time_info": "[06时29分 ~ 07时30分]"
         },
         {
-          "title": "媒体人：机器人“硬控”春晚",
-          "url": "https://www.toutiao.com/trending/7607669602272693779/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时58分]"
-        },
-        {
           "title": "5年后机器人会是工厂主力吗",
           "url": "https://www.toutiao.com/trending/7607655972890218034/",
           "source": "今日头条",
@@ -883,61 +962,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 02时43分]"
-        },
-        {
-          "title": "豆包：除夕AI互动19亿次，Seedance2.0为春晚提供技术支持",
-          "url": "https://wallstreetcn.com/livenews/3055884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "深度解密春晚机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E5%AF%86%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "王兴兴称春晚机器人摔倒系剧情需要",
-          "url": "https://www.toutiao.com/trending/7607051298697088554/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "宇树春晚同款机器人售价208850元",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%98%A5%E6%99%9A%E5%90%8C%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%94%AE%E4%BB%B7208850%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32622644",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         },
         {
           "title": "印度AI争夺战日趋激烈 Anthropic在印度开设首家办事处",
@@ -979,7 +1003,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1017,6 +1041,17 @@
           "time_info": "10时05分"
         },
         {
+          "title": "春晚落幕 机器人时代正式开场",
+          "url": "https://www.toutiao.com/trending/7607696396019306034/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
           "title": "OpenAI：系统已恢复全面运作。",
           "url": "https://flash.jin10.com/detail/20260217052259501800",
           "source": "金十数据",
@@ -1026,6 +1061,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "武bot机器人 我不要面子的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AD%A6bot%E6%9C%BA%E5%99%A8%E4%BA%BA%20%E6%88%91%E4%B8%8D%E8%A6%81%E9%9D%A2%E5%AD%90%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "华尔街女股神：卖出AI的人都会后悔",
@@ -1056,7 +1102,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1149,6 +1195,19 @@
           "time_info": "[02时43分 ~ 07时30分]"
         },
         {
+          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
+          "url": "https://wallstreetcn.com/articles/3765802",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 15时05分]"
+        },
+        {
           "title": "加拿大财长：很高兴在布鲁塞尔见到欧元集团主席皮埃拉卡基斯。作为受邀参加此次会议的加拿大财政部长，这清楚表明加拿大和欧盟重视我们在推动共同经济利益方面的伙伴关系。我们正在加强支持我们工人和产业的联系。",
           "url": "https://flash.jin10.com/detail/20260217093941199800",
           "source": "金十数据",
@@ -1158,18 +1217,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
-        },
-        {
-          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
-          "url": "https://wallstreetcn.com/articles/3765802",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时58分]"
         },
         {
           "title": "必和必拓(BHP.N)：对支撑关键大宗商品的经济背景持乐观态度。",
@@ -1209,6 +1256,18 @@
           "time_info": "[00时43分 ~ 01时38分]"
         },
         {
+          "title": "高盛：随着关税影响逐渐消退，全球经济增长有望超出预期",
+          "url": "https://flash.jin10.com/detail/20260217133134700800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时05分]"
+        },
+        {
           "title": "加拿大负责美国贸易事务的部长Leblanc与墨西哥经济部长Ebrard签署贸易备忘录。",
           "url": "https://wallstreetcn.com/livenews/3055790",
           "source": "华尔街见闻-快讯",
@@ -1243,17 +1302,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时30分]"
-        },
-        {
-          "title": "高盛：随着关税影响逐渐消退，全球经济增长有望超出预期",
-          "url": "https://flash.jin10.com/detail/20260217133134700800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         },
         {
           "title": "加拿大贸易部长：作为加拿大代表团前往墨西哥贸易访问的一部分，我们庆祝了加拿大与墨西哥之间的关系。这种关系源于共同的价值观以及经济发展的目标，这些因素已经并将继续为两国带来繁荣。",
