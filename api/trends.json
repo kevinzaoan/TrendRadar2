@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T21:04:49.101130+08:00",
-  "total_titles_processed": 1587,
+  "generated_at": "2026-02-18T22:44:41.215057+08:00",
+  "total_titles_processed": 1726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 98,
+      "match_count": 102,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时58分 ~ 21时04分]"
+          "appearance_count": 25,
+          "time_info": "[00时58分 ~ 22时44分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时09分 ~ 21时04分]"
+          "appearance_count": 16,
+          "time_info": "[10时09分 ~ 22时44分]"
         },
         {
           "title": "春晚绝活升级背后：中国人形机器人技术有了哪些新突破？",
@@ -53,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时58分 ~ 21时04分]"
+          "appearance_count": 25,
+          "time_info": "[00时58分 ~ 22时44分]"
         },
         {
           "title": "今年春晚，机器人刷屏了",
@@ -65,8 +65,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时58分 ~ 21时04分]"
+          "appearance_count": 25,
+          "time_info": "[00时58分 ~ 22时44分]"
         },
         {
           "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
@@ -77,8 +77,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时53分 ~ 21时04分]"
+          "appearance_count": 15,
+          "time_info": "[12时53分 ~ 22时44分]"
         },
         {
           "title": "春晚机器人幕后花絮大放送",
@@ -89,8 +89,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时53分 ~ 21时04分]"
+          "appearance_count": 15,
+          "time_info": "[12时53分 ~ 22时44分]"
         },
         {
           "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
@@ -102,8 +102,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时58分 ~ 21时04分]"
+          "appearance_count": 25,
+          "time_info": "[00时58分 ~ 22时44分]"
         },
         {
           "title": "宇树、松延动力、魔法原子、银河通用，哪家机器人是春晚最大赢家？让你觉得最震撼？",
@@ -118,6 +118,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[12时53分 ~ 19时39分]"
+        },
+        {
+          "title": "机器人变印度造,三哥真敢吹",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350767&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%98%E5%8D%B0%E5%BA%A6%E9%80%A0%2C%E4%B8%89%E5%93%A5%E7%9C%9F%E6%95%A2%E5%90%B9",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时44分 ~ 22时44分]"
         },
         {
           "title": "春晚后机器人卖爆了，宇树春晚机器人售价 20 万，这些机器人走下舞台能干啥？这波热度能带动赛道起飞吗？",
@@ -160,8 +173,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时58分 ~ 21时04分]"
+          "appearance_count": 25,
+          "time_info": "[00时58分 ~ 22时44分]"
         },
         {
           "title": "机器人进化到包饺子了 指纹清晰可见",
@@ -192,18 +205,6 @@
           "time_info": "[00时58分 ~ 06时32分]"
         },
         {
-          "title": "机器人变印度造,三哥真敢吹",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350767&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%98%E5%8D%B0%E5%BA%A6%E9%80%A0%2C%E4%B8%89%E5%93%A5%E7%9C%9F%E6%95%A2%E5%90%B9",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时44分 ~ 21时04分]"
-        },
-        {
           "title": "AI大战:鹅厂阿里双双出局",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
           "source": "贴吧",
@@ -211,11 +212,12 @@
             3,
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时50分 ~ 21时04分]"
+          "appearance_count": 11,
+          "time_info": "[15时50分 ~ 22时44分]"
         },
         {
           "title": "宇树机器人春晚武术表演再炸场，王兴兴：高动态高协同集群控制技术全球首秀",
@@ -240,8 +242,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时58分 ~ 21时04分]"
+          "appearance_count": 25,
+          "time_info": "[00时58分 ~ 22时44分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -253,11 +255,12 @@
             9,
             11,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时58分 ~ 21时04分]"
+          "appearance_count": 25,
+          "time_info": "[00时58分 ~ 22时44分]"
         },
         {
           "title": "AI眼中的二十四节气",
@@ -373,11 +376,12 @@
             16,
             18,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时58分 ~ 21时04分]"
+          "appearance_count": 25,
+          "time_info": "[00时58分 ~ 22时44分]"
         },
         {
           "title": "人形机器人会有失控风险吗",
@@ -550,6 +554,18 @@
           "time_info": "[00时58分 ~ 14时02分]"
         },
         {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时48分 ~ 22时44分]"
+        },
+        {
           "title": "春晚机器人们是什么来头",
           "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%AC%E6%98%AF%E4%BB%80%E4%B9%88%E6%9D%A5%E5%A4%B4",
           "source": "bilibili 热搜",
@@ -591,18 +607,6 @@
           "time_info": "[00时58分 ~ 05时36分]"
         },
         {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时48分 ~ 21时04分]"
-        },
-        {
           "title": "大陆人形机器人进化神速引岛内热议",
           "url": "https://www.toutiao.com/trending/7607675186574278699/",
           "source": "今日头条",
@@ -621,7 +625,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -670,6 +674,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
+        },
+        {
+          "title": "外网如何评价春晚机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E7%BD%91%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "苹果大改AI眼镜、Pendant、以及带摄像头的AirPods。",
@@ -778,6 +793,17 @@
           "time_info": "[05时36分 ~ 06时32分]"
         },
         {
+          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
+          "url": "https://wallstreetcn.com/articles/3765833",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时38分 ~ 22时44分]"
+        },
+        {
           "title": "外媒惊叹中国人形机器人发展速度",
           "url": "https://www.toutiao.com/trending/7607638343538622506/",
           "source": "今日头条",
@@ -813,17 +839,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时50分 ~ 16时44分]"
-        },
-        {
-          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
-          "url": "https://wallstreetcn.com/articles/3765833",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时38分 ~ 21时04分]"
         },
         {
           "title": "机器人们在马年春晚上表演武术、小品、舞蹈等节目，如何评价机器人的表现？有哪些表演是机器人无法替代的？",
@@ -968,6 +983,18 @@
           "time_info": "[03时04分 ~ 04时38分]"
         },
         {
+          "title": "深度解密春晚机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E5%AF%86%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 22时44分]"
+        },
+        {
           "title": "机器人春晚炫技后迎来淘汰赛",
           "url": "https://www.toutiao.com/trending/7607752040709623347/",
           "source": "今日头条",
@@ -996,7 +1023,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -1007,7 +1034,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -1029,7 +1056,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -1065,6 +1092,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "多国媒体：春晚人形机器人表演展现中国人工智能飞速发展",
+          "url": "https://wallstreetcn.com/livenews/3056348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "阿达尼集团将对可再生能源支持的AI数据中心投资1000亿美元",
@@ -1106,7 +1144,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -1117,7 +1155,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -1128,7 +1166,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -1188,6 +1226,17 @@
           "time_info": "05时36分"
         },
         {
+          "title": "中储粮平仓机器人问世",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%82%A8%E7%B2%AE%E5%B9%B3%E4%BB%93%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%97%AE%E4%B8%96&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
           "title": "印度AI峰会差评如潮",
           "url": "https://www.toutiao.com/trending/7607984521316797978/",
           "source": "今日头条",
@@ -1199,15 +1248,15 @@
           "time_info": "10时09分"
         },
         {
-          "title": "深度解密春晚机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E5%AF%86%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "title": "未来的春晚机器人be like",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BAbe%20like",
           "source": "bilibili 热搜",
           "ranks": [
             26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时29分"
+          "time_info": "22时44分"
         },
         {
           "title": "宇树科技CEO回应春晚款机器人",
@@ -1271,8 +1320,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[04时38分 ~ 21时04分]"
+          "appearance_count": 20,
+          "time_info": "[04时38分 ~ 22时44分]"
         },
         {
           "title": "为什么医生收入较高",
@@ -1366,7 +1415,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
