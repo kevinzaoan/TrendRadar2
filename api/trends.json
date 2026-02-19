@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T02:52:16.386618+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-02-20T03:39:42.866360+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时39分]"
         },
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时39分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时39分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -48,19 +48,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时39分]"
         },
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
           "url": "https://wallstreetcn.com/articles/3765864",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时39分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -70,8 +71,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时39分]"
+        },
+        {
+          "title": "春晚机器人如何完成高难度动作",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A6%82%E4%BD%95%E5%AE%8C%E6%88%90%E9%AB%98%E9%9A%BE%E5%BA%A6%E5%8A%A8%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            29,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时39分]"
         },
         {
           "title": "机器人变印度造,三哥真敢吹",
@@ -81,8 +95,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时39分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -92,20 +106,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时52分]"
-        },
-        {
-          "title": "春晚机器人如何完成高难度动作",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A6%82%E4%BD%95%E5%AE%8C%E6%88%90%E9%AB%98%E9%9A%BE%E5%BA%A6%E5%8A%A8%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时39分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -115,20 +117,41 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时39分]"
         },
         {
-          "title": "芯片初创公司Taalas融资1.69 亿美元，研发AI芯片挑战英伟达",
-          "url": "https://wallstreetcn.com/livenews/3056721",
+          "title": "印度AI影响力峰会2月19日要点总结",
+          "url": "https://wallstreetcn.com/livenews/3056741",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            12
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 02时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "据The Information：AMD(AMD.O)将为AI基础设施公司Crusoe的3亿美元贷款提供担保，如果该公司缺乏客户，AMD将向其租用芯片。",
+          "url": "https://flash.jin10.com/detail/20260220025038360800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "韩国人怎么评价春晚机器人表演",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E8%AF%84%E4%BB%B7%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%A8%E6%BC%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         },
         {
           "title": "未来的春晚机器人be like",
@@ -139,8 +162,33 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 03时39分]"
+        },
+        {
+          "title": "芯片初创公司Taalas融资1.69 亿美元，研发AI芯片挑战英伟达",
+          "url": "https://wallstreetcn.com/livenews/3056721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时39分]"
+        },
+        {
+          "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
+          "url": "https://flash.jin10.com/detail/20260220020324756800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时39分]"
         },
         {
           "title": "机器人跳舞摔倒 小伙查看时脸被踢伤",
@@ -165,15 +213,37 @@
           "time_info": "[02时51分 ~ 02时52分]"
         },
         {
-          "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
-          "url": "https://flash.jin10.com/detail/20260220020324756800",
-          "source": "金十数据",
+          "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
+          "url": "https://www.cls.cn/detail/2291772",
+          "source": "财联社热门",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时52分"
+          "time_info": "03时39分"
+        },
+        {
+          "title": "印度AI峰会出现尴尬一幕：OpenAI与Anthropic的老板们拒绝牵手",
+          "url": "https://wallstreetcn.com/livenews/3056737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "中美AI科技转向",
+          "url": "https://www.toutiao.com/trending/7608548446047309375/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         }
       ]
     },
@@ -189,8 +259,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时39分]"
         },
         {
           "title": "惠誉评级：尽管油价走低，仍预计中东在2026年将迎来又一年强劲的经济增长。",
@@ -198,22 +268,24 @@
           "source": "金十数据",
           "ranks": [
             8,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 02时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时39分]"
         },
         {
           "title": "特朗普会见印尼总统普拉博沃，签经济安全协议",
           "url": "https://wallstreetcn.com/livenews/3056728",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时39分]"
         },
         {
           "title": "国际货币基金组织：委内瑞拉正经历严重且持久的经济和人道主义危机；整体局势“相当脆弱”。",
