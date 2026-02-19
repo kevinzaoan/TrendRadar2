@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T15:12:54.077474+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2026-02-19T16:44:10.886840+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 55,
+      "match_count": 60,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时03分 ~ 15时12分]"
+          "appearance_count": 18,
+          "time_info": "[01时03分 ~ 16时44分]"
         },
         {
           "title": "今年春晚，机器人刷屏了",
@@ -93,6 +94,30 @@
           "time_info": "[01时03分 ~ 10时08分]"
         },
         {
+          "title": "西方跳脚:东大AI惹怒上帝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时52分 ~ 16时44分]"
+        },
+        {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[01时03分 ~ 16时44分]"
+        },
+        {
           "title": "机器人变印度造,三哥真敢吹",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350767&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%98%E5%8D%B0%E5%BA%A6%E9%80%A0%2C%E4%B8%89%E5%93%A5%E7%9C%9F%E6%95%A2%E5%90%B9",
           "source": "贴吧",
@@ -101,23 +126,27 @@
             5,
             10,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时03分 ~ 15时12分]"
+          "appearance_count": 18,
+          "time_info": "[01时03分 ~ 16时44分]"
         },
         {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
-          "source": "财联社热门",
+          "title": "外网如何评价春晚机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E7%BD%91%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            6
+            24,
+            30,
+            19,
+            18,
+            1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时03分 ~ 15时12分]"
+          "appearance_count": 11,
+          "time_info": "[03时49分 ~ 16时44分]"
         },
         {
           "title": "春晚机器人厉害在哪里",
@@ -145,17 +174,6 @@
           "time_info": "[01时03分 ~ 03时50分]"
         },
         {
-          "title": "西方跳脚:东大AI惹怒上帝",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 15时12分]"
-        },
-        {
           "title": "AI大战:鹅厂阿里双双出局",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
           "source": "贴吧",
@@ -164,11 +182,12 @@
             9,
             14,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时03分 ~ 15时12分]"
+          "appearance_count": 18,
+          "time_info": "[01时03分 ~ 16时44分]"
         },
         {
           "title": "未来的春晚机器人be like",
@@ -182,26 +201,12 @@
             22,
             30,
             17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时03分 ~ 15时12分]"
-        },
-        {
-          "title": "外网如何评价春晚机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E7%BD%91%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            30,
             19,
-            18,
-            1
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时49分 ~ 15时12分]"
+          "appearance_count": 18,
+          "time_info": "[01时03分 ~ 16时44分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -212,11 +217,12 @@
             15,
             20,
             23,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时03分 ~ 15时12分]"
+          "appearance_count": 18,
+          "time_info": "[01时03分 ~ 16时44分]"
         },
         {
           "title": "机器人扎堆,亮眼还是视疲劳",
@@ -233,6 +239,20 @@
           "time_info": "[01时03分 ~ 14时00分]"
         },
         {
+          "title": "终末地建模,AI偷偷加料",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时08分 ~ 16时44分]"
+        },
+        {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
           "url": "https://wallstreetcn.com/articles/3765833",
           "source": "华尔街见闻",
@@ -244,19 +264,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时55分 ~ 10时08分]"
-        },
-        {
-          "title": "终末地建模,AI偷偷加料",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时08分 ~ 15时12分]"
         },
         {
           "title": "春晚人形机器人成外媒报道焦点",
@@ -309,6 +316,20 @@
           "time_info": "[02时55分 ~ 06时33分]"
         },
         {
+          "title": "国版“OpenClaw” 网易有道 LobsterAI宣布开源",
+          "url": "https://wallstreetcn.com/livenews/3056572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 16时44分]"
+        },
+        {
           "title": "机器人跳舞摔倒 小伙查看时脸被踢破",
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%B3%E8%88%9E%E6%91%94%E5%80%92+%E5%B0%8F%E4%BC%99%E6%9F%A5%E7%9C%8B%E6%97%B6%E8%84%B8%E8%A2%AB%E8%B8%A2%E7%A0%B4",
           "source": "百度热搜",
@@ -334,29 +355,17 @@
           "time_info": "[12时52分 ~ 15时12分]"
         },
         {
-          "title": "国版“OpenClaw” 网易有道 LobsterAI宣布开源",
-          "url": "https://wallstreetcn.com/livenews/3056572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 15时12分]"
-        },
-        {
           "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
           "url": "https://wallstreetcn.com/livenews/3056579",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 15时12分]"
+          "appearance_count": 3,
+          "time_info": "[14时00分 ~ 16时44分]"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
@@ -518,6 +527,17 @@
           "time_info": "[13时59分 ~ 14时00分]"
         },
         {
+          "title": "春晚机器人如何完成高难度动作",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A6%82%E4%BD%95%E5%AE%8C%E6%88%90%E9%AB%98%E9%9A%BE%E5%BA%A6%E5%8A%A8%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
+        },
+        {
           "title": "春晚给机器人带来了什么",
           "url": "https://www.toutiao.com/trending/7608391662812794394/",
           "source": "今日头条",
@@ -527,6 +547,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 12时53分]"
+        },
+        {
+          "title": "机器人跳舞摔倒 小伙查看时脸被踢伤",
+          "url": "https://www.toutiao.com/trending/7607645107097288767/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
         },
         {
           "title": "美国宣布网络安全与AI风险管理倡议",
@@ -539,6 +570,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时50分 ~ 04时39分]"
+        },
+        {
+          "title": "机器人跳舞摔倒小伙查看时脸被踢破",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%B3%E8%88%9E%E6%91%94%E5%80%92%E5%B0%8F%E4%BC%99%E6%9F%A5%E7%9C%8B%E6%97%B6%E8%84%B8%E8%A2%AB%E8%B8%A2%E7%A0%B4%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
+        },
+        {
+          "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
+          "url": "https://wallstreetcn.com/livenews/3056596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "美国宣布与网络安全和AI风险管理相关的倡议。",
@@ -682,12 +735,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "印度总理莫迪：AI深度伪造和虚假内容正在破坏开放的社会。水印和明确的来源标准变得越来越必要。我们还必须更加关注儿童的安全。",
+          "url": "https://flash.jin10.com/detail/20260219152952241800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "春晚炸场、春运载客......低空经济这个春节“忙坏了”",
@@ -695,11 +759,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时03分 ~ 15时12分]"
+          "appearance_count": 18,
+          "time_info": "[01时03分 ~ 16时44分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将前往佐治亚州，讨论经适性（经济承受能力）问题。",
@@ -919,6 +984,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "印尼央行行长：展望未来，我们仍认为有降息的空间，因为通胀依然低迷，经济增长有望进一步提升。",
+          "url": "https://flash.jin10.com/detail/20260219154502232800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "印尼央行行长：利率决定有助于将通胀控制在目标范围内，并支持经济增长。",
+          "url": "https://flash.jin10.com/detail/20260219153609026800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "美国总统特朗普声称：将在国情咨文中谈论经济形势。",
