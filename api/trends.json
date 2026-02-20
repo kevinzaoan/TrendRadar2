@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T02:48:38.675043+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-02-21T03:38:05.075034+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时38分]"
         },
         {
           "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时38分]"
         },
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时38分]"
         },
         {
           "title": "台媒酸了:春晚机器人是合成",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时38分]"
         },
         {
           "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
@@ -63,8 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时38分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -74,8 +74,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时38分]"
         },
         {
           "title": "机器人太秀,白皮转行喷环保",
@@ -86,8 +86,22 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时38分]"
+        },
+        {
+          "title": "男子用AI鉴定玉石8个月收入上百万",
+          "url": "https://www.toutiao.com/trending/7607847863079108650/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            14,
+            28,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时38分]"
         },
         {
           "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
@@ -97,8 +111,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时38分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -108,8 +122,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时38分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -119,21 +133,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时48分]"
-        },
-        {
-          "title": "男子用AI鉴定玉石8个月收入上百万",
-          "url": "https://www.toutiao.com/trending/7607847863079108650/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时38分]"
         },
         {
           "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
@@ -144,8 +145,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时38分]"
         },
         {
           "title": "我国科学家用天文AI模型绘制“极致深空图”",
@@ -155,8 +156,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时38分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -167,8 +168,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时38分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -179,8 +180,42 @@
             25
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时38分]"
+        },
+        {
+          "title": "如何看待微软 AI 负责人预测称，「未来 18 个月内，多数白领工作将被 AI 彻底替代」？",
+          "url": "https://www.zhihu.com/question/2005731383423824873",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时48分]"
+          "time_info": "[02时48分 ~ 03时38分]"
+        },
+        {
+          "title": "机器人为什么一定是人形",
+          "url": "https://www.toutiao.com/trending/7608900578059488831/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时37分 ~ 03时38分]"
+        },
+        {
+          "title": "机器人复刻成龙醉拳幕后",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%8D%E5%88%BB%E6%88%90%E9%BE%99%E9%86%89%E6%8B%B3%E5%B9%95%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时37分 ~ 03时38分]"
         },
         {
           "title": "高盛集团推出一款尚未受到人工智能（AI）影响的指数，SPXXAI。（Axios）",
@@ -200,18 +235,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        },
-        {
-          "title": "如何看待微软 AI 负责人预测称，「未来 18 个月内，多数白领工作将被 AI 彻底替代」？",
-          "url": "https://www.zhihu.com/question/2005731383423824873",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
         },
@@ -222,7 +246,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
         },
@@ -241,7 +265,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "机构：特朗普关税裁决更多是政治性而非经济性问题",
@@ -255,37 +279,84 @@
           "time_info": "01时38分"
         },
         {
-          "title": "美国总统特朗普：最高法院的关税判决极度让人失望。 对最高法院的特定成员感到羞耻，他们缺乏勇气去做正确的事。 对那些（判定关税政策违法）持异议的成员表示感谢，他们真的让人感到骄傲。 最高法院“是愚蠢的”，他们是“走狗”。 在我看来，法院已经动摇了。 关税官司是经济国家安全的象征，对国家安全具有重要意义。 好消息是，还有比IEEPA更好的方法。 对美国占便宜的国家欣喜若狂，他们“在街头载歌载舞”的日子不会太长。",
-          "url": "https://wallstreetcn.com/livenews/3057062",
-          "source": "华尔街见闻-快讯",
+          "title": "美国财长贝森特：财政部的估算显示，使用第122条款授权，再加上可能加强的第232条款和第301条款关税，将导致2026年的美国关税收入几乎保持不变。",
+          "url": "https://flash.jin10.com/detail/20260221031313247800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时48分"
+          "time_info": "03时38分"
+        },
+        {
+          "title": "美国财长贝森特：我们在经济安全问题上不能妥协。",
+          "url": "https://flash.jin10.com/detail/20260221031046674800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
+        },
+        {
+          "title": "美国财长：可能会维持2026年关税收入不变",
+          "url": "https://wallstreetcn.com/livenews/3057086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
         },
         {
           "title": "十五五开局之年的经济布局",
           "url": "https://search.bilibili.com/all?keyword=%E5%8D%81%E4%BA%94%E4%BA%94%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%B8%83%E5%B1%80",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时48分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 03时38分]"
         },
         {
           "title": "历史上南方（江南）的经济是如何发展起来的？",
           "url": "https://www.zhihu.com/question/49352503",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时38分]"
+        },
+        {
+          "title": "美国总统特朗普：最高法院的关税判决极度让人失望。 对最高法院的特定成员感到羞耻，他们缺乏勇气去做正确的事。 对那些（判定关税政策违法）持异议的成员表示感谢，他们真的让人感到骄傲。 最高法院“是愚蠢的”，他们是“走狗”。 在我看来，法院已经动摇了。 关税官司是经济国家安全的象征，对国家安全具有重要意义。 好消息是，还有比IEEPA更好的方法。 对美国占便宜的国家欣喜若狂，他们“在街头载歌载舞”的日子不会太长。",
+          "url": "https://wallstreetcn.com/livenews/3057062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 03时38分]"
+        },
+        {
+          "title": "美国总统特朗普：经济已重拾巨大信心。",
+          "url": "https://flash.jin10.com/detail/20260221030618670800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
         },
         {
           "title": "美联储洛根：各国央行之间的良好关系有利于市场和美国经济。",
@@ -294,7 +365,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
         },
@@ -321,6 +392,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "美国总统特朗普：（在被问及美国是否需要退还关税收入时表示）接下来五年我们都会在法庭上度过。",
+          "url": "https://flash.jin10.com/detail/20260221024813564800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
+        },
+        {
           "title": "加拿大政府声明：美国最高法院关于关税的裁决强化了加拿大立场，即美国实施的《国际紧急经济权力法》关税毫无正当理由。",
           "url": "https://flash.jin10.com/detail/20260220233827209800",
           "source": "金十数据",
@@ -338,7 +420,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
         }
