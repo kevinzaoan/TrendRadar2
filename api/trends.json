@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T13:54:37.297543+08:00",
-  "total_titles_processed": 1057,
+  "generated_at": "2026-02-20T14:57:32.725274+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -43,6 +43,19 @@
           "time_info": "[00时53分 ~ 10时04分]"
         },
         {
+          "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
+          "url": "https://www.cls.cn/detail/2291772",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时39分 ~ 14时57分]"
+        },
+        {
           "title": "韩国人怎么评价春晚机器人表演",
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E8%AF%84%E4%BB%B7%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%A8%E6%BC%94",
           "source": "bilibili 热搜",
@@ -54,19 +67,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时39分 ~ 07时31分]"
-        },
-        {
-          "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
-          "url": "https://www.cls.cn/detail/2291772",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时39分 ~ 13时54分]"
         },
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
@@ -91,8 +91,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 13时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 14时57分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -104,8 +104,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 13时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 14时57分]"
         },
         {
           "title": "春晚机器人如何完成高难度动作",
@@ -118,11 +118,12 @@
             25,
             30,
             16,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 12时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 14时57分]"
         },
         {
           "title": "机器人变印度造,三哥真敢吹",
@@ -134,8 +135,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 13时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 14时57分]"
         },
         {
           "title": "未来的春晚机器人be like",
@@ -149,8 +150,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 10时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 14时57分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -176,6 +177,17 @@
           "time_info": "[00时53分 ~ 10时04分]"
         },
         {
+          "title": "机器人太秀,白皮转行喷环保",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350801&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%AA%E7%A7%80%2C%E7%99%BD%E7%9A%AE%E8%BD%AC%E8%A1%8C%E5%96%B7%E7%8E%AF%E4%BF%9D",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 14时57分]"
+        },
+        {
           "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，机器人延续涨势",
           "url": "https://wallstreetcn.com/articles/3765892",
           "source": "华尔街见闻",
@@ -187,15 +199,15 @@
           "time_info": "[12时47分 ~ 13时54分]"
         },
         {
-          "title": "机器人太秀,白皮转行喷环保",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350801&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%AA%E7%A7%80%2C%E7%99%BD%E7%9A%AE%E8%BD%AC%E8%A1%8C%E5%96%B7%E7%8E%AF%E4%BF%9D",
-          "source": "贴吧",
+          "title": "男子用AI鉴定玉石8个月收入上百万",
+          "url": "https://www.toutiao.com/trending/7607847863079108650/",
+          "source": "今日头条",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 13时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         },
         {
           "title": "英媒：Meta连续第二年削减员工激励 全力转向AI军备竞赛",
@@ -218,17 +230,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
-        },
-        {
-          "title": "港股机器人概念股集体大涨，越疆(02432.HK)涨超21%，优必选(09880.HK)涨6.59%。",
-          "url": "https://flash.jin10.com/detail/20260220134335302800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
         },
         {
           "title": "芯片初创公司Taalas融资1.69 亿美元，研发AI芯片挑战英伟达",
@@ -271,6 +272,19 @@
           "time_info": "[03时39分 ~ 05时33分]"
         },
         {
+          "title": "港股机器人概念延续涨势，越疆涨超18%，速腾聚创涨10%，优必选涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3056853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 14时57分]"
+        },
+        {
           "title": "据The Information：AMD(AMD.O)将为AI基础设施公司Crusoe的3亿美元贷款提供担保，如果该公司缺乏客户，AMD将向其租用芯片。",
           "url": "https://flash.jin10.com/detail/20260220025038360800",
           "source": "金十数据",
@@ -295,16 +309,30 @@
           "time_info": "[07时31分 ~ 10时04分]"
         },
         {
-          "title": "港股机器人概念延续涨势，越疆涨超18%，速腾聚创涨10%，优必选涨近7%。",
-          "url": "https://wallstreetcn.com/livenews/3056853",
-          "source": "华尔街见闻-快讯",
+          "title": "港股机器人概念股集体大涨，越疆(02432.HK)涨超21%，优必选(09880.HK)涨6.59%。",
+          "url": "https://flash.jin10.com/detail/20260220134335302800",
+          "source": "金十数据",
           "ranks": [
             5,
-            15
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时47分 ~ 13时54分]"
+          "time_info": "[13时54分 ~ 14时57分]"
+        },
+        {
+          "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
+          "url": "https://wallstreetcn.com/livenews/3056842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时04分 ~ 14时57分]"
         },
         {
           "title": "什么样的软件会被AI淘汰？",
@@ -319,19 +347,6 @@
           "time_info": "[06时31分 ~ 10时04分]"
         },
         {
-          "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
-          "url": "https://wallstreetcn.com/livenews/3056842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 13时54分]"
-        },
-        {
           "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
           "url": "https://www.cls.cn/detail/2291748",
           "source": "财联社热门",
@@ -340,8 +355,20 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时04分 ~ 14时57分]"
+        },
+        {
+          "title": "春节机器人卖爆了",
+          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%96%E7%88%86%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时04分 ~ 13时54分]"
+          "time_info": "[12时47分 ~ 14时57分]"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
@@ -370,6 +397,17 @@
           "time_info": "[10时04分 ~ 13时54分]"
         },
         {
+          "title": "澎湃AI晚新闻丨2026年2月19日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32633724",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 14时57分]"
+        },
+        {
           "title": "外媒：中国机器人让西方产品相形见绌",
           "url": "https://www.toutiao.com/trending/7608717188911861298/",
           "source": "今日头条",
@@ -380,18 +418,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时04分 ~ 12时47分]"
-        },
-        {
-          "title": "春节机器人卖爆了",
-          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%96%E7%88%86%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 13时54分]"
         },
         {
           "title": "印度AI峰会出现尴尬一幕：OpenAI与Anthropic的老板们拒绝牵手",
@@ -406,17 +432,6 @@
           "time_info": "[03时39分 ~ 04时33分]"
         },
         {
-          "title": "澎湃AI晚新闻丨2026年2月19日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32633724",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 13时54分]"
-        },
-        {
           "title": "英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。英伟达投资是OpenAI新一轮融资的一部分。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3056832",
           "source": "华尔街见闻-快讯",
@@ -427,6 +442,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时04分 ~ 12时47分]"
+        },
+        {
+          "title": "从春晚看懂机器人未来布局",
+          "url": "https://www.douyin.com/hot/2405116",
+          "source": "抖音",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 14时57分]"
         },
         {
           "title": "外网如何评价春晚机器人",
@@ -462,13 +489,35 @@
           "time_info": "12时47分"
         },
         {
+          "title": "男子用AI鉴定玉石8个月收入上百万",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%89%B4%E5%AE%9A%E7%8E%89%E7%9F%B38%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8A%E7%99%BE%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "外媒：春晚机器人让外国网友破防",
+          "url": "https://www.toutiao.com/trending/7608733337376620594/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
           "title": "港股AI概念股午后延续涨势，智谱(02513.HK)大涨21%，海致科技集团(02706.HK)涨18.5%，MINIMAX-WP(00100.HK)涨11.22%。",
           "url": "https://flash.jin10.com/detail/20260220132611953800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -482,17 +531,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
-        },
-        {
-          "title": "从春晚看懂机器人未来布局",
-          "url": "https://www.douyin.com/hot/2405116",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
         },
         {
           "title": "港股AI应用股走强，海致科技集团(02706.HK)大涨15%、MINIMAX-WP(00100.HK)、智谱(02513.HK)涨超5%，速腾聚创(02498.HK)涨4.42%。",
@@ -592,8 +630,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 13时54分]"
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 14时57分]"
         },
         {
           "title": "古巴外长：美经济封锁致古巴一年损失超70亿美元",
@@ -601,11 +639,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 13时54分]"
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 14时57分]"
         },
         {
           "title": "新西兰联储首席经济学家康威：新西兰联储在加息问题上不会草率行事。",
