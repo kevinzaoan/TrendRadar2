@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-02-21T07:29:23.139078+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2026-02-21T09:58:44.821184+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
       "match_count": 29,
       "titles": [
-        {
-          "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
-          "url": "https://wallstreetcn.com/articles/3765892",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时29分]"
-        },
         {
           "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
           "url": "https://www.cls.cn/detail/2291772",
@@ -28,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 09时58分]"
         },
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -40,8 +28,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 09时58分]"
+        },
+        {
+          "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
+          "url": "https://wallstreetcn.com/articles/3765892",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 09时58分]"
         },
         {
           "title": "台媒酸了:春晚机器人是合成",
@@ -52,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 09时58分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -62,11 +63,12 @@
           "ranks": [
             8,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 09时58分]"
         },
         {
           "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
@@ -76,8 +78,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 09时58分]"
         },
         {
           "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
@@ -87,23 +89,12 @@
             10,
             9,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时29分]"
-        },
-        {
-          "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
-          "url": "https://www.cls.cn/detail/2291704",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 09时58分]"
         },
         {
           "title": "机器人太秀,白皮转行喷环保",
@@ -114,8 +105,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 09时58分]"
+        },
+        {
+          "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
+          "url": "https://www.cls.cn/detail/2291704",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 09时58分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -126,8 +130,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 09时58分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -138,8 +142,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 09时58分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -150,8 +154,25 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 09时58分]"
+        },
+        {
+          "title": "如何看待微软 AI 负责人预测称，「未来 18 个月内，多数白领工作将被 AI 彻底替代」？",
+          "url": "https://www.zhihu.com/question/2005731383423824873",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17,
+            13,
+            16,
+            14,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时48分 ~ 09时58分]"
         },
         {
           "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
@@ -177,6 +198,21 @@
           "time_info": "[00时39分 ~ 06时27分]"
         },
         {
+          "title": "机器人复刻成龙醉拳幕后",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%8D%E5%88%BB%E6%88%90%E9%BE%99%E9%86%89%E6%8B%B3%E5%B9%95%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            6,
+            9,
+            20,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时37分 ~ 09时58分]"
+        },
+        {
           "title": "男子用AI鉴定玉石8个月收入上百万",
           "url": "https://www.toutiao.com/trending/7607847863079108650/",
           "source": "今日头条",
@@ -194,58 +230,6 @@
           "time_info": "[00时39分 ~ 07时29分]"
         },
         {
-          "title": "如何看待微软 AI 负责人预测称，「未来 18 个月内，多数白领工作将被 AI 彻底替代」？",
-          "url": "https://www.zhihu.com/question/2005731383423824873",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17,
-            13,
-            16,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时48分 ~ 07时29分]"
-        },
-        {
-          "title": "机器人复刻成龙醉拳幕后",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%8D%E5%88%BB%E6%88%90%E9%BE%99%E9%86%89%E6%8B%B3%E5%B9%95%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            6,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时37分 ~ 07时29分]"
-        },
-        {
-          "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3057138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
-          "url": "https://wallstreetcn.com/livenews/3057134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
           "title": "网络安全股重挫，Anthropic发布Claude安全工具",
           "url": "https://wallstreetcn.com/livenews/3057110",
           "source": "华尔街见闻-快讯",
@@ -259,27 +243,66 @@
           "time_info": "[05时25分 ~ 07时29分]"
         },
         {
-          "title": "OpenAI工作人员针对加拿大枪击案的嫌犯拉响警报。 相关人员在OpenAI的ChatGPT上谈论枪支暴力活动问题。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3057126",
+          "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3057138",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            11
+            1,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时29分]"
+          "time_info": "[07时29分 ~ 09时58分]"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
           "url": "https://wallstreetcn.com/articles/3765904",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时26分 ~ 09时58分]"
+        },
+        {
+          "title": "OpenAI工作人员针对加拿大枪击案的嫌犯拉响警报。 相关人员在OpenAI的ChatGPT上谈论枪支暴力活动问题。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3057126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时26分 ~ 07时29分]"
+          "time_info": "[06时27分 ~ 09时58分]"
+        },
+        {
+          "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3057134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 09时58分]"
+        },
+        {
+          "title": "报道：英伟达接近向OpenAI投资300亿美元",
+          "url": "https://wallstreetcn.com/livenews/3057127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时27分 ~ 09时58分]"
         },
         {
           "title": "机器人为什么一定是人形",
@@ -292,18 +315,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时37分 ~ 04时32分]"
-        },
-        {
-          "title": "报道：英伟达接近向OpenAI投资300亿美元",
-          "url": "https://wallstreetcn.com/livenews/3057127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时29分]"
         },
         {
           "title": "高盛集团推出一款尚未受到人工智能（AI）影响的指数，SPXXAI。（Axios）",
@@ -364,7 +375,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "十五五开局之年的经济布局",
@@ -375,11 +386,12 @@
             25,
             10,
             2,
-            3
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时48分 ~ 07时29分]"
+          "appearance_count": 9,
+          "time_info": "[02时48分 ~ 09时58分]"
         },
         {
           "title": "历史上南方（江南）的经济是如何发展起来的？",
@@ -516,11 +528,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时29分]"
+          "appearance_count": 3,
+          "time_info": "[06时27分 ~ 09时58分]"
         },
         {
           "title": "美国财长：可能会维持2026年关税收入不变，别指望关税收入会减少",
@@ -544,6 +557,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "美国白宫：鉴于近期事态发展，根据《国际紧急经济权力法》征收的额外关税将不再生效，并将在切实可行的范围内尽快停止征收。",
+          "url": "https://flash.jin10.com/detail/20260221081713605800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "沃顿预算模型经济学家：美国或需退还1750亿美元关税",
