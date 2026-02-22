@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T19:22:41.832880+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-02-22T20:50:42.807107+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时30分 ~ 19时22分]"
+          "appearance_count": 25,
+          "time_info": "[00时30分 ~ 20时50分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时30分 ~ 19时22分]"
+          "appearance_count": 25,
+          "time_info": "[00时30分 ~ 20时50分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -64,11 +64,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时51分 ~ 19时22分]"
+          "appearance_count": 11,
+          "time_info": "[13时51分 ~ 20时50分]"
         },
         {
           "title": "春晚机器人爆火背后",
@@ -109,11 +110,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时49分 ~ 19时22分]"
+          "appearance_count": 12,
+          "time_info": "[12时49分 ~ 20时50分]"
         },
         {
           "title": "台媒酸了:春晚机器人是合成",
@@ -126,8 +128,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时30分 ~ 19时22分]"
+          "appearance_count": 25,
+          "time_info": "[00时30分 ~ 20时50分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -157,8 +159,36 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时30分 ~ 19时22分]"
+          "appearance_count": 25,
+          "time_info": "[00时30分 ~ 20时50分]"
+        },
+        {
+          "title": "表面风光之下，OpenAI的“四大困境”",
+          "url": "https://wallstreetcn.com/articles/3765945",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时36分 ~ 20时50分]"
+        },
+        {
+          "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
+          "url": "https://wallstreetcn.com/articles/3765948",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时33分 ~ 20时50分]"
         },
         {
           "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
@@ -188,44 +218,17 @@
           "time_info": "[00时30分 ~ 05时24分]"
         },
         {
-          "title": "表面风光之下，OpenAI的“四大困境”",
-          "url": "https://wallstreetcn.com/articles/3765945",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时36分 ~ 19时22分]"
-        },
-        {
-          "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
-          "url": "https://wallstreetcn.com/articles/3765948",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时33分 ~ 19时22分]"
-        },
-        {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
           "url": "https://www.cls.cn/detail/2292422",
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时33分 ~ 19时22分]"
+          "appearance_count": 7,
+          "time_info": "[16时33分 ~ 20时50分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -236,8 +239,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 19时22分]"
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 20时50分]"
         },
         {
           "title": "光谷重点企业春节不停工，开足马力忙生产，AI高速光模块订单排到四季度",
@@ -354,7 +357,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -373,7 +376,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "德国总理默茨：预计德国经济面临的关税负担将减轻。",
@@ -443,11 +446,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            7
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时22分]"
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 20时50分]"
         },
         {
           "title": "万亿冰雪经济为什么救不了短道速滑",
@@ -471,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "伊朗官员：伊美谈判内容涉及核承诺、美方承诺解除制裁以及经济合作等",
+          "url": "https://flash.jin10.com/detail/20260222191933832800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         }
       ]
     }
