@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T04:46:01.615027+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-02-24T05:44:51.960726+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 05时44分]"
         },
         {
           "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
@@ -25,11 +25,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 05时44分]"
         },
         {
           "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
@@ -39,30 +40,33 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 05时44分]"
         },
         {
-          "title": "IBM成AI最新受害者！受Anthropic编程语言威胁，股价暴跌11%",
-          "url": "https://wallstreetcn.com/livenews/3057634",
-          "source": "华尔街见闻-快讯",
+          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
+          "url": "https://wallstreetcn.com/articles/3765970",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 05时44分]"
         },
         {
-          "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
-          "url": "https://wallstreetcn.com/livenews/3057632",
-          "source": "华尔街见闻-快讯",
+          "title": "王兴兴称机器人技术阶段接近 10 岁孩子水平，杨立昆称当下人形机器人常识水平不如猫，谁的说法更接近现实？",
+          "url": "https://www.zhihu.com/question/2008851829849604675",
+          "source": "知乎",
           "ranks": [
-            5
+            7,
+            8,
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 05时44分]"
         },
         {
           "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
@@ -76,28 +80,17 @@
           "time_info": "02时01分"
         },
         {
-          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
-          "url": "https://wallstreetcn.com/articles/3765970",
-          "source": "华尔街见闻",
+          "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
+          "url": "https://www.cls.cn/detail/2292870",
+          "source": "财联社热门",
           "ranks": [
-            8
+            13,
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 04时46分]"
-        },
-        {
-          "title": "王兴兴称机器人技术阶段接近 10 岁孩子水平，杨立昆称当下人形机器人常识水平不如猫，谁的说法更接近现实？",
-          "url": "https://www.zhihu.com/question/2008851829849604675",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 05时44分]"
         },
         {
           "title": "押风口！这些基金经理四季度就预测机器人板块火爆",
@@ -108,20 +101,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 04时46分]"
-        },
-        {
-          "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
-          "url": "https://www.cls.cn/detail/2292870",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 05时44分]"
         },
         {
           "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
@@ -131,8 +112,32 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 05时44分]"
+        },
+        {
+          "title": "IBM成AI最新受害者！受Anthropic编程语言威胁，股价暴跌11%",
+          "url": "https://wallstreetcn.com/livenews/3057634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时35分 ~ 05时44分]"
+        },
+        {
+          "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
+          "url": "https://wallstreetcn.com/livenews/3057632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时35分 ~ 05时44分]"
         },
         {
           "title": "加拿大人工智能（AI）部长Evan Solomon：加拿大已经传唤OpenAI高级安全团队前来加拿大。 OpenAI并没有针对枪手（在其机器人聊天工具ChatGPT上讨论制造暴力活动的信息）报警，这让人感到厌烦。 2月24日，OpenAI的安全团队将在渥太华面临质询。 就监管AI聊天工具而言，“所有选项”都摆在台面上。",
@@ -190,6 +195,17 @@
           "time_info": "[04时35分 ~ 04时46分]"
         },
         {
+          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
+          "url": "https://wallstreetcn.com/articles/3765997",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
           "title": "Anthropic CEO将与美国防部长会面，讨论AI模型在国防部的使用",
           "url": "https://wallstreetcn.com/livenews/3057583",
           "source": "华尔街见闻-快讯",
@@ -215,7 +231,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 7,
+      "match_count": 14,
       "titles": [
         {
           "title": "加州州长：特朗普正摧毁美国经济",
@@ -225,8 +241,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 05时44分]"
+        },
+        {
+          "title": "谷爱凌场外收入是奖金230倍",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9C%BA%E5%A4%96%E6%94%B6%E5%85%A5%E6%98%AF%E5%A5%96%E9%87%91230%E5%80%8D",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 05时44分]"
         },
         {
           "title": "独家｜近20天收入超去年全年！月之暗面成国内最快晋级十角兽公司",
@@ -236,20 +265,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 04时46分]"
-        },
-        {
-          "title": "谷爱凌场外收入是奖金230倍",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9C%BA%E5%A4%96%E6%94%B6%E5%85%A5%E6%98%AF%E5%A5%96%E9%87%91230%E5%80%8D",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 05时44分]"
         },
         {
           "title": "经济学家：美加紧张局势冲击旅游业 2025年加拿大人赴美旅行锐减超25%",
@@ -283,6 +300,83 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 04时46分]"
+        },
+        {
+          "title": "摩根大通：预计全年净利息收入（NII）大约1045亿美元，公司原本预计大约1030亿美元。 维持全年不含CIB市场的净利息收入预期在950亿美元附近。",
+          "url": "https://wallstreetcn.com/livenews/3057659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "澳洲联储经济学家普伦布：仍关注季度调整后均值，任何变化都尚需时日。",
+          "url": "https://flash.jin10.com/detail/20260224044437440800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "澳洲联储经济学家普伦布：将广泛参与决策并传达我们的思路。",
+          "url": "https://flash.jin10.com/detail/20260224044356016800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "澳洲联储经济学家普伦布：目标是在季度CPI公布后的世界中，评估月度数据中哪些基础通胀指标将成为首选。",
+          "url": "https://flash.jin10.com/detail/20260224044315121800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "澳洲联储经济学家普伦布：一直在利用月度CPI分析潜在通胀指标。",
+          "url": "https://flash.jin10.com/detail/20260224044200971800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "澳洲联储经济学家普伦布：将继续关注季度CPI数据进行预测。",
+          "url": "https://flash.jin10.com/detail/20260224044131604800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "澳洲联储经济分析部主管Plumb：在很大程度上，通胀上扬是“特定领域的”。",
+          "url": "https://wallstreetcn.com/livenews/3057641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         },
         {
           "title": "英媒：特朗普“和平委员会”拟推稳定币，以重塑加沙经济",
