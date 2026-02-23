@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T23:01:17.830443+08:00",
-  "total_titles_processed": 1568,
+  "generated_at": "2026-02-23T23:56:55.067183+08:00",
+  "total_titles_processed": 1654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时08分 ~ 23时01分]"
+          "appearance_count": 11,
+          "time_info": "[14时08分 ~ 23时56分]"
         },
         {
           "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
@@ -59,8 +59,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时30分 ~ 23时01分]"
+          "appearance_count": 25,
+          "time_info": "[00时30分 ~ 23时56分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -98,6 +98,23 @@
           "is_new": false,
           "appearance_count": 22,
           "time_info": "[00时30分 ~ 23时01分]"
+        },
+        {
+          "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
+          "url": "https://www.cls.cn/detail/2292720",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            8,
+            7,
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时52分 ~ 23时56分]"
         },
         {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
@@ -191,22 +208,6 @@
           "time_info": "[00时30分 ~ 06时24分]"
         },
         {
-          "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
-          "url": "https://www.cls.cn/detail/2292720",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            8,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时52分 ~ 23时01分]"
-        },
-        {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
           "url": "https://wallstreetcn.com/articles/3765970",
           "source": "华尔街见闻",
@@ -216,8 +217,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时52分 ~ 23时01分]"
+          "appearance_count": 8,
+          "time_info": "[16时52分 ~ 23时56分]"
+        },
+        {
+          "title": "OpenAI：正在调查面向商业和企业客户的ChatGPT对话中错误率升高的问题。",
+          "url": "https://flash.jin10.com/detail/20260223234136834800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "王兴兴称机器人技术接近 10 岁孩子水平，杨立昆称当下人形机器人常识水平不如猫，谁的说法更接近现实？",
@@ -239,11 +251,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 23时01分]"
+          "appearance_count": 3,
+          "time_info": "[21时04分 ~ 23时56分]"
         },
         {
           "title": "《飞驰人生 3》张弛宇强战胜 AI 加持的赛车，「人定胜 AI」思潮会成为新时代的愚公移山精神吗？",
@@ -264,11 +277,12 @@
           "ranks": [
             20,
             18,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时40分 ~ 23时01分]"
+          "appearance_count": 4,
+          "time_info": "[19时40分 ~ 23时56分]"
         },
         {
           "title": "荣耀将推出首款人形机器人",
@@ -281,6 +295,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时40分 ~ 21时04分]"
+        },
+        {
+          "title": "押风口！这些基金经理四季度就预测机器人板块火爆",
+          "url": "https://www.cls.cn/detail/2292558",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时56分]"
         },
         {
           "title": "蚂蚁集团AI业务春节加速：支付宝“AI付”、蚂蚁阿福APP用户数双破亿",
@@ -306,15 +331,15 @@
           "time_info": "[10时09分 ~ 10时10分]"
         },
         {
-          "title": "押风口！这些基金经理四季度就预测机器人板块火爆",
-          "url": "https://www.cls.cn/detail/2292558",
-          "source": "财联社热门",
+          "title": "王兴兴称机器人技术阶段接近 10 岁孩子水平，杨立昆称当下人形机器人常识水平不如猫，谁的说法更接近现实？",
+          "url": "https://www.zhihu.com/question/2008851829849604675",
+          "source": "知乎",
           "ranks": [
-            12
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时01分"
+          "time_info": "23时56分"
         },
         {
           "title": "量增价跌！机器人表演租赁“出圈”",
@@ -345,7 +370,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时01分"
         },
@@ -387,8 +412,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时52分 ~ 23时01分]"
+          "appearance_count": 8,
+          "time_info": "[16时52分 ~ 23时56分]"
         },
         {
           "title": "美国贸易代表格里尔：在关税方面，美国目前并不具备《国际紧急经济权力法》（IEEPA）所提供的同等灵活性。 乐于就贸易问题与国会展开对话。 美国可以使用国会此前在贸易方面已经赋予的权力。 本周末已与欧盟同行就贸易问题进行了沟通。",
@@ -407,15 +432,16 @@
           "time_info": "[00时31分 ~ 07时26分]"
         },
         {
-          "title": "安哥拉预计2026年石油（出口销售）收入将被非石油税收超越。",
-          "url": "https://wallstreetcn.com/livenews/3057534",
-          "source": "华尔街见闻-快讯",
+          "title": "谷爱凌去年收入超2300万美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%8E%BB%E5%B9%B4%E6%94%B6%E5%85%A5%E8%B6%852300%E4%B8%87%E7%BE%8E%E5%85%83%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            1
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时56分]"
         },
         {
           "title": "谷爱凌场外收入是奖金230倍",
@@ -427,28 +453,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
-        },
-        {
-          "title": "谷爱凌去年收入超2300万美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%8E%BB%E5%B9%B4%E6%94%B6%E5%85%A5%E8%B6%852300%E4%B8%87%E7%BE%8E%E5%85%83%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
-        },
-        {
-          "title": "墨西哥经济增长连续第四年放缓，创80年代以来最长下滑纪录",
-          "url": "https://wallstreetcn.com/livenews/3057533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
         },
         {
           "title": "菲律宾央行行长：降低关税将有助于全球和本地经济。",
@@ -509,6 +513,30 @@
           "time_info": "[15时55分 ~ 18时52分]"
         },
         {
+          "title": "安哥拉预计2026年石油（出口销售）收入将被非石油税收超越。",
+          "url": "https://wallstreetcn.com/livenews/3057534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时56分]"
+        },
+        {
+          "title": "墨西哥经济增长连续第四年放缓，创80年代以来最长下滑纪录",
+          "url": "https://wallstreetcn.com/livenews/3057533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时56分]"
+        },
+        {
           "title": "印度政府：修改股息收入税收，以分级税率取代统一的10%税率。",
           "url": "https://flash.jin10.com/detail/20260223154211737800",
           "source": "金十数据",
@@ -531,6 +559,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时55分 ~ 16时52分]"
+        },
+        {
+          "title": "独家｜近20天收入超去年全年！月之暗面成国内最快晋级十角兽公司",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32636837",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时56分]"
         },
         {
           "title": "菲律宾央行行长：国关税动态对菲律宾经济似乎有利。",
@@ -575,17 +615,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
-        },
-        {
-          "title": "独家｜近20天收入超去年全年！月之暗面成国内最快晋级十角兽公司",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32636837",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
         },
         {
           "title": "惠誉：孟加拉国近期政治和政策不确定性降低，可能有助于宏观经济稳定改善。",
@@ -649,7 +678,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时01分"
         }
