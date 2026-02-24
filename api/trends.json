@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T21:06:09.074743+08:00",
-  "total_titles_processed": 1604,
+  "generated_at": "2026-02-24T22:54:23.746942+08:00",
+  "total_titles_processed": 1734,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 60,
+      "match_count": 68,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时05分 ~ 21时06分]"
+          "appearance_count": 14,
+          "time_info": "[10时05分 ~ 22时54分]"
         },
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时05分 ~ 21时06分]"
+          "appearance_count": 14,
+          "time_info": "[10时05分 ~ 22时54分]"
         },
         {
           "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
@@ -103,6 +103,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[14时02分 ~ 21时06分]"
+        },
+        {
+          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
+          "url": "https://www.cls.cn/detail/2293343",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时13分 ~ 22时54分]"
         },
         {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
@@ -185,17 +198,19 @@
           "time_info": "[02时01分 ~ 07时35分]"
         },
         {
-          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
-          "url": "https://www.cls.cn/detail/2293343",
-          "source": "财联社热门",
+          "title": "宇树机器人背后的23个算法",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%83%8C%E5%90%8E%E7%9A%8423%E4%B8%AA%E7%AE%97%E6%B3%95",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
             6,
-            7
+            28,
+            27,
+            25,
+            15
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[15时13分 ~ 21时06分]"
+          "time_info": "[10时05分 ~ 22时54分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -222,18 +237,16 @@
           "time_info": "[16时51分 ~ 21时06分]"
         },
         {
-          "title": "宇树机器人背后的23个算法",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%83%8C%E5%90%8E%E7%9A%8423%E4%B8%AA%E7%AE%97%E6%B3%95",
-          "source": "bilibili 热搜",
+          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
+          "url": "https://www.zhihu.com/question/41253586",
+          "source": "知乎",
           "ranks": [
-            6,
-            28,
-            27,
-            25
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时05分 ~ 21时06分]"
+          "appearance_count": 7,
+          "time_info": "[17时53分 ~ 22时54分]"
         },
         {
           "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
@@ -247,6 +260,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "美联储理事沃勒：美联储正谨慎推进AI技术的全系统应用",
+          "url": "https://flash.jin10.com/detail/20260224224932614800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "摩根大通CEO戴蒙在摩根大通投资者日发表讲话：考虑到人工智能，已制定重新部署员工的计划。关于AI导致大规模裁员的讨论，目前其实并没有发生。",
           "url": "https://wallstreetcn.com/livenews/3057705",
           "source": "华尔街见闻-快讯",
@@ -256,6 +280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "Anthropic：客户可以为Claude定制插件。 在Claude推出五款新的自研插件。",
+          "url": "https://wallstreetcn.com/livenews/3058207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "Hirai为何当选韩国亚运会LOL队教练",
@@ -290,9 +325,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
+        },
+        {
+          "title": "Claude宣布Cowork的更新，包括全新插件，且现已支持Excel和PowerPoint。Anthropic表示，客户可以为Claude自定义插件。",
+          "url": "https://flash.jin10.com/detail/20260224224851916800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "春节旅游市场迎结构性转变，AI入局成为新亮点",
@@ -328,6 +374,18 @@
           "time_info": "14时03分"
         },
         {
+          "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
+          "url": "https://wallstreetcn.com/articles/3766010",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时41分 ~ 22时54分]"
+        },
+        {
           "title": "IBM成AI最新受害者！受Anthropic编程语言威胁，股价暴跌11%",
           "url": "https://wallstreetcn.com/livenews/3057634",
           "source": "华尔街见闻-快讯",
@@ -350,17 +408,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时35分 ~ 05时44分]"
-        },
-        {
-          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
-          "url": "https://www.zhihu.com/question/41253586",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时53分 ~ 21时06分]"
         },
         {
           "title": "镁信健康张小栋发布内部信：全面落地AI Inside新战略，重点赋能两大业务方向",
@@ -387,15 +434,16 @@
           "time_info": "[19时41分 ~ 21时06分]"
         },
         {
-          "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
-          "url": "https://wallstreetcn.com/articles/3766010",
-          "source": "华尔街见闻",
+          "title": "李佳薇JKAI声乐大师课",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
+          "source": "bilibili 热搜",
           "ranks": [
-            9
+            29,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时41分 ~ 21时06分]"
+          "appearance_count": 4,
+          "time_info": "[21时05分 ~ 22时54分]"
         },
         {
           "title": "外资们也在频繁提AI，如何看2026年行情？",
@@ -408,6 +456,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时52分 ~ 14时03分]"
+        },
+        {
+          "title": "宇树发布新款四足机器人",
+          "url": "https://www.toutiao.com/trending/7609502487338745892/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 22时54分]"
         },
         {
           "title": "摩根大通CFO Jeremy Barnum：在所有开支品类都存在通胀。 （本公司）对脆弱的软件公司的风险敞口“相当小”。 与多家软件公司谈及人工智能（AI）风险。",
@@ -489,24 +548,13 @@
           "time_info": "[04时35分 ~ 04时46分]"
         },
         {
-          "title": "李佳薇JKAI声乐大师课",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时05分 ~ 21时06分]"
-        },
-        {
           "title": "AMD美股盘前涨超15%，META与AMD签署巨额协议，将购买后者AI设备。",
           "url": "https://wallstreetcn.com/livenews/3058124",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -539,9 +587,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
+        },
+        {
+          "title": "美联储理事库克：美联储的政策恐怕难以缓解AI驱动的失业问题。",
+          "url": "https://wallstreetcn.com/livenews/3058196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "贸易战画风突变，一个AI向我道歉，一个还在嘴硬",
@@ -553,6 +612,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "Anthropic将与Intapp面向专业公司推出AI agents。Anthropic与FactSet等合作伙伴开发出多种插件，Anthropic将AI agent与面向投行、HR的工具关联。",
+          "url": "https://wallstreetcn.com/livenews/3058195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "宇树机器人，天坛表演中国武术",
@@ -632,6 +702,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "美联储理事沃勒：AI可能会带来风险，包括数据保护方面的风险。",
+          "url": "https://wallstreetcn.com/livenews/3058188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "专家称AI时代文科比理科吃香",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0AI%E6%97%B6%E4%BB%A3%E6%96%87%E7%A7%91%E6%AF%94%E7%90%86%E7%A7%91%E5%90%83%E9%A6%99%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -649,7 +730,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -660,9 +741,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
+        },
+        {
+          "title": "华尔街交易套路似被机器学会，研究表明AI可预测到主动型基金71%的交易",
+          "url": "https://wallstreetcn.com/livenews/3058183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "IBM创2000年以来最大日跌幅，Anthropic宣称AI工具可助COBOL现代化改造",
@@ -704,7 +796,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -723,8 +815,20 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 46,
+      "match_count": 52,
       "titles": [
+        {
+          "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
+          "url": "https://www.cls.cn/detail/2293337",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时51分 ~ 22时54分]"
+        },
         {
           "title": "加州州长：特朗普正摧毁美国经济",
           "url": "https://news.ifeng.com/c/8qyoio7uTTF",
@@ -735,18 +839,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时01分 ~ 06时42分]"
-        },
-        {
-          "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
-          "url": "https://www.cls.cn/detail/2293337",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时51分 ~ 21时06分]"
         },
         {
           "title": "广东省委书记黄坤明：最大限度为技术创新和市场探索“松绑” 让低空经济“飞”起来、自动驾驶“跑”起来、具身智能“用”起来",
@@ -814,6 +906,18 @@
           "time_info": "17时53分"
         },
         {
+          "title": "乡镇公务员在「婚恋市场」遇冷，从经济角度看是公务员在相亲市场中含金量下降了么，乡镇编制有何压力？",
+          "url": "https://www.zhihu.com/question/2006473884694778852",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时41分 ~ 22时54分]"
+        },
+        {
           "title": "独家｜近20天收入超去年全年！月之暗面成国内最快晋级“十角兽”公司",
           "url": "https://m.thepaper.cn/newsDetail_forward_32636837",
           "source": "澎湃新闻",
@@ -849,18 +953,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时52分 ~ 14时03分]"
-        },
-        {
-          "title": "乡镇公务员在「婚恋市场」遇冷，从经济角度看是公务员在相亲市场中含金量下降了么，乡镇编制有何压力？",
-          "url": "https://www.zhihu.com/question/2006473884694778852",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时41分 ~ 21时06分]"
         },
         {
           "title": "摩根大通：预计全年净利息收入（NII）大约1045亿美元，公司原本预计大约1030亿美元。 维持全年不含CIB市场的净利息收入预期在950亿美元附近。",
@@ -1078,6 +1170,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "英国央行货币政策委员泰勒：若经济陷入衰退，将不得不下调利率至中性水平以下。",
+          "url": "https://flash.jin10.com/detail/20260224224330546800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "金正恩：未来五年是朝鲜经济循序渐进质量发展阶段",
           "url": "https://wallstreetcn.com/livenews/3057759",
           "source": "华尔街见闻-快讯",
@@ -1153,6 +1256,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
+        },
+        {
+          "title": "美联储理事沃勒：人工智能技术将给经济带来变革。",
+          "url": "https://flash.jin10.com/detail/20260224224229375800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "幸福蓝海：公司来源于两部影片《飞驰人生3》《熊出没：年年有熊》的营业收入共计约为79万元-102万元",
@@ -1232,6 +1346,17 @@
           "time_info": "18时51分"
         },
         {
+          "title": "英国央行首席经济学家皮尔：需警惕通胀上行风险。",
+          "url": "https://flash.jin10.com/detail/20260224224104031800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "英媒：特朗普“和平委员会”拟推稳定币，以重塑加沙经济",
           "url": "https://flash.jin10.com/detail/20260224002704978800",
           "source": "金十数据",
@@ -1243,15 +1368,48 @@
           "time_info": "02时01分"
         },
         {
+          "title": "英国央行首席经济学家皮尔：通胀回落速度慢于预期。",
+          "url": "https://flash.jin10.com/detail/20260224224048243800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "英国央行首席经济学家皮尔：仍需着力应对通胀压力。",
+          "url": "https://flash.jin10.com/detail/20260224223909895800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "国常会：研究推进银发经济和养老服务发展有关工作",
           "url": "https://wallstreetcn.com/livenews/3058099",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
+        },
+        {
+          "title": "英国央行首席经济学家皮尔：潜在通胀率为2.5%至3%，仍有工作要做。",
+          "url": "https://flash.jin10.com/detail/20260224223754656800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         }
       ]
     },
