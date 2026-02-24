@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-24T18:51:03.869888+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2026-02-24T19:41:48.976667+08:00",
+  "total_titles_processed": 1507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时05分 ~ 19时41分]"
+        },
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
           "url": "https://wallstreetcn.com/articles/3765976",
@@ -19,6 +31,20 @@
           "time_info": "[02时01分 ~ 10时05分]"
         },
         {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时05分 ~ 19时41分]"
+        },
+        {
           "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
           "url": "https://www.cls.cn/detail/2292720",
           "source": "财联社热门",
@@ -29,18 +55,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时01分 ~ 10时05分]"
-        },
-        {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时05分 ~ 18时51分]"
         },
         {
           "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
@@ -58,20 +72,6 @@
           "time_info": "[02时01分 ~ 10时05分]"
         },
         {
-          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
-          "url": "https://wallstreetcn.com/articles/3766006",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时05分 ~ 18时51分]"
-        },
-        {
           "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
           "url": "https://wallstreetcn.com/articles/3765997",
           "source": "华尔街见闻",
@@ -83,8 +83,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[05时44分 ~ 18时51分]"
+          "appearance_count": 14,
+          "time_info": "[05时44分 ~ 19时41分]"
         },
         {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
@@ -155,6 +155,22 @@
           "time_info": "[02时01分 ~ 07时35分]"
         },
         {
+          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
+          "url": "https://www.cls.cn/detail/2293346",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时02分 ~ 19时41分]"
+        },
+        {
           "title": "押风口！这些基金经理四季度就预测机器人板块火爆",
           "url": "https://www.cls.cn/detail/2292558",
           "source": "财联社热门",
@@ -178,19 +194,17 @@
           "time_info": "[06时41分 ~ 07时35分]"
         },
         {
-          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
-          "url": "https://www.cls.cn/detail/2293346",
+          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
+          "url": "https://www.cls.cn/detail/2293343",
           "source": "财联社热门",
           "ranks": [
-            11,
-            10,
             8,
-            7,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时02分 ~ 18时51分]"
+          "appearance_count": 6,
+          "time_info": "[15时13分 ~ 19时41分]"
         },
         {
           "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
@@ -263,19 +277,6 @@
           "time_info": "15时13分"
         },
         {
-          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
-          "url": "https://www.cls.cn/detail/2293343",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 18时51分]"
-        },
-        {
           "title": "魔法原子投资成立机器人科技公司",
           "url": "https://wallstreetcn.com/livenews/3057889",
           "source": "华尔街见闻-快讯",
@@ -285,6 +286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        },
+        {
+          "title": "马斯克设想从月球电磁弹射AI卫星",
+          "url": "https://wallstreetcn.com/livenews/3058106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "IBM成AI最新受害者！受Anthropic编程语言威胁，股价暴跌11%",
@@ -297,6 +309,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时35分 ~ 05时44分]"
+        },
+        {
+          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
+          "url": "https://www.zhihu.com/question/2009566964868150665",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 19时41分]"
         },
         {
           "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
@@ -335,19 +360,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时05分 ~ 17时53分]"
-        },
-        {
-          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
-          "url": "https://www.zhihu.com/question/2009566964868150665",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 18时51分]"
         },
         {
           "title": "外资们也在频繁提AI，如何看2026年行情？",
@@ -452,6 +464,17 @@
           "time_info": "[04时35分 ~ 04时46分]"
         },
         {
+          "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
+          "url": "https://wallstreetcn.com/articles/3766010",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "A股机器人概念股开盘活跃，百达精工2连板，利亚德涨超10%，露笑科技、天奇股份、亨通光电等纷纷高开，据报道，2026年春节联欢晚会一系列精彩的机器人表演引爆社交网络。",
           "url": "https://wallstreetcn.com/livenews/3057773",
           "source": "华尔街见闻-快讯",
@@ -505,6 +528,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
+        },
+        {
+          "title": "马斯克设想从月球电磁弹射AI卫星",
+          "url": "https://flash.jin10.com/detail/20260224191851131800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "Citrini报告作者：文章引发的AI恐慌超预期",
@@ -579,7 +613,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -609,7 +643,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
         {
           "title": "加州州长：特朗普正摧毁美国经济",
@@ -621,6 +655,32 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时01分 ~ 06时42分]"
+        },
+        {
+          "title": "广东省委书记黄坤明：最大限度为技术创新和市场探索“松绑” 让低空经济“飞”起来、自动驾驶“跑”起来、具身智能“用”起来",
+          "url": "https://www.cls.cn/detail/2293320",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时02分 ~ 19时41分]"
+        },
+        {
+          "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
+          "url": "https://www.cls.cn/detail/2293337",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 19时41分]"
         },
         {
           "title": "谷爱凌场外收入是奖金230倍",
@@ -650,30 +710,6 @@
           "time_info": "[02时01分 ~ 07时35分]"
         },
         {
-          "title": "广东省委书记黄坤明：最大限度为技术创新和市场探索“松绑” 让低空经济“飞”起来、自动驾驶“跑”起来、具身智能“用”起来",
-          "url": "https://www.cls.cn/detail/2293320",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时02分 ~ 18时51分]"
-        },
-        {
-          "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
-          "url": "https://www.cls.cn/detail/2293337",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 18时51分]"
-        },
-        {
           "title": "菲律宾央行行长：将展望新任美联储主席上任后的情况，以寻找美国经济和政策的线索。",
           "url": "https://flash.jin10.com/detail/20260224171745213800",
           "source": "金十数据",
@@ -699,6 +735,18 @@
           "time_info": "[10时05分 ~ 15时13分]"
         },
         {
+          "title": "史上第二高！华为2025年销售收入超8800亿元",
+          "url": "https://www.cls.cn/detail/2293382",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 19时41分]"
+        },
+        {
           "title": "美联储“大鸽派”沃勒感叹：美国经济，看不懂！",
           "url": "https://www.cls.cn/detail/2293037",
           "source": "财联社热门",
@@ -708,18 +756,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时52分 ~ 14时03分]"
-        },
-        {
-          "title": "史上第二高！华为2025年销售收入超8800亿元",
-          "url": "https://www.cls.cn/detail/2293382",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 18时51分]"
         },
         {
           "title": "摩根大通：预计全年净利息收入（NII）大约1045亿美元，公司原本预计大约1030亿美元。 维持全年不含CIB市场的净利息收入预期在950亿美元附近。",
@@ -744,6 +780,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 14时03分]"
+        },
+        {
+          "title": "京津冀经济总量5年连跨3个万亿元台阶",
+          "url": "https://wallstreetcn.com/livenews/3058069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 19时41分]"
+        },
+        {
+          "title": "国家税务总局：春节假期机动车充电销售收入同比增长163.9%",
+          "url": "https://wallstreetcn.com/livenews/3058066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 19时41分]"
         },
         {
           "title": "经济学家：美加紧张局势冲击旅游业 2025年加拿大人赴美旅行锐减超25%",
@@ -825,17 +885,6 @@
           "time_info": "07时35分"
         },
         {
-          "title": "京津冀经济总量5年连跨3个万亿元台阶",
-          "url": "https://wallstreetcn.com/livenews/3058069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
           "title": "近20天收入超去年全年！月之暗面成国内最快晋级十角兽公司",
           "url": "https://wallstreetcn.com/articles/3765991",
           "source": "华尔街见闻",
@@ -847,15 +896,15 @@
           "time_info": "16时51分"
         },
         {
-          "title": "国家税务总局：春节假期机动车充电销售收入同比增长163.9%",
-          "url": "https://wallstreetcn.com/livenews/3058066",
+          "title": "李强主持召开国务院常务会议，研究推进银发经济和养老服务发展有关工作。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3058099",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时51分"
+          "time_info": "19时41分"
         },
         {
           "title": "特朗普对垒最高法院上演“关税迷云”，对全球贸易和美国经济意味着什么？",
@@ -867,6 +916,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
+        },
+        {
+          "title": "经济学家宋宇加盟瑞银证券",
+          "url": "https://wallstreetcn.com/livenews/3058094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "澳洲联储经济学家普伦布：仍关注季度调整后均值，任何变化都尚需时日。",
@@ -900,6 +960,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "乡镇公务员在「婚恋市场」遇冷，从经济角度看是公务员在相亲市场中含金量下降了么，乡镇编制有何压力？",
+          "url": "https://www.zhihu.com/question/2006473884694778852",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "澳洲联储经济学家普伦布：将广泛参与决策并传达我们的思路。",
@@ -957,6 +1028,17 @@
           "time_info": "17时53分"
         },
         {
+          "title": "光线传媒：公司来源于电影《飞驰人生3》的营业收入约为4300万元至5300万元",
+          "url": "https://wallstreetcn.com/livenews/3058085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "澳洲联储经济学家普伦布：将继续关注季度CPI数据进行预测。",
           "url": "https://flash.jin10.com/detail/20260224044131604800",
           "source": "金十数据",
@@ -979,6 +1061,17 @@
           "time_info": "16时51分"
         },
         {
+          "title": "幸福蓝海：公司来源于两部影片《飞驰人生3》《熊出没：年年有熊》的营业收入共计约为79万元-102万元",
+          "url": "https://wallstreetcn.com/livenews/3058084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "经济日报金观平：科学谋划未来产业",
           "url": "https://wallstreetcn.com/livenews/3057751",
           "source": "华尔街见闻-快讯",
@@ -988,6 +1081,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "美联储博斯蒂克：美联储一直将关注点放在各经济群体的经济表现上；此数据对于理解劳动力市场的闲置状况非常重要。",
+          "url": "https://flash.jin10.com/detail/20260224191257432800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "澳洲联储经济分析部主管Plumb：在很大程度上，通胀上扬是“特定领域的”。",
@@ -1029,7 +1133,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
