@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T07:35:24.979585+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-02-24T10:05:45.412381+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 25,
+      "match_count": 32,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时01分 ~ 07时35分]"
+          "appearance_count": 10,
+          "time_info": "[02时01分 ~ 10时05分]"
+        },
+        {
+          "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
+          "url": "https://www.cls.cn/detail/2292720",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时01分 ~ 10时05分]"
         },
         {
           "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
@@ -26,22 +38,12 @@
             4,
             3,
             2,
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时01分 ~ 07时35分]"
-        },
-        {
-          "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
-          "url": "https://www.cls.cn/detail/2292720",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时01分 ~ 07时35分]"
+          "appearance_count": 10,
+          "time_info": "[02时01分 ~ 10时05分]"
         },
         {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
@@ -52,8 +54,35 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时01分 ~ 07时35分]"
+          "appearance_count": 10,
+          "time_info": "[02时01分 ~ 10时05分]"
+        },
+        {
+          "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
+          "url": "https://www.cls.cn/detail/2292870",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时01分 ~ 10时05分]"
+        },
+        {
+          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时01分 ~ 10时05分]"
         },
         {
           "title": "王兴兴称机器人技术阶段接近 10 岁孩子水平，杨立昆称当下人形机器人常识水平不如猫，谁的说法更接近现实？",
@@ -72,38 +101,12 @@
           "time_info": "[02时01分 ~ 07时35分]"
         },
         {
-          "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
-          "url": "https://www.cls.cn/detail/2292870",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时01分 ~ 07时35分]"
-        },
-        {
           "title": "押风口！这些基金经理四季度就预测机器人板块火爆",
           "url": "https://www.cls.cn/detail/2292558",
           "source": "财联社热门",
           "ranks": [
             12,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时01分 ~ 07时35分]"
-        },
-        {
-          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -119,6 +122,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时41分 ~ 07时35分]"
+        },
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
@@ -138,7 +152,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -149,9 +163,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "IBM成AI最新受害者！受Anthropic编程语言威胁，股价暴跌11%",
@@ -166,6 +191,19 @@
           "time_info": "[04时35分 ~ 05时44分]"
         },
         {
+          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
+          "url": "https://wallstreetcn.com/articles/3765997",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时44分 ~ 10时05分]"
+        },
+        {
           "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
           "url": "https://wallstreetcn.com/livenews/3057632",
           "source": "华尔街见闻-快讯",
@@ -178,16 +216,16 @@
           "time_info": "[04时35分 ~ 05时44分]"
         },
         {
-          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
-          "url": "https://wallstreetcn.com/articles/3765997",
-          "source": "华尔街见闻",
+          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
+          "url": "https://www.cls.cn/detail/2293058",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            12,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时44分 ~ 07时35分]"
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 10时05分]"
         },
         {
           "title": "摩根大通CFO Jeremy Barnum：在所有开支品类都存在通胀。 （本公司）对脆弱的软件公司的风险敞口“相当小”。 与多家软件公司谈及人工智能（AI）风险。",
@@ -257,15 +295,59 @@
           "time_info": "[04时35分 ~ 04时46分]"
         },
         {
-          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
-          "url": "https://www.cls.cn/detail/2293058",
-          "source": "财联社热门",
+          "title": "宇树机器人背后的23个算法",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%83%8C%E5%90%8E%E7%9A%8423%E4%B8%AA%E7%AE%97%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "Hirai为何当选韩国亚运会LOL队教练",
+          "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "A股机器人概念股开盘活跃，百达精工2连板，利亚德涨超10%，露笑科技、天奇股份、亨通光电等纷纷高开，据报道，2026年春节联欢晚会一系列精彩的机器人表演引爆社交网络。",
+          "url": "https://wallstreetcn.com/livenews/3057773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "贸易战画风突变，一个AI向我道歉，一个还在嘴硬",
+          "url": "https://news.ifeng.com/c/8qzuXxwgvLV",
+          "source": "凤凰网",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "10时05分"
+        },
+        {
+          "title": "宇树机器人，天坛表演中国武术",
+          "url": "https://www.cls.cn/detail/2292907",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "Anthropic CEO将与美国防部长会面，讨论AI模型在国防部的使用",
@@ -304,7 +386,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "加州州长：特朗普正摧毁美国经济",
@@ -396,9 +478,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "独家｜近20天收入超去年全年！月之暗面成国内最快晋级“十角兽”公司",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32636837",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "澳洲联储经济学家普伦布：仍关注季度调整后均值，任何变化都尚需时日。",
@@ -421,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "金正恩：未来五年是朝鲜经济循序渐进质量发展阶段",
+          "url": "https://wallstreetcn.com/livenews/3057759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "澳洲联储经济学家普伦布：目标是在季度CPI公布后的世界中，评估月度数据中哪些基础通胀指标将成为首选。",
@@ -454,6 +558,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "经济日报金观平：科学谋划未来产业",
+          "url": "https://wallstreetcn.com/livenews/3057751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "澳洲联储经济分析部主管Plumb：在很大程度上，通胀上扬是“特定领域的”。",
