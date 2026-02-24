@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T14:03:11.062535+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2026-02-24T15:13:41.538898+08:00",
+  "total_titles_processed": 1098,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 36,
+      "match_count": 43,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -58,6 +58,31 @@
           "time_info": "[02时01分 ~ 10时05分]"
         },
         {
+          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
+          "url": "https://wallstreetcn.com/articles/3765997",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[05时44分 ~ 15时13分]"
+        },
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时05分 ~ 15时13分]"
+        },
+        {
           "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
           "url": "https://www.cls.cn/detail/2292870",
           "source": "财联社热门",
@@ -85,18 +110,29 @@
           "time_info": "[02时01分 ~ 12时52分]"
         },
         {
-          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
-          "url": "https://wallstreetcn.com/articles/3765997",
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8,
-            5
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时44分 ~ 14时03分]"
+          "appearance_count": 5,
+          "time_info": "[10时05分 ~ 15时13分]"
+        },
+        {
+          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
+          "url": "https://www.cls.cn/detail/2293058",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时35分 ~ 15时13分]"
         },
         {
           "title": "王兴兴称机器人技术阶段接近 10 岁孩子水平，杨立昆称当下人形机器人常识水平不如猫，谁的说法更接近现实？",
@@ -115,17 +151,6 @@
           "time_info": "[02时01分 ~ 07时35分]"
         },
         {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时05分 ~ 14时03分]"
-        },
-        {
           "title": "押风口！这些基金经理四季度就预测机器人板块火爆",
           "url": "https://www.cls.cn/detail/2292558",
           "source": "财联社热门",
@@ -136,31 +161,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时01分 ~ 07时35分]"
-        },
-        {
-          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
-          "url": "https://wallstreetcn.com/articles/3766006",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时05分 ~ 14时03分]"
-        },
-        {
-          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
-          "url": "https://www.cls.cn/detail/2293058",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时35分 ~ 14时03分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -196,6 +196,17 @@
           "time_info": "07时35分"
         },
         {
+          "title": "雷军：未来五年小米将重点攻坚芯片、AI、操作系统等底层核心技术",
+          "url": "https://wallstreetcn.com/livenews/3057929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "春节旅游市场迎结构性转变，AI入局成为新亮点",
           "url": "https://wallstreetcn.com/livenews/3057701",
           "source": "华尔街见闻-快讯",
@@ -207,13 +218,24 @@
           "time_info": "07时35分"
         },
         {
+          "title": "多款eVTOL航空器、人形机器人亮相武汉",
+          "url": "https://wallstreetcn.com/livenews/3057928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "魔法原子投资成立机器人科技公司",
           "url": "https://wallstreetcn.com/livenews/3057889",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -248,11 +270,24 @@
           "ranks": [
             9,
             20,
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时05分 ~ 14时03分]"
+          "appearance_count": 5,
+          "time_info": "[10时05分 ~ 15时13分]"
+        },
+        {
+          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
+          "url": "https://www.cls.cn/detail/2293346",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 15时13分]"
         },
         {
           "title": "外资们也在频繁提AI，如何看2026年行情？",
@@ -289,17 +324,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时35分]"
-        },
-        {
-          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
-          "url": "https://www.cls.cn/detail/2293346",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 14时03分]"
         },
         {
           "title": "加拿大人工智能（AI）部长Evan Solomon：加拿大已经传唤OpenAI高级安全团队前来加拿大。 OpenAI并没有针对枪手（在其机器人聊天工具ChatGPT上讨论制造暴力活动的信息）报警，这让人感到厌烦。 2月24日，OpenAI的安全团队将在渥太华面临质询。 就监管AI聊天工具而言，“所有选项”都摆在台面上。",
@@ -357,6 +381,17 @@
           "time_info": "[04时35分 ~ 04时46分]"
         },
         {
+          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
+          "url": "https://www.cls.cn/detail/2293343",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "A股机器人概念股开盘活跃，百达精工2连板，利亚德涨超10%，露笑科技、天奇股份、亨通光电等纷纷高开，据报道，2026年春节联欢晚会一系列精彩的机器人表演引爆社交网络。",
           "url": "https://wallstreetcn.com/livenews/3057773",
           "source": "华尔街见闻-快讯",
@@ -390,6 +425,28 @@
           "time_info": "10时05分"
         },
         {
+          "title": "Citrini报告作者：文章引发的AI恐慌超预期",
+          "url": "https://wallstreetcn.com/livenews/3057915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "电价攀升惹民怨，特朗普要求美国科技公司承诺自掏腰包建设AI数据中心",
+          "url": "https://wallstreetcn.com/livenews/3057913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "Anthropic CEO将与美国防部长会面，讨论AI模型在国防部的使用",
           "url": "https://wallstreetcn.com/livenews/3057583",
           "source": "华尔街见闻-快讯",
@@ -412,6 +469,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "专家称AI时代文科比理科吃香",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0AI%E6%97%B6%E4%BB%A3%E6%96%87%E7%A7%91%E6%AF%94%E7%90%86%E7%A7%91%E5%90%83%E9%A6%99%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "IBM创2000年以来最大日跌幅，Anthropic宣称AI工具可助COBOL现代化改造",
           "url": "https://wallstreetcn.com/livenews/3057653",
           "source": "华尔街见闻-快讯",
@@ -421,6 +489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
+        },
+        {
+          "title": "何小鹏内部信：要实现全球首个高阶人形机器人量产",
+          "url": "https://wallstreetcn.com/livenews/3057895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         },
         {
           "title": "机器人股价",
@@ -437,7 +516,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "加州州长：特朗普正摧毁美国经济",
@@ -484,11 +563,24 @@
           "ranks": [
             14,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时05分 ~ 14时03分]"
+          "appearance_count": 5,
+          "time_info": "[10时05分 ~ 15时13分]"
+        },
+        {
+          "title": "广东省委书记黄坤明：最大限度为技术创新和市场探索“松绑” 让低空经济“飞”起来、自动驾驶“跑”起来、具身智能“用”起来",
+          "url": "https://www.cls.cn/detail/2293320",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 15时13分]"
         },
         {
           "title": "美联储“大鸽派”沃勒感叹：美国经济，看不懂！",
@@ -512,17 +604,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时42分]"
-        },
-        {
-          "title": "广东省委书记黄坤明：最大限度为技术创新和市场探索“松绑” 让低空经济“飞”起来、自动驾驶“跑”起来、具身智能“用”起来",
-          "url": "https://www.cls.cn/detail/2293320",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 14时03分]"
         },
         {
           "title": "渣打集团第四季度除税前利润8.14亿美元，预估11亿美元。 渣打集团第四季度经调整除税前利润12.4亿美元，预估13.8亿美元。 渣打集团第四季度调整后有形股本回报率9.6％。 渣打集团第四季度普通股一级资本充足率14.1%。 渣打集团2025年全年经调整经营收入208.9亿美元，预估209.2亿美元。 渣打集团宣布回购15亿美元股票。",
@@ -593,6 +674,17 @@
           "time_info": "07时35分"
         },
         {
+          "title": "华为2025年销售收入超8800亿元",
+          "url": "https://www.toutiao.com/trending/7609335775570395162/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "澳洲联储经济学家普伦布：仍关注季度调整后均值，任何变化都尚需时日。",
           "url": "https://flash.jin10.com/detail/20260224044437440800",
           "source": "金十数据",
@@ -610,9 +702,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        },
+        {
+          "title": "美国经济背景因素使得美联储有可能在鲍威尔任期结束前一直维持利率不变",
+          "url": "https://flash.jin10.com/detail/20260224141427696800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         },
         {
           "title": "澳洲联储经济学家普伦布：将广泛参与决策并传达我们的思路。",
@@ -717,8 +820,30 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "商品期货收盘，沪银主力合约涨超12%，碳酸锂涨超10%，集运欧线、原油涨超6%，LU燃油、铂涨超5%，钯、BR橡胶涨超4%。多晶硅跌超4%，焦炭、生猪跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3057931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "日本钢铁公司将筹集83亿美元，其中包括32亿美元的可转换债券。",
+          "url": "https://flash.jin10.com/detail/20260224143820201800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
         {
           "title": "早盘收盘，国内期货主力合约多数上涨。沪银涨近12%，集运欧线涨超9%，碳酸锂涨超7%，低硫燃料油（LU）、SC原油涨超6%，铂、钯、橡胶、丁二烯橡胶、20号胶（NR）、苯乙烯（EB）、PX涨超4%。跌幅方面，生猪、烧碱跌超2%，焦炭、苹果、铁矿石、焦煤跌超1%。",
           "url": "https://flash.jin10.com/detail/20260224113059401800",
