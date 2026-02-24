@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T22:54:23.746942+08:00",
-  "total_titles_processed": 1734,
+  "generated_at": "2026-02-24T23:59:58.196336+08:00",
+  "total_titles_processed": 1836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 68,
+      "match_count": 79,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时05分 ~ 22时54分]"
+          "appearance_count": 15,
+          "time_info": "[10时05分 ~ 23时59分]"
         },
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时05分 ~ 22时54分]"
+          "appearance_count": 15,
+          "time_info": "[10时05分 ~ 23时59分]"
         },
         {
           "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
@@ -157,6 +157,22 @@
           "time_info": "[02时01分 ~ 12时52分]"
         },
         {
+          "title": "宇树机器人背后的23个算法",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%83%8C%E5%90%8E%E7%9A%8423%E4%B8%AA%E7%AE%97%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            28,
+            27,
+            25,
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时05分 ~ 23时59分]"
+        },
+        {
           "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
           "url": "https://www.cls.cn/detail/2293058",
           "source": "财联社热门",
@@ -198,21 +214,6 @@
           "time_info": "[02时01分 ~ 07时35分]"
         },
         {
-          "title": "宇树机器人背后的23个算法",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%83%8C%E5%90%8E%E7%9A%8423%E4%B8%AA%E7%AE%97%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            28,
-            27,
-            25,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时05分 ~ 22时54分]"
-        },
-        {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
           "url": "https://wallstreetcn.com/articles/3765966",
           "source": "华尔街见闻",
@@ -222,6 +223,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时41分 ~ 07时35分]"
+        },
+        {
+          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
+          "url": "https://www.zhihu.com/question/41253586",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时53分 ~ 23时59分]"
         },
         {
           "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
@@ -237,16 +251,16 @@
           "time_info": "[16时51分 ~ 21时06分]"
         },
         {
-          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
-          "url": "https://www.zhihu.com/question/41253586",
-          "source": "知乎",
+          "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
+          "url": "https://wallstreetcn.com/articles/3766010",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            16
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时53分 ~ 22时54分]"
+          "appearance_count": 6,
+          "time_info": "[19时41分 ~ 23时59分]"
         },
         {
           "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
@@ -266,7 +280,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -288,7 +302,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -306,6 +320,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时05分 ~ 16时51分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：Claude已通过亚马逊云服务(AWS)的Amazon Bedrock在东南亚地区上线可用。",
+          "url": "https://flash.jin10.com/detail/20260224234604628800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "雷军：未来五年小米将重点攻坚芯片、AI、操作系统等底层核心技术",
@@ -336,7 +361,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -363,6 +388,17 @@
           "time_info": "15时13分"
         },
         {
+          "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "魔法原子投资成立机器人科技公司",
           "url": "https://wallstreetcn.com/livenews/3057889",
           "source": "华尔街见闻-快讯",
@@ -374,16 +410,28 @@
           "time_info": "14时03分"
         },
         {
-          "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
-          "url": "https://wallstreetcn.com/articles/3766010",
-          "source": "华尔街见闻",
+          "title": "亚马逊：AWS在中东的客户可以使用Claude。",
+          "url": "https://wallstreetcn.com/livenews/3058236",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            7
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
+          "title": "李佳薇JKAI声乐大师课",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[19时41分 ~ 22时54分]"
+          "time_info": "[21时05分 ~ 23时59分]"
         },
         {
           "title": "IBM成AI最新受害者！受Anthropic编程语言威胁，股价暴跌11%",
@@ -432,18 +480,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时41分 ~ 21时06分]"
-        },
-        {
-          "title": "李佳薇JKAI声乐大师课",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时05分 ~ 22时54分]"
         },
         {
           "title": "外资们也在频繁提AI，如何看2026年行情？",
@@ -548,6 +584,28 @@
           "time_info": "[04时35分 ~ 04时46分]"
         },
         {
+          "title": "Anthropic拓展企业级AI代理生态，投行人力场景率先落地",
+          "url": "https://wallstreetcn.com/articles/3766083",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：亚马逊云服务(AWS)在阿联酋、巴林推出Claude跨区域推理服务。",
+          "url": "https://flash.jin10.com/detail/20260224233930640800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "AMD美股盘前涨超15%，META与AMD签署巨额协议，将购买后者AI设备。",
           "url": "https://wallstreetcn.com/livenews/3058124",
           "source": "华尔街见闻-快讯",
@@ -598,7 +656,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -620,9 +678,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
+        },
+        {
+          "title": "美联储理事库克：AI已经被纳入美联储的预测。",
+          "url": "https://wallstreetcn.com/livenews/3058228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "宇树机器人，天坛表演中国武术",
@@ -680,6 +749,28 @@
           "time_info": "15时13分"
         },
         {
+          "title": "Anthropic的Claude AI模型产品负责人Scott White：公司的目标是消除人们使用人工智能（AI）回答工作相关查询的方式与他们从事具体工作所用的工具之间的隔阂。 将市场表现与单一产品发布联系起来“有点过度解读或反应过度了”，公司的AI模型正在帮助企业客户实现增长。",
+          "url": "https://wallstreetcn.com/livenews/3058226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
+          "title": "Anthropic推出智能体AI工具，针对实现投资银行和人力资源自动化",
+          "url": "https://wallstreetcn.com/livenews/3058225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "Anthropic CEO将与美国防部长会面，讨论AI模型在国防部的使用",
           "url": "https://wallstreetcn.com/livenews/3057583",
           "source": "华尔街见闻-快讯",
@@ -689,6 +780,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "李在明社媒发AI视频",
+          "url": "https://www.douyin.com/hot/2410021",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "Altman为AI资源消耗辩护：耗水担忧是“假的”，且“人类也消耗能量”",
@@ -708,7 +810,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -722,6 +824,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "宇树发布新款四足机器人",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E6%96%B0%E6%AC%BE%E5%9B%9B%E8%B6%B3%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "AMD宣布与Meta扩大战略合作 将向Meta部署6吉瓦定制AI芯片",
@@ -752,7 +865,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -801,6 +914,17 @@
           "time_info": "21时06分"
         },
         {
+          "title": "汤森路透股价大涨，该公司取得AI突破，提及与Anthropic的合作",
+          "url": "https://wallstreetcn.com/livenews/3058212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "机器人股价",
           "url": "https://s.weibo.com/weibo?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%82%A1%E4%BB%B7&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -815,7 +939,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
@@ -826,8 +950,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时51分 ~ 22时54分]"
+          "appearance_count": 10,
+          "time_info": "[16时51分 ~ 23时59分]"
         },
         {
           "title": "加州州长：特朗普正摧毁美国经济",
@@ -895,6 +1019,18 @@
           "time_info": "[17时53分 ~ 21时06分]"
         },
         {
+          "title": "乡镇公务员在「婚恋市场」遇冷，从经济角度看是公务员在相亲市场中含金量下降了么，乡镇编制有何压力？",
+          "url": "https://www.zhihu.com/question/2006473884694778852",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时41分 ~ 23时59分]"
+        },
+        {
           "title": "菲律宾央行行长：将展望新任美联储主席上任后的情况，以寻找美国经济和政策的线索。",
           "url": "https://flash.jin10.com/detail/20260224171745213800",
           "source": "金十数据",
@@ -904,18 +1040,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
-        },
-        {
-          "title": "乡镇公务员在「婚恋市场」遇冷，从经济角度看是公务员在相亲市场中含金量下降了么，乡镇编制有何压力？",
-          "url": "https://www.zhihu.com/question/2006473884694778852",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时41分 ~ 22时54分]"
         },
         {
           "title": "独家｜近20天收入超去年全年！月之暗面成国内最快晋级“十角兽”公司",
@@ -1082,6 +1206,17 @@
           "time_info": "07时35分"
         },
         {
+          "title": "美国参议院民主党成员Warren：总统特朗普的美联储主席提名人凯文·沃什不会独立自主地做出经济决策。 我会质询特朗普的任何美联储官员提名人，他们在哪些地方不认可特朗普（的意见/做法）。",
+          "url": "https://wallstreetcn.com/livenews/3058232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "近20天收入超去年全年！月之暗面成国内最快晋级十角兽公司",
           "url": "https://wallstreetcn.com/articles/3765991",
           "source": "华尔街见闻",
@@ -1176,7 +1311,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -1264,9 +1399,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
+        },
+        {
+          "title": "美国民主党参议员沃伦：沃什不会做出独立的经济决策。",
+          "url": "https://flash.jin10.com/detail/20260224233308346800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "幸福蓝海：公司来源于两部影片《飞驰人生3》《熊出没：年年有熊》的营业收入共计约为79万元-102万元",
@@ -1352,7 +1498,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -1374,7 +1520,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -1385,7 +1531,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -1407,7 +1553,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         }
