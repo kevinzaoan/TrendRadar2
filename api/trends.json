@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T19:41:48.976667+08:00",
-  "total_titles_processed": 1507,
+  "generated_at": "2026-02-24T21:06:09.074743+08:00",
+  "total_titles_processed": 1604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 53,
+      "match_count": 60,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时05分 ~ 19时41分]"
+          "appearance_count": 12,
+          "time_info": "[10时05分 ~ 21时06分]"
         },
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时05分 ~ 19时41分]"
+          "appearance_count": 12,
+          "time_info": "[10时05分 ~ 21时06分]"
         },
         {
           "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
@@ -80,11 +80,29 @@
             9,
             8,
             5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[05时44分 ~ 21时06分]"
+        },
+        {
+          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
+          "url": "https://www.cls.cn/detail/2293346",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8,
+            7,
+            6,
+            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[05时44分 ~ 19时41分]"
+          "appearance_count": 10,
+          "time_info": "[14时02分 ~ 21时06分]"
         },
         {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
@@ -155,22 +173,6 @@
           "time_info": "[02时01分 ~ 07时35分]"
         },
         {
-          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
-          "url": "https://www.cls.cn/detail/2293346",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时02分 ~ 19时41分]"
-        },
-        {
           "title": "押风口！这些基金经理四季度就预测机器人板块火爆",
           "url": "https://www.cls.cn/detail/2292558",
           "source": "财联社热门",
@@ -181,6 +183,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时01分 ~ 07时35分]"
+        },
+        {
+          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
+          "url": "https://www.cls.cn/detail/2293343",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时13分 ~ 21时06分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -194,17 +209,31 @@
           "time_info": "[06时41分 ~ 07时35分]"
         },
         {
-          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
-          "url": "https://www.cls.cn/detail/2293343",
-          "source": "财联社热门",
+          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
+          "url": "https://www.zhihu.com/question/2009566964868150665",
+          "source": "知乎",
           "ranks": [
-            8,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时51分 ~ 21时06分]"
+        },
+        {
+          "title": "宇树机器人背后的23个算法",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%83%8C%E5%90%8E%E7%9A%8423%E4%B8%AA%E7%AE%97%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
             6,
-            7
+            28,
+            27,
+            25
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[15时13分 ~ 19时41分]"
+          "time_info": "[10时05分 ~ 21时06分]"
         },
         {
           "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
@@ -255,6 +284,17 @@
           "time_info": "15时13分"
         },
         {
+          "title": "Arini创始人：无需颠覆真正发生 对AI的忧虑便足以引发软件公司违约",
+          "url": "https://wallstreetcn.com/livenews/3058136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
           "title": "春节旅游市场迎结构性转变，AI入局成为新亮点",
           "url": "https://wallstreetcn.com/livenews/3057701",
           "source": "华尔街见闻-快讯",
@@ -288,17 +328,6 @@
           "time_info": "14时03分"
         },
         {
-          "title": "马斯克设想从月球电磁弹射AI卫星",
-          "url": "https://wallstreetcn.com/livenews/3058106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
           "title": "IBM成AI最新受害者！受Anthropic编程语言威胁，股价暴跌11%",
           "url": "https://wallstreetcn.com/livenews/3057634",
           "source": "华尔街见闻-快讯",
@@ -309,19 +338,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时35分 ~ 05时44分]"
-        },
-        {
-          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
-          "url": "https://www.zhihu.com/question/2009566964868150665",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时51分 ~ 19时41分]"
         },
         {
           "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
@@ -336,6 +352,17 @@
           "time_info": "[04时35分 ~ 05时44分]"
         },
         {
+          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
+          "url": "https://www.zhihu.com/question/41253586",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时53分 ~ 21时06分]"
+        },
+        {
           "title": "镁信健康张小栋发布内部信：全面落地AI Inside新战略，重点赋能两大业务方向",
           "url": "https://wallstreetcn.com/livenews/3058012",
           "source": "华尔街见闻-快讯",
@@ -348,18 +375,27 @@
           "time_info": "[16时51分 ~ 17时53分]"
         },
         {
-          "title": "宇树机器人背后的23个算法",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%83%8C%E5%90%8E%E7%9A%8423%E4%B8%AA%E7%AE%97%E6%B3%95",
-          "source": "bilibili 热搜",
+          "title": "马斯克设想从月球电磁弹射AI卫星",
+          "url": "https://wallstreetcn.com/livenews/3058106",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            28,
-            27,
-            25
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时05分 ~ 17时53分]"
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 21时06分]"
+        },
+        {
+          "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
+          "url": "https://wallstreetcn.com/articles/3766010",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 21时06分]"
         },
         {
           "title": "外资们也在频繁提AI，如何看2026年行情？",
@@ -372,17 +408,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时52分 ~ 14时03分]"
-        },
-        {
-          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
-          "url": "https://www.zhihu.com/question/41253586",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 18时51分]"
         },
         {
           "title": "摩根大通CFO Jeremy Barnum：在所有开支品类都存在通胀。 （本公司）对脆弱的软件公司的风险敞口“相当小”。 与多家软件公司谈及人工智能（AI）风险。",
@@ -464,15 +489,26 @@
           "time_info": "[04时35分 ~ 04时46分]"
         },
         {
-          "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
-          "url": "https://wallstreetcn.com/articles/3766010",
-          "source": "华尔街见闻",
+          "title": "李佳薇JKAI声乐大师课",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
+        },
+        {
+          "title": "AMD美股盘前涨超15%，META与AMD签署巨额协议，将购买后者AI设备。",
+          "url": "https://wallstreetcn.com/livenews/3058124",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时41分"
+          "time_info": "21时06分"
         },
         {
           "title": "A股机器人概念股开盘活跃，百达精工2连板，利亚德涨超10%，露笑科技、天奇股份、亨通光电等纷纷高开，据报道，2026年春节联欢晚会一系列精彩的机器人表演引爆社交网络。",
@@ -495,6 +531,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
+        },
+        {
+          "title": "META与AMD签署巨额协议，将购买后者AI设备。META将获得认股权证，可分阶段购买不超1.6亿股AMD股票。META将在AMD设备上花费每吉瓦数百亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3058122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "贸易战画风突变，一个AI向我道歉，一个还在嘴硬",
@@ -536,7 +583,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -596,6 +643,28 @@
           "time_info": "15时13分"
         },
         {
+          "title": "AMD宣布与Meta扩大战略合作 将向Meta部署6吉瓦定制AI芯片",
+          "url": "https://flash.jin10.com/detail/20260224200932075800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
+          "title": "AMD(AMD.O)美股盘前涨幅扩大至15%，此前与META达成AI设备和股份交易协议。",
+          "url": "https://flash.jin10.com/detail/20260224200638377800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
           "title": "IBM创2000年以来最大日跌幅，Anthropic宣称AI工具可助COBOL现代化改造",
           "url": "https://wallstreetcn.com/livenews/3057653",
           "source": "华尔街见闻-快讯",
@@ -629,6 +698,17 @@
           "time_info": "15时13分"
         },
         {
+          "title": "AMD(AMD.O)盘前大涨10.9%，此前该公司同意五年内向Meta公司出售价值高达600亿美元的AI芯片。",
+          "url": "https://flash.jin10.com/detail/20260224200259353800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
           "title": "机器人股价",
           "url": "https://s.weibo.com/weibo?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%82%A1%E4%BB%B7&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -643,7 +723,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "加州州长：特朗普正摧毁美国经济",
@@ -655,6 +735,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时01分 ~ 06时42分]"
+        },
+        {
+          "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
+          "url": "https://www.cls.cn/detail/2293337",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时51分 ~ 21时06分]"
         },
         {
           "title": "广东省委书记黄坤明：最大限度为技术创新和市场探索“松绑” 让低空经济“飞”起来、自动驾驶“跑”起来、具身智能“用”起来",
@@ -669,18 +761,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时02分 ~ 19时41分]"
-        },
-        {
-          "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
-          "url": "https://www.cls.cn/detail/2293337",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时51分 ~ 19时41分]"
         },
         {
           "title": "谷爱凌场外收入是奖金230倍",
@@ -710,6 +790,19 @@
           "time_info": "[02时01分 ~ 07时35分]"
         },
         {
+          "title": "史上第二高！华为2025年销售收入超8800亿元",
+          "url": "https://www.cls.cn/detail/2293382",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 21时06分]"
+        },
+        {
           "title": "菲律宾央行行长：将展望新任美联储主席上任后的情况，以寻找美国经济和政策的线索。",
           "url": "https://flash.jin10.com/detail/20260224171745213800",
           "source": "金十数据",
@@ -735,16 +828,16 @@
           "time_info": "[10时05分 ~ 15时13分]"
         },
         {
-          "title": "史上第二高！华为2025年销售收入超8800亿元",
-          "url": "https://www.cls.cn/detail/2293382",
-          "source": "财联社热门",
+          "title": "广东省委书记：让低空经济“飞”起来",
+          "url": "https://www.toutiao.com/trending/7610295469930283049/",
+          "source": "今日头条",
           "ranks": [
-            11,
-            13
+            22,
+            27
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时53分 ~ 19时41分]"
+          "time_info": "[18时50分 ~ 21时06分]"
         },
         {
           "title": "美联储“大鸽派”沃勒感叹：美国经济，看不懂！",
@@ -756,6 +849,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时52分 ~ 14时03分]"
+        },
+        {
+          "title": "乡镇公务员在「婚恋市场」遇冷，从经济角度看是公务员在相亲市场中含金量下降了么，乡镇编制有何压力？",
+          "url": "https://www.zhihu.com/question/2006473884694778852",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 21时06分]"
         },
         {
           "title": "摩根大通：预计全年净利息收入（NII）大约1045亿美元，公司原本预计大约1030亿美元。 维持全年不含CIB市场的净利息收入预期在950亿美元附近。",
@@ -863,15 +968,15 @@
           "time_info": "[12时52分 ~ 14时03分]"
         },
         {
-          "title": "广东省委书记：让低空经济“飞”起来",
-          "url": "https://www.toutiao.com/trending/7610295469930283049/",
+          "title": "经济第一大省广东如何向上突围",
+          "url": "https://www.toutiao.com/trending/7610384752817753636/",
           "source": "今日头条",
           "ranks": [
-            22
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时50分 ~ 18时51分]"
+          "time_info": "[21时05分 ~ 21时06分]"
         },
         {
           "title": "美国总统特朗普将于周五访问德克萨斯州Corpus Christi，发表“以能源和经济为主题”的演讲。（MS Now）",
@@ -902,7 +1007,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -924,7 +1029,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -960,17 +1065,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
-        },
-        {
-          "title": "乡镇公务员在「婚恋市场」遇冷，从经济角度看是公务员在相亲市场中含金量下降了么，乡镇编制有何压力？",
-          "url": "https://www.zhihu.com/question/2006473884694778852",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
         },
         {
           "title": "澳洲联储经济学家普伦布：将广泛参与决策并传达我们的思路。",
@@ -1034,7 +1128,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -1067,7 +1161,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -1089,7 +1183,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -1147,6 +1241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "国常会：研究推进银发经济和养老服务发展有关工作",
+          "url": "https://wallstreetcn.com/livenews/3058099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         }
       ]
     },
