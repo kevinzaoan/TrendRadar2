@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T16:51:48.605911+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2026-02-24T17:53:38.566910+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -46,6 +46,18 @@
           "time_info": "[02时01分 ~ 10时05分]"
         },
         {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 17时53分]"
+        },
+        {
           "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
           "url": "https://wallstreetcn.com/articles/3765997",
           "source": "华尔街见闻",
@@ -57,19 +69,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时44分 ~ 16时51分]"
-        },
-        {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时05分 ~ 16时51分]"
+          "appearance_count": 11,
+          "time_info": "[05时44分 ~ 17时53分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -78,11 +79,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时05分 ~ 16时51分]"
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 17时53分]"
         },
         {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
@@ -224,17 +226,6 @@
           "time_info": "15时13分"
         },
         {
-          "title": "镁信健康张小栋发布内部信：全面落地AI Inside新战略，重点赋能两大业务方向",
-          "url": "https://wallstreetcn.com/livenews/3058012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        },
-        {
           "title": "春节旅游市场迎结构性转变，AI入局成为新亮点",
           "url": "https://wallstreetcn.com/livenews/3057701",
           "source": "华尔街见闻-快讯",
@@ -280,6 +271,20 @@
           "time_info": "[04时35分 ~ 05时44分]"
         },
         {
+          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
+          "url": "https://www.cls.cn/detail/2293346",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 17时53分]"
+        },
+        {
           "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
           "url": "https://wallstreetcn.com/livenews/3057632",
           "source": "华尔街见闻-快讯",
@@ -292,17 +297,16 @@
           "time_info": "[04时35分 ~ 05时44分]"
         },
         {
-          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
-          "url": "https://www.cls.cn/detail/2293346",
-          "source": "财联社热门",
+          "title": "镁信健康张小栋发布内部信：全面落地AI Inside新战略，重点赋能两大业务方向",
+          "url": "https://wallstreetcn.com/livenews/3058012",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            10,
-            8
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时02分 ~ 16时51分]"
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 17时53分]"
         },
         {
           "title": "宇树机器人背后的23个算法",
@@ -311,11 +315,24 @@
           "ranks": [
             6,
             28,
-            27
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时05分 ~ 17时53分]"
+        },
+        {
+          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
+          "url": "https://www.cls.cn/detail/2293343",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时05分 ~ 16时51分]"
+          "time_info": "[15时13分 ~ 17时53分]"
         },
         {
           "title": "外资们也在频繁提AI，如何看2026年行情？",
@@ -330,16 +347,16 @@
           "time_info": "[12时52分 ~ 14时03分]"
         },
         {
-          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
-          "url": "https://www.cls.cn/detail/2293343",
-          "source": "财联社热门",
+          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
+          "url": "https://www.zhihu.com/question/2009566964868150665",
+          "source": "知乎",
           "ranks": [
-            8,
-            6
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时13分 ~ 16时51分]"
+          "time_info": "[16时51分 ~ 17时53分]"
         },
         {
           "title": "摩根大通CFO Jeremy Barnum：在所有开支品类都存在通胀。 （本公司）对脆弱的软件公司的风险敞口“相当小”。 与多家软件公司谈及人工智能（AI）风险。",
@@ -363,6 +380,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 04时46分]"
+        },
+        {
+          "title": "全球AI恐慌交易中亚洲有望成结构性赢家 Citrini报告中已埋有伏笔",
+          "url": "https://wallstreetcn.com/livenews/3057992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 17时53分]"
         },
         {
           "title": "Anthropic：Claude Code能自动Cobol现代化。",
@@ -420,15 +449,15 @@
           "time_info": "10时05分"
         },
         {
-          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
-          "url": "https://www.zhihu.com/question/2009566964868150665",
-          "source": "知乎",
+          "title": "宇树发布四足机器人Unitree As2",
+          "url": "https://wallstreetcn.com/livenews/3058017",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时51分"
+          "time_info": "17时53分"
         },
         {
           "title": "贸易战画风突变，一个AI向我道歉，一个还在嘴硬",
@@ -453,6 +482,17 @@
           "time_info": "10时05分"
         },
         {
+          "title": "节后资金或有望回流，AI、存储芯片等科技股方向成核心看点",
+          "url": "https://www.cls.cn/detail/2293166",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "Citrini报告作者：文章引发的AI恐慌超预期",
           "url": "https://wallstreetcn.com/livenews/3057915",
           "source": "华尔街见闻-快讯",
@@ -462,17 +502,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
-        },
-        {
-          "title": "全球AI恐慌交易中亚洲有望成结构性赢家 Citrini报告中已埋有伏笔",
-          "url": "https://wallstreetcn.com/livenews/3057992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
         },
         {
           "title": "电价攀升惹民怨，特朗普要求美国科技公司承诺自掏腰包建设AI数据中心",
@@ -495,6 +524,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
+          "url": "https://www.zhihu.com/question/41253586",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "Altman为AI资源消耗辩护：耗水担忧是“假的”，且“人类也消耗能量”",
@@ -555,7 +595,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "加州州长：特朗普正摧毁美国经济",
@@ -605,8 +645,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时02分 ~ 16时51分]"
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 17时53分]"
         },
         {
           "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
@@ -615,9 +655,20 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 17时53分]"
+        },
+        {
+          "title": "菲律宾央行行长：将展望新任美联储主席上任后的情况，以寻找美国经济和政策的线索。",
+          "url": "https://flash.jin10.com/detail/20260224171745213800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时51分"
+          "time_info": "17时53分"
         },
         {
           "title": "独家｜近20天收入超去年全年！月之暗面成国内最快晋级“十角兽”公司",
@@ -743,9 +794,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
+        },
+        {
+          "title": "史上第二高！华为2025年销售收入超8800亿元",
+          "url": "https://www.cls.cn/detail/2293382",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "特朗普对垒最高法院上演“关税迷云”，对全球贸易和美国经济意味着什么？",
@@ -754,7 +816,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -836,6 +898,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "欧盟委员会：欧盟将继续为乌克兰及其人民提供全面的政治、财政、经济、人道主义、军事和外交支持。",
+          "url": "https://flash.jin10.com/detail/20260224163115261800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "澳洲联储经济学家普伦布：将继续关注季度CPI数据进行预测。",
           "url": "https://flash.jin10.com/detail/20260224044131604800",
           "source": "金十数据",
@@ -853,7 +926,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -886,7 +959,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
