@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-02-25T10:08:42.965708+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-02-25T12:58:11.267118+08:00",
+  "total_titles_processed": 961,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 45,
+      "match_count": 48,
       "titles": [
+        {
+          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
+          "url": "https://wallstreetcn.com/articles/3766083",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时12分 ~ 12时58分]"
+        },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
           "url": "https://wallstreetcn.com/articles/3765966",
@@ -18,6 +32,22 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时14分 ~ 06时34分]"
+        },
+        {
+          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
+          "url": "https://wallstreetcn.com/articles/3766081",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时14分 ~ 12时58分]"
         },
         {
           "title": "宇树机器人背后的23个算法",
@@ -46,20 +76,6 @@
           "time_info": "[01时14分 ~ 06时34分]"
         },
         {
-          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
-          "url": "https://wallstreetcn.com/articles/3766083",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时12分 ~ 10时08分]"
-        },
-        {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
           "url": "https://wallstreetcn.com/articles/3766006",
           "source": "华尔街见闻",
@@ -69,22 +85,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时14分 ~ 05时35分]"
-        },
-        {
-          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
-          "url": "https://wallstreetcn.com/articles/3766081",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时14分 ~ 10时08分]"
         },
         {
           "title": "李在明社媒发AI视频",
@@ -132,6 +132,17 @@
           "time_info": "[03时12分 ~ 06时34分]"
         },
         {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时32分 ~ 12时58分]"
+        },
+        {
           "title": "李佳薇JKAI声乐大师课",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
           "source": "bilibili 热搜",
@@ -161,15 +172,15 @@
           "time_info": "[01时14分 ~ 07时32分]"
         },
         {
-          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3766041",
-          "source": "华尔街见闻",
+          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
+          "url": "https://www.cls.cn/detail/2294141",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时32分 ~ 10时08分]"
+          "appearance_count": 3,
+          "time_info": "[10时08分 ~ 12时58分]"
         },
         {
           "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
@@ -183,17 +194,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时14分 ~ 06时34分]"
-        },
-        {
-          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
-          "url": "https://www.cls.cn/detail/2294141",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
         },
         {
           "title": "反向逻辑：城堡证券驳斥Citrini的“AI危机”设想",
@@ -279,6 +279,19 @@
           "time_info": "[03时13分 ~ 04时37分]"
         },
         {
+          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
+          "url": "https://wallstreetcn.com/articles/3766059",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时32分 ~ 12时58分]"
+        },
+        {
           "title": "美媒：美国防部限Anthropic周五前放弃AI安全限制，否则面临严惩",
           "url": "https://flash.jin10.com/detail/20260225023655984800",
           "source": "金十数据",
@@ -303,6 +316,39 @@
           "time_info": "[06时34分 ~ 07时32分]"
         },
         {
+          "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
+          "url": "https://wallstreetcn.com/articles/3766046",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时08分 ~ 12时58分]"
+        },
+        {
+          "title": "印度AI峰会，国际媒体给差评",
+          "url": "https://news.ifeng.com/c/8r1UoAfVAdP",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时08分 ~ 12时58分]"
+        },
+        {
+          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
+          "url": "https://www.cls.cn/detail/2294409",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
+        },
+        {
           "title": "Brandywine 全球投资管理公司基金经理杰克·麦金太尔（Jack McIntyre）：（对于美联储利率政策前景）问题在于，人工智能（AI）将如何引发通胀，也许长端利率曲线已经察觉到了这一切。 AI唯一的通胀因素在于数据中心的建设及其相关的能源需求，而这一点已经是已知信息。",
           "url": "https://wallstreetcn.com/livenews/3058363",
           "source": "华尔街见闻-快讯",
@@ -315,18 +361,6 @@
           "time_info": "[06时34分 ~ 07时32分]"
         },
         {
-          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
-          "url": "https://wallstreetcn.com/articles/3766059",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时32分 ~ 10时08分]"
-        },
-        {
           "title": "据Axios网站：美国国防部长赫格塞思给Anthropic CEO达里奥·阿莫代设下最后期限——周五晚之前必须向军方无限制开放其AI模型，否则将面临严厉惩罚。",
           "url": "https://flash.jin10.com/detail/20260225022633218800",
           "source": "金十数据",
@@ -337,6 +371,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 04时37分]"
+        },
+        {
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
         },
         {
           "title": "Mosaic预计2026年资本开支大约15亿美元。",
@@ -361,6 +406,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 04时37分]"
+        },
+        {
+          "title": "人形机器人开年：春晚“路演”出圈",
+          "url": "https://www.toutiao.com/trending/7610602472935001654/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
         },
         {
           "title": "Anthropic拓展企业级AI代理生态，投行人力场景率先落地",
@@ -407,17 +463,6 @@
           "time_info": "01时14分"
         },
         {
-          "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
-          "url": "https://wallstreetcn.com/articles/3766046",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
           "title": "MSCI向客户提供AI接口，支持调用专属数据",
           "url": "https://wallstreetcn.com/livenews/3058259",
           "source": "华尔街见闻-快讯",
@@ -427,17 +472,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
-        },
-        {
-          "title": "印度AI峰会，国际媒体给差评",
-          "url": "https://news.ifeng.com/c/8r1UoAfVAdP",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
         },
         {
           "title": "拉美电商巨头MercadoLibre（MELI.US）：代理AI工具将有助于跨境销售和个人财务。",
@@ -479,7 +513,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         },
@@ -523,7 +557,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         },
@@ -553,7 +587,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
@@ -653,7 +687,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         },
@@ -667,6 +701,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "【陈茂波：3月发出首批稳定币发行人牌照，年内会提交数字资产政策条例草案】香港财政司司长陈茂波在《财政预算案2026》中表示，政府将于年内会提交数字资产政策条例草案，就数字资产交易及托管等服务提供者订立发牌制度，现时香港已实施法币稳定币发行人发牌制度，将在3月发出首批牌照，而政府及金融监管机构会继续促进持牌发行人在合规和风险可控的情况下，探索更多应用场景。陈茂波指，证监会亦将在充分保障投资者的前提下，进一步促进香港数字资产市场的流动性，为专业投资者提供更多产品和服务，并会建立加速器以加快推动市场创新。（香港经济日报）",
+          "url": "https://wallstreetcn.com/livenews/3058575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "英国央行首席经济学家首席经济学家Huw Pill：尽管我倾向于对降息步伐保持谨慎，但中期通胀动态的确让我有点放心了。",
