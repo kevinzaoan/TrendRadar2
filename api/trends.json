@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T21:05:18.034022+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2026-02-25T22:51:46.210511+08:00",
+  "total_titles_processed": 1772,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 64,
+      "match_count": 67,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时32分 ~ 21时05分]"
+          "appearance_count": 13,
+          "time_info": "[07时32分 ~ 22时51分]"
         },
         {
           "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[03时12分 ~ 21时05分]"
+          "appearance_count": 19,
+          "time_info": "[03时12分 ~ 22时51分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -133,8 +133,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时57分 ~ 21时05分]"
+          "appearance_count": 11,
+          "time_info": "[12时57分 ~ 22时51分]"
         },
         {
           "title": "李在明社媒发AI视频",
@@ -197,6 +197,21 @@
           "time_info": "[01时14分 ~ 07时32分]"
         },
         {
+          "title": "专家称未来 10 年机器人数量会超过人类数量，人们一周只需工作 2 天，是这样吗？有哪些证据支撑？",
+          "url": "https://www.zhihu.com/question/2009924225859805232",
+          "source": "知乎",
+          "ranks": [
+            18,
+            19,
+            14,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时01分 ~ 22时51分]"
+        },
+        {
           "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
           "url": "https://wallstreetcn.com/articles/3766010",
           "source": "华尔街见闻",
@@ -223,21 +238,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时32分 ~ 16时50分]"
-        },
-        {
-          "title": "专家称未来 10 年机器人数量会超过人类数量，人们一周只需工作 2 天，是这样吗？有哪些证据支撑？",
-          "url": "https://www.zhihu.com/question/2009924225859805232",
-          "source": "知乎",
-          "ranks": [
-            18,
-            19,
-            14,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时01分 ~ 21时05分]"
         },
         {
           "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
@@ -459,6 +459,18 @@
           "time_info": "[03时13分 ~ 04时37分]"
         },
         {
+          "title": "韩女子用AI精密策划诱杀致2死1伤",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 22时51分]"
+        },
+        {
           "title": "Mosaic预计2026年资本开支大约15亿美元。",
           "url": "https://wallstreetcn.com/livenews/3058359",
           "source": "华尔街见闻-快讯",
@@ -583,15 +595,15 @@
           "time_info": "01时14分"
         },
         {
-          "title": "韩女子用AI精密策划诱杀致2死1伤",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
-          "source": "百度热搜",
+          "title": "戴尔(DELL.N)推出PowerEdge XR9700服务器，面向云无线接入网 (Cloud RAN) 和边缘人工智能 (Edge AI) 。",
+          "url": "https://flash.jin10.com/detail/20260225222134762800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "22时51分"
         },
         {
           "title": "AI恐慌暂歇，欧股涨至历史新高，日本长债收益率集体飙升，现货黄金日内涨超1%",
@@ -622,9 +634,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
+        },
+        {
+          "title": "SoundHound AI Inc.在Bengaluru（印度班加罗尔）成立新的创新中心。",
+          "url": "https://wallstreetcn.com/livenews/3058919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "拉美电商巨头MercadoLibre（MELI.US）：代理AI工具将有助于跨境销售和个人财务。",
@@ -647,6 +670,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "黑客利用Anthropic的Claude窃取敏感的墨西哥数据。",
+          "url": "https://wallstreetcn.com/livenews/3058914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "OpenAI：欢迎美国法院针对x.AI官司的决定。",
@@ -784,7 +818,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
@@ -824,6 +858,20 @@
           "time_info": "[01时14分 ~ 07时32分]"
         },
         {
+          "title": "华为 2025 年销售收入超过 8800 亿元，如何解读此业绩？2026 年能破万亿吗？",
+          "url": "https://www.zhihu.com/question/2009592449786474884",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时06分 ~ 22时51分]"
+        },
+        {
           "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
           "url": "https://www.cls.cn/detail/2294552",
           "source": "财联社热门",
@@ -858,19 +906,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
-        },
-        {
-          "title": "华为 2025 年销售收入超过 8800 亿元，如何解读此业绩？2026 年能破万亿吗？",
-          "url": "https://www.zhihu.com/question/2009592449786474884",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时06分 ~ 21时05分]"
         },
         {
           "title": "下好经济发展“先手棋”，多地召开“新春第一会”",
@@ -1097,6 +1132,17 @@
           "time_info": "05时35分"
         },
         {
+          "title": "19岁女生因经济舱综合征心脏骤停",
+          "url": "https://s.weibo.com/weibo?q=%2319%E5%B2%81%E5%A5%B3%E7%94%9F%E5%9B%A0%E7%BB%8F%E6%B5%8E%E8%88%B1%E7%BB%BC%E5%90%88%E5%BE%81%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "瑞士央行行长施莱格尔：2025年瑞士经济增长放缓，但各行业之间存在巨大差异。",
           "url": "https://flash.jin10.com/detail/20260225015347588800",
           "source": "金十数据",
@@ -1144,8 +1190,19 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美国能源部：两笔贷款将助力新建或升级逾16吉瓦电网发电能力。",
+          "url": "https://flash.jin10.com/detail/20260225222536323800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
         {
           "title": "恒生指数收盘涨0.66%，有色钢铁股涨幅居前，MINIMAX、智谱跌超10%",
           "url": "https://wallstreetcn.com/livenews/3058723",
