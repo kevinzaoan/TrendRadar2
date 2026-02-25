@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T19:41:16.902584+08:00",
-  "total_titles_processed": 1523,
+  "generated_at": "2026-02-25T21:05:18.034022+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时32分 ~ 19时41分]"
+          "appearance_count": 12,
+          "time_info": "[07时32分 ~ 21时05分]"
         },
         {
           "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
@@ -29,8 +29,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[03时12分 ~ 19时41分]"
+          "appearance_count": 18,
+          "time_info": "[03时12分 ~ 21时05分]"
+        },
+        {
+          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
+          "url": "https://wallstreetcn.com/articles/3766081",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[01时14分 ~ 21时05分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -43,22 +60,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时14分 ~ 06时34分]"
-        },
-        {
-          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
-          "url": "https://wallstreetcn.com/articles/3766081",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时14分 ~ 19时41分]"
         },
         {
           "title": "宇树机器人背后的23个算法",
@@ -122,6 +123,20 @@
           "time_info": "[10时08分 ~ 15时32分]"
         },
         {
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时57分 ~ 21时05分]"
+        },
+        {
           "title": "李在明社媒发AI视频",
           "url": "https://www.douyin.com/hot/2410021",
           "source": "抖音",
@@ -167,20 +182,6 @@
           "time_info": "[03时12分 ~ 06时34分]"
         },
         {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时57分 ~ 19时41分]"
-        },
-        {
           "title": "李佳薇JKAI声乐大师课",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
           "source": "bilibili 热搜",
@@ -224,6 +225,21 @@
           "time_info": "[07时32分 ~ 16时50分]"
         },
         {
+          "title": "专家称未来 10 年机器人数量会超过人类数量，人们一周只需工作 2 天，是这样吗？有哪些证据支撑？",
+          "url": "https://www.zhihu.com/question/2009924225859805232",
+          "source": "知乎",
+          "ranks": [
+            18,
+            19,
+            14,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时01分 ~ 21时05分]"
+        },
+        {
           "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
           "url": "https://www.zhihu.com/question/41253586",
           "source": "知乎",
@@ -235,20 +251,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时14分 ~ 06时34分]"
-        },
-        {
-          "title": "专家称未来 10 年机器人数量会超过人类数量，人们一周只需工作 2 天，是这样吗？有哪些证据支撑？",
-          "url": "https://www.zhihu.com/question/2009924225859805232",
-          "source": "知乎",
-          "ranks": [
-            18,
-            19,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时01分 ~ 19时41分]"
         },
         {
           "title": "部分审稿意见高度疑似由AI生成，期刊发声：审稿专家应珍惜学术信任",
@@ -414,11 +416,12 @@
           "ranks": [
             10,
             15,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时06分 ~ 19时41分]"
+          "appearance_count": 4,
+          "time_info": "[18时06分 ~ 21时05分]"
         },
         {
           "title": "让 AI 爆改兵马俑挤地铁、蒙娜丽莎敲代码，职场人的精神状态有多超前？",
@@ -580,6 +583,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "韩女子用AI精密策划诱杀致2死1伤",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
           "title": "AI恐慌暂歇，欧股涨至历史新高，日本长债收益率集体飙升，现货黄金日内涨超1%",
           "url": "https://wallstreetcn.com/articles/3766102",
           "source": "华尔街见闻",
@@ -600,6 +614,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "债市交易员押注美联储明年将继续降息 AI对就业的影响促使市场重估",
+          "url": "https://wallstreetcn.com/livenews/3058865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
         },
         {
           "title": "拉美电商巨头MercadoLibre（MELI.US）：代理AI工具将有助于跨境销售和个人财务。",
@@ -641,7 +666,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -799,6 +824,20 @@
           "time_info": "[01时14分 ~ 07时32分]"
         },
         {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时50分 ~ 21时05分]"
+        },
+        {
           "title": "俄罗斯经济发展部已取消针对俄罗斯游客前往委内瑞拉的旅行警告。",
           "url": "https://flash.jin10.com/detail/20260225004347849800",
           "source": "金十数据",
@@ -821,6 +860,19 @@
           "time_info": "16时50分"
         },
         {
+          "title": "华为 2025 年销售收入超过 8800 亿元，如何解读此业绩？2026 年能破万亿吗？",
+          "url": "https://www.zhihu.com/question/2009592449786474884",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时06分 ~ 21时05分]"
+        },
+        {
           "title": "下好经济发展“先手棋”，多地召开“新春第一会”",
           "url": "https://wallstreetcn.com/livenews/3058385",
           "source": "华尔街见闻-快讯",
@@ -830,20 +882,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
-        },
-        {
-          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
-          "url": "https://www.cls.cn/detail/2294552",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时50分 ~ 19时41分]"
         },
         {
           "title": "外媒调查：多数经济学家认为拉加德会在今年辞职",
@@ -867,18 +905,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时52分 ~ 19时41分]"
-        },
-        {
-          "title": "华为 2025 年销售收入超过 8800 亿元，如何解读此业绩？2026 年能破万亿吗？",
-          "url": "https://www.zhihu.com/question/2009592449786474884",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时06分 ~ 19时41分]"
         },
         {
           "title": "美联储巴尔金：不认为人工智能会导致经济出现剧烈变化。",
@@ -978,7 +1004,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
