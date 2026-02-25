@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T18:52:26.544814+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2026-02-25T19:41:16.902584+08:00",
+  "total_titles_processed": 1523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时32分 ~ 18时52分]"
+          "appearance_count": 11,
+          "time_info": "[07时32分 ~ 19时41分]"
         },
         {
           "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时12分 ~ 18时52分]"
+          "appearance_count": 17,
+          "time_info": "[03时12分 ~ 19时41分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -57,8 +57,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时14分 ~ 18时52分]"
+          "appearance_count": 18,
+          "time_info": "[01时14分 ~ 19时41分]"
         },
         {
           "title": "宇树机器人背后的23个算法",
@@ -167,6 +167,20 @@
           "time_info": "[03时12分 ~ 06时34分]"
         },
         {
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时57分 ~ 19时41分]"
+        },
+        {
           "title": "李佳薇JKAI声乐大师课",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
           "source": "bilibili 热搜",
@@ -180,20 +194,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时14分 ~ 07时32分]"
-        },
-        {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时57分 ~ 18时52分]"
         },
         {
           "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
@@ -243,11 +243,25 @@
           "ranks": [
             18,
             19,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时01分 ~ 18时52分]"
+          "appearance_count": 7,
+          "time_info": "[14时01分 ~ 19时41分]"
+        },
+        {
+          "title": "部分审稿意见高度疑似由AI生成，期刊发声：审稿专家应珍惜学术信任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32650169",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 19时41分]"
         },
         {
           "title": "反向逻辑：城堡证券驳斥Citrini的“AI危机”设想",
@@ -368,18 +382,6 @@
           "time_info": "[03时13分 ~ 04时37分]"
         },
         {
-          "title": "部分审稿意见高度疑似由AI生成，期刊发声：审稿专家应珍惜学术信任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32650169",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时06分 ~ 18时52分]"
-        },
-        {
           "title": "美国警告Anthropic：必须允许军方无限制使用其AI",
           "url": "https://wallstreetcn.com/livenews/3058364",
           "source": "华尔街见闻-快讯",
@@ -404,6 +406,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时32分 ~ 18时52分]"
+        },
+        {
+          "title": "AI短片 马上好",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 19时41分]"
         },
         {
           "title": "让 AI 爆改兵马俑挤地铁、蒙娜丽莎敲代码，职场人的精神状态有多超前？",
@@ -439,18 +454,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 04时37分]"
-        },
-        {
-          "title": "AI短片 马上好",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时06分 ~ 18时52分]"
         },
         {
           "title": "Mosaic预计2026年资本开支大约15亿美元。",
@@ -632,6 +635,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "自变量机器人完成数亿元新轮融资",
+          "url": "https://wallstreetcn.com/livenews/3058818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "AIGC动画电影团圆令定档预告",
           "url": "https://search.bilibili.com/all?keyword=AIGC%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E5%9B%A2%E5%9C%86%E4%BB%A4%E5%AE%9A%E6%A1%A3%E9%A2%84%E5%91%8A",
           "source": "bilibili 热搜",
@@ -745,7 +759,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
@@ -759,6 +773,21 @@
           "time_info": "[01时14分 ~ 06时34分]"
         },
         {
+          "title": "上海发布楼市「沪七条」，符合条件非沪籍居民可在外环内增购 1 套住房，对房地产市场有何影响？",
+          "url": "https://www.zhihu.com/question/2009980674069778899",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            3,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 19时41分]"
+        },
+        {
           "title": "乡镇公务员在「婚恋市场」遇冷，从经济角度看是公务员在相亲市场中含金量下降了么，乡镇编制有何压力？",
           "url": "https://www.zhihu.com/question/2006473884694778852",
           "source": "知乎",
@@ -768,20 +797,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时14分 ~ 07时32分]"
-        },
-        {
-          "title": "上海发布楼市「沪七条」，符合条件非沪籍居民可在外环内增购 1 套住房，对房地产市场有何影响？",
-          "url": "https://www.zhihu.com/question/2009980674069778899",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时32分 ~ 18时52分]"
         },
         {
           "title": "俄罗斯经济发展部已取消针对俄罗斯游客前往委内瑞拉的旅行警告。",
@@ -817,13 +832,27 @@
           "time_info": "07时32分"
         },
         {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 19时41分]"
+        },
+        {
           "title": "外媒调查：多数经济学家认为拉加德会在今年辞职",
           "url": "https://flash.jin10.com/detail/20260225182314211800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -832,24 +861,24 @@
           "url": "https://wallstreetcn.com/livenews/3058810",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 19时41分]"
         },
         {
-          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
-          "url": "https://www.cls.cn/detail/2294552",
-          "source": "财联社热门",
+          "title": "华为 2025 年销售收入超过 8800 亿元，如何解读此业绩？2026 年能破万亿吗？",
+          "url": "https://www.zhihu.com/question/2009592449786474884",
+          "source": "知乎",
           "ranks": [
             12,
-            8,
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时50分 ~ 18时52分]"
+          "time_info": "[18时06分 ~ 19时41分]"
         },
         {
           "title": "美联储巴尔金：不认为人工智能会导致经济出现剧烈变化。",
@@ -874,17 +903,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时34分]"
-        },
-        {
-          "title": "华为 2025 年销售收入超过 8800 亿元，如何解读此业绩？2026 年能破万亿吗？",
-          "url": "https://www.zhihu.com/question/2009592449786474884",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时06分 ~ 18时52分]"
         },
         {
           "title": "瑞士央行行长Schlegel：当前经济增长的很大一部分来自服务业。 瑞士企业称，招聘员工变得更加容易。 央行预计，瑞士经济将在2026年增长大约1%，通胀将在未来几个季度加速。 2026年可能会出现个别月份通胀为负值的情况。 央行政策将保持宽松状态。",
@@ -916,7 +934,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -927,7 +945,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -952,6 +970,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "伊拉克石油部：伊拉克1月份石油总收入为64.85亿美元。",
+          "url": "https://flash.jin10.com/detail/20260225192942488800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "泰国央行：经济增速低于潜在水平。",
