@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-02-26T18:45:50.479159+08:00",
-  "total_titles_processed": 1561,
+  "generated_at": "2026-02-26T19:40:38.151715+08:00",
+  "total_titles_processed": 1649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 61,
+      "match_count": 65,
       "titles": [
-        {
-          "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
-          "url": "https://www.zhihu.com/question/2009666916382421190",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时57分 ~ 13时58分]"
-        },
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
           "url": "https://wallstreetcn.com/articles/3766041",
@@ -30,6 +17,47 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时03分 ~ 07时29分]"
+        },
+        {
+          "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
+          "url": "https://www.zhihu.com/question/2009666916382421190",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[01时57分 ~ 19时40分]"
+        },
+        {
+          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
+          "url": "https://www.zhihu.com/question/2010042276697565176",
+          "source": "知乎",
+          "ranks": [
+            6,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时50分 ~ 19时40分]"
+        },
+        {
+          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3766208",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时50分 ~ 19时40分]"
         },
         {
           "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
@@ -55,20 +83,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时03分 ~ 07时29分]"
-        },
-        {
-          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3766208",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时50分 ~ 18时45分]"
         },
         {
           "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
@@ -114,18 +128,6 @@
           "time_info": "[00时03分 ~ 07时29分]"
         },
         {
-          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
-          "url": "https://www.zhihu.com/question/2010042276697565176",
-          "source": "知乎",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时50分 ~ 18时45分]"
-        },
-        {
           "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
           "url": "https://www.cls.cn/detail/2295238",
           "source": "财联社热门",
@@ -137,6 +139,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时28分 ~ 15时09分]"
+        },
+        {
+          "title": "新时代硬通货！GPU抵押融资愈发火热 AI圈迷上疯狂“炼金术”",
+          "url": "https://www.cls.cn/detail/2295732",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 19时40分]"
         },
         {
           "title": "AI短片 马上好",
@@ -151,17 +164,6 @@
           "time_info": "[01时57分 ~ 10时03分]"
         },
         {
-          "title": "新时代硬通货！GPU抵押融资愈发火热 AI圈迷上疯狂“炼金术”",
-          "url": "https://www.cls.cn/detail/2295732",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 18时45分]"
-        },
-        {
           "title": "美联储Barkin：利率政策无法解决人工智能（AI）造成的干扰。",
           "url": "https://wallstreetcn.com/livenews/3058971",
           "source": "华尔街见闻-快讯",
@@ -171,6 +173,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "AI圈爆火的FARS是什么",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84FARS%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            30,
+            26,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时50分 ~ 19时40分]"
+        },
+        {
+          "title": "中国AI调用量首超美国，四款大模型霸榜全球前五",
+          "url": "https://wallstreetcn.com/livenews/3059542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "Thrive Capital以2850亿美元估值投资OpenAI",
@@ -204,20 +232,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
-        },
-        {
-          "title": "AI圈爆火的FARS是什么",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84FARS%E6%98%AF%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            30,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 18时45分]"
         },
         {
           "title": "美国商务部将于3月10日举办美国机器人制造活动。（Semafor）",
@@ -298,11 +312,12 @@
           "ranks": [
             10,
             23,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时50分 ~ 18时45分]"
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 19时40分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -314,8 +329,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时50分 ~ 18时45分]"
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 19时40分]"
         },
         {
           "title": "如何看待字节、阿里、腾讯春节耗资数十亿推广 AI 应用？当补贴退潮，还有多少用户会主动打开这些应用？",
@@ -389,6 +404,30 @@
           "time_info": "[12时51分 ~ 13时58分]"
         },
         {
+          "title": "【每日收评】三大指数震荡分化涨跌不一，AI算力链卷土重来，周期股分化加剧",
+          "url": "https://www.cls.cn/detail/2295977",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时40分]"
+        },
+        {
+          "title": "日本把宇树机器人改成僧侣",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8A%8A%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%94%B9%E6%88%90%E5%83%A7%E4%BE%A3%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时40分]"
+        },
+        {
           "title": "大模型 AI Infra 方向面试会有哪些经常提问的问题？",
           "url": "https://www.zhihu.com/question/1916645420085514580",
           "source": "知乎",
@@ -451,7 +490,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -511,15 +550,15 @@
           "time_info": "17时51分"
         },
         {
-          "title": "【每日收评】三大指数震荡分化涨跌不一，AI算力链卷土重来，周期股分化加剧",
-          "url": "https://www.cls.cn/detail/2295977",
-          "source": "财联社热门",
+          "title": "李彦宏：2025年是AI成为百度新核心的关键一年",
+          "url": "https://wallstreetcn.com/livenews/3059527",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时51分"
+          "time_info": "19时40分"
         },
         {
           "title": "Lightspeed的联合创始人称 2026年将成为AI从演示走向大规模部署之年",
@@ -566,15 +605,15 @@
           "time_info": "06时35分"
         },
         {
-          "title": "日本把宇树机器人改成僧侣",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8A%8A%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%94%B9%E6%88%90%E5%83%A7%E4%BE%A3%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "拉加德称欧洲央行将“高度关注”AI对就业市场的影响",
+          "url": "https://wallstreetcn.com/livenews/3059521",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时45分"
+          "time_info": "19时40分"
         },
         {
           "title": "若AI取代人类工作社会会变成什么样",
@@ -594,7 +633,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -649,7 +688,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -663,6 +702,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "日本一大学把宇树机器人改成僧侣",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E5%A4%A7%E5%AD%A6%E6%8A%8A%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%94%B9%E6%88%90%E5%83%A7%E4%BE%A3",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "美国一人形机器人企业倒闭",
@@ -723,7 +773,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
         {
           "title": "超预期！英伟达Q4营收增73%，Q1指引“炸裂”创新高，黄仁勋上调5000亿收入预期 | 财报见闻",
@@ -734,8 +784,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时03分 ~ 18时45分]"
+          "appearance_count": 9,
+          "time_info": "[10时03分 ~ 19时40分]"
         },
         {
           "title": "华为 2025 年销售收入超过 8800 亿元，如何解读此业绩？2026 年能破万亿吗？",
@@ -752,17 +802,6 @@
           "time_info": "[00时03分 ~ 05时35分]"
         },
         {
-          "title": "大一女生硬座31小时返校心脏骤停，医生：为经济舱综合征",
-          "url": "https://news.ifeng.com/c/8r3H0FXQPf1",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时50分 ~ 18时45分]"
-        },
-        {
           "title": "中国经济如何“落子”",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%A6%82%E4%BD%95%E2%80%9C%E8%90%BD%E5%AD%90%E2%80%9D",
           "source": "百度热搜",
@@ -770,8 +809,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 18时45分]"
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 19时40分]"
         },
         {
           "title": "银发经济市场规模有望达30万亿元",
@@ -781,8 +820,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 18时45分]"
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 19时40分]"
+        },
+        {
+          "title": "大一女生硬座31小时返校心脏骤停，医生：为经济舱综合征",
+          "url": "https://news.ifeng.com/c/8r3H0FXQPf1",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时50分 ~ 18时45分]"
         },
         {
           "title": "英伟达CEO黄仁勋谈及“太空数据中心”，称：当前的太空数据中心经济还是“贫瘠的”，但形势将随着时间的推移而变化。",
@@ -910,6 +960,18 @@
           "time_info": "[06时35分 ~ 07时29分]"
         },
         {
+          "title": "大一女生返校坐硬座 31 小时心脏骤停，医生称为经济舱综合征，什么是经济舱综合征？长途乘车要注意什么？",
+          "url": "https://www.zhihu.com/question/2010266870800933884",
+          "source": "知乎",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时40分]"
+        },
+        {
           "title": "香港交易所2025年全年净利润177.5亿港元，同比+36%，预估174.4亿港元。 全年收入及其他收益291.6亿港元，同比+30%，预估288.1亿港元。 第二次每股中期股息6.52港元。",
           "url": "https://wallstreetcn.com/livenews/3059264",
           "source": "华尔街见闻-快讯",
@@ -932,6 +994,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时36分]"
+        },
+        {
+          "title": "不靠门票收入 景区怎么活",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E9%9D%A0%E9%97%A8%E7%A5%A8%E6%94%B6%E5%85%A5+%E6%99%AF%E5%8C%BA%E6%80%8E%E4%B9%88%E6%B4%BB",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时40分]"
         },
         {
           "title": "克里姆林宫：（就普京与总理就经济问题举行的会晤表示）此类会晤定期举行。油气收入下降已部分被非能源收入增长所抵消。",
@@ -989,6 +1063,28 @@
           "time_info": "10时03分"
         },
         {
+          "title": "百济神州：2025年第四季度全球总收入达15亿美元，同比增长33%",
+          "url": "https://wallstreetcn.com/livenews/3059532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "市场消息：世界经济论坛主席博尔格·布伦德卸任。",
+          "url": "https://flash.jin10.com/detail/20260226192844193800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "日本央行审议委员高田创：未来加息步伐将取决于当时的经济、物价和市场发展情况。",
           "url": "https://flash.jin10.com/detail/20260226131016998800",
           "source": "金十数据",
@@ -1017,18 +1113,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "大一女生返校坐硬座 31 小时心脏骤停，医生称为经济舱综合征，什么是经济舱综合征？长途乘车要注意什么？",
-          "url": "https://www.zhihu.com/question/2010266870800933884",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -1050,7 +1135,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -1072,7 +1157,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -1108,6 +1193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "印度总理莫迪：印以将密切合作，实现“印度-中东-欧洲经济走廊（IMEC）”。",
+          "url": "https://flash.jin10.com/detail/20260226191631316800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "A股低空经济概念异动拉升，万丰奥威、中信海直、宗申动力、莱斯信息、深城交、上工申贝等纷纷冲高。",
@@ -1163,17 +1259,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
-        },
-        {
-          "title": "不靠门票收入 景区怎么活",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E9%9D%A0%E9%97%A8%E7%A5%A8%E6%94%B6%E5%85%A5+%E6%99%AF%E5%8C%BA%E6%80%8E%E4%B9%88%E6%B4%BB",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
         },
         {
           "title": "IMF：预计2026年美国经济增长率为2.4%，与1月份的《世界经济展望》（WEO）预测一致。关税向美国消费者价格的传导程度可能低于预期，从而导致通胀下降进程更加前移，经济活动更趋强劲；但贸易不确定性可能会对经济活动造成拖累。",
@@ -1292,7 +1377,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -1322,8 +1407,30 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "河南一水库因发电污染严重系谣言",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E6%B0%B4%E5%BA%93%E5%9B%A0%E5%8F%91%E7%94%B5%E6%B1%A1%E6%9F%93%E4%B8%A5%E9%87%8D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "俄罗斯国家原子能公司（Rosatom）：将继续履行在外国核能发电项目中的相关义务。",
+          "url": "https://flash.jin10.com/detail/20260226192554791800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
         {
           "title": "焦煤主力合约日内下跌3.04%，现报1083.00元/吨。焦炭主力合约日内跌超2.00%，现报1626.00元/吨。",
           "url": "https://flash.jin10.com/detail/20260226142018971800",
