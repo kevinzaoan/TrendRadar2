@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T22:49:00.506978+08:00",
-  "total_titles_processed": 1904,
+  "generated_at": "2026-02-26T23:54:34.279063+08:00",
+  "total_titles_processed": 1993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 77,
+      "match_count": 83,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时50分 ~ 22时49分]"
+          "appearance_count": 12,
+          "time_info": "[12时50分 ~ 23时54分]"
         },
         {
           "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
@@ -54,11 +54,12 @@
             6,
             2,
             1,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时50分 ~ 22时49分]"
+          "appearance_count": 12,
+          "time_info": "[12时50分 ~ 23时54分]"
         },
         {
           "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
@@ -137,8 +138,49 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时06分 ~ 23时54分]"
+        },
+        {
+          "title": "十年后给机器人的恭喜发财",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%81%E5%B9%B4%E5%90%8E%E7%BB%99%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E6%81%AD%E5%96%9C%E5%8F%91%E8%B4%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            23,
+            17,
+            19,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时50分 ~ 23时54分]"
+        },
+        {
+          "title": "椭圆变速版see you again",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时50分 ~ 23时54分]"
+        },
+        {
+          "title": "机器人加快走进百姓生活",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8A%A0%E5%BF%AB%E8%B5%B0%E8%BF%9B%E7%99%BE%E5%A7%93%E7%94%9F%E6%B4%BB",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时06分 ~ 22时49分]"
+          "time_info": "[22时48分 ~ 23时54分]"
         },
         {
           "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
@@ -164,45 +206,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时57分 ~ 10时03分]"
-        },
-        {
-          "title": "十年后给机器人的恭喜发财",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%81%E5%B9%B4%E5%90%8E%E7%BB%99%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E6%81%AD%E5%96%9C%E5%8F%91%E8%B4%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            23,
-            17,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时50分 ~ 22时49分]"
-        },
-        {
-          "title": "椭圆变速版see you again",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时50分 ~ 22时49分]"
-        },
-        {
-          "title": "机器人加快走进百姓生活",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8A%A0%E5%BF%AB%E8%B5%B0%E8%BF%9B%E7%99%BE%E5%A7%93%E7%94%9F%E6%B4%BB",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时48分 ~ 22时49分]"
         },
         {
           "title": "新时代硬通货！GPU抵押融资愈发火热 AI圈迷上疯狂“炼金术”",
@@ -249,7 +252,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -276,6 +279,17 @@
           "time_info": "13时58分"
         },
         {
+          "title": "强劲财报难解AI担忧，英伟达跌超4%，纳指跌幅扩大至1%，芯片股承压，金涨银跌，WTI原油一度跌逾2%",
+          "url": "https://wallstreetcn.com/articles/3766225",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "上海电气成立机器人公司 含智能机器人研发业务",
           "url": "https://wallstreetcn.com/livenews/3059353",
           "source": "华尔街见闻-快讯",
@@ -296,6 +310,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
+        },
+        {
+          "title": "日本一大学把宇树机器人改成僧侣",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E5%A4%A7%E5%AD%A6%E6%8A%8A%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%94%B9%E6%88%90%E5%83%A7%E4%BE%A3",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            16,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时40分 ~ 23时54分]"
         },
         {
           "title": "【每日收评】三大指数震荡分化涨跌不一，AI算力链卷土重来，周期股分化加剧",
@@ -395,17 +423,17 @@
           "time_info": "[03时12分 ~ 04时36分]"
         },
         {
-          "title": "日本一大学把宇树机器人改成僧侣",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E5%A4%A7%E5%AD%A6%E6%8A%8A%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%94%B9%E6%88%90%E5%83%A7%E4%BE%A3",
-          "source": "百度热搜",
+          "title": "德总理看机器人拳击目不转睛连连点头",
+          "url": "https://www.toutiao.com/trending/7610648386551382057/",
+          "source": "今日头条",
           "ranks": [
-            26,
-            16,
-            9
+            14,
+            8,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时40分 ~ 22时49分]"
+          "time_info": "[21时06分 ~ 23时54分]"
         },
         {
           "title": "中国AI调用量首次超过美国",
@@ -414,18 +442,6 @@
           "ranks": [
             7,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时06分 ~ 22时49分]"
-        },
-        {
-          "title": "德总理看机器人拳击目不转睛连连点头",
-          "url": "https://www.toutiao.com/trending/7610648386551382057/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            8
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -452,6 +468,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[22时48分 ~ 22时49分]"
+        },
+        {
+          "title": "OpenAI：ChatGPT目前发生故障。",
+          "url": "https://wallstreetcn.com/livenews/3059629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时54分]"
         },
         {
           "title": "消息人士称，乔什·库什纳旗下的Thrive Capital近期以2850亿美元估值投资了OpenAI。 Thrive将其新基金中的约10亿美元投资于OpenAI。 Thrive的投资已于12月份完成。（华尔街日报）",
@@ -514,6 +542,18 @@
           "time_info": "[12时51分 ~ 13时58分]"
         },
         {
+          "title": "博通向富士通交付新型AI芯片，计划扩大推广范围",
+          "url": "https://wallstreetcn.com/livenews/3059624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时54分]"
+        },
+        {
           "title": "日本把宇树机器人改成僧侣",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8A%8A%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%94%B9%E6%88%90%E5%83%A7%E4%BE%A3%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -544,18 +584,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "OpenAI：ChatGPT目前发生故障。",
-          "url": "https://wallstreetcn.com/livenews/3059629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -615,6 +644,17 @@
           "time_info": "18时45分"
         },
         {
+          "title": "Ithina组建全球人工智能（AI）操作平台。",
+          "url": "https://wallstreetcn.com/livenews/3059658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "机器人为什么非得研究人形的？",
           "url": "https://www.zhihu.com/question/2010149650045362906",
           "source": "知乎",
@@ -637,15 +677,15 @@
           "time_info": "01时58分"
         },
         {
-          "title": "博通向富士通交付新型AI芯片，计划扩大推广范围",
-          "url": "https://wallstreetcn.com/livenews/3059624",
-          "source": "华尔街见闻-快讯",
+          "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3766259",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时49分"
+          "time_info": "23时54分"
         },
         {
           "title": "盛宝银行：AI交易进入去泡沫阶段 投资需转向供应链韧性环节",
@@ -657,6 +697,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "英伟达跌超3.5%。 人工智能（AI）基建概念股西部数据一度下跌5.1%，Lumentum控股跌5.6%，希捷科技一度跌约4.5%， 美光科技跌约3%；加拿大多伦多上市的Celestica Inc.跌5%。 标普500指数跌幅扩大至0.4%，纳指跌超0.8%，半导体指数跌2.88%。",
+          "url": "https://wallstreetcn.com/livenews/3059656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "Anthropic：收购Vercept，以推进Claude的计算机使用能力。Vercept将于未来几周内停止其对外提供的产品，并加入Anthropic，共同推动计算机应用的前沿发展。",
@@ -709,7 +760,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -745,6 +796,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
+        },
+        {
+          "title": "据CNBC：挪威银行投资管理公司（NBIM）正使用Claude人工智能模型来筛查道德问题。",
+          "url": "https://flash.jin10.com/detail/20260226231202623800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "英伟达仍然在与OpenAI谈判投资事宜，目前尚未敲定协议。 “接近达成协议”。",
@@ -868,6 +930,17 @@
           "time_info": "00时03分"
         },
         {
+          "title": "英伟达业绩未能消除AI担忧，美股开盘走低",
+          "url": "https://flash.jin10.com/detail/20260226225900057800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "马年春节聊金子和AI的多了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B9%B4%E6%98%A5%E8%8A%82%E8%81%8A%E9%87%91%E5%AD%90%E5%92%8CAI%E7%9A%84%E5%A4%9A%E4%BA%86%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -915,7 +988,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "超预期！英伟达Q4营收增73%，Q1指引“炸裂”创新高，黄仁勋上调5000亿收入预期 | 财报见闻",
@@ -926,8 +999,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时03分 ~ 22时49分]"
+          "appearance_count": 13,
+          "time_info": "[10时03分 ~ 23时54分]"
         },
         {
           "title": "华为 2025 年销售收入超过 8800 亿元，如何解读此业绩？2026 年能破万亿吗？",
@@ -1184,6 +1257,17 @@
           "time_info": "17时51分"
         },
         {
+          "title": "黑石集团CEO：对“实体经济”的投资可缓冲人工智能风险。",
+          "url": "https://flash.jin10.com/detail/20260226232042710800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "韩国央行预计经济将持续增长。",
           "url": "https://wallstreetcn.com/livenews/3059185",
           "source": "华尔街见闻-快讯",
@@ -1278,7 +1362,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -1289,7 +1373,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -1605,7 +1689,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "河南一水库因发电污染严重系谣言",
@@ -1615,8 +1699,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时40分 ~ 22时49分]"
+          "appearance_count": 5,
+          "time_info": "[19时40分 ~ 23时54分]"
         },
         {
           "title": "河南一水库因发电致污染严重？谣言",
@@ -1626,8 +1710,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时06分 ~ 22时49分]"
+          "appearance_count": 4,
+          "time_info": "[21时06分 ~ 23时54分]"
         },
         {
           "title": "二郎山水库因发电污染系谣言",
@@ -1637,8 +1721,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时06分 ~ 22时49分]"
+          "appearance_count": 4,
+          "time_info": "[21时06分 ~ 23时54分]"
         },
         {
           "title": "俄罗斯国家原子能公司（Rosatom）：将继续履行在外国核能发电项目中的相关义务。",
@@ -1650,6 +1734,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "NextEra计划发售20亿美元权益单位，来资助发电厂建设项目",
+          "url": "https://wallstreetcn.com/livenews/3059649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "特朗普将召集科技巨头签自行发电承诺",
@@ -1672,6 +1767,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
+        },
+        {
+          "title": "截至23:00收盘，国内期货主力合约跌多涨少。聚氯乙烯（PVC）、燃油跌超2%，塑料、PTA、甲醇跌近2%，合成橡胶、瓶片、乙二醇（EG）、烧碱、焦煤、苯乙烯（EB）、焦炭跌超1%；涨幅方面，白糖、豆一涨近1%。",
+          "url": "https://flash.jin10.com/detail/20260226230037101800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         }
       ]
     }
