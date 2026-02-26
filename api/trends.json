@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T12:51:03.276356+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-02-26T13:58:57.599986+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时57分 ~ 12时51分]"
+          "appearance_count": 14,
+          "time_info": "[01时57分 ~ 13时58分]"
         },
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -84,6 +84,31 @@
           "time_info": "[01时57分 ~ 10时03分]"
         },
         {
+          "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
+          "url": "https://www.cls.cn/detail/2295238",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时28分 ~ 13时58分]"
+        },
+        {
+          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
+          "url": "https://www.cls.cn/detail/2295374",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 13时58分]"
+        },
+        {
           "title": "美联储Barkin：利率政策无法解决人工智能（AI）造成的干扰。",
           "url": "https://wallstreetcn.com/livenews/3058971",
           "source": "华尔街见闻-快讯",
@@ -93,6 +118,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
+          "url": "https://www.zhihu.com/question/2010042276697565176",
+          "source": "知乎",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 13时58分]"
+        },
+        {
+          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3766208",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 13时58分]"
         },
         {
           "title": "Thrive Capital以2850亿美元估值投资OpenAI",
@@ -106,29 +155,15 @@
           "time_info": "01时58分"
         },
         {
-          "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
-          "url": "https://www.cls.cn/detail/2295238",
-          "source": "财联社热门",
+          "title": "恒生科技午后跌幅扩大至2%，恒生指数现跌0.75%。地平线机器人、华虹半导体领跌，快手、阿里巴巴、京东、美团均跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3059300",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            6,
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时28分 ~ 12时51分]"
-        },
-        {
-          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
-          "url": "https://www.cls.cn/detail/2295374",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时03分 ~ 12时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "美国商务部将于3月10日举办美国机器人制造活动。（Semafor）",
@@ -203,17 +238,6 @@
           "time_info": "[03时12分 ~ 04时36分]"
         },
         {
-          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3766208",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
-        },
-        {
           "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
           "url": "https://www.cls.cn/detail/2295445",
           "source": "财联社热门",
@@ -221,19 +245,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 13时58分]"
         },
         {
-          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
-          "url": "https://www.zhihu.com/question/2010042276697565176",
-          "source": "知乎",
+          "title": "AI圈爆火的FARS是什么",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84FARS%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 13时58分]"
         },
         {
           "title": "消息人士称，乔什·库什纳旗下的Thrive Capital近期以2850亿美元估值投资了OpenAI。 Thrive将其新基金中的约10亿美元投资于OpenAI。 Thrive的投资已于12月份完成。（华尔街日报）",
@@ -272,15 +297,16 @@
           "time_info": "[06时35分 ~ 07时29分]"
         },
         {
-          "title": "AI圈爆火的FARS是什么",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84FARS%E6%98%AF%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
+          "title": "黄仁勋：市场“错读”了AI对软件公司的威胁",
+          "url": "https://wallstreetcn.com/livenews/3059270",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            9,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
+          "time_info": "[12时51分 ~ 13时58分]"
         },
         {
           "title": "大模型 AI Infra 方向面试会有哪些经常提问的问题？",
@@ -304,6 +330,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时50分 ~ 12时51分]"
+        },
+        {
+          "title": "日本科研机构用宇树机器人诵经",
+          "url": "https://www.toutiao.com/trending/7610684492474449974/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，当前的太空数据中心经济还是“贫瘠的”",
@@ -339,24 +376,13 @@
           "time_info": "01时58分"
         },
         {
-          "title": "黄仁勋：市场“错读”了AI对软件公司的威胁",
-          "url": "https://wallstreetcn.com/livenews/3059270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        },
-        {
           "title": "盛宝银行：AI交易进入去泡沫阶段 投资需转向供应链韧性环节",
           "url": "https://flash.jin10.com/detail/20260226115757387800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -455,7 +481,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         },
@@ -507,7 +533,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
         {
           "title": "华为 2025 年销售收入超过 8800 亿元，如何解读此业绩？2026 年能破万亿吗？",
@@ -531,8 +557,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时03分 ~ 12时51分]"
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 13时58分]"
         },
         {
           "title": "英伟达CEO黄仁勋谈及“太空数据中心”，称：当前的太空数据中心经济还是“贫瘠的”，但形势将随着时间的推移而变化。",
@@ -546,6 +572,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "日本央行审议委员高田创：欢迎政府通过增长战略和刺激政策来提振经济增长，日本央行可通过政策予以支持。",
+          "url": "https://flash.jin10.com/detail/20260226132435615800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "韩国央行：经济增长靠消费与强劲出口支撑。 首尔房价涨幅放缓，但仍需进一步监控。 面临来自美国关税政策及地缘政治的风险。 CPI将小幅上升，但仍接近目标水平。 来自汇率波动与家庭债务的风险将持续存在。",
           "url": "https://wallstreetcn.com/livenews/3059189",
           "source": "华尔街见闻-快讯",
@@ -555,6 +592,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "日本央行审议委员高田创：日本央行理解实现稳定、持续经济增长的重要性。",
+          "url": "https://flash.jin10.com/detail/20260226132327116800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "日本央行审议委员高田创：（在被问及是否将继续在每次货币政策会议上提议加息时）希望根据届时的经济发展情况作出决定。",
+          "url": "https://flash.jin10.com/detail/20260226132321824800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "白宫经济顾问哈塞特：白宫将实施现有的401（K）计划相关的法律。",
@@ -581,6 +640,29 @@
           "time_info": "[06时35分 ~ 07时29分]"
         },
         {
+          "title": "大一女生硬座31小时返校心脏骤停，医生：为经济舱综合征",
+          "url": "https://news.ifeng.com/c/8r3H0FXQPf1",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 13时58分]"
+        },
+        {
+          "title": "香港交易所2025年全年净利润177.5亿港元，同比+36%，预估174.4亿港元。 全年收入及其他收益291.6亿港元，同比+30%，预估288.1亿港元。 第二次每股中期股息6.52港元。",
+          "url": "https://wallstreetcn.com/livenews/3059264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 13时58分]"
+        },
+        {
           "title": "美联储穆萨莱姆：将通胀降至目标水平将有助于提振消费和经济增长，并可能降低10年期国债收益率。",
           "url": "https://flash.jin10.com/detail/20260226024042158800",
           "source": "金十数据",
@@ -591,17 +673,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时36分]"
-        },
-        {
-          "title": "大一女生硬座31小时返校心脏骤停，医生：为经济舱综合征",
-          "url": "https://news.ifeng.com/c/8r3H0FXQPf1",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
         },
         {
           "title": "韩国央行预计经济将持续增长。",
@@ -637,15 +708,26 @@
           "time_info": "10时03分"
         },
         {
-          "title": "香港交易所2025年全年净利润177.5亿港元，同比+36%，预估174.4亿港元。 全年收入及其他收益291.6亿港元，同比+30%，预估288.1亿港元。 第二次每股中期股息6.52港元。",
-          "url": "https://wallstreetcn.com/livenews/3059264",
-          "source": "华尔街见闻-快讯",
+          "title": "日本央行审议委员高田创：未来加息步伐将取决于当时的经济、物价和市场发展情况。",
+          "url": "https://flash.jin10.com/detail/20260226131016998800",
+          "source": "金十数据",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时51分"
+          "time_info": "13时58分"
+        },
+        {
+          "title": "日本央行审议委员高田创：通胀目标已基本实现。 很难提前知道加息的速度或终点利率水平。 将密切关注海外经济，以研判日本央行政策。 日本央行当前并未落后于通胀曲线。 汇率对通胀的影响比以往更大，汇率是影响经济的关键因素。",
+          "url": "https://wallstreetcn.com/livenews/3059287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "日本央行行长植田和男：预计美国总统特朗普的新关税措施不会对日本经济产生重大影响，但将密切关注事态发展。",
@@ -712,6 +794,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "新加坡金管局调查：近半数经济学家预计4月将收紧货币政策",
+          "url": "https://flash.jin10.com/detail/20260226123435606800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "白宫经济顾问哈塞特谈及自己对15%关税的时间框架，宣称：仍然在推进。",
@@ -786,7 +879,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         }
