@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T17:44:54.533505+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2026-02-27T18:38:31.397103+08:00",
+  "total_titles_processed": 1584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 60,
+      "match_count": 63,
       "titles": [
         {
           "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时02分 ~ 17时44分]"
+          "appearance_count": 11,
+          "time_info": "[10时02分 ~ 18时38分]"
         },
         {
           "title": "机器人加快走进百姓生活",
@@ -67,6 +67,21 @@
           "time_info": "[00时59分 ~ 06时34分]"
         },
         {
+          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
+          "url": "https://wallstreetcn.com/articles/3766293",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时45分 ~ 18时38分]"
+        },
+        {
           "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
           "url": "https://wallstreetcn.com/articles/3766280",
           "source": "华尔街见闻",
@@ -76,8 +91,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时02分 ~ 17时44分]"
+          "appearance_count": 11,
+          "time_info": "[10时02分 ~ 18时38分]"
         },
         {
           "title": "十年后给机器人的恭喜发财",
@@ -123,11 +138,12 @@
             21,
             15,
             20,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时59分 ~ 17时44分]"
+          "appearance_count": 19,
+          "time_info": "[00时59分 ~ 18时38分]"
         },
         {
           "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
@@ -143,22 +159,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时30分 ~ 17时44分]"
+          "appearance_count": 13,
+          "time_info": "[07时30分 ~ 18时38分]"
         },
         {
-          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
-          "url": "https://wallstreetcn.com/articles/3766293",
+          "title": "AI的未来，马克思已经预言了？",
+          "url": "https://wallstreetcn.com/articles/3766318",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            10,
-            8,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时45分 ~ 17时44分]"
+          "appearance_count": 5,
+          "time_info": "[15时47分 ~ 18时38分]"
         },
         {
           "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
@@ -171,17 +184,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时02分 ~ 16时41分]"
-        },
-        {
-          "title": "AI的未来，马克思已经预言了？",
-          "url": "https://wallstreetcn.com/articles/3766318",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时47分 ~ 17时44分]"
         },
         {
           "title": "日本一大学把宇树机器人改成僧侣",
@@ -215,6 +217,20 @@
           "time_info": "[12时45分 ~ 15时47分]"
         },
         {
+          "title": "硅谷“最贵华人”被OpenAI挖走",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            26,
+            23,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时52分 ~ 18时38分]"
+        },
+        {
           "title": "魅族回应退市传闻，宣布暂停国内手机新产品自研硬件项目，全面转型 AI 及软件生态，为什么会走到这一步？",
           "url": "https://www.zhihu.com/question/2010325819092903282",
           "source": "知乎",
@@ -239,18 +255,15 @@
           "time_info": "06时34分"
         },
         {
-          "title": "硅谷“最贵华人”被OpenAI挖走",
-          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
-          "source": "百度热搜",
+          "title": "【澜起科技：2025年净利润同比增长58.35%】澜起科技公告，公司2025年实现营业收入54.56亿元，较上年度增长49.94%，毛利率为62.23%，较上年度提升4.10个百分点；实现归属于母公司所有者的净利润22.36亿元，较上年度增长58.35%；实现归属于母公司所有者的扣除非经常性损益的净利润20.22亿元，较上年度增长61.95%。受益于AI产业趋势，行业需求旺盛，公司互连类芯片出货量显著增加，推动公司2025年度经营业绩较上年同期实现大幅增长。公司持续加大研发投入，随着公司布局的新产品品类增加，2025年度公司研发费用约为9.15亿元，较上年度增长20%。",
+          "url": "https://wallstreetcn.com/livenews/3060228",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            26,
-            23,
-            13
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时52分 ~ 17时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "知情人士称，Meta已与谷歌签署协议，将租赁其AI芯片以开发新的AI模型。（The Information）",
@@ -274,6 +287,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时52分 ~ 14时55分]"
+        },
+        {
+          "title": "菜菜子re评机器人小品",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8F%9C%E8%8F%9C%E5%AD%90re%E8%AF%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%8F%E5%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            18,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时47分 ~ 18时38分]"
         },
         {
           "title": "AI圈爆火的FARS是什么",
@@ -314,6 +341,19 @@
           "time_info": "[16时41分 ~ 17时44分]"
         },
         {
+          "title": "融资额大增130% AI制药能否照进现实",
+          "url": "https://www.cls.cn/detail/2296887",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 18时38分]"
+        },
+        {
           "title": "戴尔科技财年四季度总体净营收333.8亿美元，分析师预期317.4亿美元。 四季度基础设施解决方案集团经营户艘196.0亿美元。 四季度AI服务器发货95亿美元，分析师预期94.4亿美元。 四季度AI订单积压430亿美元，AI订单341亿美元。 四季度经过AI优化之后的服务器营收90亿美元。 将年度股票分红提高20%，将股票回购规模扩大100亿美元。 预计2027财年营收1380亿-1420亿美元，分析师预期1262.8亿美元。 预计2027财年经AI优化的服务器营收将达到约500亿美元。 预计一季度营收347亿-357亿美元，分析师预期293亿美元",
           "url": "https://wallstreetcn.com/livenews/3059768",
           "source": "华尔街见闻-快讯",
@@ -326,19 +366,6 @@
           "time_info": "[05时33分 ~ 06时34分]"
         },
         {
-          "title": "菜菜子re评机器人小品",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8F%9C%E8%8F%9C%E5%AD%90re%E8%AF%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%8F%E5%93%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时47分 ~ 17时44分]"
-        },
-        {
           "title": "未来战争如果机器人完全取代了人类士兵，是否会出现到人类的意志对战争形势无法起到任何影响的情况?",
           "url": "https://www.zhihu.com/question/536760105",
           "source": "知乎",
@@ -349,18 +376,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时55分 ~ 16时41分]"
-        },
-        {
-          "title": "融资额大增130% AI制药能否照进现实",
-          "url": "https://www.cls.cn/detail/2296887",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 17时44分]"
         },
         {
           "title": "德企高管踮着脚看中国机器人",
@@ -469,6 +484,18 @@
           "time_info": "[03时02分 ~ 04时38分]"
         },
         {
+          "title": "德国总理默茨到访宇树观看春晚同款节目，王兴兴：全球共同推动智能机器人产业发展的契机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660476",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 18时38分]"
+        },
+        {
           "title": "德国总理为宇树机器人竖大拇指",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E4%B8%BA%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%96%E5%A4%A7%E6%8B%87%E6%8C%87%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -520,7 +547,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -542,7 +569,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -635,17 +662,6 @@
           "time_info": "12时46分"
         },
         {
-          "title": "德国总理默茨到访宇树观看春晚同款节目，王兴兴：全球共同推动智能机器人产业发展的契机",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660476",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
           "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
           "url": "https://wallstreetcn.com/livenews/3059885",
           "source": "华尔街见闻-快讯",
@@ -729,15 +745,37 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
+        },
+        {
+          "title": "与蔡明同台的因时机器人获数亿融资",
+          "url": "https://www.toutiao.com/trending/7611414407863602698/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "机器人在“同事”面前大秀拳脚",
+          "url": "https://www.toutiao.com/trending/7610584384302792740/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "超预期！英伟达Q4营收增73%，Q1指引“炸裂”创新高，黄仁勋上调5000亿收入预期 | 财报见闻",
@@ -760,8 +798,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时02分 ~ 17时44分]"
+          "appearance_count": 11,
+          "time_info": "[10时02分 ~ 18时38分]"
         },
         {
           "title": "开春即冲刺，多地奋力拼经济",
@@ -896,6 +934,17 @@
           "time_info": "16时41分"
         },
         {
+          "title": "烽火通信：低轨星载路由及星间激光通信业务的营业收入占公司营业收入比例不到1%",
+          "url": "https://wallstreetcn.com/livenews/3060198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "【中微公司：2025年预计实现净利润21.11亿元，同比增长约30.69%】中微公司公告，公司2025年营业收入约123.85亿元，较2024年增加约33.19亿元，同比增长约36.62%。公司预计2025年度实现归属于母公司所有者的净利润约为21.11亿元， 与上年同期（法定披露数据）相比，增加约4.96亿元，同比增加约30.69%。",
           "url": "https://wallstreetcn.com/livenews/3060107",
           "source": "华尔街见闻-快讯",
@@ -918,6 +967,17 @@
           "time_info": "03时02分"
         },
         {
+          "title": "新世界发展中期收入83.9亿港元 合约销售138亿港元",
+          "url": "https://wallstreetcn.com/livenews/3060190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "俄罗斯内部财务压力渐显 制裁与收入下滑冲击俄企",
           "url": "https://flash.jin10.com/detail/20260227135205296800",
           "source": "金十数据",
@@ -927,6 +987,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "华胜天成：公司与华为的合作所确认收入占公司全球业务收入比例较小",
+          "url": "https://wallstreetcn.com/livenews/3060183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "CoreWeave：预计每个季度的利润都将扩大，四季度利润两位数（百分比）增长。 预计一季度销售19亿-20亿美元。 预计一季度调整后运营利润0美元-4000万美元。 预计2026年年底ARR（年度经常性收入）为170亿-190亿美元，预计2027年将达到300亿美元。",
