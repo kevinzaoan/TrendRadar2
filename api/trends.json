@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T18:26:16.180590+08:00",
-  "total_titles_processed": 1435,
+  "generated_at": "2026-03-01T19:21:13.807171+08:00",
+  "total_titles_processed": 1502,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时14分 ~ 18时26分]"
+          "appearance_count": 12,
+          "time_info": "[10时14分 ~ 19时21分]"
         },
         {
           "title": "AI冲击之下，新一轮“次贷危机”来了？",
@@ -43,8 +43,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时27分 ~ 18时26分]"
+          "appearance_count": 23,
+          "time_info": "[00时27分 ~ 19时21分]"
         },
         {
           "title": "“HALO”崛起、AI失宠 “看得见摸得着”的才是硬通货？",
@@ -99,11 +99,12 @@
             9,
             8,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时27分 ~ 18时26分]"
+          "appearance_count": 23,
+          "time_info": "[00时27分 ~ 19时21分]"
         },
         {
           "title": "春晚同款机器人开箱",
