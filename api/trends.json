@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T01:22:49.901431+08:00",
-  "total_titles_processed": 355,
+  "generated_at": "2026-03-02T02:34:16.476715+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 02时34分]"
         },
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -27,8 +27,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 02时34分]"
         },
         {
           "title": "AI短剧",
@@ -36,11 +36,12 @@
           "source": "微博",
           "ranks": [
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 02时34分]"
         },
         {
           "title": "春晚同款机器人开箱",
@@ -48,11 +49,29 @@
           "source": "抖音",
           "ranks": [
             26,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 02时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亚马逊云服务(AWS)：太平洋标准时间凌晨4时30分左右，我们的一个可用区（MEC1-AZ2）遭到物体击中数据中心，引发火花并导致火灾。消防部门在扑救火灾期间，切断了该设施及发电机的电源。",
+          "url": "https://flash.jin10.com/detail/20260302014634382800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
         }
       ]
     },
@@ -65,11 +84,12 @@
           "url": "https://www.cls.cn/detail/2298867",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 02时34分]"
         }
       ]
     }
