@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T10:06:02.555668+08:00",
-  "total_titles_processed": 778,
+  "generated_at": "2026-03-02T12:48:40.749696+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "【早报】美以袭击伊朗，伊朗反击；我国首个国家级人形机器人与具身智能标准体系发布",
@@ -77,22 +77,24 @@
           "url": "https://www.toutiao.com/trending/7611736009055191050/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 12时48分]"
         },
         {
           "title": "中国造全球首款机器人手机亮相",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 12时48分]"
         },
         {
           "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
@@ -109,6 +111,39 @@
           "time_info": "[04时28分 ~ 07时24分]"
         },
         {
+          "title": "思特威发出涨价函：3月1日起对智慧安防和AIOT产品涨价10%至20%",
+          "url": "https://wallstreetcn.com/livenews/3061497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "特斯拉官方微博称，人形机器人持续迭代，Cybercab量产工作加速推进。",
+          "url": "https://wallstreetcn.com/livenews/3061494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：特斯拉人形机器人持续迭代， Cybercab量产工作加速推进。",
+          "url": "https://flash.jin10.com/detail/20260302115546257800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
           "title": "荣耀机器人手机亮相",
           "url": "https://www.baidu.com/s?wd=%E8%8D%A3%E8%80%80%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8",
           "source": "百度热搜",
@@ -118,12 +153,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "AI技术会如何改变现代战争形态",
+          "url": "https://www.toutiao.com/trending/7612471183472070163/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗受袭牵动“全球神经”，原油供应和经济衰退“双危机”一触即发！",
@@ -134,11 +180,23 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 10时06分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 12时48分]"
+        },
+        {
+          "title": "我国海岸线低空经济带加速成型",
+          "url": "https://www.douyin.com/hot/2416047",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         },
         {
           "title": "日本央行副行长冰见野良三：目前为止加息的影响有限。 日本央行的目标是避免通胀过高与通缩，以此维持物价稳定，进而使经济保持可持续增长轨道。 若我们的预估准确，可以推断日本经济既未过热，也未停滞。 我们需要密切关注市场动向，但过度受市场动向左右，可能会让我们遭到投机者的攻击。 目前日本很多民众仍不认为经济特别强劲。 应对由供给冲击引发的通胀，可能会扰乱GDP。 在应对暂时性供给冲击时，等到政策措施生效时，冲击的影响可能早已消散。 因此，在应对供给冲击时，先确认核心通胀更为审慎。 目前通胀缺口仍略为负值，但预计未来将趋近于零。 日本央行政策仍偏宽松，不过应通过适度加息，逐步转向更中性的立场。",
@@ -147,7 +205,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -158,7 +216,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -169,7 +227,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         }
