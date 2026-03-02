@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T15:52:40.939627+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2026-03-02T16:44:24.909948+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "【早报】美以袭击伊朗，伊朗反击；我国首个国家级人形机器人与具身智能标准体系发布",
@@ -111,6 +111,17 @@
           "time_info": "14时58分"
         },
         {
+          "title": "剑星AI作图抄袭,反手拉黑原创",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
           "url": "https://wallstreetcn.com/livenews/3061282",
           "source": "华尔街见闻-快讯",
@@ -125,6 +136,18 @@
           "time_info": "[04时28分 ~ 07时24分]"
         },
         {
+          "title": "机器人手机趋势到来了吗",
+          "url": "https://www.toutiao.com/trending/7612544939070590470/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 16时44分]"
+        },
+        {
           "title": "刘美含吐槽5家AI答案不一样",
           "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BE%8E%E5%90%AB%E5%90%90%E6%A7%BD5%E5%AE%B6AI%E7%AD%94%E6%A1%88%E4%B8%8D%E4%B8%80%E6%A0%B7%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -136,15 +159,15 @@
           "time_info": "[13时53分 ~ 13时54分]"
         },
         {
-          "title": "机器人手机趋势到来了吗",
-          "url": "https://www.toutiao.com/trending/7612544939070590470/",
-          "source": "今日头条",
+          "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
+          "url": "https://wallstreetcn.com/premium/articles/3766415?layout=wscn-layout",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时52分"
+          "time_info": "16时44分"
         },
         {
           "title": "千问AI眼镜开启预约",
@@ -169,6 +192,17 @@
           "time_info": "12时48分"
         },
         {
+          "title": "flydubai（迪拜航空）暂停所有迪拜航班，直至当地时间周二下午3点。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3061710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "特斯拉官方微博称，人形机器人持续迭代，Cybercab量产工作加速推进。",
           "url": "https://wallstreetcn.com/livenews/3061494",
           "source": "华尔街见闻-快讯",
@@ -178,6 +212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
+        },
+        {
+          "title": "物理科研工作在 AI 相当发达的未来还有多少价值？",
+          "url": "https://www.zhihu.com/question/2011307404294365414",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "爱立信与英特尔携手合作，旨在加速迈向商业化的原生AI 6G技术之路。",
@@ -208,7 +253,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -219,7 +264,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -260,7 +305,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗受袭牵动“全球神经”，原油供应和经济衰退“双危机”一触即发！",
@@ -287,8 +332,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时48分 ~ 15时52分]"
+          "appearance_count": 6,
+          "time_info": "[12时48分 ~ 16时44分]"
+        },
+        {
+          "title": "中国南方冰雪经济蓬勃发展",
+          "url": "https://www.toutiao.com/trending/7612114238676975659/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "霍尔木兹海峡封锁将致命打击日本经济",
@@ -330,7 +386,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -341,9 +397,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "你认为目前全球经济处于周期的什么阶段？还要持续多久？",
+          "url": "https://www.zhihu.com/question/631908397",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "加拿大总理卡尼：印度与加拿大启动战略能源伙伴关系。 加拿大与印度两国将深化防务合作。 加印两国将深化太空合作。 加印计划于今年达成经济协定。 加印签署关键矿产、能源合作协定。 加拿大卡梅科公司与印度政府达成26亿加元铀矿交易。",
@@ -352,7 +419,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
