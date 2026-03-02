@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T17:51:15.437532+08:00",
-  "total_titles_processed": 1529,
+  "generated_at": "2026-03-02T18:43:45.212913+08:00",
+  "total_titles_processed": 1612,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "【早报】美以袭击伊朗，伊朗反击；我国首个国家级人形机器人与具身智能标准体系发布",
@@ -100,6 +100,18 @@
           "time_info": "[00时28分 ~ 06时24分]"
         },
         {
+          "title": "剑星AI作图抄袭,反手拉黑原创",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时44分 ~ 18时43分]"
+        },
+        {
           "title": "如何评价哈梅内伊遇害后，《深度揭秘 Claude 和 Palantir 是如何杀死哈梅内伊的》一文爆火？",
           "url": "https://www.zhihu.com/question/2011518850919789928",
           "source": "知乎",
@@ -122,16 +134,16 @@
           "time_info": "14时58分"
         },
         {
-          "title": "剑星AI作图抄袭,反手拉黑原创",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
-          "source": "贴吧",
+          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
+          "url": "https://www.cls.cn/detail/2299598",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            6
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时44分 ~ 17时51分]"
+          "time_info": "[17时50分 ~ 18时43分]"
         },
         {
           "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
@@ -156,8 +168,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时44分 ~ 18时43分]"
+        },
+        {
+          "title": "Block 因 AI 裁员近 50%，码农裁 70%，股价飙涨 24%，AI 真会取代大部分人的工作吗？",
+          "url": "https://www.zhihu.com/question/2011022777268856579",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时44分 ~ 17时51分]"
+          "time_info": "[17时50分 ~ 18时43分]"
         },
         {
           "title": "物理科研工作在 AI 相当发达的未来还有多少价值？",
@@ -172,17 +195,6 @@
           "time_info": "[16时44分 ~ 17时51分]"
         },
         {
-          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
-          "url": "https://www.cls.cn/detail/2299598",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
-        },
-        {
           "title": "机器人手机趋势到来了吗",
           "url": "https://www.toutiao.com/trending/7612544939070590470/",
           "source": "今日头条",
@@ -193,17 +205,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时52分 ~ 16时44分]"
-        },
-        {
-          "title": "Block 因 AI 裁员近 50%，码农裁 70%，股价飙涨 24%，AI 真会取代大部分人的工作吗？",
-          "url": "https://www.zhihu.com/question/2011022777268856579",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
         },
         {
           "title": "刘美含吐槽5家AI答案不一样",
@@ -250,6 +251,17 @@
           "time_info": "16时44分"
         },
         {
+          "title": "MiniMax2025年全年业绩超预期，AI平台化打开增长空间",
+          "url": "https://wallstreetcn.com/livenews/3061794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "特斯拉官方微博称，人形机器人持续迭代，Cybercab量产工作加速推进。",
           "url": "https://wallstreetcn.com/livenews/3061494",
           "source": "华尔街见闻-快讯",
@@ -259,6 +271,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
+        },
+        {
+          "title": "雷军公布小米机器人最新进展：已在汽车工厂实习 初步实现部分场景自主工作",
+          "url": "https://wallstreetcn.com/livenews/3061787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
+          "title": "马上评｜如何看待学生作业中的“AI味儿”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "爱立信与英特尔携手合作，旨在加速迈向商业化的原生AI 6G技术之路。",
@@ -341,7 +375,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗受袭牵动“全球神经”，原油供应和经济衰退“双危机”一触即发！",
@@ -379,19 +413,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时44分 ~ 17时51分]"
+          "appearance_count": 4,
+          "time_info": "[16时44分 ~ 18时43分]"
         },
         {
           "title": "烽火通信：低轨星载路由及星间激光通信业务的营业收入比例不到1%",
           "url": "https://wallstreetcn.com/livenews/3061785",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 18时43分]"
         },
         {
           "title": "霍尔木兹海峡封锁将致命打击日本经济",
@@ -455,9 +490,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
+        },
+        {
+          "title": "MINIMAX：2025财年收入7900万美元 年度亏损18.7亿美元",
+          "url": "https://wallstreetcn.com/livenews/3061791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "你认为目前全球经济处于周期的什么阶段？还要持续多久？",
