@@ -1,8 +1,151 @@
 {
-  "generated_at": "2026-03-04T01:44:29.448722+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-03-04T02:47:53.575477+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "github AI 机器人 Claude",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
+          "url": "https://www.cls.cn/detail/2301441",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时47分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.3 Instant模型。 这是该公司最常用的ChatGPT模型的升级版，可降低（对用户请求的）“不必要的拒绝”。 最新模型可以提供更加明确的回应结果。",
+          "url": "https://wallstreetcn.com/livenews/3062952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "美国明尼苏达州起诉总统特朗普将医保资金（MediCAid fund）“武器化”。",
+          "url": "https://wallstreetcn.com/livenews/3062933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时47分]"
+        },
+        {
+          "title": "贾跃亭成功做出机器人！法拉第未来已向美国高端酒店交付产品",
+          "url": "https://www.cls.cn/detail/2301011",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时47分]"
+        },
+        {
+          "title": "马云，新年现身！谈了AI",
+          "url": "https://www.cls.cn/detail/2301784",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时47分]"
+        },
+        {
+          "title": "Anthropic大模型Claude推出技能创造者的增强功能。",
+          "url": "https://wallstreetcn.com/livenews/3062921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时47分]"
+        },
+        {
+          "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32691228",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时47分]"
+        },
+        {
+          "title": "OpenAI：GPT‑5.2 即时版将在旧版模型板块的模型选择器中向付费用户开放3个月，将于6月3日下线。",
+          "url": "https://flash.jin10.com/detail/20260304021024141800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "OpenAI：GPT‑5.3 即时版自今日起向 ChatGPT 的所有用户开放。",
+          "url": "https://flash.jin10.com/detail/20260304020932534800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "两位消息人士证实，美国在上周末对伊朗发动袭击期间使用了Anthropic的Claude AI模型，并且目前仍在继续使用。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3062945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "OpenAI：推出 GPT‑5.3 即时网站。",
+          "url": "https://flash.jin10.com/detail/20260304020800832800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "美联储Schmid：通胀仍然太高，我们不能掉以轻心。 数据似乎大体表明，劳动力市场处于平衡状态。 不认为人工智能（AI）会造成结构性失业。",
+          "url": "https://wallstreetcn.com/livenews/3062863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        }
+      ]
+    },
     {
       "keyword_group": "经济 房地产 收入",
       "match_count": 9,
@@ -14,7 +157,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
         },
@@ -34,11 +177,24 @@
           "url": "https://wallstreetcn.com/livenews/3062937",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时47分]"
+        },
+        {
+          "title": "德国总理默茨：（美国和以色列挑起的）伊朗战争损害了我们的经济，希望尽快结束。",
+          "url": "https://wallstreetcn.com/livenews/3062926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时47分]"
         },
         {
           "title": "阿根廷总统米莱将页岩油井纳入其经济激励计划，希望能为该行业招徕投资者。",
@@ -50,17 +206,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
-        },
-        {
-          "title": "德国总理默茨：（美国和以色列挑起的）伊朗战争损害了我们的经济，希望尽快结束。",
-          "url": "https://wallstreetcn.com/livenews/3062926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时44分"
         },
         {
           "title": "德意志银行：如果石油和天然气价格继续飙涨，进而冲击到欧洲经济，欧元兑美元恐怕会跌至1.13创2025年5月份以来最低。",
@@ -101,89 +246,6 @@
           "source": "金十数据",
           "ranks": [
             30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "github AI 机器人 Claude",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美国明尼苏达州起诉总统特朗普将医保资金（MediCAid fund）“武器化”。",
-          "url": "https://wallstreetcn.com/livenews/3062933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
-          "url": "https://www.cls.cn/detail/2301441",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时44分]"
-        },
-        {
-          "title": "贾跃亭成功做出机器人！法拉第未来已向美国高端酒店交付产品",
-          "url": "https://www.cls.cn/detail/2301011",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时44分]"
-        },
-        {
-          "title": "马云，新年现身！谈了AI",
-          "url": "https://www.cls.cn/detail/2301784",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时44分]"
-        },
-        {
-          "title": "Anthropic大模型Claude推出技能创造者的增强功能。",
-          "url": "https://wallstreetcn.com/livenews/3062921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32691228",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "美联储Schmid：通胀仍然太高，我们不能掉以轻心。 数据似乎大体表明，劳动力市场处于平衡状态。 不认为人工智能（AI）会造成结构性失业。",
-          "url": "https://wallstreetcn.com/livenews/3062863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 1,
