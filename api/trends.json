@@ -1,1130 +1,127 @@
 {
-  "generated_at": "2026-03-03T23:47:21.576138+08:00",
-  "total_titles_processed": 2123,
+  "generated_at": "2026-03-04T00:49:13.080860+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "github AI 机器人 Claude",
-      "match_count": 64,
+      "keyword_group": "经济 房地产 收入",
+      "match_count": 6,
       "titles": [
         {
-          "title": "中国人形机器人快速“上量”靠什么",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BF%AB%E9%80%9F%E2%80%9C%E4%B8%8A%E9%87%8F%E2%80%9D%E9%9D%A0%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
+          "title": "阿根廷经济部长Luis Caputo：主权风险应该在250-300。 通过国际市场融资无法压低主权风险。",
+          "url": "https://wallstreetcn.com/livenews/3062892",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时41分 ~ 20时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时49分"
         },
         {
-          "title": "马上评｜如何看待学生作业中的“AI味儿”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
-          "source": "澎湃新闻",
+          "title": "阿根廷总统米莱将页岩油井纳入其经济激励计划，希望能为该行业招徕投资者。",
+          "url": "https://wallstreetcn.com/livenews/3062885",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            7,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时46分 ~ 13时50分]"
-        },
-        {
-          "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
-          "url": "https://www.cls.cn/detail/2300009",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时26分]"
-        },
-        {
-          "title": "AI参战对伊空袭",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时46分 ~ 18时39分]"
-        },
-        {
-          "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
-          "url": "https://wallstreetcn.com/premium/articles/3766415?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时26分]"
-        },
-        {
-          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
-          "url": "https://wallstreetcn.com/articles/3766555",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时07分 ~ 22时03分]"
-        },
-        {
-          "title": "演员王劲松遭 AI 盗用形象生成视频，如何界定 AI 侵权，普通人该如何防范？",
-          "url": "https://www.zhihu.com/question/2010702851366674730",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            14,
-            15,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时38分 ~ 13时50分]"
-        },
-        {
-          "title": "剑星AI作图抄袭,反手拉黑原创",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            13,
-            22,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 15时42分]"
-        },
-        {
-          "title": "荣耀机器人手机上手体验",
-          "url": "https://www.douyin.com/hot/2416394",
-          "source": "抖音",
-          "ranks": [
-            22,
-            30,
-            27,
-            21,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 12时47分]"
-        },
-        {
-          "title": "雷军公布小米机器人最新进展：已在汽车工厂实习，初步实现部分场景自主工作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32684245",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            13,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时07分 ~ 17时42分]"
-        },
-        {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            6,
             8
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时41分 ~ 22时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时49分"
         },
         {
-          "title": "智元稚晖君谈人形机器人产业规模：手机数量乘以汽车价格的级别",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32685523",
-          "source": "澎湃新闻",
+          "title": "德意志银行：如果石油和天然气价格继续飙涨，进而冲击到欧洲经济，欧元兑美元恐怕会跌至1.13创2025年5月份以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3062884",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            16,
-            15,
-            17
+            9
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时41分 ~ 22时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时49分"
         },
+        {
+          "title": "国际货币基金组织副总裁卡茨：智利需要进行经济再平衡，转向更多消费。",
+          "url": "https://flash.jin10.com/detail/20260304002651697800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "国际货币基金组织副总裁卡茨：美国的外部头寸略逊于由理想的宏观经济政策所暗示的水平。",
+          "url": "https://flash.jin10.com/detail/20260304002354903800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "国际货币基金组织副总裁卡茨：现在就确信战争将影响全球经济还为时过早，经济影响将取决于安全局势的后续发展。",
+          "url": "https://flash.jin10.com/detail/20260304001927322800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "github AI 机器人 Claude",
+      "match_count": 4,
+      "titles": [
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
           "url": "https://www.cls.cn/detail/2301441",
           "source": "财联社热门",
           "ranks": [
-            9,
-            5,
-            4,
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时32分 ~ 23时47分]"
-        },
-        {
-          "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
-          "url": "https://www.zhihu.com/question/2011927999839172012",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时49分 ~ 07时26分]"
-        },
-        {
-          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
-          "url": "https://www.cls.cn/detail/2299598",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时45分]"
-        },
-        {
-          "title": "开源项目 OpenClaw 仅用 3 个月登顶 GitHub Star 榜首，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2012114647591904496",
-          "source": "知乎",
-          "ranks": [
-            10,
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时32分 ~ 22时03分]"
-        },
-        {
-          "title": "华为首次在海外展出全液冷AI超节点",
-          "url": "https://wallstreetcn.com/livenews/3062183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "美联储Schmid：通胀仍然太高，我们不能掉以轻心。 数据似乎大体表明，劳动力市场处于平衡状态。 不认为人工智能（AI）会造成结构性失业。",
-          "url": "https://wallstreetcn.com/livenews/3062863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "摩根大通CEO戴蒙：人工智能（AI）可以将工作时长缩短至一周四天。 政府应该对使用AI的人设置年龄限制。 推动AI不会造成“赢家通吃”的局面。",
-          "url": "https://wallstreetcn.com/livenews/3062119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时37分 ~ 05时35分]"
-        },
-        {
-          "title": "市场消息：AMD的MI325芯片将被纳入美国AI加速器出口限制范围。",
-          "url": "https://flash.jin10.com/detail/20260303055516565800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时26分]"
-        },
-        {
-          "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
-          "url": "https://flash.jin10.com/detail/20260303052851593800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时28分]"
-        },
-        {
-          "title": "华为杨超斌：AI Token两年激增300倍，未来五年是移动AI业务爆发的关键窗口",
-          "url": "https://wallstreetcn.com/livenews/3062792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 22时03分]"
-        },
-        {
-          "title": "Claude卷入美以空袭伊朗实战？AI大模型正被纳入军事杀伤链引发担忧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32684906",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 14时53分]"
-        },
-        {
-          "title": "Anthropic：Claude.AI中出错率偏高这个问题得到解决。",
-          "url": "https://wallstreetcn.com/livenews/3062084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 02时49分]"
-        },
-        {
-          "title": "据知情人士透露，马斯克旗下xAI计划最快下周赎回30亿美元2025年6月发行的债券。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3062081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 02时49分]"
+          "time_info": "[00时48分 ~ 00时49分]"
         },
         {
           "title": "贾跃亭成功做出机器人！法拉第未来已向美国高端酒店交付产品",
           "url": "https://www.cls.cn/detail/2301011",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12,
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时57分 ~ 23时47分]"
-        },
-        {
-          "title": "如何评价 Apple 在 3 月 2 日 晚更新的 iPad Air M4，有哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/2011932852577650327",
-          "source": "知乎",
-          "ranks": [
-            20,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时50分 ~ 16时41分]"
-        },
-        {
-          "title": "西班牙国王和中国机器人握手",
-          "url": "https://www.toutiao.com/trending/7612133346110455835/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 13时50分]"
-        },
-        {
-          "title": "AI生成 男女身高",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%94%9F%E6%88%90%20%E7%94%B7%E5%A5%B3%E8%BA%AB%E9%AB%98&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时53分 ~ 16时41分]"
-        },
-        {
-          "title": "财晓得丨播放量暴涨181倍！AI漫剧狂飙背后：资本涌入和版权争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32659631",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时27分 ~ 07时26分]"
-        },
-        {
-          "title": "Anthropic：已经处理好Claude Opus 4.6出现的错误。 正调查Claude.AI中出错率偏高这个问题。",
-          "url": "https://wallstreetcn.com/livenews/3062080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时45分 ~ 02时49分]"
+          "time_info": "[00时48分 ~ 00时49分]"
         },
         {
-          "title": "Reflection AI寻求按20亿美元估值进行新一轮融资。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3062077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 02时49分]"
-        },
-        {
-          "title": "安永针对销售平台推出EY.ai，由Snowflake和Canva提供支持。",
-          "url": "https://wallstreetcn.com/livenews/3062126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时35分]"
-        },
-        {
-          "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
-          "url": "https://wallstreetcn.com/livenews/3062140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时28分]"
-        },
-        {
-          "title": "中东战云密布，A股波澜不惊？十大基金公司解盘：黄金、原油、AI谁主沉浮",
-          "url": "https://www.cls.cn/detail/2300191",
+          "title": "马云，新年现身！谈了AI",
+          "url": "https://www.cls.cn/detail/2301784",
           "source": "财联社热门",
           "ranks": [
-            13,
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时26分 ~ 10时07分]"
+          "time_info": "[00时48分 ~ 00时49分]"
         },
         {
-          "title": "AI短剧 恐怖谷效应",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 20时58分]"
-        },
-        {
-          "title": "人大代表：年轻人不要和AI比效率",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%EF%BC%9A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E8%A6%81%E5%92%8CAI%E6%AF%94%E6%95%88%E7%8E%87",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "日本央行行长植田和男：为了使新时代的金融生态系统（特点是通过AI和区块链的融合产生新的金融服务）得以发展，有必要建立一种机制，以确保交易的透明度和真实性，特别是支付的安全性和稳健性。",
-          "url": "https://flash.jin10.com/detail/20260303120834177800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "高通CEO预计：机器人将在两年内成为“更重大的机遇”",
-          "url": "https://wallstreetcn.com/livenews/3062827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "据知情人士透露，随着SpaceX的IPO临近，马斯克旗下社交媒体平台X（原名推特）和和人工智能（AI）初创公司xAI将偿还175亿美元债务。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3062123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "网传衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
-          "url": "https://www.zhihu.com/question/2011927999839172012",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "韩国物流公司Hyundai Glovis：为应对中东冲突，制定了应急计划，包括规划备用路线和港口。",
-          "url": "https://flash.jin10.com/detail/20260303095324889800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "周一（3月2日），存储芯片与硬件供应链指数跌1.99%，报109.53点。 信息科技指数涨0.58%，报273.65点。 人工智能（AI）赢家指数涨0.65%，AI软件先驱指数涨1.19%。",
-          "url": "https://wallstreetcn.com/livenews/3062169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "AI表格Agent接入钉钉群",
-          "url": "https://wallstreetcn.com/livenews/3062395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "从哈梅内伊遇袭看AI如何卷入真实战争｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32684579",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "据英国金融时报：英伟达支持的“开放”人工智能初创公司Reflection AI以逾200亿美元估值吸引投资者。Reflection AI正寻求在新一轮融资中至少筹集20亿美元。",
-          "url": "https://flash.jin10.com/detail/20260303010655126800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "冲万亿的扬州首开人工智能发展大会，党政主官现场演示AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32684560",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "人形机器人技惊四座背后靠什么",
-          "url": "https://www.toutiao.com/trending/7612539597285883931/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "如何评价 AI 顶会 ICLR 提出 「 经济学的神经网络 」 Behavior Learning ?",
-          "url": "https://www.zhihu.com/question/2010290944583410156",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "Anthropic：Claude服务中断问题得到处置。",
-          "url": "https://wallstreetcn.com/livenews/3062047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        },
-        {
-          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3062845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "美联储威廉姆斯：不认为AI会造成结构性失业；新技术创造的岗位多于其摧毁的岗位。",
-          "url": "https://flash.jin10.com/detail/20260303230927875800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "多平台公布2月涉“AI魔改”视频治理结果",
-          "url": "https://wallstreetcn.com/livenews/3062527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "据CNBC：高通(QCOM.O)CEO表示，未来两年内，机器人技术将成为高通公司的一个“更大机遇”。",
-          "url": "https://flash.jin10.com/detail/20260303142958012800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时53分"
-        },
-        {
-          "title": "OpenAI奥特曼：正与国防部合作，对合约进行一些补充。 新增内容将使“原则变得非常清晰”。 国防情报机构不会使用OpenAI的服务。 人工智能系统不应用于国内监控。",
-          "url": "https://wallstreetcn.com/livenews/3062280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "Akamai将部署数千枚英伟达Blackwell GPU，以增强其全球分布式云基础设施。",
-          "url": "https://wallstreetcn.com/livenews/3062765",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "报道：马斯克旗下X与xAI拟偿还175亿美元债务 SpaceX上市临近",
-          "url": "https://wallstreetcn.com/livenews/3062123",
+          "title": "美联储Schmid：通胀仍然太高，我们不能掉以轻心。 数据似乎大体表明，劳动力市场处于平衡状态。 不认为人工智能（AI）会造成结构性失业。",
+          "url": "https://wallstreetcn.com/livenews/3062863",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "标普将软银评级展望下调至“负面”，因其对OpenAI追加投资",
-          "url": "https://wallstreetcn.com/livenews/3062468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时53分"
-        },
-        {
-          "title": "Altman承认：在舆论抵制下，OpenAI的美国国防协议“显得投机且草率”",
-          "url": "https://wallstreetcn.com/livenews/3062825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "苹果推出升级版MacBook Pro、Air、以及新款Studio显示器",
-          "url": "https://wallstreetcn.com/livenews/3062834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "美团发布AI浏览器",
-          "url": "https://wallstreetcn.com/livenews/3062269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "iPadAir 没高刷",
-          "url": "https://s.weibo.com/weibo?q=iPadAir%20%E6%B2%A1%E9%AB%98%E5%88%B7&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        },
-        {
-          "title": "卡塔尔停产之后，印度对工业用户实施天然气配给供应。 GAIL、印度石油公司自周二起削减对本地用户的天然气供应。 印度最大进口商Petronet已通知GAIL及其他天然气公司，卡塔尔方面的液化天然气供应将减少。",
-          "url": "https://wallstreetcn.com/livenews/3062509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "AI战甲披身秒变飒爽英姿",
-          "url": "https://www.douyin.com/hot/2416531",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济 房地产 收入",
-      "match_count": 29,
-      "titles": [
-        {
-          "title": "从三个维度看当前中国经济",
-          "url": "https://www.toutiao.com/trending/7612224215584653339/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时46分 ~ 15时42分]"
-        },
-        {
-          "title": "惠誉评级：多数海合会主权国家拥有大量资产，可在短期能源收入中断时提供缓冲。",
-          "url": "https://flash.jin10.com/detail/20260303004047644800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        },
-        {
-          "title": "英国财政大臣里夫斯：我们需要确保经济能够抵御冲击。",
-          "url": "https://flash.jin10.com/detail/20260303203647800800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "国际货币基金组织：正在密切关注中东地区的最新动态。 迄今已观察到贸易和经济活动受到干扰。 目前评估该地区及全球经济影响还为时过早。",
-          "url": "https://wallstreetcn.com/livenews/3062639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "惠誉评级：伊朗冲突将在短期内影响非石油经济活动。",
-          "url": "https://flash.jin10.com/detail/20260303004005747800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        },
-        {
-          "title": "澳洲联储主席Bullock：中东局势及时提醒地缘政治不确定性。 油价上涨可能会拖累全球经济（增速）和通胀（进展）。 澳洲联储对通胀预期的迹象“非常警惕”。 现在判断中东局势对通胀的影响还言之过早。 澳洲联储准备在必要时针对冲击做出政策回应。 一系列指标表明，劳动力市场条件是紧俏的。",
-          "url": "https://wallstreetcn.com/livenews/3062152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时35分 ~ 07时26分]"
-        },
-        {
-          "title": "前美联储主席、前美国财政部长耶伦：对美国经济前景感到乐观，但（面临）“严重风险”。 关注伊朗风险，具体取决于（美国和以色列挑起的）战争持续的时间。 如果油价居高不下、或进一步上涨，恐怕会引发美国通胀担忧。 3%的通胀率中，可能有0.5个百分点来自（总统特朗普挑起的）关税。 如果油价偏高，将伤害到经济增长，并构成通胀风险。 伊朗局势将让美联储“更容易维持”政策利率不变。 特朗普对美联储理事库克的所作所为“只能用无法想象来形容”。 美国司法部的任何刑事指控都将对美联储“构成巨大的威胁”。",
-          "url": "https://wallstreetcn.com/livenews/3062075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 02时49分]"
-        },
-        {
-          "title": "澳洲联储主席布洛克：经济中的潜在需求与供应能力之间的差距比我们之前评估的要大。",
-          "url": "https://flash.jin10.com/detail/20260303051218509800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时28分]"
-        },
-        {
-          "title": "澳洲联储主席布洛克：委员会仍专注于使通胀率回归目标，2月加息以来的经济数据支持该举措。",
-          "url": "https://flash.jin10.com/detail/20260303051142701800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时28分]"
-        },
-        {
-          "title": "澳洲联储主席布洛克：中东局势提醒人们地缘政治的不确定性，供应冲击可能加剧通胀压力，但长期冲击也可能对全球经济活动产生不利影响。",
-          "url": "https://flash.jin10.com/detail/20260303051116096800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时28分]"
-        },
-        {
-          "title": "Natixis：建议押注美债曲线陡化，中东冲突加剧经济和供应链风险。",
-          "url": "https://wallstreetcn.com/livenews/3062108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时38分]"
-        },
-        {
-          "title": "摩根大通CEO戴蒙：如果伊朗冲突不延长，就不会出现严重通货膨胀。 通胀可能会是（美国总统特朗普）经济的“败笔”。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3062107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时38分]"
-        },
-        {
-          "title": "新春首场国常会聚焦银发经济，2035 年市场规模或达 30 万亿元，各领域将迎来怎样的发展新机遇？",
-          "url": "https://www.zhihu.com/question/2011430961238283633",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "百思买第四季度调整后每股收益2.61美元，去年同期为2.58美元，市场预期2.46美元。 第四季度美国同店销售同比下降0.8%，去年同期增长0.2%，市场预期增长0.24%。 第四季度总收入为138.1亿美元，同比下降1%，市场预期138.8亿美元。 第四季度毛利率为20.9%，与去年同期持平，市场预期20.8%。 百思买美股盘前涨超13%。",
-          "url": "https://wallstreetcn.com/livenews/3062787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "牛津经济研究院：市场供应充足缓冲冲突影响 全面石油危机不太可能",
-          "url": "https://flash.jin10.com/detail/20260303213117181800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "美联储理事鲍曼在为银行流动性规则相关活动准备的发言中，未就货币政策或经济前景发表评论。",
-          "url": "https://flash.jin10.com/detail/20260303213013720800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "美联储威廉姆斯：目前的经济对富裕家庭来说感觉安全；而对其他家庭则充满挑战。",
-          "url": "https://flash.jin10.com/detail/20260303231456700800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "欧央行首席经济学家：伊朗局势持续将导致欧元区通胀飙升",
-          "url": "https://flash.jin10.com/detail/20260303131250279800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "经济学家：市场暂观中东局势，大幅调整投资组合为时尚早",
-          "url": "https://flash.jin10.com/detail/20260303143317371800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时53分"
-        },
-        {
-          "title": "欧洲央行首席经济学家连恩：漫长的伊朗战争可能导致通胀“飙升”。",
-          "url": "https://flash.jin10.com/detail/20260303130252310800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "美联储威廉姆斯：更高的生产率意味着长期来看更高的实际收入。",
-          "url": "https://flash.jin10.com/detail/20260303230820017800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "旅游经济咨询公司预测，由于冲突因素，2026年中东地区的入境游客数量预计将同比下降11%至27%。中东冲突可能导致该地区2026年游客消费额减少340亿至560亿美元。",
-          "url": "https://flash.jin10.com/detail/20260303212016801800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "塔吉特第四季度可比销售额下降2.5%，市场预期下降2.47%。 第四季度可比数字销售额增长1.9%，市场预期增长3.21%。 第四季度净销售额304.5亿美元。 第四季度营业收入13.8亿美元，市场预期13.5亿美元。 塔吉特美股盘前涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3062763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "【美对伊朗的行动影响中国石油供应？外交部：中方将采取措施保障能源安全】3月3日，外交部发言人毛宁主持例行记者会。有分析表示，美国在委内瑞拉和伊朗的行动可能会阻碍中国石油供应。中方对此有何评论？对此，毛宁指出，中方坚决反对在国际关系中使用武力侵犯别国的主权安全。能源安全对世界经济非常重要，各方都应当确保能源供应稳定畅通。中方将采取必要的措施保障自身能源安全。（澎湃新闻）",
-          "url": "https://wallstreetcn.com/livenews/3062572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "英国财政大臣里夫斯：我们需要让经济免受冲击。 与英国央行行长保持定期联系。 将于明天会见北海油气行业领袖。",
-          "url": "https://wallstreetcn.com/livenews/3062797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "欧洲央行管委兼法国央行行长Villeroy：法国经济受中东紧张局势的影响有限。 不会仅根据能源价格来决定利率政策。",
-          "url": "https://wallstreetcn.com/livenews/3062569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "巴西经济年终失速 高利率与关税阵痛双重夹击",
-          "url": "https://flash.jin10.com/detail/20260303201949024800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "阿联酋经济部长：目前没有影响商品和产品进口的供应链干扰。",
-          "url": "https://flash.jin10.com/detail/20260303201722032800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "如祺出行发布业绩预告：预计2025年收入大增超100%、利润大幅改善超43%",
-          "url": "https://wallstreetcn.com/livenews/3062654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "钢铁行业真的要迎来复苏周期了吗",
-          "url": "https://www.toutiao.com/trending/7612857176742170166/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 15时42分]"
+          "time_info": "00时49分"
         }
       ]
     }
