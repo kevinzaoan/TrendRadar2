@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T19:31:42.268461+08:00",
-  "total_titles_processed": 1789,
+  "generated_at": "2026-03-04T20:57:10.967608+08:00",
+  "total_titles_processed": 1899,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 45,
+      "match_count": 48,
       "titles": [
         {
           "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时15分 ~ 19时31分]"
+          "appearance_count": 14,
+          "time_info": "[12时15分 ~ 20时57分]"
         },
         {
           "title": "谈中美关系、伊朗局势、扩大内需、机器人等，人大新闻发布会回应这些热点",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时43分 ~ 19时31分]"
+          "appearance_count": 12,
+          "time_info": "[13时43分 ~ 20时57分]"
         },
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -55,8 +55,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时43分 ~ 19时31分]"
+          "appearance_count": 12,
+          "time_info": "[13时43分 ~ 20时57分]"
         },
         {
           "title": "马云，新年现身！谈了AI",
@@ -82,11 +82,12 @@
             10,
             8,
             19,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时15分 ~ 19时31分]"
+          "appearance_count": 14,
+          "time_info": "[12时15分 ~ 20时57分]"
         },
         {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
@@ -107,6 +108,19 @@
           "time_info": "[01时44分 ~ 17时40分]"
         },
         {
+          "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
+          "url": "https://www.cls.cn/detail/2302661",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时36分 ~ 20时57分]"
+        },
+        {
           "title": "19岁天才少年做AI应用年入2亿",
           "url": "https://www.toutiao.com/trending/7612983983969668662/",
           "source": "今日头条",
@@ -120,16 +134,31 @@
           "time_info": "[05时34分 ~ 12时16分]"
         },
         {
-          "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
-          "url": "https://www.cls.cn/detail/2302661",
+          "title": "突发！马云刚发声谈AI 阿里千问核心负责人林俊旸辞职",
+          "url": "https://www.cls.cn/detail/2302236",
           "source": "财联社热门",
           "ranks": [
-            5,
-            4
+            9,
+            8,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时36分 ~ 19时31分]"
+          "appearance_count": 7,
+          "time_info": "[16时39分 ~ 20时57分]"
+        },
+        {
+          "title": "雷军两会建言：加快推动人形机器人“上岗” 关注智驾时代安全体系与人才培育",
+          "url": "https://www.cls.cn/detail/2302307",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时39分 ~ 20时57分]"
         },
         {
           "title": "代表建议为AI内容添加不可去除水印",
@@ -156,19 +185,6 @@
           "time_info": "[13时43分 ~ 14时48分]"
         },
         {
-          "title": "突发！马云刚发声谈AI 阿里千问核心负责人林俊旸辞职",
-          "url": "https://www.cls.cn/detail/2302236",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 19时31分]"
-        },
-        {
           "title": "OpenAI发布GPT-5.3 Instant模型。 这是该公司最常用的ChatGPT模型的升级版，可降低（对用户请求的）“不必要的拒绝”。 最新模型可以提供更加明确的回应结果。",
           "url": "https://wallstreetcn.com/livenews/3062952",
           "source": "华尔街见闻-快讯",
@@ -191,17 +207,18 @@
           "time_info": "07时28分"
         },
         {
-          "title": "雷军两会建言：加快推动人形机器人“上岗” 关注智驾时代安全体系与人才培育",
-          "url": "https://www.cls.cn/detail/2302307",
-          "source": "财联社热门",
+          "title": "靳东：我不刷短剧 正学习AI",
+          "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%EF%BC%9A%E6%88%91%E4%B8%8D%E5%88%B7%E7%9F%AD%E5%89%A7+%E6%AD%A3%E5%AD%A6%E4%B9%A0AI",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            11,
-            10
+            16,
+            7,
+            24,
+            28
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时39分 ~ 19时31分]"
+          "time_info": "[18时36分 ~ 20时57分]"
         },
         {
           "title": "机器人感谢人大代表关心：心里暖暖的",
@@ -278,18 +295,6 @@
           "time_info": "[07时28分 ~ 12时16分]"
         },
         {
-          "title": "靳东：我不刷短剧 正学习AI",
-          "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%EF%BC%9A%E6%88%91%E4%B8%8D%E5%88%B7%E7%9F%AD%E5%89%A7+%E6%AD%A3%E5%AD%A6%E4%B9%A0AI",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时36分 ~ 19时31分]"
-        },
-        {
           "title": "AI参战对伊空袭",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
           "source": "bilibili 热搜",
@@ -348,6 +353,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时35分]"
+        },
+        {
+          "title": "AWS 阿联酋数据中心遭物体撞击后起火，同时 Claude 全球宕机，两者有关系吗？如何看待这一风波？",
+          "url": "https://www.zhihu.com/question/2011731606025499798",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
         },
         {
           "title": "Anthropic大模型Claude推出技能创造者的增强功能。",
@@ -462,6 +478,17 @@
           "time_info": "15时38分"
         },
         {
+          "title": "甄子丹：机器人太厉害了 我可能打不过",
+          "url": "https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%EF%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%AA%E5%8E%89%E5%AE%B3%E4%BA%86+%E6%88%91%E5%8F%AF%E8%83%BD%E6%89%93%E4%B8%8D%E8%BF%87",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "OpenAI考虑为北约机密网络提供合约",
           "url": "https://flash.jin10.com/detail/20260304092203004800",
           "source": "金十数据",
@@ -493,6 +520,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "高盛：股市因AI和伊朗回调带来买入机会 长期深度熊市的风险较低",
+          "url": "https://wallstreetcn.com/livenews/3063619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "雷军建议：部署通用人形机器人的工厂，给予产业补贴和优先准入等政策优惠",
@@ -553,7 +591,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "26位“首席”做客澎湃把脉2026：对中国经济有信心，战略看多A股",
@@ -566,8 +604,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时15分 ~ 19时31分]"
+          "appearance_count": 14,
+          "time_info": "[12时15分 ~ 20时57分]"
+        },
+        {
+          "title": "中国中等收入群体可能超过8亿人",
+          "url": "https://www.toutiao.com/trending/7613253879866687507/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时39分 ~ 20时57分]"
         },
         {
           "title": "七个关键词感知中国经济脉搏",
@@ -589,8 +639,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时01分 ~ 19时31分]"
+          "appearance_count": 15,
+          "time_info": "[10时01分 ~ 20时57分]"
         },
         {
           "title": "中国中等收入群体可能超过8亿人",
@@ -604,17 +654,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时47分 ~ 19时31分]"
-        },
-        {
-          "title": "中国中等收入群体可能超过8亿人",
-          "url": "https://www.toutiao.com/trending/7613253879866687507/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 19时31分]"
         },
         {
           "title": "伊朗启动《紧急状态下国家经济韧性提升与民防建设计划》",
@@ -637,6 +676,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "直击两会丨娄勤俭：中国促进民营经济发展的基本方针政策不能变，也不会变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32698067",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时40分 ~ 20时57分]"
         },
         {
           "title": "日本央行行长：若经济与物价符合预期 将继续加息",
@@ -685,17 +737,15 @@
           "time_info": "[18时37分 ~ 19时31分]"
         },
         {
-          "title": "直击两会丨娄勤俭：中国促进民营经济发展的基本方针政策不能变，也不会变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32698067",
-          "source": "澎湃新闻",
+          "title": "促进民营经济发展不能变不会变",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%83%E8%BF%9B%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E4%B8%8D%E8%83%BD%E5%8F%98%E4%B8%8D%E4%BC%9A%E5%8F%98%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
-            19,
-            16,
-            14
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 19时31分]"
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
         },
         {
           "title": "德国总理默茨：（美国和以色列挑起的）伊朗战争损害了我们的经济，希望尽快结束。",
@@ -777,6 +827,17 @@
           "time_info": "12时16分"
         },
         {
+          "title": "以色列财政部：伊朗战争对以色列经济造成的损失每周可能超过29亿美元。",
+          "url": "https://flash.jin10.com/detail/20260304203432543800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "大会发言人：党和国家促进民营经济发展的基本方针政策不能变也不会变",
           "url": "https://wallstreetcn.com/livenews/3063339",
           "source": "华尔街见闻-快讯",
@@ -838,7 +899,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
