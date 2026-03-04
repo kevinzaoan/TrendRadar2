@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T03:39:04.356421+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-03-05T04:32:42.313254+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
@@ -15,30 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时39分]"
-        },
-        {
-          "title": "市场消息：亚马逊机器人部门裁员，人数不明。",
-          "url": "https://flash.jin10.com/detail/20260305032852963800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时32分]"
         },
         {
           "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
@@ -46,22 +24,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时39分]"
-        },
-        {
-          "title": "AI真人微短剧爆火 演员会被替代吗",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9C%9F%E4%BA%BA%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%88%86%E7%81%AB+%E6%BC%94%E5%91%98%E4%BC%9A%E8%A2%AB%E6%9B%BF%E4%BB%A3%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时32分]"
         },
         {
           "title": "博士用十年为机器人注入灵魂",
@@ -71,11 +39,57 @@
             15,
             13,
             11,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时32分]"
+        },
+        {
+          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
+          "source": "澎湃新闻",
+          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时32分]"
+        },
+        {
+          "title": "AI真人微短剧爆火 演员会被替代吗",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9C%9F%E4%BA%BA%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%88%86%E7%81%AB+%E6%BC%94%E5%91%98%E4%BC%9A%E8%A2%AB%E6%9B%BF%E4%BB%A3%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时32分]"
+        },
+        {
+          "title": "市场消息：亚马逊机器人部门裁员，人数不明。",
+          "url": "https://flash.jin10.com/detail/20260305032852963800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
+          "url": "https://www.cls.cn/detail/2302628",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时32分]"
         },
         {
           "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
@@ -85,19 +99,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时39分]"
-        },
-        {
-          "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
-          "url": "https://www.cls.cn/detail/2302628",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时32分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -107,11 +110,12 @@
             12,
             13,
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时32分]"
         },
         {
           "title": "AWS 阿联酋数据中心遭物体撞击后起火，同时 Claude 全球宕机，两者有关系吗？如何看待这一风波？",
@@ -121,8 +125,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时32分]"
         },
         {
           "title": "甄子丹：机器人太厉害了 我可能打不过",
@@ -130,11 +134,34 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时32分]"
+        },
+        {
+          "title": "亚马逊在机器人部门裁员。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3063839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "Meta Platforms(META.O)计划开发硅芯片以训练人工智能模型，旨在提升AI能力。",
+          "url": "https://flash.jin10.com/detail/20260305042235977800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
         },
         {
           "title": "英伟达CEO黄仁勋：目前并不存在1000亿美元投资机会。 OpenAI（潜在的）IPO限制投资机会。 与OpenAI、Anthropic的协议可能是最后一轮。",
@@ -167,11 +194,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时39分]"
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 04时32分]"
         },
         {
           "title": "Claude Code 真的那么厉害吗？",
@@ -194,6 +222,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "据CNBC：OpenAI创始人奥尔特曼预计将于周四在摩根士丹利会议上发言。",
+          "url": "https://flash.jin10.com/detail/20260305041842177800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "黄仁勋排除英伟达向OpenAI投资1000亿美元的可能性",
+          "url": "https://wallstreetcn.com/livenews/3063822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
         },
         {
           "title": "据华尔街日报：知情人士称，前OpenAI首席研究官正为一家人工智能初创公司筹集7000万美元资金，该初创公司正开发一款软件，以帮助工厂实现自主运行。",
@@ -220,8 +270,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时32分]"
         },
         {
           "title": "经济实力跃上新台阶",
@@ -231,19 +281,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时39分]"
-        },
-        {
-          "title": "美联储褐皮书：大多数辖区预计经济将轻微、温和增长",
-          "url": "https://wallstreetcn.com/livenews/3063832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时39分"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时32分]"
         },
         {
           "title": "直击两会丨娄勤俭：中国促进民营经济发展的基本方针政策不能变，也不会变",
@@ -253,8 +292,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时32分]"
         },
         {
           "title": "中国中等收入群体可能超过8亿人",
@@ -265,8 +304,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时32分]"
         },
         {
           "title": "两会深观察｜站上新台阶，中国经济如何再攀高",
@@ -276,8 +315,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时32分]"
+        },
+        {
+          "title": "美联储褐皮书：大多数辖区预计经济将轻微、温和增长",
+          "url": "https://wallstreetcn.com/livenews/3063832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 04时32分]"
         },
         {
           "title": "美联储褐皮书：在十二个地区中，七个地区的总体经济活动以轻微至温和的速度增长，而报告经济活动持平或下滑的地区数量则从前一时期的四个增加到本期的五个。",
@@ -286,7 +337,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
         },
@@ -297,7 +348,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
         }
