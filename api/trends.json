@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-04T14:48:00.923314+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2026-03-04T15:38:34.509100+08:00",
+  "total_titles_processed": 1373,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
+        {
+          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时15分 ~ 15时38分]"
+        },
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
           "url": "https://www.cls.cn/detail/2301441",
@@ -20,18 +32,6 @@
           "time_info": "[00时48分 ~ 07时28分]"
         },
         {
-          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时15分 ~ 14时48分]"
-        },
-        {
           "title": "马云，新年现身！谈了AI",
           "url": "https://www.cls.cn/detail/2301784",
           "source": "财联社热门",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时48分 ~ 14时48分]"
+          "appearance_count": 17,
+          "time_info": "[00时48分 ~ 15时38分]"
         },
         {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
@@ -58,8 +58,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时44分 ~ 14时48分]"
+          "appearance_count": 15,
+          "time_info": "[01时44分 ~ 15时38分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -73,6 +73,31 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[05时34分 ~ 12时16分]"
+        },
+        {
+          "title": "谈中美关系、伊朗局势、扩大内需、机器人等，人大新闻发布会回应这些热点",
+          "url": "https://www.cls.cn/detail/2302261",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时43分 ~ 15时38分]"
+        },
+        {
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时15分 ~ 15时38分]"
         },
         {
           "title": "代表建议为AI内容添加不可去除水印",
@@ -99,30 +124,6 @@
           "time_info": "[13时43分 ~ 14时48分]"
         },
         {
-          "title": "谈中美关系、伊朗局势、扩大内需、机器人等，人大新闻发布会回应这些热点",
-          "url": "https://www.cls.cn/detail/2302261",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 14时48分]"
-        },
-        {
-          "title": "AI猫咪的复工vlog",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时15分 ~ 14时48分]"
-        },
-        {
           "title": "OpenAI发布GPT-5.3 Instant模型。 这是该公司最常用的ChatGPT模型的升级版，可降低（对用户请求的）“不必要的拒绝”。 最新模型可以提供更加明确的回应结果。",
           "url": "https://wallstreetcn.com/livenews/3062952",
           "source": "华尔街见闻-快讯",
@@ -143,6 +144,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时43分 ~ 15时38分]"
         },
         {
           "title": "机器人感谢人大代表关心：心里暖暖的",
@@ -193,18 +206,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时48分 ~ 02时47分]"
-        },
-        {
-          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 14时48分]"
         },
         {
           "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
@@ -391,6 +392,17 @@
           "time_info": "02时47分"
         },
         {
+          "title": "6个AI合伙开发搞玩具",
+          "url": "https://search.bilibili.com/all?keyword=6%E4%B8%AAAI%E5%90%88%E4%BC%99%E5%BC%80%E5%8F%91%E6%90%9E%E7%8E%A9%E5%85%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "OpenAI考虑为北约机密网络提供合约",
           "url": "https://flash.jin10.com/detail/20260304092203004800",
           "source": "金十数据",
@@ -430,9 +442,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
+        },
+        {
+          "title": "AI的奥本海默时刻已经到来",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9A%84%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E6%97%B6%E5%88%BB%E5%B7%B2%E7%BB%8F%E5%88%B0%E6%9D%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "美联储Schmid：通胀仍然太高，我们不能掉以轻心。 数据似乎大体表明，劳动力市场处于平衡状态。 不认为人工智能（AI）会造成结构性失业。",
@@ -455,12 +478,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "松下机电宣布投资75亿日元，在中国新建Megtron电路板材料生产线，以应对日益增长的AI服务器需求。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3063418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "七个关键词感知中国经济脉搏",
@@ -470,8 +504,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 14时48分]"
+          "appearance_count": 5,
+          "time_info": "[13时43分 ~ 15时38分]"
+        },
+        {
+          "title": "26位“首席”做客澎湃把脉2026：对中国经济有信心，战略看多A股",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32692329",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时15分 ~ 15时38分]"
         },
         {
           "title": "杀红眼，帆船酒店也被炸，还捅了全球经济大动脉",
@@ -482,8 +529,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 14时48分]"
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 15时38分]"
         },
         {
           "title": "中国中等收入群体可能超过8亿人",
@@ -493,20 +540,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 14时48分]"
-        },
-        {
-          "title": "26位“首席”做客澎湃把脉2026：对中国经济有信心，战略看多A股",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32692329",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时15分 ~ 14时48分]"
+          "appearance_count": 3,
+          "time_info": "[14时47分 ~ 15时38分]"
         },
         {
           "title": "伊朗启动《紧急状态下国家经济韧性提升与民防建设计划》",
@@ -661,7 +696,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -716,9 +751,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
+        },
+        {
+          "title": "日本央行行长植田和男警告伊朗冲突可能对经济造成重大冲击",
+          "url": "https://wallstreetcn.com/livenews/3063420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "日本央行行长植田和男：我们将密切关注中东局势发展对国内外经济的影响。",
