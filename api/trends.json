@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T05:35:22.165766+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-03-05T06:32:21.262016+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时32分]"
         },
         {
           "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时32分]"
         },
         {
           "title": "博士用十年为机器人注入灵魂",
@@ -41,22 +41,24 @@
             13,
             11,
             7,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时32分]"
         },
         {
           "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
           "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时32分]"
         },
         {
           "title": "AI真人微短剧爆火 演员会被替代吗",
@@ -66,8 +68,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时32分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -78,8 +80,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时32分]"
         },
         {
           "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
@@ -89,8 +91,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时32分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -101,11 +103,12 @@
             13,
             16,
             15,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时32分]"
         },
         {
           "title": "AWS 阿联酋数据中心遭物体撞击后起火，同时 Claude 全球宕机，两者有关系吗？如何看待这一风波？",
@@ -115,8 +118,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时32分]"
         },
         {
           "title": "甄子丹：机器人太厉害了 我可能打不过",
@@ -144,13 +147,24 @@
           "time_info": "03时39分"
         },
         {
+          "title": "博通：预计二季度AI芯片收入107亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3063885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
           "title": "代表：所有的工种都不会被AI取代",
           "url": "https://www.toutiao.com/trending/7613364759950131236/",
           "source": "今日头条",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -249,13 +263,24 @@
           "time_info": "04时32分"
         },
         {
+          "title": "博通营收预测令部分投资者失望，凸显AI担忧",
+          "url": "https://flash.jin10.com/detail/20260305053239942800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
           "title": "美国参议院Ron Wyden就特朗普政府在国内实施监控（国内间谍）的政策施压多家人工智能（AI）公司。",
           "url": "https://wallstreetcn.com/livenews/3063848",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -295,8 +320,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时32分]"
         },
         {
           "title": "经济实力跃上新台阶",
@@ -306,8 +331,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时32分]"
         },
         {
           "title": "直击两会丨娄勤俭：中国促进民营经济发展的基本方针政策不能变，也不会变",
@@ -317,8 +342,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时32分]"
         },
         {
           "title": "中国中等收入群体可能超过8亿人",
@@ -329,8 +354,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时32分]"
         },
         {
           "title": "两会深观察｜站上新台阶，中国经济如何再攀高",
@@ -340,8 +365,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 06时32分]"
         },
         {
           "title": "美联储褐皮书：大多数辖区预计经济将轻微、温和增长",
@@ -361,11 +386,12 @@
           "url": "https://flash.jin10.com/detail/20260305045905459800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时32分]"
         },
         {
           "title": "美国国际贸易法院法官下令，对所有未清算的报关单在不适用《国际紧急经济权力法》关税的情况下予以清算。",
@@ -374,7 +400,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
