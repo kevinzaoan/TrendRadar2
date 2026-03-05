@@ -1,670 +1,22 @@
 {
-  "generated_at": "2026-03-05T23:52:12.333914+08:00",
-  "total_titles_processed": 2056,
+  "generated_at": "2026-03-06T02:04:55.583149+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "github AI 机器人 Claude",
-      "match_count": 53,
+      "keyword_group": "经济 房地产 收入",
+      "match_count": 11,
       "titles": [
         {
-          "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
-          "url": "https://www.cls.cn/detail/2302661",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 10时04分]"
-        },
-        {
-          "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
-          "url": "https://www.zhihu.com/question/1922608207504867947",
-          "source": "知乎",
-          "ranks": [
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 10时04分]"
-        },
-        {
-          "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
-          "url": "https://www.zhihu.com/question/2012192001999726052",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            4,
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 10时04分]"
-        },
-        {
-          "title": "博士用十年为机器人注入灵魂",
-          "url": "https://www.douyin.com/hot/2419302",
-          "source": "抖音",
-          "ranks": [
-            15,
-            13,
-            11,
-            7,
-            5,
-            2,
-            17,
-            22,
-            19,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 14时53分]"
-        },
-        {
-          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
-          "url": "https://www.zhihu.com/question/2007415716228330401",
-          "source": "知乎",
-          "ranks": [
-            10,
-            18,
-            6,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时44分 ~ 21时01分]"
-        },
-        {
-          "title": "AI真人微短剧爆火 演员会被替代吗",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9C%9F%E4%BA%BA%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%88%86%E7%81%AB+%E6%BC%94%E5%91%98%E4%BC%9A%E8%A2%AB%E6%9B%BF%E4%BB%A3%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 10时04分]"
-        },
-        {
-          "title": "AI猫咪的复工vlog",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            13,
-            16,
-            15,
-            14,
-            11,
-            9,
-            23,
-            22,
-            28,
-            30,
-            26,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时44分 ~ 23时52分]"
-        },
-        {
-          "title": "AWS 阿联酋数据中心遭物体撞击后起火，同时 Claude 全球宕机，两者有关系吗？如何看待这一风波？",
-          "url": "https://www.zhihu.com/question/2011731606025499798",
-          "source": "知乎",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 10时04分]"
-        },
-        {
-          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
+          "title": "习近平在参加江苏代表团审议时强调，经济大省要在研究新情况解决新问题上下功夫出经验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32707256",
           "source": "澎湃新闻",
           "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 07时31分]"
-        },
-        {
-          "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
-          "url": "https://www.cls.cn/detail/2302628",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 07时31分]"
-        },
-        {
-          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
-          "url": "https://www.cls.cn/detail/2303891",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时34分 ~ 23时52分]"
-        },
-        {
-          "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
-          "url": "https://www.cls.cn/detail/2303258",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时42分 ~ 21时01分]"
-        },
-        {
-          "title": "甄子丹：机器人太厉害了 我可能打不过",
-          "url": "https://www.baidu.com/s?wd=%E7%94%84%E5%AD%90%E4%B8%B9%EF%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%AA%E5%8E%89%E5%AE%B3%E4%BA%86+%E6%88%91%E5%8F%AF%E8%83%BD%E6%89%93%E4%B8%8D%E8%BF%87",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            18,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时35分]"
-        },
-        {
-          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
-          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时39分 ~ 23时52分]"
-        },
-        {
-          "title": "市场消息：亚马逊机器人部门裁员，人数不明。",
-          "url": "https://flash.jin10.com/detail/20260305032852963800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)机器人部门裁员至少100人。",
-          "url": "https://flash.jin10.com/detail/20260305173258696800",
-          "source": "金十数据",
-          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "高盛CEO苏德巍：在人工智能（AI）前景方面，我们“看到杯子装了一半”。",
-          "url": "https://wallstreetcn.com/livenews/3063902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "代表：所有的工种都不会被AI取代",
-          "url": "https://www.toutiao.com/trending/7613364759950131236/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "代表：AI不是来抢饭碗的",
-          "url": "https://www.toutiao.com/trending/7613364759950131236/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "Meta Platforms(META.O)计划开发硅芯片以训练人工智能模型，旨在提升AI能力。",
-          "url": "https://flash.jin10.com/detail/20260305042235977800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "据The Information：OpenAI选定律师事务所Cooley和Wachtell为IPO做准备。",
-          "url": "https://flash.jin10.com/detail/20260305095057425800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "比Deepfake更严重的AI出现了",
-          "url": "https://s.weibo.com/weibo?q=%E6%AF%94Deepfake%E6%9B%B4%E4%B8%A5%E9%87%8D%E7%9A%84AI%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            11,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时42分 ~ 21时01分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：目前并不存在1000亿美元投资机会。 OpenAI（潜在的）IPO限制投资机会。 与OpenAI、Anthropic的协议可能是最后一轮。",
-          "url": "https://wallstreetcn.com/livenews/3063822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时39分]"
-        },
-        {
-          "title": "华为发布AI数据平台，加速企业AI落地应用",
-          "url": "https://wallstreetcn.com/livenews/3063794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 03时39分]"
-        },
-        {
-          "title": "Mosaic股价下跌3.7%，CF Industries跌3.5%。",
-          "url": "https://wallstreetcn.com/livenews/3063819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 04时32分]"
-        },
-        {
-          "title": "博通：预计二季度AI芯片收入107亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3063885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时31分]"
-        },
-        {
-          "title": "亚马逊在机器人部门裁员。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3063839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 05时35分]"
-        },
-        {
-          "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
-          "url": "https://www.cls.cn/detail/2303137",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 14时53分]"
-        },
-        {
-          "title": "一键进入AI幻想世界",
-          "url": "https://www.douyin.com/hot/2419330",
-          "source": "抖音",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 14时53分]"
-        },
-        {
-          "title": "博通营收预测令部分投资者失望，凸显AI担忧",
-          "url": "https://flash.jin10.com/detail/20260305053239942800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时31分]"
-        },
-        {
-          "title": "Claude Code 真的那么厉害吗？",
-          "url": "https://www.zhihu.com/question/2005458619710317173",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时52分]"
-        },
-        {
-          "title": "食堂引入2台6万元的智能炒菜机器人",
-          "url": "https://www.toutiao.com/trending/7612586869767815177/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 22时05分]"
-        },
-        {
-          "title": "北约拟在7月峰会上推动军费转向AI与无人机技术投资",
-          "url": "https://flash.jin10.com/detail/20260305133945841800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "因担心AI冲击就业和经济，英国央行拟开展情景评估并纳入银行压力测试",
-          "url": "https://wallstreetcn.com/livenews/3064319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "OpenAI与Trade Desk Inc.（TTD）围绕广告销售启动初步的磋商。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3063894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "美军被曝使用Claude AI空袭伊朗，负责情报评估与目标识别，专家发出严厉警告",
-          "url": "https://wallstreetcn.com/articles/3766696",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "美媒：前OpenAI高管押注制造业自动化 为AI初创公司Arda融资7000万美元",
-          "url": "https://flash.jin10.com/detail/20260305002035785800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "恒生指数收盘涨0.3%，能源、AI板块领涨，南向资金净卖出277.35亿港元",
-          "url": "https://wallstreetcn.com/livenews/3064358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "英国央行拟推演AI冲击 评估就业与金融风险",
-          "url": "https://flash.jin10.com/detail/20260305133440231800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "据CNBC：OpenAI创始人奥尔特曼预计将于周四在摩根士丹利会议上发言。",
-          "url": "https://flash.jin10.com/detail/20260305041842177800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "Meta计划研发自研芯片，来训练自家的AI模型",
-          "url": "https://wallstreetcn.com/livenews/3063889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "美国参议院Ron Wyden就特朗普政府在国内实施监控（国内间谍）的政策施压多家人工智能（AI）公司。",
-          "url": "https://wallstreetcn.com/livenews/3063848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "博通：预计Anthropic将在2027（财务）年度带来3 GW算力需求。 预计OpenAI将在2027年批量部署芯片。 Meta的定制芯片路线图“正在推进之中，进展不错”。",
-          "url": "https://wallstreetcn.com/livenews/3063886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "黄仁勋排除英伟达向OpenAI投资1000亿美元的可能性",
-          "url": "https://wallstreetcn.com/livenews/3063822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "IDC预测：2026年全球智能机器人硬件市场将近300亿美元 中国有望引领增长",
-          "url": "https://wallstreetcn.com/livenews/3064174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "【工信部部长李乐成：全力推进新一代人工智能产品的攻关和迭代更新】在十四届全国人大四次会议首场“部长通道”集中采访活动上，工业和信息化部部长李乐成表示，2026年工信部将按照政府工作报告要求，大力推动人工智能（AI）和制造业双向奔赴。我国产业门类齐全，创新人才众多，创新生态不断改善，我们有信心，坚信必将有更多的世界级智能产品在这片热土上生产出来。要努力推动AI电脑、AI手机、智能家居，更好满足人民群众对美好生活的需求。要全力推进新一代人工智能产品的攻关和迭代更新，包括脑机接口、自动驾驶汽车、机器人，推动科技攻关、技术迭代。大力支持发展智能农业机械、智能医疗器械，让更多智能产品满足各行各业各领域的需要。",
-          "url": "https://wallstreetcn.com/livenews/3064172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "据华尔街日报：知情人士称，前OpenAI首席研究官正为一家人工智能初创公司筹集7000万美元资金，该初创公司正开发一款软件，以帮助工厂实现自主运行。",
-          "url": "https://flash.jin10.com/detail/20260305000849896800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "工业和信息化部部长李乐成：要坚持AI为人所控",
-          "url": "https://wallstreetcn.com/livenews/3064167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "马斯克为何频繁为中国AI站台",
-          "url": "https://www.toutiao.com/trending/7613576713213054470/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "百度AIGC舌尖遇顺德",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6AIGC%E8%88%8C%E5%B0%96%E9%81%87%E9%A1%BA%E5%BE%B7",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "工业和信息化部部长李乐成：我国规上制造业企业人工智能（AI）技术应用普及率超30%",
-          "url": "https://wallstreetcn.com/livenews/3064161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "阿联酋工业和先进技术部长、阿布扎比国家石油公司集团CEO阿尔·贾比尔：Ruwais液化天然气项目建设进展顺利。",
-          "url": "https://wallstreetcn.com/livenews/3064333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "The Information：OpenAI开发出一款“双向”音频模型。",
-          "url": "https://flash.jin10.com/detail/20260305230503213800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济 房地产 收入",
-      "match_count": 53,
-      "titles": [
-        {
-          "title": "今年经济增长目标4.5%至5%",
-          "url": "https://www.douyin.com/hot/2419453",
-          "source": "抖音",
-          "ranks": [
-            2,
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时04分 ~ 21时01分]"
+          "time_info": "02时04分"
         },
         {
           "title": "今年经济增长目标4.5%至5%",
@@ -674,306 +26,41 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时44分 ~ 23时52分]"
-        },
-        {
-          "title": "经济实力跃上新台阶",
-          "url": "https://www.baidu.com/s?wd=%E7%BB%8F%E6%B5%8E%E5%AE%9E%E5%8A%9B%E8%B7%83%E4%B8%8A%E6%96%B0%E5%8F%B0%E9%98%B6",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 10时04分]"
-        },
-        {
-          "title": "26位“首席”做客澎湃把脉2026：对中国经济有信心，战略看多A股",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32692329",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 07时31分]"
-        },
-        {
-          "title": "《中华人民共和国国民经济和社会发展第十五个五年规划纲要（草案）》摘要",
-          "url": "https://www.cls.cn/detail/2303557",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时48分 ~ 19时34分]"
-        },
-        {
-          "title": "一图读懂 | 2026年中国经济和社会发展“任务清单”",
-          "url": "https://www.cls.cn/detail/2303725",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时52分 ~ 21时01分]"
-        },
-        {
-          "title": "全国政协委员李芸：以主流媒体为载体，加快建设自主可控经济数据国际传播体系",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32696739",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时44分 ~ 23时52分]"
-        },
-        {
-          "title": "李强作政府工作报告：2026年经济增长目标4.5%—5%，赤字率4%左右",
-          "url": "https://wallstreetcn.com/articles/3766774",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时52分 ~ 23时52分]"
-        },
-        {
-          "title": "直击两会丨娄勤俭：中国促进民营经济发展的基本方针政策不能变，也不会变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32698067",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 14时53分]"
-        },
-        {
-          "title": "美以袭击伊朗或令日本经济增长停滞，东京股市显著下跌，为何战争让日本先撑不住了？",
-          "url": "https://www.zhihu.com/question/2011868258307941835",
-          "source": "知乎",
-          "ranks": [
-            13,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时44分 ~ 23时52分]"
-        },
-        {
-          "title": "中国中等收入群体可能超过8亿人",
-          "url": "https://www.toutiao.com/trending/7613253879866687507/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 10时04分]"
-        },
-        {
-          "title": "两会深观察｜站上新台阶，中国经济如何再攀高",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693741",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 13时48分]"
-        },
-        {
-          "title": "代表：房地产有望成为消费新动能",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%EF%BC%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%9C%89%E6%9C%9B%E6%88%90%E4%B8%BA%E6%B6%88%E8%B4%B9%E6%96%B0%E5%8A%A8%E8%83%BD",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            5,
-            4,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时44分 ~ 17时43分]"
-        },
-        {
-          "title": "“大哥”说打就打，日本经济或遭重创，高市早苗呼吁“谈判”",
-          "url": "https://news.ifeng.com/c/8rFIErPuMkA",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时42分 ~ 17时43分]"
+          "appearance_count": 1,
+          "time_info": "02时04分"
         },
         {
           "title": "经济主题记者会明日下午3时举行 郑栅洁、蓝佛安、王文涛、潘功胜、吴清答记者问",
           "url": "https://www.cls.cn/detail/2303890",
           "source": "财联社热门",
           "ranks": [
-            12,
-            9,
-            6,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时39分 ~ 23时52分]"
-        },
-        {
-          "title": "一图速览2026年中国经济任务清单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32699807",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            15,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时42分 ~ 23时52分]"
-        },
-        {
-          "title": "政府工作报告深读｜今年经济增速目标定在4.5%-5%，应该怎么看？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32704417",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17,
-            16,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时42分 ~ 23时52分]"
-        },
-        {
-          "title": "政府工作报告部署2026房地产政策方向: 控增量、去库存、优供给 |两会财经眼",
-          "url": "https://www.cls.cn/detail/2303744",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时42分 ~ 21时01分]"
-        },
-        {
-          "title": "习近平在参加江苏代表团审议时强调，经济大省要在研究新情况解决新问题上下功夫出经验",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32707256",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时51分 ~ 23时52分]"
-        },
-        {
-          "title": "能源危机加剧非洲经济分化 油价飙升重燃多国通胀加息忧虑",
-          "url": "https://flash.jin10.com/detail/20260305173417193800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时43分"
+          "time_info": "02时04分"
         },
         {
-          "title": "欧洲央行会议纪要：欧洲央行官员称汇率未对通胀产生实质性影响。 欧洲央行官员称欧元在2025年出现显著升值。 欧洲央行官员认为全球经济将保持强劲增长。 欧元区尚未出现经济显著降温的情况。",
-          "url": "https://wallstreetcn.com/livenews/3064486",
-          "source": "华尔街见闻-快讯",
+          "title": "李强作政府工作报告：2026年经济增长目标4.5%—5%，赤字率4%左右",
+          "url": "https://wallstreetcn.com/articles/3766774",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时01分"
+          "time_info": "02时04分"
         },
         {
-          "title": "“十四五”时期经济社会发展成就",
-          "url": "https://www.toutiao.com/trending/7613326815164858378/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时44分 ~ 15时42分]"
-        },
-        {
-          "title": "《中华人民共和国国民经济和社会发展第十五个五年规划纲要（草案）》摘要",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32704687",
+          "title": "全国政协委员李芸：以主流媒体为载体，加快建设自主可控经济数据国际传播体系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32696739",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            16,
-            17
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时34分 ~ 23时52分]"
-        },
-        {
-          "title": "美联储褐皮书：大多数辖区预计经济将轻微、温和增长",
-          "url": "https://wallstreetcn.com/livenews/3063832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时39分 ~ 05时35分]"
-        },
-        {
-          "title": "人大会议新闻中心：3月6日下午3时举行经济主题记者会，郑栅洁、蓝佛安、王文涛、潘功胜、吴清出席",
-          "url": "https://wallstreetcn.com/livenews/3064366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 17时43分]"
+          "appearance_count": 1,
+          "time_info": "02时04分"
         },
         {
           "title": "看懂中国经济预期目标的“进”与“稳”",
@@ -983,8 +70,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时05分 ~ 23时52分]"
+          "appearance_count": 1,
+          "time_info": "02时04分"
         },
         {
           "title": "速览“十四五”经济社会发展成就",
@@ -994,314 +81,135 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时05分 ~ 23时52分]"
+          "appearance_count": 1,
+          "time_info": "02时04分"
         },
         {
-          "title": "京东2025年收入13091亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C2025%E5%B9%B4%E6%94%B6%E5%85%A513091%E4%BA%BF%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 21时01分]"
-        },
-        {
-          "title": "IMF警告：中东战争将考验全球经济韧性 更多新冲击将至！",
-          "url": "https://www.cls.cn/detail/2303878",
-          "source": "财联社热门",
+          "title": "一图速览2026年中国经济任务清单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699807",
+          "source": "澎湃新闻",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时51分 ~ 23时52分]"
+          "appearance_count": 1,
+          "time_info": "02时04分"
         },
         {
-          "title": "美国联邦法官下令美国停止计算国际紧急经济权力法下的进口关税。",
-          "url": "https://flash.jin10.com/detail/20260305045905459800",
+          "title": "美以袭击伊朗或令日本经济增长停滞，东京股市显著下跌，为何战争让日本先撑不住了？",
+          "url": "https://www.zhihu.com/question/2011868258307941835",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "政府工作报告深读｜今年经济增速目标定在4.5%-5%，应该怎么看？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32704417",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "《中华人民共和国国民经济和社会发展第十五个五年规划纲要（草案）》摘要",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32704687",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "github AI 机器人 Claude",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
+          "url": "https://www.cls.cn/detail/2303891",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
+          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
+          "url": "https://flash.jin10.com/detail/20260306014710843800",
           "source": "金十数据",
           "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时32分]"
-        },
-        {
-          "title": "欧洲央行副行长金多斯：欧洲经济正受中东局势影响。 在伊朗冲突爆发前夕，欧洲经济表现稳健。 伊朗冲突前风险平衡是双向的。 伊朗冲突加剧了不确定性。 到目前为止市场演变有序。 伊朗冲突爆发后必须采取不同的策略。 通胀预期是欧洲央行采取行动的关键因素。",
-          "url": "https://wallstreetcn.com/livenews/3064382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 18时39分]"
-        },
-        {
-          "title": "陈昌盛：要加快空域资源的开放和低空经济飞行审批程序的优化简化",
-          "url": "https://wallstreetcn.com/livenews/3064317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时42分"
+          "time_info": "02时04分"
         },
         {
-          "title": "欧洲央行管委Rehn：冲突的持续时间和规模将决定其连锁反应。 能源价格上涨可能在短期内推高通胀。 冲突也可能拖累经济增长。 评估冲突影响时需要保持冷静。",
-          "url": "https://wallstreetcn.com/livenews/3064409",
-          "source": "华尔街见闻-快讯",
+          "title": "政府工作报告提出深化拓展“人工智能＋” 代表、委员为AI高质量发展建言献策|两会财经眼",
+          "url": "https://www.cls.cn/detail/2304328",
+          "source": "财联社热门",
           "ranks": [
-            9
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时39分"
+          "time_info": "02时04分"
         },
         {
-          "title": "我国经济顶压前行展现强大韧性",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%A1%B6%E5%8E%8B%E5%89%8D%E8%A1%8C%E5%B1%95%E7%8E%B0%E5%BC%BA%E5%A4%A7%E9%9F%A7%E6%80%A7%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "瑞银：百年数据证明经济基本面才是市场核心驱动力",
-          "url": "https://flash.jin10.com/detail/20260305214601965800",
+          "title": "市场消息：美国起草规则，要求全球范围内AI芯片出口需持有许可证。",
+          "url": "https://flash.jin10.com/detail/20260306013029699800",
           "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时05分"
+          "time_info": "02时04分"
         },
         {
-          "title": "美国国际贸易法院法官下令，对所有未清算的报关单在不适用《国际紧急经济权力法》关税的情况下予以清算。",
-          "url": "https://flash.jin10.com/detail/20260305045704184800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "市场消息：由于担心人工智能技术将导致大量工作岗位流失，并重创大片企业，英国央行正计划对全面人工智能冲击可能带来的经济和金融影响进行演练。",
-          "url": "https://flash.jin10.com/detail/20260305132907855800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "IMF总裁：中东战争将考验全球经济韧性",
-          "url": "https://flash.jin10.com/detail/20260305114655991800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "意大利外交部长：政府已准备好介入，以缓解伊朗危机带来的经济影响。",
-          "url": "https://flash.jin10.com/detail/20260305171649747800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "政府工作报告深读｜稳定房地产市场怎么干：时隔十年再提“去库存”，加强初婚初育家庭住房保障",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32705472",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "国研室解读政府工作报告：今年的经济增长目标积极务实",
-          "url": "https://wallstreetcn.com/livenews/3064210",
-          "source": "华尔街见闻-快讯",
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
+          "source": "bilibili 热搜",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时48分"
+          "time_info": "02时04分"
         },
         {
-          "title": "全球航空业ETF跌2.03%，在美股盘初领跌行业ETF，医疗保健ETF跌1.57%，标普日常消费ETF跌1.28%，房地产精选ETF跌1.20%。 标普油气ETF则涨1.7%，北美科技股软件ETF涨2.0%。",
-          "url": "https://wallstreetcn.com/livenews/3064564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "摩根大通：已将阿联酋的经济增长预期较上周下调2.3个百分点，巴林下调1.5个百分点，卡塔尔下调1.3个百分点。",
-          "url": "https://flash.jin10.com/detail/20260305184908683800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "聚飞光电：公司MicroLED技术未应用于CPO领域 也未因CPO产生收入",
-          "url": "https://wallstreetcn.com/livenews/3064465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时01分"
-        },
-        {
-          "title": "美联储褐皮书：在十二个地区中，七个地区的总体经济活动以轻微至温和的速度增长，而报告经济活动持平或下滑的地区数量则从前一时期的四个增加到本期的五个。",
-          "url": "https://flash.jin10.com/detail/20260305030203847800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "汽车之家在港交所公告称，2025年第四季度净收入总额为14.62亿元，2024年同期为17.83亿元；第四季度归属于汽车之家的净利润为2.34亿元，2024年同期为3.2亿元。",
-          "url": "https://wallstreetcn.com/livenews/3064426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "习近平在参加江苏代表团审议时强调，经济大省要在研究新情况解决新问题上下功夫出经验。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3064463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时01分"
-        },
-        {
-          "title": "美联储褐皮书：总体而言，经济预期乐观，多数地区预计未来几个月经济将呈现小幅至温和增长。",
-          "url": "https://flash.jin10.com/detail/20260305030049842800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "政府工作报告丨2026年发展主要预期目标：经济增长4.5%—5%",
-          "url": "https://wallstreetcn.com/livenews/3064023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "今年经济增长目标4.5%至5%",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E7%9B%AE%E6%A0%874.5%25%E8%87%B35%25%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "“十五五”时期数字经济核心产业增加值占国内生产总值比重达到12.5%",
-          "url": "https://wallstreetcn.com/livenews/3064016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "博通(AVGO.O)股价盘前上涨6%，此前该公司预计人工智能芯片业务收入明年将超过1000亿美元，并宣布启动新的股票回购计划。",
-          "url": "https://flash.jin10.com/detail/20260305170820646800",
-          "source": "金十数据",
+          "title": "食堂引入2台6万元的智能炒菜机器人",
+          "url": "https://www.toutiao.com/trending/7612586869767815177/",
+          "source": "今日头条",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "分析师：伊朗冲突对印度经济的冲击大于通胀",
-          "url": "https://flash.jin10.com/detail/20260305175522174800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "印度钢铁交易所公司：拟通过定向增发筹集35亿卢比，IMR集团将投资30亿卢比。",
-          "url": "https://wallstreetcn.com/livenews/3064276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时53分"
+          "time_info": "02时04分"
         }
       ]
     }
