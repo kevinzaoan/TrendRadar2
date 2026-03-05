@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T22:05:29.115925+08:00",
-  "total_titles_processed": 1940,
+  "generated_at": "2026-03-05T23:52:12.333914+08:00",
+  "total_titles_processed": 2056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
@@ -113,8 +113,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时44分 ~ 22时05分]"
+          "appearance_count": 23,
+          "time_info": "[00时44分 ~ 23时52分]"
         },
         {
           "title": "AWS 阿联酋数据中心遭物体撞击后起火，同时 Claude 全球宕机，两者有关系吗？如何看待这一风波？",
@@ -153,6 +153,20 @@
           "time_info": "[00时44分 ~ 07时31分]"
         },
         {
+          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
+          "url": "https://www.cls.cn/detail/2303891",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时34分 ~ 23时52分]"
+        },
+        {
           "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
           "url": "https://www.cls.cn/detail/2303258",
           "source": "财联社热门",
@@ -181,6 +195,17 @@
           "time_info": "[00时44分 ~ 05时35分]"
         },
         {
+          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
+          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时39分 ~ 23时52分]"
+        },
+        {
           "title": "市场消息：亚马逊机器人部门裁员，人数不明。",
           "url": "https://flash.jin10.com/detail/20260305032852963800",
           "source": "金十数据",
@@ -190,19 +215,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
-        },
-        {
-          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
-          "url": "https://www.cls.cn/detail/2303891",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时34分 ~ 22时05分]"
         },
         {
           "title": "亚马逊(AMZN.O)机器人部门裁员至少100人。",
@@ -295,17 +307,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时52分 ~ 03时39分]"
-        },
-        {
-          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
-          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时39分 ~ 22时05分]"
         },
         {
           "title": "华为发布AI数据平台，加速企业AI落地应用",
@@ -634,12 +635,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
+        },
+        {
+          "title": "The Information：OpenAI开发出一款“双向”音频模型。",
+          "url": "https://flash.jin10.com/detail/20260305230503213800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "今年经济增长目标4.5%至5%",
@@ -662,8 +674,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时44分 ~ 22时05分]"
+          "appearance_count": 14,
+          "time_info": "[12时44分 ~ 23时52分]"
         },
         {
           "title": "经济实力跃上新台阶",
@@ -725,8 +737,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时44分 ~ 22时05分]"
+          "appearance_count": 14,
+          "time_info": "[12时44分 ~ 23时52分]"
         },
         {
           "title": "李强作政府工作报告：2026年经济增长目标4.5%—5%，赤字率4%左右",
@@ -738,8 +750,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时52分 ~ 22时05分]"
+          "appearance_count": 12,
+          "time_info": "[14时52分 ~ 23时52分]"
         },
         {
           "title": "直击两会丨娄勤俭：中国促进民营经济发展的基本方针政策不能变，也不会变",
@@ -765,8 +777,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时44分 ~ 22时05分]"
+          "appearance_count": 14,
+          "time_info": "[12时44分 ~ 23时52分]"
         },
         {
           "title": "中国中等收入群体可能超过8亿人",
@@ -822,6 +834,52 @@
           "time_info": "[15时42分 ~ 17时43分]"
         },
         {
+          "title": "经济主题记者会明日下午3时举行 郑栅洁、蓝佛安、王文涛、潘功胜、吴清答记者问",
+          "url": "https://www.cls.cn/detail/2303890",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时39分 ~ 23时52分]"
+        },
+        {
+          "title": "一图速览2026年中国经济任务清单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699807",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时42分 ~ 23时52分]"
+        },
+        {
+          "title": "政府工作报告深读｜今年经济增速目标定在4.5%-5%，应该怎么看？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32704417",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17,
+            16,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时42分 ~ 23时52分]"
+        },
+        {
           "title": "政府工作报告部署2026房地产政策方向: 控增量、去库存、优供给 |两会财经眼",
           "url": "https://www.cls.cn/detail/2303744",
           "source": "财联社热门",
@@ -836,6 +894,17 @@
           "time_info": "[15时42分 ~ 21时01分]"
         },
         {
+          "title": "习近平在参加江苏代表团审议时强调，经济大省要在研究新情况解决新问题上下功夫出经验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32707256",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时51分 ~ 23时52分]"
+        },
+        {
           "title": "能源危机加剧非洲经济分化 油价飙升重燃多国通胀加息忧虑",
           "url": "https://flash.jin10.com/detail/20260305173417193800",
           "source": "金十数据",
@@ -845,50 +914,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
-        },
-        {
-          "title": "一图速览2026年中国经济任务清单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32699807",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            15,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时42分 ~ 22时05分]"
-        },
-        {
-          "title": "政府工作报告深读｜今年经济增速目标定在4.5%-5%，应该怎么看？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32704417",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时42分 ~ 22时05分]"
-        },
-        {
-          "title": "经济主题记者会明日下午3时举行 郑栅洁、蓝佛安、王文涛、潘功胜、吴清答记者问",
-          "url": "https://www.cls.cn/detail/2303890",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时39分 ~ 22时05分]"
         },
         {
           "title": "欧洲央行会议纪要：欧洲央行官员称汇率未对通胀产生实质性影响。 欧洲央行官员称欧元在2025年出现显著升值。 欧洲央行官员认为全球经济将保持强劲增长。 欧元区尚未出现经济显著降温的情况。",
@@ -911,6 +936,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时44分 ~ 15时42分]"
+        },
+        {
+          "title": "《中华人民共和国国民经济和社会发展第十五个五年规划纲要（草案）》摘要",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32704687",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时34分 ~ 23时52分]"
         },
         {
           "title": "美联储褐皮书：大多数辖区预计经济将轻微、温和增长",
@@ -938,16 +976,26 @@
           "time_info": "[16时41分 ~ 17时43分]"
         },
         {
-          "title": "《中华人民共和国国民经济和社会发展第十五个五年规划纲要（草案）》摘要",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32704687",
-          "source": "澎湃新闻",
+          "title": "看懂中国经济预期目标的“进”与“稳”",
+          "url": "https://www.toutiao.com/trending/7613755910535564810/",
+          "source": "今日头条",
           "ranks": [
-            18,
-            16
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时34分 ~ 22时05分]"
+          "time_info": "[22时05分 ~ 23时52分]"
+        },
+        {
+          "title": "速览“十四五”经济社会发展成就",
+          "url": "https://www.douyin.com/hot/2420278",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时05分 ~ 23时52分]"
         },
         {
           "title": "京东2025年收入13091亿",
@@ -960,6 +1008,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时34分 ~ 21时01分]"
+        },
+        {
+          "title": "IMF警告：中东战争将考验全球经济韧性 更多新冲击将至！",
+          "url": "https://www.cls.cn/detail/2303878",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时51分 ~ 23时52分]"
         },
         {
           "title": "美国联邦法官下令美国停止计算国际紧急经济权力法下的进口关税。",
@@ -984,17 +1043,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时43分 ~ 18时39分]"
-        },
-        {
-          "title": "看懂中国经济预期目标的“进”与“稳”",
-          "url": "https://www.toutiao.com/trending/7613755910535564810/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
         },
         {
           "title": "陈昌盛：要加快空域资源的开放和低空经济飞行审批程序的优化简化",
@@ -1030,24 +1078,13 @@
           "time_info": "15时42分"
         },
         {
-          "title": "速览“十四五”经济社会发展成就",
-          "url": "https://www.douyin.com/hot/2420278",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
           "title": "瑞银：百年数据证明经济基本面才是市场核心驱动力",
           "url": "https://flash.jin10.com/detail/20260305214601965800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1102,7 +1139,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1116,6 +1153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "全球航空业ETF跌2.03%，在美股盘初领跌行业ETF，医疗保健ETF跌1.57%，标普日常消费ETF跌1.28%，房地产精选ETF跌1.20%。 标普油气ETF则涨1.7%，北美科技股软件ETF涨2.0%。",
+          "url": "https://wallstreetcn.com/livenews/3064564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "摩根大通：已将阿联酋的经济增长预期较上周下调2.3个百分点，巴林下调1.5个百分点，卡塔尔下调1.3个百分点。",
