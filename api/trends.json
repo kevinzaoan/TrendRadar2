@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T16:39:00.712696+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-03-06T17:38:55.046492+08:00",
+  "total_titles_processed": 1419,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -20,6 +20,19 @@
           "time_info": "[02时04分 ~ 07时51分]"
         },
         {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时03分 ~ 17时38分]"
+        },
+        {
           "title": "政府工作报告提出深化拓展“人工智能＋” 代表、委员为AI高质量发展建言献策|两会财经眼",
           "url": "https://www.cls.cn/detail/2304328",
           "source": "财联社热门",
@@ -32,19 +45,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时04分 ~ 13时45分]"
-        },
-        {
-          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
-          "url": "https://wallstreetcn.com/articles/3766836",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时03分 ~ 16时39分]"
         },
         {
           "title": "社区食堂引入2台6万元的炒菜机器人",
@@ -62,6 +62,17 @@
           "time_info": "[10时03分 ~ 16时39分]"
         },
         {
+          "title": "全国首例AI幻觉侵权纠纷案判了",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E5%9B%BD%E9%A6%96%E4%BE%8BAI%E5%B9%BB%E8%A7%89%E4%BE%B5%E6%9D%83%E7%BA%A0%E7%BA%B7%E6%A1%88%E5%88%A4%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 17时38分]"
+        },
+        {
           "title": "AI猫咪的复工vlog",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
           "source": "bilibili 热搜",
@@ -75,17 +86,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时04分 ~ 10时04分]"
-        },
-        {
-          "title": "全国首例AI幻觉侵权纠纷案判了",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E5%9B%BD%E9%A6%96%E4%BE%8BAI%E5%B9%BB%E8%A7%89%E4%BE%B5%E6%9D%83%E7%BA%A0%E7%BA%B7%E6%A1%88%E5%88%A4%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 16时39分]"
         },
         {
           "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
@@ -121,6 +121,20 @@
           "time_info": "[10时03分 ~ 10时04分]"
         },
         {
+          "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
+          "url": "https://www.cls.cn/detail/2304544",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 17时38分]"
+        },
+        {
           "title": "OpenAI将把从英伟达(NVDA.O)和亚马逊(AMZN.O)循环融资获得的资金借给软银。",
           "url": "https://flash.jin10.com/detail/20260306120949776800",
           "source": "金十数据",
@@ -130,19 +144,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
-        },
-        {
-          "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
-          "url": "https://www.cls.cn/detail/2304544",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 16时39分]"
         },
         {
           "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
@@ -194,6 +195,17 @@
           "time_info": "[02时04分 ~ 07时51分]"
         },
         {
+          "title": "AI相关产业规模将超10万亿元",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9B%B8%E5%85%B3%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E5%B0%86%E8%B6%8510%E4%B8%87%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 17时38分]"
+        },
+        {
           "title": "甲骨文因AI数据中心扩张成本激增，计划裁员数千人",
           "url": "https://wallstreetcn.com/livenews/3064643",
           "source": "华尔街见闻-快讯",
@@ -207,6 +219,18 @@
           "time_info": "[03时52分 ~ 05时35分]"
         },
         {
+          "title": "破5亿播放AI短剧成本仅3000",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 17时38分]"
+        },
+        {
           "title": "忍住AI让我把食欲忍住",
           "url": "https://www.douyin.com/hot/2420009",
           "source": "抖音",
@@ -217,17 +241,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时03分 ~ 13时45分]"
-        },
-        {
-          "title": "AI相关产业规模将超10万亿元",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9B%B8%E5%85%B3%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E5%B0%86%E8%B6%8510%E4%B8%87%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 16时39分]"
         },
         {
           "title": "软银寻求高达400亿美元的创纪录贷款，用于收购OpenAI股份。（彭博）",
@@ -323,17 +336,6 @@
           "time_info": "[16时38分 ~ 16时39分]"
         },
         {
-          "title": "破5亿播放AI短剧成本仅3000",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 16时39分]"
-        },
-        {
           "title": "春晚机器人开起便利店",
           "url": "https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E8%B5%B7%E4%BE%BF%E5%88%A9%E5%BA%97",
           "source": "百度热搜",
@@ -373,9 +375,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "TES上报Naiyou不当行为",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
@@ -387,6 +400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "TES上报Naiyou不正当行为",
+          "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "英国将推迟作出关于AI版权规则的决定。（英国金融时报）",
@@ -422,6 +446,39 @@
           "time_info": "06时33分"
         },
         {
+          "title": "千问持续推进AI生活服务落地",
+          "url": "https://wallstreetcn.com/livenews/3065107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "智元机器人等入股AI公司福来数创",
+          "url": "https://wallstreetcn.com/livenews/3065106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "商务部：机器人成我国外贸新标签",
+          "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%EF%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%88%90%E6%88%91%E5%9B%BD%E5%A4%96%E8%B4%B8%E6%96%B0%E6%A0%87%E7%AD%BE",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "OpenAI发布旗舰模型GPT-5.4 助力专业金融工作流程",
           "url": "https://flash.jin10.com/detail/20260306025523028800",
           "source": "金十数据",
@@ -453,12 +510,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "Naiyou疑似假赛",
+          "url": "https://s.weibo.com/weibo?q=%23Naiyou%E7%96%91%E4%BC%BC%E5%81%87%E8%B5%9B%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "习近平在参加江苏代表团审议时强调，经济大省要在研究新情况解决新问题上下功夫出经验",
@@ -469,8 +537,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时04分 ~ 16时39分]"
+          "appearance_count": 16,
+          "time_info": "[02时04分 ~ 17时38分]"
         },
         {
           "title": "【早报】经济主题记者会今日将举行；央行将开展8000亿元买断式逆回购操作",
@@ -539,8 +607,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 16时39分]"
+          "appearance_count": 5,
+          "time_info": "[15时38分 ~ 17时38分]"
         },
         {
           "title": "全国人大举行经济主题记者会",
@@ -550,8 +618,34 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 16时39分]"
+          "appearance_count": 5,
+          "time_info": "[15时38分 ~ 17时38分]"
+        },
+        {
+          "title": "教育、消费、就业、民营经济……代表委员热议政府工作报告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32706447",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时03分 ~ 17时38分]"
+        },
+        {
+          "title": "经济主题记者会",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%8F%E6%B5%8E%E4%B8%BB%E9%A2%98%E8%AE%B0%E8%80%85%E4%BC%9A%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时38分 ~ 17时38分]"
         },
         {
           "title": "政府工作报告深读｜今年经济增速目标定在4.5%-5%，应该怎么看？",
@@ -568,29 +662,18 @@
           "time_info": "[02时04分 ~ 12时42分]"
         },
         {
-          "title": "教育、消费、就业、民营经济……代表委员热议政府工作报告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32706447",
-          "source": "澎湃新闻",
+          "title": "京东 5000 ㎡ 幼儿园试运营，首招 50 名幼儿，试水背后是一笔怎样的经济账？会有其他大厂跟进吗？",
+          "url": "https://www.zhihu.com/question/2012969716184998816",
+          "source": "知乎",
           "ranks": [
-            20,
-            18,
-            17
+            8,
+            10,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时03分 ~ 16时39分]"
-        },
-        {
-          "title": "经济主题记者会",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%8F%E6%B5%8E%E4%B8%BB%E9%A2%98%E8%AE%B0%E8%80%85%E4%BC%9A%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 16时39分]"
+          "appearance_count": 7,
+          "time_info": "[13时45分 ~ 17时38分]"
         },
         {
           "title": "速览“十四五”经济社会发展成就",
@@ -628,18 +711,18 @@
           "time_info": "[02时04分 ~ 10时04分]"
         },
         {
-          "title": "京东 5000 ㎡ 幼儿园试运营，首招 50 名幼儿，试水背后是一笔怎样的经济账？会有其他大厂跟进吗？",
-          "url": "https://www.zhihu.com/question/2012969716184998816",
-          "source": "知乎",
+          "title": "解读工作报告，十位首席经济学家有这些重要共识",
+          "url": "https://www.cls.cn/detail/2304815",
+          "source": "财联社热门",
           "ranks": [
-            8,
             10,
+            9,
             6,
             5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时45分 ~ 16时39分]"
+          "time_info": "[14时50分 ~ 17时38分]"
         },
         {
           "title": "怎么看今年经济增长预期目标",
@@ -662,6 +745,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时04分 ~ 03时52分]"
+        },
+        {
+          "title": "经济主题记者会举行 郑栅洁、蓝佛安、王文涛、潘功胜、吴清出席",
+          "url": "https://www.cls.cn/detail/2304811",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时38分 ~ 17时38分]"
         },
         {
           "title": "美以袭击伊朗或令日本经济增长停滞，东京股市显著下跌，为何战争让日本先撑不住了？",
@@ -689,6 +785,17 @@
           "time_info": "[02时04分 ~ 07时51分]"
         },
         {
+          "title": "全国人大经济主题记者会",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E7%BB%8F%E6%B5%8E%E4%B8%BB%E9%A2%98%E8%AE%B0%E8%80%85%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时38分 ~ 17时38分]"
+        },
+        {
           "title": "国家发展改革委主任：今年加力提升宏观经济的调控效率 重力度也重协同",
           "url": "https://wallstreetcn.com/livenews/3064971",
           "source": "华尔街见闻-快讯",
@@ -700,52 +807,41 @@
           "time_info": "15时39分"
         },
         {
-          "title": "解读工作报告，十位首席经济学家有这些重要共识",
-          "url": "https://www.cls.cn/detail/2304815",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时50分 ~ 16时39分]"
-        },
-        {
-          "title": "全国人大经济主题记者会",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E7%BB%8F%E6%B5%8E%E4%B8%BB%E9%A2%98%E8%AE%B0%E8%80%85%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 16时39分]"
-        },
-        {
-          "title": "经济主题记者会举行 郑栅洁、蓝佛安、王文涛、潘功胜、吴清出席",
-          "url": "https://www.cls.cn/detail/2304811",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 16时39分]"
-        },
-        {
           "title": "政府工作报告深读｜经济增速目标为调结构、防风险、促改革留出空间，财政政策如何更加积极？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32706672",
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 16时39分]"
+          "appearance_count": 5,
+          "time_info": "[15时38分 ~ 17时38分]"
+        },
+        {
+          "title": "飞机头等舱真的比经济舱舒服很多吗？",
+          "url": "https://www.zhihu.com/question/1996540601261393784",
+          "source": "知乎",
+          "ranks": [
+            20,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 17时38分]"
+        },
+        {
+          "title": "经济主题记者会",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%8F%E6%B5%8E%E4%B8%BB%E9%A2%98%E8%AE%B0%E8%80%85%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 17时38分]"
         },
         {
           "title": "美联储理事鲍曼：现在判断战争对美国经济的影响还为时过早。",
@@ -760,26 +856,15 @@
           "time_info": "[03时52分 ~ 04时37分]"
         },
         {
-          "title": "飞机头等舱真的比经济舱舒服很多吗？",
-          "url": "https://www.zhihu.com/question/1996540601261393784",
-          "source": "知乎",
+          "title": "金融活水流向实体经济",
+          "url": "https://www.douyin.com/hot/2421151",
+          "source": "抖音",
           "ranks": [
-            20
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 16时39分]"
-        },
-        {
-          "title": "经济主题记者会",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%8F%E6%B5%8E%E4%B8%BB%E9%A2%98%E8%AE%B0%E8%80%85%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 16时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "欧洲央行执委Escrivá：中东冲突可能影响全球经济。 我们已看到一些影响，但目前对物价的影响可能仅为几个百分点，不会更高。 15天后我们将掌握更多有关对货币政策影响的信息。 除暂时性影响外，评估全面影响仍需更多时间。 若需求放缓，对物价可能产生不同影响，我们关注的是中期影响。 市场的波动并不必然意味着欧洲央行会采取行动。 无法预判欧洲央行的下一次决策。",
@@ -788,7 +873,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -799,7 +884,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -810,7 +895,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -843,7 +928,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         }
