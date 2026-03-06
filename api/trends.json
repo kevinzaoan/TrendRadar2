@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T05:29:57.595657+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-03-07T06:29:19.465505+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 06时29分]"
         },
         {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 06时29分]"
         },
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 06时29分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 06时29分]"
         },
         {
           "title": "TES上报Naiyou不当行为",
@@ -65,8 +65,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 06时29分]"
         },
         {
           "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
@@ -76,8 +76,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 06时29分]"
+        },
+        {
+          "title": "Naiyou Jiaqi",
+          "url": "https://s.weibo.com/weibo?q=Naiyou%20Jiaqi&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 06时29分]"
         },
         {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
@@ -91,16 +104,18 @@
           "time_info": "[00时41分 ~ 05时29分]"
         },
         {
-          "title": "Naiyou Jiaqi",
-          "url": "https://s.weibo.com/weibo?q=Naiyou%20Jiaqi&t=31&band_rank=21&Refer=top",
-          "source": "微博",
+          "title": "烧坏几十台宇树机器人换来“全能王”",
+          "url": "https://www.baidu.com/s?wd=%E7%83%A7%E5%9D%8F%E5%87%A0%E5%8D%81%E5%8F%B0%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8D%A2%E6%9D%A5%E2%80%9C%E5%85%A8%E8%83%BD%E7%8E%8B%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            21,
-            22
+            24,
+            29,
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 06时29分]"
         },
         {
           "title": "猫尾巴被扫地机器人卷入 拖行10分钟",
@@ -130,19 +145,6 @@
           "time_info": "[02时45分 ~ 04时32分]"
         },
         {
-          "title": "烧坏几十台宇树机器人换来“全能王”",
-          "url": "https://www.baidu.com/s?wd=%E7%83%A7%E5%9D%8F%E5%87%A0%E5%8D%81%E5%8F%B0%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8D%A2%E6%9D%A5%E2%80%9C%E5%85%A8%E8%83%BD%E7%8E%8B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 03时35分]"
-        },
-        {
           "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
           "url": "https://wallstreetcn.com/articles/3766836",
           "source": "华尔街见闻",
@@ -153,6 +155,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时41分 ~ 02时45分]"
+        },
+        {
+          "title": "亚马逊：客户可以继续使用Anthropic的Claude。",
+          "url": "https://flash.jin10.com/detail/20260307034037320800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时32分 ~ 06时29分]"
         },
         {
           "title": "AI短剧霍去病持续刷屏",
@@ -179,17 +192,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时41分 ~ 02时45分]"
-        },
-        {
-          "title": "亚马逊：客户可以继续使用Anthropic的Claude。",
-          "url": "https://flash.jin10.com/detail/20260307034037320800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 05时29分]"
         },
         {
           "title": "TES上报Naiyou不正当行为",
@@ -232,7 +234,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -262,7 +264,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "全国人大举行经济主题记者会",
@@ -272,19 +274,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 06时29分]"
         },
         {
           "title": "两会经济主题记者会举行，郑栅洁、蓝佛安、王文涛、潘功胜、吴清答记者问，一图速览要点",
           "url": "https://www.cls.cn/detail/2305453",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 06时29分]"
         },
         {
           "title": "人大经济主题会：六大新兴支柱2030年产值有望增至10万亿元以上，千亿级财政安排促内需，完善稳市机制建设",
@@ -295,19 +298,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 06时29分]"
         },
         {
           "title": "阿联酋考虑冻结伊朗资产！此举或重创伊朗经济命脉",
           "url": "https://www.cls.cn/detail/2305209",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 06时29分]"
         },
         {
           "title": "飞机头等舱真的比经济舱舒服很多吗？",
@@ -319,8 +323,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 02时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 06时29分]"
         },
         {
           "title": "美国商务部：美国商务部长卢特尼克周五会见了日本经济产业大臣赤泽亮正。",
@@ -332,6 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "两会日报 | 经济主题记者会举行，5部门负责人权威发声",
+          "url": "https://www.cls.cn/detail/2305470",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         },
         {
           "title": "沙特财政部发言人：经济活动继续正常运行，整体经济保持开放。",
