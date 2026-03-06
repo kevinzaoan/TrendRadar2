@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T06:29:19.465505+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-03-07T07:28:25.129752+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "真实锐评TES打野Naiyou被调查",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 07时28分]"
         },
         {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 07时28分]"
         },
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 07时28分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 07时28分]"
         },
         {
           "title": "TES上报Naiyou不当行为",
@@ -62,11 +62,12 @@
             7,
             14,
             16,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 07时28分]"
         },
         {
           "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
@@ -76,8 +77,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 07时28分]"
         },
         {
           "title": "Naiyou Jiaqi",
@@ -86,11 +87,12 @@
           "ranks": [
             21,
             22,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 07时28分]"
         },
         {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
@@ -114,8 +116,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 06时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 07时28分]"
         },
         {
           "title": "猫尾巴被扫地机器人卷入 拖行10分钟",
@@ -145,6 +147,31 @@
           "time_info": "[02时45分 ~ 04时32分]"
         },
         {
+          "title": "亚马逊：客户可以继续使用Anthropic的Claude。",
+          "url": "https://flash.jin10.com/detail/20260307034037320800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时32分 ~ 07时28分]"
+        },
+        {
+          "title": "雷军：小米机器人在拧螺丝了",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E6%8B%A7%E8%9E%BA%E4%B8%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            26,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 07时28分]"
+        },
+        {
           "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
           "url": "https://wallstreetcn.com/articles/3766836",
           "source": "华尔街见闻",
@@ -157,17 +184,6 @@
           "time_info": "[00时41分 ~ 02时45分]"
         },
         {
-          "title": "亚马逊：客户可以继续使用Anthropic的Claude。",
-          "url": "https://flash.jin10.com/detail/20260307034037320800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时32分 ~ 06时29分]"
-        },
-        {
           "title": "AI短剧霍去病持续刷屏",
           "url": "https://www.douyin.com/hot/2421579",
           "source": "抖音",
@@ -175,19 +191,6 @@
             24,
             28,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 02时45分]"
-        },
-        {
-          "title": "雷军：小米机器人在拧螺丝了",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E6%8B%A7%E8%9E%BA%E4%B8%9D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            26,
-            27
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -226,6 +229,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "在 AI 能秒答一切的时代，人的核心竞争力到底是什么？",
+          "url": "https://www.zhihu.com/question/1992302419741266883",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "受融资分歧及OpenAI需求变更影响，甲骨文与OpenAI已取消扩建德州旗舰AI数据中心的计划。（彭博社）",
@@ -274,8 +288,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 07时28分]"
         },
         {
           "title": "两会经济主题记者会举行，郑栅洁、蓝佛安、王文涛、潘功胜、吴清答记者问，一图速览要点",
@@ -286,8 +300,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 07时28分]"
         },
         {
           "title": "人大经济主题会：六大新兴支柱2030年产值有望增至10万亿元以上，千亿级财政安排促内需，完善稳市机制建设",
@@ -295,11 +309,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 07时28分]"
         },
         {
           "title": "阿联酋考虑冻结伊朗资产！此举或重创伊朗经济命脉",
@@ -310,8 +325,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 07时28分]"
         },
         {
           "title": "飞机头等舱真的比经济舱舒服很多吗？",
@@ -320,11 +335,23 @@
           "ranks": [
             10,
             17,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 07时28分]"
+        },
+        {
+          "title": "两会日报 | 经济主题记者会举行，5部门负责人权威发声",
+          "url": "https://www.cls.cn/detail/2305470",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时28分]"
         },
         {
           "title": "美国商务部：美国商务部长卢特尼克周五会见了日本经济产业大臣赤泽亮正。",
@@ -336,17 +363,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
-        },
-        {
-          "title": "两会日报 | 经济主题记者会举行，5部门负责人权威发声",
-          "url": "https://www.cls.cn/detail/2305470",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
         },
         {
           "title": "沙特财政部发言人：经济活动继续正常运行，整体经济保持开放。",
