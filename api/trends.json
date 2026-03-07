@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T05:21:52.974314+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-03-08T06:24:03.650031+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 05时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "3人48小时做出5亿播放量AI短剧",
@@ -30,8 +30,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "TES主教练谈naiyou事件",
@@ -40,11 +40,12 @@
           "ranks": [
             13,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 05时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "在AI的加速时代，我们到底在害怕错过什么？",
@@ -55,8 +56,34 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 06时24分]"
+        },
+        {
+          "title": "破5亿播放AI短剧成本仅3000元",
+          "url": "https://www.toutiao.com/trending/7614214812960034340/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时28分 ~ 05时21分]"
+          "time_info": "[02时34分 ~ 06时24分]"
+        },
+        {
+          "title": "林俊旸离职风波暴露了大厂与技术负责人的哪些分歧？你认为该如何化解「既要、又要、还要」的 AI 管理难题？",
+          "url": "https://www.zhihu.com/question/2013358487866996726",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时34分 ~ 06时24分]"
         },
         {
           "title": "破 5 亿播放 AI 短剧成本仅 3000，这是新的风口吗？给影视行业带来哪些影响？",
@@ -82,31 +109,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时28分 ~ 04时26分]"
-        },
-        {
-          "title": "破5亿播放AI短剧成本仅3000元",
-          "url": "https://www.toutiao.com/trending/7614214812960034340/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时34分 ~ 05时21分]"
-        },
-        {
-          "title": "林俊旸离职风波暴露了大厂与技术负责人的哪些分歧？你认为该如何化解「既要、又要、还要」的 AI 管理难题？",
-          "url": "https://www.zhihu.com/question/2013358487866996726",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时34分 ~ 05时21分]"
         },
         {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
@@ -167,6 +169,17 @@
           "time_info": "[02时34分 ~ 03时22分]"
         },
         {
+          "title": "杀戮尖塔2故障机器人卡牌解析",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%80%E6%88%AE%E5%B0%96%E5%A1%942%E6%95%85%E9%9A%9C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%A1%E7%89%8C%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 06时24分]"
+        },
+        {
           "title": "据Techmeme：OpenAI硬件与机器人工程负责人Caitlin Kalinowski辞职，原因是美国对国内监控和致命自主武器系统的担忧。",
           "url": "https://flash.jin10.com/detail/20260308014504453800",
           "source": "金十数据",
@@ -195,8 +208,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 05时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "巴基斯坦信息部：目前在宏观经济稳定方面，我们处于一个良好的位置，能源储备也保持在合理水平，因此现在没有任何恐慌的情况。",
@@ -216,11 +229,25 @@
           "ranks": [
             13,
             14,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 06时24分]"
+        },
+        {
+          "title": "霍启刚：建议降低中等收入群体税率",
+          "url": "https://www.toutiao.com/trending/7614347939549642815/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 06时24分]"
         },
         {
           "title": "全国政协委员、宁德时代董事长曾毓群：信任感才能形成品牌力量、消费力量、经济力量",
@@ -232,18 +259,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 02时34分]"
-        },
-        {
-          "title": "霍启刚：建议降低中等收入群体税率",
-          "url": "https://www.toutiao.com/trending/7614347939549642815/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 05时21分]"
         },
         {
           "title": "阿联酋官员：战争迟早会结束；阿联酋的税收制度及国家经济基本面依然是该地区最具吸引力的之一，经济基本面非常强劲。",
