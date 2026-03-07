@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T12:02:29.814743+08:00",
-  "total_titles_processed": 933,
+  "generated_at": "2026-03-07T13:37:29.065581+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -21,19 +21,6 @@
           "time_info": "[00时41分 ~ 09时56分]"
         },
         {
-          "title": "真实锐评TES打野Naiyou被调查",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 12时02分]"
-        },
-        {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
           "url": "https://www.cls.cn/detail/2305626",
           "source": "财联社热门",
@@ -42,8 +29,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 12时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 13时37分]"
+        },
+        {
+          "title": "真实锐评TES打野Naiyou被调查",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            4,
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 13时37分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -67,11 +68,12 @@
             16,
             17,
             20,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 09时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 13时37分]"
         },
         {
           "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
@@ -81,8 +83,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 12时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 13时37分]"
         },
         {
           "title": "Naiyou Jiaqi",
@@ -124,6 +126,18 @@
           "time_info": "[00时41分 ~ 07时28分]"
         },
         {
+          "title": "养龙虾，今年最大AI风暴",
+          "url": "https://wallstreetcn.com/articles/3766910",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 13时37分]"
+        },
+        {
           "title": "猫尾巴被扫地机器人卷入 拖行10分钟",
           "url": "https://www.baidu.com/s?wd=%E7%8C%AB%E5%B0%BE%E5%B7%B4%E8%A2%AB%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%B7%E5%85%A5+%E6%8B%96%E8%A1%8C10%E5%88%86%E9%92%9F",
           "source": "百度热搜",
@@ -136,6 +150,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时35分 ~ 04时32分]"
+        },
+        {
+          "title": "AI短剧霍去病持续刷屏",
+          "url": "https://www.douyin.com/hot/2421579",
+          "source": "抖音",
+          "ranks": [
+            24,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 13时37分]"
         },
         {
           "title": "OpenAI推出一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
@@ -151,18 +178,6 @@
           "time_info": "[02时45分 ~ 04时32分]"
         },
         {
-          "title": "养龙虾，今年最大AI风暴",
-          "url": "https://wallstreetcn.com/articles/3766910",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 12时02分]"
-        },
-        {
           "title": "亚马逊：客户可以继续使用Anthropic的Claude。",
           "url": "https://flash.jin10.com/detail/20260307034037320800",
           "source": "金十数据",
@@ -172,19 +187,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时32分 ~ 07时28分]"
-        },
-        {
-          "title": "AI短剧霍去病持续刷屏",
-          "url": "https://www.douyin.com/hot/2421579",
-          "source": "抖音",
-          "ranks": [
-            24,
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 09时56分]"
         },
         {
           "title": "雷军：小米机器人在拧螺丝了",
@@ -217,11 +219,24 @@
           "url": "https://www.toutiao.com/trending/7614214812960034340/",
           "source": "今日头条",
           "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 13时37分]"
+        },
+        {
+          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时56分 ~ 12时02分]"
+          "time_info": "[12时02分 ~ 13时37分]"
         },
         {
           "title": "TES上报Naiyou不正当行为",
@@ -236,17 +251,6 @@
           "time_info": "[00时41分 ~ 01时35分]"
         },
         {
-          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
           "title": "OpenAI发布AI代理安全工具 或冲击传统网络安全公司",
           "url": "https://flash.jin10.com/detail/20260307021349560800",
           "source": "金十数据",
@@ -256,6 +260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "AI眼镜助失明姑娘独立出行",
+          "url": "https://www.toutiao.com/trending/7614054710404317238/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "TESnaiyou 假赛",
@@ -297,7 +312,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -371,7 +386,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "两会经济主题记者会举行，郑栅洁、蓝佛安、王文涛、潘功胜、吴清答记者问，一图速览要点",
@@ -382,8 +397,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 12时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 13时37分]"
         },
         {
           "title": "全国人大举行经济主题记者会",
@@ -408,8 +423,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 12时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 13时37分]"
         },
         {
           "title": "阿联酋考虑冻结伊朗资产！此举或重创伊朗经济命脉",
@@ -430,20 +445,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时37分]"
         },
         {
-          "title": "分析师：非农意外爆冷表明美国经济处于波动之中",
-          "url": "https://flash.jin10.com/detail/20260307113025835800",
+          "title": "据印度《经济学人》：印度在启用紧急权力后，指示炼油厂提高液化石油气产量。",
+          "url": "https://flash.jin10.com/detail/20260307131223629800",
           "source": "金十数据",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "13时37分"
+        },
+        {
+          "title": "全国政协委员、上交所总经理蔡建春：经济社会发展良好态势是资本市场回稳回暖的有力支撑和最大底气",
+          "url": "https://wallstreetcn.com/livenews/3065614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "飞机头等舱真的比经济舱舒服很多吗？",
@@ -458,6 +484,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时41分 ~ 07时28分]"
+        },
+        {
+          "title": "分析师：非农意外爆冷表明美国经济处于波动之中",
+          "url": "https://flash.jin10.com/detail/20260307113025835800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时37分]"
         },
         {
           "title": "两会日报 | 经济主题记者会举行，5部门负责人权威发声",
@@ -492,6 +530,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "油价创逾两年新高 分析师：当前局势对全球经济构成真实风险",
+          "url": "https://flash.jin10.com/detail/20260307121651345800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "沙特财政部发言人：经济活动继续正常运行，整体经济保持开放。",
@@ -544,7 +593,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         }
