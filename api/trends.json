@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T17:29:25.030068+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2026-03-07T18:24:46.565002+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -35,6 +35,19 @@
           "time_info": "[00时41分 ~ 13时37分]"
         },
         {
+          "title": "养龙虾，今年最大AI风暴",
+          "url": "https://wallstreetcn.com/articles/3766910",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时56分 ~ 18时24分]"
+        },
+        {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
           "url": "https://www.cls.cn/detail/2305626",
           "source": "财联社热门",
@@ -44,20 +57,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时41分 ~ 17时29分]"
-        },
-        {
-          "title": "养龙虾，今年最大AI风暴",
-          "url": "https://wallstreetcn.com/articles/3766910",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时56分 ~ 17时29分]"
+          "appearance_count": 18,
+          "time_info": "[00时41分 ~ 18时24分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -123,8 +124,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时02分 ~ 17时29分]"
+          "appearance_count": 8,
+          "time_info": "[12时02分 ~ 18时24分]"
         },
         {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
@@ -136,17 +137,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时41分 ~ 05时29分]"
-        },
-        {
-          "title": "全国人大代表、传化集团董事长徐冠巨：大力推进AI+制造业行动，加快培育发展智能产业生态",
-          "url": "https://wallstreetcn.com/livenews/3065691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
         },
         {
           "title": "烧坏几十台宇树机器人换来“全能王”",
@@ -203,6 +193,18 @@
           "time_info": "[02时45分 ~ 04时32分]"
         },
         {
+          "title": "全国人大代表、传化集团董事长徐冠巨：大力推进AI+制造业行动，加快培育发展智能产业生态",
+          "url": "https://wallstreetcn.com/livenews/3065691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时24分]"
+        },
+        {
           "title": "破5亿播放AI短剧成本仅3000元",
           "url": "https://www.toutiao.com/trending/7614214812960034340/",
           "source": "今日头条",
@@ -252,6 +254,19 @@
           "time_info": "[00时41分 ~ 02时45分]"
         },
         {
+          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
+          "url": "https://www.zhihu.com/question/2004583095244911914",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 18时24分]"
+        },
+        {
           "title": "AI眼镜助失明姑娘独立出行",
           "url": "https://www.toutiao.com/trending/7614054710404317238/",
           "source": "今日头条",
@@ -262,18 +277,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时37分 ~ 14时41分]"
-        },
-        {
-          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
-          "url": "https://www.zhihu.com/question/2004583095244911914",
-          "source": "知乎",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 17时29分]"
         },
         {
           "title": "AI时代人的创作还有意义吗",
@@ -420,6 +423,17 @@
           "time_info": "09时56分"
         },
         {
+          "title": "冯远征甄子丹廖昌永谈AI对行业影响",
+          "url": "https://www.toutiao.com/trending/7614399466271080499/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "甲骨文与OpenAI或放弃扩建得州大型AI数据中心",
           "url": "https://flash.jin10.com/detail/20260307080857687800",
           "source": "金十数据",
@@ -445,7 +459,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "两会经济主题记者会举行，郑栅洁、蓝佛安、王文涛、潘功胜、吴清答记者问，一图速览要点",
@@ -482,8 +496,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时41分 ~ 17时29分]"
+          "appearance_count": 18,
+          "time_info": "[00时41分 ~ 18时24分]"
         },
         {
           "title": "这场经济主题记者会干货满满",
@@ -519,8 +533,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 17时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 18时24分]"
         },
         {
           "title": "我国义务教育达高收入国家平均水平",
@@ -529,9 +543,20 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时24分]"
+        },
+        {
+          "title": "全国政协委员、宁德时代董事长曾毓群：信任感才能形成品牌力量、消费力量、经济力量",
+          "url": "https://wallstreetcn.com/livenews/3065705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "18时24分"
         },
         {
           "title": "我国义务教育达高收入国家平均水平",
@@ -631,6 +656,17 @@
           "time_info": "[06时29分 ~ 07时28分]"
         },
         {
+          "title": "建议降低中等收入群体税率",
+          "url": "https://www.douyin.com/hot/2422001",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时24分]"
+        },
+        {
           "title": "美国商务部：美国商务部长卢特尼克周五会见了日本经济产业大臣赤泽亮正。",
           "url": "https://flash.jin10.com/detail/20260307021119950800",
           "source": "金十数据",
@@ -670,18 +706,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "建议降低中等收入群体税率",
-          "url": "https://www.douyin.com/hot/2422001",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -695,6 +720,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "霍启刚：建议降低中等收入群体税率",
+          "url": "https://www.toutiao.com/trending/7614347939549642815/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "呷哺呷哺在港交所公告：预期2025年收入约为人民币38亿元，同比减少约20%；预计净亏损介乎约人民币2.9亿元至3.1亿元之间，亏损较上年同期收窄，减少介乎约22.2%至27.2%之间。",
