@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T19:21:08.053441+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2026-03-07T20:47:02.498382+08:00",
+  "total_titles_processed": 1569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -34,6 +34,20 @@
           "time_info": "[09时56分 ~ 19时21分]"
         },
         {
+          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时02分 ~ 20时47分]"
+        },
+        {
           "title": "真实锐评TES打野Naiyou被调查",
           "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
           "source": "bilibili 热搜",
@@ -48,19 +62,6 @@
           "time_info": "[00时41分 ~ 13时37分]"
         },
         {
-          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时02分 ~ 19时21分]"
-        },
-        {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
           "url": "https://www.cls.cn/detail/2305626",
           "source": "财联社热门",
@@ -71,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时41分 ~ 19时21分]"
+          "appearance_count": 22,
+          "time_info": "[00时41分 ~ 20时47分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -130,6 +131,20 @@
           "time_info": "[00时41分 ~ 07时28分]"
         },
         {
+          "title": "AI短剧霍去病持续刷屏",
+          "url": "https://www.douyin.com/hot/2421579",
+          "source": "抖音",
+          "ranks": [
+            24,
+            28,
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 20时47分]"
+        },
+        {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
           "url": "https://www.zhihu.com/question/2013292943084058316",
           "source": "知乎",
@@ -145,11 +160,12 @@
           "url": "https://s.weibo.com/weibo?q=TES%E6%95%99%E7%BB%83%20Naiyou%E8%AF%B4%E5%AD%A3%E5%90%8E%E8%B5%9B%E8%BE%93%E7%9A%84%E9%83%BD%E6%98%AF%E5%81%87%E8%B5%9B&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 20时47分]"
         },
         {
           "title": "烧坏几十台宇树机器人换来“全能王”",
@@ -166,17 +182,18 @@
           "time_info": "[00时41分 ~ 07时28分]"
         },
         {
-          "title": "AI短剧霍去病持续刷屏",
-          "url": "https://www.douyin.com/hot/2421579",
-          "source": "抖音",
+          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
+          "url": "https://www.zhihu.com/question/2004583095244911914",
+          "source": "知乎",
           "ranks": [
-            24,
-            28,
-            26
+            14,
+            17,
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 14时41分]"
+          "appearance_count": 5,
+          "time_info": "[16时32分 ~ 20时47分]"
         },
         {
           "title": "猫尾巴被扫地机器人卷入 拖行10分钟",
@@ -231,6 +248,17 @@
           "time_info": "[09时56分 ~ 14时41分]"
         },
         {
+          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
+          "url": "https://wallstreetcn.com/articles/3766935",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 20时47分]"
+        },
+        {
           "title": "亚马逊：客户可以继续使用Anthropic的Claude。",
           "url": "https://flash.jin10.com/detail/20260307034037320800",
           "source": "金十数据",
@@ -240,6 +268,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时32分 ~ 07时28分]"
+        },
+        {
+          "title": "在AI的加速时代，我们到底在害怕错过什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551616",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 20时47分]"
+        },
+        {
+          "title": "用AI动画片求婚谁不心动啊",
+          "url": "https://www.douyin.com/hot/2422221",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 20时47分]"
         },
         {
           "title": "雷军：小米机器人在拧螺丝了",
@@ -268,17 +319,15 @@
           "time_info": "[00时41分 ~ 02时45分]"
         },
         {
-          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
-          "url": "https://www.zhihu.com/question/2004583095244911914",
-          "source": "知乎",
+          "title": "TES主教练谈naiyou事件",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
           "ranks": [
-            14,
-            17,
-            18
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 18时24分]"
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 20时47分]"
         },
         {
           "title": "AI眼镜助失明姑娘独立出行",
@@ -291,39 +340,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时37分 ~ 14时41分]"
-        },
-        {
-          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
-          "url": "https://wallstreetcn.com/articles/3766935",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
-        },
-        {
-          "title": "在AI的加速时代，我们到底在害怕错过什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551616",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
-        },
-        {
-          "title": "用AI动画片求婚谁不心动啊",
-          "url": "https://www.douyin.com/hot/2422221",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
         },
         {
           "title": "AI时代人的创作还有意义吗",
@@ -347,6 +363,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 01时35分]"
+        },
+        {
+          "title": "周鸿祎：中国AI智能体正在快速落地",
+          "url": "https://www.toutiao.com/trending/7614453399253159465/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 20时47分]"
         },
         {
           "title": "周云杰：保姆机器人将比汽车更普及",
@@ -547,6 +574,17 @@
           "time_info": "[00时41分 ~ 18时24分]"
         },
         {
+          "title": "我国义务教育达高收入国家平均水平",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E8%BE%BE%E9%AB%98%E6%94%B6%E5%85%A5%E5%9B%BD%E5%AE%B6%E5%B9%B3%E5%9D%87%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时29分 ~ 20时47分]"
+        },
+        {
           "title": "经济主题记者会｜吴清问答十要点：谈创业板改革、中国资产吸引力",
           "url": "https://m.thepaper.cn/newsDetail_forward_32714219",
           "source": "澎湃新闻",
@@ -555,11 +593,12 @@
             20,
             18,
             19,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时56分 ~ 19时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时56分 ~ 20时47分]"
         },
         {
           "title": "这场经济主题记者会干货满满",
@@ -583,17 +622,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时41分 ~ 07时28分]"
-        },
-        {
-          "title": "我国义务教育达高收入国家平均水平",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E8%BE%BE%E9%AB%98%E6%94%B6%E5%85%A5%E5%9B%BD%E5%AE%B6%E5%B9%B3%E5%9D%87%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 19时21分]"
         },
         {
           "title": "我国义务教育达高收入国家平均水平",
@@ -652,11 +680,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时21分]"
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 20时47分]"
         },
         {
           "title": "建议农村彩礼不超过人均收入2至3倍",
