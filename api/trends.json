@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T04:27:20.137997+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-03-09T05:24:30.127511+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 05时24分]"
         },
         {
           "title": "AI养“龙虾”警惕安全风险",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 05时24分]"
         },
         {
           "title": "张文宏委员谈AI问诊：仅靠AI有风险，应坚持“医生主导、AI辅助”",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 05时24分]"
         },
         {
           "title": "深圳龙岗拟首发“AI龙虾十条”",
@@ -50,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 05时24分]"
         },
         {
           "title": "券商分析师集体分享养“龙虾”教程，现象级AI智能体OpenClaw如何卷动投研圈？",
@@ -62,22 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 04时27分]"
-        },
-        {
-          "title": "AI对老师的影响",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%AF%B9%E8%80%81%E5%B8%88%E7%9A%84%E5%BD%B1%E5%93%8D%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            10,
-            26,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 05时24分]"
         },
         {
           "title": "3000元成本AI短剧5亿播放？导演澄清",
@@ -87,19 +73,23 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 05时24分]"
         },
         {
-          "title": "市场消息：苹果(AAPL.O)即将推出更高端的AirPods、MacBook和iPhone系列。",
-          "url": "https://flash.jin10.com/detail/20260309033901550800",
-          "source": "金十数据",
+          "title": "AI对老师的影响",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%AF%B9%E8%80%81%E5%B8%88%E7%9A%84%E5%BD%B1%E5%93%8D%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            2,
+            10,
+            26,
+            20,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 05时24分]"
         },
         {
           "title": "当机器人越来越像人",
@@ -109,11 +99,24 @@
             25,
             21,
             24,
-            28
+            28,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 05时24分]"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)即将推出更高端的AirPods、MacBook和iPhone系列。",
+          "url": "https://flash.jin10.com/detail/20260309033901550800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时24分]"
         },
         {
           "title": "AI “养龙虾”火了！上市公司扎堆回应",
@@ -141,7 +144,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "打造智能经济新形态",
@@ -151,8 +154,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 05时24分]"
         },
         {
           "title": "卡塔尔警告油价或升至每桶 150 美元，国内油价或迎四年来最大涨幅，后续还会涨吗？对经济有多大影响？",
@@ -162,8 +165,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 05时24分]"
         },
         {
           "title": "两会专访｜最高检杜学毅：聚焦经济犯罪，坚持“严”基调统筹安全与发展",
@@ -173,8 +176,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 05时24分]"
+        },
+        {
+          "title": "据日经新闻：预计维斯塔斯需投资数百亿日元，维斯塔斯还希望，能获得日本经济、贸易和工业省的补贴。",
+          "url": "https://flash.jin10.com/detail/20260309043828672800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "意大利外长：我与德国外交部长进行了会谈，我们希望现在就开始为伊朗冲突寻找和平解决方案。我们致力于防止战争带来的进一步后果，这将对我们两国经济、企业以及整个中东地区的平衡产生影响。能源问题至关重要。我们正在努力避免能源危机，以便霍尔木兹海峡重新开放，石油和天然气出口国能够继续出口。",
@@ -207,9 +221,26 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据日经新闻：日本经济产业省与丹麦风力发电公司维斯塔斯将于周一签署谅解备忘录，维斯塔斯将在日本建造风力涡轮机。",
+          "url": "https://flash.jin10.com/detail/20260309043609694800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         }
       ]
     }
