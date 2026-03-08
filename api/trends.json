@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T05:24:30.127511+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-03-09T06:24:26.053043+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "AI养“龙虾”警惕安全风险",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "张文宏委员谈AI问诊：仅靠AI有风险，应坚持“医生主导、AI辅助”",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "深圳龙岗拟首发“AI龙虾十条”",
@@ -50,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "券商分析师集体分享养“龙虾”教程，现象级AI智能体OpenClaw如何卷动投研圈？",
@@ -62,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "3000元成本AI短剧5亿播放？导演澄清",
@@ -73,8 +73,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "AI对老师的影响",
@@ -85,11 +85,12 @@
             10,
             26,
             20,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "当机器人越来越像人",
@@ -100,11 +101,12 @@
             21,
             24,
             28,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)即将推出更高端的AirPods、MacBook和iPhone系列。",
@@ -154,8 +156,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "卡塔尔警告油价或升至每桶 150 美元，国内油价或迎四年来最大涨幅，后续还会涨吗？对经济有多大影响？",
@@ -165,8 +167,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "两会专访｜最高检杜学毅：聚焦经济犯罪，坚持“严”基调统筹安全与发展",
@@ -176,19 +178,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "据日经新闻：预计维斯塔斯需投资数百亿日元，维斯塔斯还希望，能获得日本经济、贸易和工业省的补贴。",
           "url": "https://flash.jin10.com/detail/20260309043828672800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时24分]"
         },
         {
           "title": "意大利外长：我与德国外交部长进行了会谈，我们希望现在就开始为伊朗冲突寻找和平解决方案。我们致力于防止战争带来的进一步后果，这将对我们两国经济、企业以及整个中东地区的平衡产生影响。能源问题至关重要。我们正在努力避免能源危机，以便霍尔木兹海峡重新开放，石油和天然气出口国能够继续出口。",
@@ -236,11 +239,12 @@
           "url": "https://flash.jin10.com/detail/20260309043609694800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时24分]"
         }
       ]
     }
