@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T04:35:36.533743+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-03-10T05:33:31.796078+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "yilai加入BLG无畏契约",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时35分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时33分]"
         },
         {
           "title": "AI“养龙虾”爆火！OpenClaw概念走强 多家上市公司回应相关业务最新进展|聚焦",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时35分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时33分]"
         },
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时35分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时33分]"
         },
         {
           "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
@@ -50,11 +50,25 @@
           "ranks": [
             2,
             3,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时35分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时33分]"
+        },
+        {
+          "title": "小片片解读AI神作牌子",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%BBAI%E7%A5%9E%E4%BD%9C%E7%89%8C%E5%AD%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时33分]"
         },
         {
           "title": "OpenAI同意收购AI安全初创公司PromptFoo。",
@@ -95,18 +109,6 @@
           "time_info": "[01时02分 ~ 04时35分]"
         },
         {
-          "title": "小片片解读AI神作牌子",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%BBAI%E7%A5%9E%E4%BD%9C%E7%89%8C%E5%AD%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时35分]"
-        },
-        {
           "title": "报道：苹果因等待新一代AI完工，推迟智能家居显示屏发布",
           "url": "https://wallstreetcn.com/livenews/3066691",
           "source": "华尔街见闻-快讯",
@@ -118,6 +120,17 @@
           "time_info": "03时41分"
         },
         {
+          "title": "周一（3月9日），信息科技指数涨3.21%，报270.01点，绝大部分时间维持微幅上涨状态，北京时间03:17开始显著扩大涨幅。 人工智能（AI）赢家指数涨3.82%。 AI软件先驱指数跌0.38%。",
+          "url": "https://wallstreetcn.com/livenews/3066732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
           "title": "AI初创公司ElevenLabs的CEO表示：公司准备在未来2-3年IPO。",
           "url": "https://wallstreetcn.com/livenews/3066663",
           "source": "华尔街见闻-快讯",
@@ -127,6 +140,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：将为亚马逊基础模型服务（Amazon Bedrock）引入全球跨区域推理功能，并在印度引入Anthropic公司的Claude模型。",
+          "url": "https://flash.jin10.com/detail/20260310045158938800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         }
       ]
     },
@@ -150,11 +174,12 @@
           "url": "https://wallstreetcn.com/livenews/3066730",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时33分]"
         },
         {
           "title": "墨西哥经济部长Ebrard：墨方将于5月份和加拿大围绕美国墨西哥加拿大贸易协议（USMCA）重审的双边磋商。",
