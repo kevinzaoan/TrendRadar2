@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T16:44:26.316538+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2026-03-09T17:52:27.753366+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
@@ -54,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 16时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 17时52分]"
         },
         {
           "title": "券商分析师集体分享养“龙虾”教程，现象级AI智能体OpenClaw如何卷动投研圈？",
@@ -100,8 +100,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 16时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 17时52分]"
         },
         {
           "title": "3000元成本AI短剧5亿播放？导演澄清",
@@ -141,8 +141,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时51分 ~ 16时44分]"
+          "appearance_count": 6,
+          "time_info": "[12时51分 ~ 17时52分]"
+        },
+        {
+          "title": "地方政策尝鲜“龙虾” AI加速进入Agent时代 但安全隐患仍需防范",
+          "url": "https://www.cls.cn/detail/2306605",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时51分 ~ 17时52分]"
         },
         {
           "title": "镜识科技宣布与京东正式达成机器人业务深度合作。",
@@ -154,6 +169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2013945403444257055",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时51分 ~ 17时52分]"
         },
         {
           "title": "TES主教练谈naiyou事件",
@@ -169,31 +195,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时24分 ~ 16时44分]"
-        },
-        {
-          "title": "地方政策尝鲜“龙虾” AI加速进入Agent时代 但安全隐患仍需防范",
-          "url": "https://www.cls.cn/detail/2306605",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时51分 ~ 16时44分]"
-        },
-        {
-          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2013945403444257055",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时51分 ~ 16时44分]"
         },
         {
           "title": "AI“龙虾”火到全国两会，王坚：会很快便宜下来并普及",
@@ -244,6 +245,17 @@
           "time_info": "[00时29分 ~ 03时24分]"
         },
         {
+          "title": "我国制出世界首台智能育种机器人",
+          "url": "https://www.douyin.com/hot/2424365",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 17时52分]"
+        },
+        {
           "title": "王一博Mai合影",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9AMai%E5%90%88%E5%BD%B1%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -255,15 +267,26 @@
           "time_info": "[00时28分 ~ 00时29分]"
         },
         {
-          "title": "我国制出世界首台智能育种机器人",
-          "url": "https://www.douyin.com/hot/2424365",
-          "source": "抖音",
+          "title": "AI龙虾爆火,市民排长龙抢装",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351552&amp;topic_name=AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%2C%E5%B8%82%E6%B0%91%E6%8E%92%E9%95%BF%E9%BE%99%E6%8A%A2%E8%A3%85",
+          "source": "贴吧",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时44分"
+          "time_info": "17时52分"
+        },
+        {
+          "title": "AI焦虑症",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%84%A6%E8%99%91%E7%97%87&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "ABB计划2026年在印度投资约7,500万美元，用于制造业与研发。 ABB是总部位于瑞士的全球工业巨头，业务遍及电气化、机器人、自动化和运动控制领域。",
@@ -305,7 +328,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         }
@@ -313,7 +336,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "打造智能经济新形态",
@@ -368,7 +391,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -384,6 +407,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "乌克兰经济部：由于土壤冻结、积雪未融，春季播种工作将推迟两周启动。",
+          "url": "https://flash.jin10.com/detail/20260309173704088800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
           "title": "国际货币基金组织总裁格奥尔基耶娃：中东新冲突正再次考验全球经济韧性。 进口油气设施已遭受损毁并出现停摆。 能源安全已飙升至全球关注的首要问题。 冲突若长期化，显而易见将冲击市场情绪、经济增长及通胀。 人工智能可以提高生产力，但也会减少就业。",
           "url": "https://wallstreetcn.com/livenews/3066186",
           "source": "华尔街见闻-快讯",
@@ -393,6 +427,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "霍启刚建议香港发展冰雪经济，为什么没有冰雪也能发展冰雪经济？冰雪产业链在南方城市能怎样布局？",
+          "url": "https://www.zhihu.com/question/2013738636034667774",
+          "source": "知乎",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 17时52分]"
         },
         {
           "title": "据日经新闻：预计维斯塔斯需投资数百亿日元，维斯塔斯还希望，能获得日本经济、贸易和工业省的补贴。",
@@ -448,7 +494,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -462,17 +508,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
-        },
-        {
-          "title": "霍启刚建议香港发展冰雪经济，为什么没有冰雪也能发展冰雪经济？冰雪产业链在南方城市能怎样布局？",
-          "url": "https://www.zhihu.com/question/2013738636034667774",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时44分"
         },
         {
           "title": "惠誉旗下研究机构：油价冲击或拖累大多数发达经济体",
@@ -519,6 +554,17 @@
           "time_info": "15时10分"
         },
         {
+          "title": "挪威财政部长：中东战争正加剧国际经济的不确定性。对挪威经济的影响取决于战争持续的时间长短和波及范围。",
+          "url": "https://flash.jin10.com/detail/20260309172457735800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
           "title": "日本首相高市早苗：目前很难说中东冲突将如何影响日本经济。 许多国民对汽油价格上涨感到担忧，将考虑采取措施限制汽油价格。 政府为减轻冲突冲击而采取的任何措施，可能都不会涉及对2026财年预算的修改。",
           "url": "https://wallstreetcn.com/livenews/3066208",
           "source": "华尔街见闻-快讯",
@@ -539,6 +585,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "挪威财政部长：2027年国家预算必须在动荡时期确保挪威经济稳定，并助力应对我们面临的长期挑战。",
+          "url": "https://flash.jin10.com/detail/20260309172342815800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         }
       ]
     },
