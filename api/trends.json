@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T15:41:47.580693+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2026-03-10T16:42:22.797296+08:00",
+  "total_titles_processed": 1435,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -57,8 +57,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 15时41分]"
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 16时42分]"
         },
         {
           "title": "yilai加入BLG无畏契约",
@@ -139,6 +139,18 @@
           "time_info": "[05时33分 ~ 06时29分]"
         },
         {
+          "title": "AI龙虾为何那么“生猛”",
+          "url": "https://www.douyin.com/hot/2425335",
+          "source": "抖音",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 16时42分]"
+        },
+        {
           "title": "靳东呼吁针对AI换脸立法",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9D%B3%E4%B8%9C%E5%91%BC%E5%90%81%E9%92%88%E5%AF%B9AI%E6%8D%A2%E8%84%B8%E7%AB%8B%E6%B3%95%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -183,6 +195,17 @@
           "time_info": "09时59分"
         },
         {
+          "title": "恒生指数收盘涨2.17%，AIGC概念领涨，腾讯控股涨超7%",
+          "url": "https://wallstreetcn.com/livenews/3067156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "腾讯股价涨超6%，领涨恒生科技指数成分股，此前腾讯正式推出AI智能助手WorkBuddy，花旗将腾讯此举视为其AI发展的里程碑。",
           "url": "https://wallstreetcn.com/livenews/3066984",
           "source": "华尔街见闻-快讯",
@@ -200,7 +223,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -258,23 +281,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
-        },
-        {
-          "title": "AI龙虾为何那么“生猛”",
-          "url": "https://www.douyin.com/hot/2425335",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗总统佩泽希齐扬：我们的首要任务始终是人民的生计。经济复苏方案已发布，以确保食品、药品和必需品的供应，并延长银行承诺的到期时间。将支持生产者，并简化基本商品的进口。",
@@ -349,15 +361,37 @@
           "time_info": "[07时28分 ~ 07时29分]"
         },
         {
+          "title": "日本经济产业大臣赤泽亮正：拒绝对扩大使用俄罗斯原油的可能性发表评论。",
+          "url": "https://flash.jin10.com/detail/20260310161612559800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "外交部：防止地区动荡给全球经济发展造成重大影响",
           "url": "https://wallstreetcn.com/livenews/3067113",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：国际能源署成员国释放石油储备是稳定石油市场的有效手段。",
+          "url": "https://flash.jin10.com/detail/20260310161419423800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "韩国财长：正准备相关措施，以防止中东危机对市场和经济产生溢出效应。 如有需要，韩国央行将进行更多的国债回购。 外汇管理当局将在必要时及时采取应对措施。 追加预算可能无需发行额外债券即可实现。",
@@ -371,6 +405,28 @@
           "time_info": "09时59分"
         },
         {
+          "title": "银发经济大有可为",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%8F%91%E7%BB%8F%E6%B5%8E%E5%A4%A7%E6%9C%89%E5%8F%AF%E4%B8%BA%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：关于释放石油储备的细节仍在讨论之中。",
+          "url": "https://flash.jin10.com/detail/20260310161347073800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "沙特阿美首席执行官：中断持续的时间越长，对全球石油市场造成的后果就越灾难性，对全球经济的后果也越严重。",
           "url": "https://flash.jin10.com/detail/20260310143830239800",
           "source": "金十数据",
@@ -380,6 +436,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：日本支持国际能源署牵头协调释放战略石油储备。",
+          "url": "https://flash.jin10.com/detail/20260310161032884800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：七国集团能源部长将于今晚举行会议，讨论包括可能动用石油储备在内的各项议题。",
+          "url": "https://flash.jin10.com/detail/20260310160946145800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "大众汽车：2025财年销售收入3219亿欧元。",
@@ -460,7 +538,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         }
