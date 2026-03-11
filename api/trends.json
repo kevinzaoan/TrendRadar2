@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T17:42:54.982403+08:00",
-  "total_titles_processed": 1555,
+  "generated_at": "2026-03-11T18:40:17.582881+08:00",
+  "total_titles_processed": 1656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "高校出手,AI龙虾被禁",
@@ -17,11 +17,12 @@
             11,
             13,
             14,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时01分 ~ 17时42分]"
+          "appearance_count": 21,
+          "time_info": "[00时01分 ~ 18时40分]"
         },
         {
           "title": "建议不允许青少年用AI做作业",
@@ -82,11 +83,28 @@
             14,
             20,
             21,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时01分 ~ 17时42分]"
+          "appearance_count": 21,
+          "time_info": "[00时01分 ~ 18时40分]"
+        },
+        {
+          "title": "建议AI应用设计多考虑残疾人",
+          "url": "https://www.douyin.com/hot/2426364",
+          "source": "抖音",
+          "ranks": [
+            14,
+            13,
+            12,
+            23,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时15分 ~ 18时40分]"
         },
         {
           "title": "工信部提醒AI养虾安全风险",
@@ -119,19 +137,16 @@
           "time_info": "[13时49分 ~ 17时42分]"
         },
         {
-          "title": "建议AI应用设计多考虑残疾人",
-          "url": "https://www.douyin.com/hot/2426364",
-          "source": "抖音",
+          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
+          "source": "澎湃新闻",
           "ranks": [
-            14,
-            13,
-            12,
-            23,
-            11
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 17时42分]"
+          "appearance_count": 6,
+          "time_info": "[14时54分 ~ 18时40分]"
         },
         {
           "title": "OpenAI计划将视频生成AI Sora接入ChatGPT。（The Information）",
@@ -167,16 +182,16 @@
           "time_info": "07时28分"
         },
         {
-          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
-          "source": "澎湃新闻",
+          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
+          "url": "https://www.cls.cn/detail/2309524",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            7
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时54分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[16时41分 ~ 18时40分]"
         },
         {
           "title": "豆包限制AI成毅",
@@ -191,6 +206,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时30分 ~ 09时59分]"
+        },
+        {
+          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
+          "url": "https://www.cls.cn/detail/2309633",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时40分]"
         },
         {
           "title": "亚马逊在网站和APP推出健康AI智能体。",
@@ -229,18 +256,6 @@
           "time_info": "[12时15分 ~ 13时49分]"
         },
         {
-          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
-          "url": "https://www.cls.cn/detail/2309524",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 17时42分]"
-        },
-        {
           "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
           "url": "https://wallstreetcn.com/articles/3767169",
           "source": "华尔街见闻",
@@ -248,8 +263,32 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时44分 ~ 18时40分]"
+        },
+        {
+          "title": "付费卸载“龙虾”：AI狂热的荒诞反转",
+          "url": "https://www.toutiao.com/trending/7615866634636365339/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            25,
+            20
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时44分 ~ 17时42分]"
+          "time_info": "[16时41分 ~ 18时40分]"
+        },
+        {
+          "title": "机器人当街吓到人 被治安警员带走",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%93%E8%A1%97%E5%90%93%E5%88%B0%E4%BA%BA+%E8%A2%AB%E6%B2%BB%E5%AE%89%E8%AD%A6%E5%91%98%E5%B8%A6%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时40分]"
         },
         {
           "title": "据知情人士透露，Raizen SA接近与其主要的债权人（们）达成一份协议，从而启动一个庭外债务重组。（彭博）",
@@ -322,18 +361,6 @@
           "time_info": "[07时28分 ~ 09时59分]"
         },
         {
-          "title": "付费卸载“龙虾”：AI狂热的荒诞反转",
-          "url": "https://www.toutiao.com/trending/7615866634636365339/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 17时42分]"
-        },
-        {
           "title": "韩国总统府AI首席秘书官：鉴于阿联酋加强国防能力的需要，预计冲突结束后，韩国与阿联酋的人工智能合作有望加速推进。",
           "url": "https://wallstreetcn.com/livenews/3067840",
           "source": "华尔街见闻-快讯",
@@ -343,28 +370,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
-        },
-        {
-          "title": "机器人当街吓到人 被治安警员带走",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%93%E8%A1%97%E5%90%93%E5%88%B0%E4%BA%BA+%E8%A2%AB%E6%B2%BB%E5%AE%89%E8%AD%A6%E5%91%98%E5%B8%A6%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
-          "url": "https://www.cls.cn/detail/2309633",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
         },
         {
           "title": "据The Information：OpenAI计划在战略调整中将Sora视频AI引入ChatGPT。",
@@ -455,6 +460,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "据Business Insider：特斯拉加码类AI智能体项目，XAI的Macrohard项目陷入停滞。",
+          "url": "https://flash.jin10.com/detail/20260311180922364800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
           "title": "AI机器人初创公司Rhoda AI完成4.5亿美元A轮融资，旨在推动机器人从实验室走向现实应用。本轮融资由淡马锡（Temasek）、Capricorn投资集团、Khosla Ventures、Leitmotif、Matter Venture Partners及Xora等机构参投。",
           "url": "https://wallstreetcn.com/livenews/3067406",
           "source": "华尔街见闻-快讯",
@@ -469,7 +485,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "体验经济持续火爆",
@@ -479,8 +495,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时49分 ~ 17时42分]"
+          "appearance_count": 7,
+          "time_info": "[13时49分 ~ 18时40分]"
         },
         {
           "title": "低空经济起飞正当时",
@@ -596,6 +612,18 @@
           "time_info": "[06时29分 ~ 07时28分]"
         },
         {
+          "title": "涨势比原油还猛！中东战火扰乱柴油市场 或致全球经济放缓",
+          "url": "https://www.cls.cn/detail/2309360",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时40分]"
+        },
+        {
           "title": "欧洲央行行长拉加德：当前形势非常不同于2022年。 （相比2022年，当前的欧元区）通胀、能源、经济都更容易受控制。 我们消化各种冲击的能力提高了。 不确定性、波动性的程度让人非常惊讶。 波动性的程度让人难以掌控局势。 将采取必要措施来控制（欧元区的）通胀。 还无法确切表明我们会对利率作何决定。 我们不会匆忙做决定，而会分析一切因素（之后再做决定）。 不允许欧洲重演2022-23年那样的通胀。",
           "url": "https://wallstreetcn.com/livenews/3067557",
           "source": "华尔街见闻-快讯",
@@ -641,17 +669,6 @@
           "time_info": "09时59分"
         },
         {
-          "title": "涨势比原油还猛！中东战火扰乱柴油市场 或致全球经济放缓",
-          "url": "https://www.cls.cn/detail/2309360",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
           "title": "欧洲央行管委Kazimir：受伊朗局势影响，加息可能比此前预期更近。 如果冲突推高通胀预期，欧洲央行或采取行动。 欧洲央行的利率仍处于适宜水平。 欧洲央行目前仍处于“良好状态”。 如果有必要，欧洲央行将做好采取行动的准备。 通胀上行风险显然占据主导地位。 对滞胀并不太担心，对经济增长持乐观态度。 若无新预测，我对加息无保留意见。",
           "url": "https://wallstreetcn.com/livenews/3067880",
           "source": "华尔街见闻-快讯",
@@ -680,7 +697,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -705,6 +722,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "英国财政大臣里夫斯：就中东冲突对英国经济增长、通胀或利率的影响进行猜测是不明智的。 冲突对英国经济肯定不是好事。 霍尔木兹海峡的问题在于船长和船员的安全，而不是保险产品。 （被问及英国是否有财政空间提供类似2022年的能源援助时）会尽力帮助消费者和维护国家安全。",
+          "url": "https://wallstreetcn.com/livenews/3067987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         },
         {
           "title": "惠誉：若冲突持续，由于运费上涨、经济放缓和港口拥堵，印度港口或将面临一定吞吐量压力。",
