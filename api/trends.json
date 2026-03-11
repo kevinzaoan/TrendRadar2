@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-03-11T21:02:23.859894+08:00",
-  "total_titles_processed": 1855,
+  "generated_at": "2026-03-11T22:10:43.094992+08:00",
+  "total_titles_processed": 1978,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
+        {
+          "title": "建议AI应用设计多考虑残疾人",
+          "url": "https://www.douyin.com/hot/2426364",
+          "source": "抖音",
+          "ranks": [
+            14,
+            13,
+            12,
+            23,
+            11,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时15分 ~ 22时10分]"
+        },
         {
           "title": "建议不允许青少年用AI做作业",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E9%9D%92%E5%B0%91%E5%B9%B4%E7%94%A8AI%E5%81%9A%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=20&Refer=top",
@@ -36,8 +54,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时01分 ~ 21时02分]"
+          "appearance_count": 24,
+          "time_info": "[00时01分 ~ 22时10分]"
         },
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
@@ -51,23 +69,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时01分 ~ 07时28分]"
-        },
-        {
-          "title": "建议AI应用设计多考虑残疾人",
-          "url": "https://www.douyin.com/hot/2426364",
-          "source": "抖音",
-          "ranks": [
-            14,
-            13,
-            12,
-            23,
-            11,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时15分 ~ 21时02分]"
         },
         {
           "title": "【焦点复盘】市场全天现缩量普涨，英伟达链卷土重来，机器人概念现久违涨势",
@@ -94,22 +95,6 @@
           "time_info": "[00时01分 ~ 12时15分]"
         },
         {
-          "title": "AI背锅,内存降价遥遥无期",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            14,
-            20,
-            21,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时01分 ~ 18时40分]"
-        },
-        {
           "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
           "url": "https://www.cls.cn/detail/2309524",
           "source": "财联社热门",
@@ -119,8 +104,25 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时41分 ~ 21时02分]"
+          "appearance_count": 7,
+          "time_info": "[16时41分 ~ 22时10分]"
+        },
+        {
+          "title": "AI背锅,内存降价遥遥无期",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            14,
+            20,
+            21,
+            26,
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时01分 ~ 22时10分]"
         },
         {
           "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
@@ -132,8 +134,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时42分 ~ 21时02分]"
+          "appearance_count": 6,
+          "time_info": "[17时42分 ~ 22时10分]"
         },
         {
           "title": "工信部提醒AI养虾安全风险",
@@ -179,6 +181,43 @@
           "time_info": "[13时49分 ~ 17时42分]"
         },
         {
+          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
+          "url": "https://wallstreetcn.com/articles/3767169",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时44分 ~ 22时10分]"
+        },
+        {
+          "title": "AI龙虾爆火,大神在线答疑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351702&amp;topic_name=AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%2C%E5%A4%A7%E7%A5%9E%E5%9C%A8%E7%BA%BF%E7%AD%94%E7%96%91",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时10分]"
+        },
+        {
+          "title": "机器人当街吓到人 被治安警员带走",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%93%E8%A1%97%E5%90%93%E5%88%B0%E4%BA%BA+%E8%A2%AB%E6%B2%BB%E5%AE%89%E8%AD%A6%E5%91%98%E5%B8%A6%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时42分 ~ 22时10分]"
+        },
+        {
           "title": "OpenAI计划将视频生成AI Sora接入ChatGPT。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3067769",
           "source": "华尔街见闻-快讯",
@@ -190,27 +229,15 @@
           "time_info": "12时15分"
         },
         {
-          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
-          "url": "https://wallstreetcn.com/articles/3767169",
-          "source": "华尔街见闻",
+          "title": "一只龙虾如何搅动整个AI圈",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%AA%E9%BE%99%E8%99%BE%E5%A6%82%E4%BD%95%E6%90%85%E5%8A%A8%E6%95%B4%E4%B8%AAAI%E5%9C%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时44分 ~ 21时02分]"
-        },
-        {
-          "title": "AI龙虾爆火,大神在线答疑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351702&amp;topic_name=AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%2C%E5%A4%A7%E7%A5%9E%E5%9C%A8%E7%BA%BF%E7%AD%94%E7%96%91",
-          "source": "贴吧",
-          "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "22时10分"
         },
         {
           "title": "代表建议破除AI教育产品算法偏见",
@@ -235,18 +262,6 @@
           "time_info": "07时28分"
         },
         {
-          "title": "机器人当街吓到人 被治安警员带走",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%93%E8%A1%97%E5%90%93%E5%88%B0%E4%BA%BA+%E8%A2%AB%E6%B2%BB%E5%AE%89%E8%AD%A6%E5%91%98%E5%B8%A6%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时42分 ~ 21时02分]"
-        },
-        {
           "title": "豆包限制AI成毅",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%99%90%E5%88%B6AI%E6%88%90%E6%AF%85%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -259,6 +274,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时30分 ~ 09时59分]"
+        },
+        {
+          "title": "付费卸载“龙虾”：AI狂热的荒诞反转",
+          "url": "https://www.toutiao.com/trending/7615866634636365339/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            25,
+            20,
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时41分 ~ 22时10分]"
         },
         {
           "title": "亚马逊在网站和APP推出健康AI智能体。",
@@ -297,18 +327,16 @@
           "time_info": "[12时15分 ~ 13时49分]"
         },
         {
-          "title": "付费卸载“龙虾”：AI狂热的荒诞反转",
-          "url": "https://www.toutiao.com/trending/7615866634636365339/",
-          "source": "今日头条",
+          "title": "沉迷AI的领导belike",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
+          "source": "bilibili 热搜",
           "ranks": [
-            30,
             25,
-            20,
-            24
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时41分 ~ 19时33分]"
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 22时10分]"
         },
         {
           "title": "据知情人士透露，Raizen SA接近与其主要的债权人（们）达成一份协议，从而启动一个庭外债务重组。（彭博）",
@@ -381,17 +409,6 @@
           "time_info": "[07时28分 ~ 09时59分]"
         },
         {
-          "title": "沉迷AI的领导belike",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
           "title": "韩国总统府AI首席秘书官：鉴于阿联酋加强国防能力的需要，预计冲突结束后，韩国与阿联酋的人工智能合作有望加速推进。",
           "url": "https://wallstreetcn.com/livenews/3067840",
           "source": "华尔街见闻-快讯",
@@ -434,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
+          "url": "https://wallstreetcn.com/articles/3767211",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "浙江荣泰：公司拟将原生产项目“年产1.4万吨云母纸、4,500吨云母制品及700万套机器人部件生产项目”变更为“年产1.4万吨绝缘防火材料及4,500吨深加工制品生产项目”和“年产700万套工业丝杠生产项目”。",
@@ -491,6 +519,17 @@
           "time_info": "14时55分"
         },
         {
+          "title": "会见企业家丨齐向东：不应忽视“龙虾”热潮背后的三大AI安全风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32733403",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "引入AI不是开除员工的挡箭牌",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BC%95%E5%85%A5AI%E4%B8%8D%E6%98%AF%E5%BC%80%E9%99%A4%E5%91%98%E5%B7%A5%E7%9A%84%E6%8C%A1%E7%AE%AD%E7%89%8C%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -546,6 +585,17 @@
           "time_info": "18时40分"
         },
         {
+          "title": "方太正式发布全球首款机器人厨房",
+          "url": "https://wallstreetcn.com/livenews/3068114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "AI机器人初创公司Rhoda AI完成4.5亿美元A轮融资，旨在推动机器人从实验室走向现实应用。本轮融资由淡马锡（Temasek）、Capricorn投资集团、Khosla Ventures、Leitmotif、Matter Venture Partners及Xora等机构参投。",
           "url": "https://wallstreetcn.com/livenews/3067406",
           "source": "华尔街见闻-快讯",
@@ -563,7 +613,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         }
@@ -571,7 +621,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "体验经济持续火爆",
@@ -748,8 +798,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 21时02分]"
+          "appearance_count": 4,
+          "time_info": "[19时33分 ~ 22时10分]"
         },
         {
           "title": "战争加剧经济担忧，SRT销售成本或将攀升",
@@ -810,6 +860,17 @@
           "time_info": "19时33分"
         },
         {
+          "title": "日本经济产业省：决定单方面释放石油储备，旨在迅速应对因霍尔木兹海峡阻塞对日本造成的影响。 计划中的石油储备释放将使私营和国家储备合计减少一个半月的库存，目前储备量相当于八个月的供应。 计划于三月下旬左右开始从国家储备中释放原油。",
+          "url": "https://wallstreetcn.com/livenews/3068140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "德国经济部长：政府计划对加油站的竞争行为实施更严格的监管。",
           "url": "https://flash.jin10.com/detail/20260311191157991800",
           "source": "金十数据",
@@ -860,7 +921,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -953,6 +1014,17 @@
           "time_info": "19时33分"
         },
         {
+          "title": "美国白宫发言人：CPI报告显示美国经济强劲。",
+          "url": "https://wallstreetcn.com/livenews/3068127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "野村：韩国政策发力应对油价冲击，2026年经济增长或超预期",
           "url": "https://flash.jin10.com/detail/20260311114155321800",
           "source": "金十数据",
@@ -984,6 +1056,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
+        },
+        {
+          "title": "欧佩克月报：维持2026年和2027年全球原油需求增长预期不变。 欧佩克+成员国2026年2月原油产量平均为4272万桶/日，较1月增加44.5万桶/日。 沙特阿拉伯2月份向市场供应的原油为1011.1万桶/日，产量为1088.2万桶/日（1月产量为1010万桶/日）。 当前的地缘政治发展需要密切关注，其对全球经济增长预期的影响（如有）目前下定论还为时过早。",
+          "url": "https://wallstreetcn.com/livenews/3068125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "德国经济部长：德国天然气储备目前为21%水平。",
