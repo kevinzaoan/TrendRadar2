@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T15:44:28.244001+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-03-11T16:41:59.113527+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "高校出手,AI龙虾被禁",
@@ -16,11 +16,12 @@
             6,
             11,
             13,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时01分 ~ 15时44分]"
+          "appearance_count": 19,
+          "time_info": "[00时01分 ~ 16时41分]"
         },
         {
           "title": "建议不允许青少年用AI做作业",
@@ -80,11 +81,12 @@
             11,
             14,
             20,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时01分 ~ 15时44分]"
+          "appearance_count": 19,
+          "time_info": "[00时01分 ~ 16时41分]"
         },
         {
           "title": "工信部提醒AI养虾安全风险",
@@ -113,6 +115,20 @@
           "time_info": "12时15分"
         },
         {
+          "title": "建议AI应用设计多考虑残疾人",
+          "url": "https://www.douyin.com/hot/2426364",
+          "source": "抖音",
+          "ranks": [
+            14,
+            13,
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时15分 ~ 16时41分]"
+        },
+        {
           "title": "代表建议破除AI教育产品算法偏见",
           "url": "https://www.toutiao.com/trending/7615779868265037862/",
           "source": "今日头条",
@@ -135,6 +151,20 @@
           "time_info": "07时28分"
         },
         {
+          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
+          "url": "https://www.cls.cn/detail/2309250",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时49分 ~ 16时41分]"
+        },
+        {
           "title": "豆包限制AI成毅",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%99%90%E5%88%B6AI%E6%88%90%E6%AF%85%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -149,17 +179,16 @@
           "time_info": "[05时30分 ~ 09时59分]"
         },
         {
-          "title": "建议AI应用设计多考虑残疾人",
-          "url": "https://www.douyin.com/hot/2426364",
-          "source": "抖音",
+          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
+          "source": "澎湃新闻",
           "ranks": [
-            14,
-            13,
-            12
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 15时44分]"
+          "appearance_count": 4,
+          "time_info": "[14时54分 ~ 16时41分]"
         },
         {
           "title": "亚马逊在网站和APP推出健康AI智能体。",
@@ -198,31 +227,6 @@
           "time_info": "[12时15分 ~ 13时49分]"
         },
         {
-          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
-          "url": "https://www.cls.cn/detail/2309250",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时49分 ~ 15时44分]"
-        },
-        {
-          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时54分 ~ 15时44分]"
-        },
-        {
           "title": "据知情人士透露，Raizen SA接近与其主要的债权人（们）达成一份协议，从而启动一个庭外债务重组。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3067582",
           "source": "华尔街见闻-快讯",
@@ -245,6 +249,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时29分]"
+        },
+        {
+          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
+          "url": "https://wallstreetcn.com/articles/3767169",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 16时41分]"
         },
         {
           "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
@@ -304,6 +319,17 @@
           "time_info": "14时55分"
         },
         {
+          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
+          "url": "https://www.cls.cn/detail/2309524",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
           "title": "据The Information：OpenAI计划在战略调整中将Sora视频AI引入ChatGPT。",
           "url": "https://flash.jin10.com/detail/20260311115744060800",
           "source": "金十数据",
@@ -313,17 +339,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
-        },
-        {
-          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
-          "url": "https://wallstreetcn.com/articles/3767169",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时44分"
         },
         {
           "title": "集邦咨询：预估CPO在AI数据中心光通信模块的渗透率将逐年成长，有机会于2030年达35%",
@@ -412,12 +427,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "付费卸载“龙虾”：AI狂热的荒诞反转",
+          "url": "https://www.toutiao.com/trending/7615866634636365339/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "低空经济起飞正当时",
@@ -439,8 +465,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时49分 ~ 15时44分]"
+          "appearance_count": 5,
+          "time_info": "[13时49分 ~ 16时41分]"
         },
         {
           "title": "甲骨文(ORCL.N)第四季度以美元计算总收入预计将增长19%至21%。",
@@ -595,7 +621,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -633,6 +659,17 @@
           "time_info": "14时55分"
         },
         {
+          "title": "惠誉：若冲突持续，由于运费上涨、经济放缓和港口拥堵，印度港口或将面临一定吞吐量压力。",
+          "url": "https://flash.jin10.com/detail/20260311155854086800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
           "title": "沙特阿美总裁：海运持续受阻将对石油市场和世界经济造成严重后果",
           "url": "https://wallstreetcn.com/livenews/3067407",
           "source": "华尔街见闻-快讯",
@@ -642,6 +679,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "法国财长莱斯库尔：石油储备释放必须进行协同。 法国经济仍保持韧性。 七国集团领导人会谈将讨论释放石油储备问题。 尚未就释放石油储备作出决定。",
+          "url": "https://wallstreetcn.com/livenews/3067908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "凯投宏观：中东冲突若持续，亚洲经济体将面临LNG短缺风险",
