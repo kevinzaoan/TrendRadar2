@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T09:59:28.155800+08:00",
-  "total_titles_processed": 880,
+  "generated_at": "2026-03-11T12:15:42.759308+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "高校出手,AI龙虾被禁",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 09时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 12时15分]"
         },
         {
           "title": "建议不允许青少年用AI做作业",
@@ -66,8 +67,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 09时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 12时15分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -75,11 +76,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 09时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 12时15分]"
         },
         {
           "title": "工信部提醒AI养虾安全风险",
@@ -97,6 +99,28 @@
           "time_info": "[00时01分 ~ 09时59分]"
         },
         {
+          "title": "OpenAI计划将视频生成AI Sora接入ChatGPT。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3067769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "代表建议破除AI教育产品算法偏见",
+          "url": "https://www.toutiao.com/trending/7615779868265037862/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
           "title": "新加坡普林斯顿数字集团（PDG）联合创始人兼首席执行Rangu Salgame：我们正处于AI投资的“超级周期”之中。 对AI的长期需求以及即将到来的创新，正在驱动对数据中心容量的需求。 我们与超大规模云厂商（Hyperscalers）拥有极其稳固的合同，平均租期为10-12年。 （对于怀疑论者质疑AI类协议是否在人为地夸大对AI芯片的需求）这些担忧并未影响公司获得融资的能力。",
           "url": "https://wallstreetcn.com/livenews/3067605",
           "source": "华尔街见闻-快讯",
@@ -106,6 +130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "黄仁勋定义“AI五层蛋糕”架构，预示万亿级基建浪潮",
+          "url": "https://wallstreetcn.com/livenews/3067764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         },
         {
           "title": "豆包限制AI成毅",
@@ -216,6 +251,28 @@
           "time_info": "[07时28分 ~ 09时59分]"
         },
         {
+          "title": "据The Information：OpenAI计划在战略调整中将Sora视频AI引入ChatGPT。",
+          "url": "https://flash.jin10.com/detail/20260311115744060800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "建议AI应用设计多考虑残疾人",
+          "url": "https://www.douyin.com/hot/2426364",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
           "title": "外媒：腾讯秘密开发微信AI智能体 年内或对全用户开放",
           "url": "https://flash.jin10.com/detail/20260311035704540800",
           "source": "金十数据",
@@ -263,7 +320,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "低空经济起飞正当时",
@@ -274,8 +331,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 09时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 12时15分]"
         },
         {
           "title": "甲骨文(ORCL.N)第四季度以美元计算总收入预计将增长19%至21%。",
@@ -287,6 +344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "路透调查：受访的58%的经济学家认为，两名鸽派学者加入日本央行不会使加息更加困难。",
+          "url": "https://flash.jin10.com/detail/20260311120618830800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         },
         {
           "title": "Anthropic PBC在一场听证会上告知美国法官Rita F. Lin，如果总统特朗普在政府承包合同方面封杀该公司，恐怕今年会“损失”（至少）数十亿美元收入。 希望（司法系统）尽快采取行动，阻止五角大楼给公司贴标“供应链风险”的做法。",
@@ -306,9 +374,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "路透调查：64位经济学家均表示，日本央行将于3月19日将基准利率维持在0.75%。",
+          "url": "https://flash.jin10.com/detail/20260311120547264800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "路透调查：受访的60%的经济学家预计日本央行将在6月底前将基准利率上调至1.00%（2月调查为58%）。",
+          "url": "https://flash.jin10.com/detail/20260311120535170800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         },
         {
           "title": "以色列总理内塔尼亚胡：尽管战乱不断，以色列经济依然非常强劲。",
@@ -353,7 +443,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -364,7 +454,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -380,6 +470,17 @@
           "time_info": "06时29分"
         },
         {
+          "title": "野村：韩国政策发力应对油价冲击，2026年经济增长或超预期",
+          "url": "https://flash.jin10.com/detail/20260311114155321800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
           "title": "沙特阿美总裁：海运持续受阻将对石油市场和世界经济造成严重后果",
           "url": "https://wallstreetcn.com/livenews/3067407",
           "source": "华尔街见闻-快讯",
@@ -389,6 +490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "凯投宏观：中东冲突若持续，亚洲经济体将面临LNG短缺风险",
+          "url": "https://flash.jin10.com/detail/20260311111945842800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         }
       ]
     },
