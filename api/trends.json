@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-03-13T18:37:48.737287+08:00",
-  "total_titles_processed": 1595,
+  "generated_at": "2026-03-13T19:32:38.912581+08:00",
+  "total_titles_processed": 1683,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "naiyou单曲无关风月",
+          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            16,
+            18,
+            14,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时03分 ~ 19时32分]"
+        },
         {
           "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
           "url": "https://www.cls.cn/detail/2311468",
@@ -50,21 +66,6 @@
           "time_info": "[00时03分 ~ 10时03分]"
         },
         {
-          "title": "naiyou单曲无关风月",
-          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            16,
-            18,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时03分 ~ 18时37分]"
-        },
-        {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
           "url": "https://www.zhihu.com/question/2015029846779065089",
           "source": "知乎",
@@ -99,8 +100,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 18时37分]"
+          "appearance_count": 5,
+          "time_info": "[15时45分 ~ 19时32分]"
         },
         {
           "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
@@ -334,6 +335,17 @@
           "time_info": "14时55分"
         },
         {
+          "title": "研究：2026年FIFA世界杯有望成AI规模化应用超级场景",
+          "url": "https://wallstreetcn.com/livenews/3069668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "GitHub Copilot 、 Cursor 、 CodeX 与 Claude Code，我究竟要为谁付费？",
           "url": "https://www.zhihu.com/question/1963698332040929828",
           "source": "知乎",
@@ -436,7 +448,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "美方以“产能过剩”为由对包括中国在内的16个经济体发起301调查，商务部回应",
@@ -445,11 +457,12 @@
           "ranks": [
             10,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 18时37分]"
+          "appearance_count": 5,
+          "time_info": "[15时45分 ~ 19时32分]"
         },
         {
           "title": "读懂中国经济的长远考量",
@@ -658,6 +671,17 @@
           "time_info": "16时40分"
         },
         {
+          "title": "国家统计局：强化经济运行监测分析和预警研判",
+          "url": "https://wallstreetcn.com/livenews/3069665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "东盟经济部长：对中东持续紧张局势表示深切关注。",
           "url": "https://flash.jin10.com/detail/20260313161931683800",
           "source": "金十数据",
@@ -702,13 +726,24 @@
           "time_info": "12时45分"
         },
         {
+          "title": "路透调查：72位受访经济学家中有67位预计，欧洲央行将把存款利率维持在2.00%直至2026年（2月调查为74位中有66位持此观点）。",
+          "url": "https://flash.jin10.com/detail/20260313185348237800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "中办、国办：支持革命老区积极发展有机农业、特色养殖和林下经济等",
           "url": "https://wallstreetcn.com/livenews/3069631",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -755,6 +790,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
+        },
+        {
+          "title": "德国外交部发言人：油气收入仍是俄罗斯战争资金的重要来源。",
+          "url": "https://flash.jin10.com/detail/20260313184844352800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         }
       ]
     },
@@ -769,7 +815,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -824,7 +870,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -835,7 +881,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
