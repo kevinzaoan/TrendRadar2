@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-13T15:45:37.399646+08:00",
-  "total_titles_processed": 1286,
+  "generated_at": "2026-03-13T16:40:37.021331+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
+          "url": "https://www.cls.cn/detail/2311468",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时03分 ~ 16时40分]"
+        },
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
@@ -50,18 +63,6 @@
           "time_info": "[00时03分 ~ 03时43分]"
         },
         {
-          "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
-          "url": "https://www.cls.cn/detail/2311468",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时03分 ~ 15时45分]"
-        },
-        {
           "title": "naiyou单曲无关风月",
           "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
           "source": "bilibili 热搜",
@@ -72,8 +73,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时03分 ~ 15时45分]"
+          "appearance_count": 7,
+          "time_info": "[10时03分 ~ 16时40分]"
         },
         {
           "title": "未来乡村会比AI生成的还漂亮",
@@ -83,8 +84,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时55分 ~ 15时45分]"
+          "appearance_count": 3,
+          "time_info": "[14时55分 ~ 16时40分]"
+        },
+        {
+          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
+          "url": "https://www.zhihu.com/question/2015481604898858354",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 16时40分]"
         },
         {
           "title": "据Business Insider：xAI联合创始人Zihang Dai本周早些时候已离开公司。",
@@ -118,18 +131,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        },
-        {
-          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
-          "url": "https://www.zhihu.com/question/2015481604898858354",
-          "source": "知乎",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时49分 ~ 15时45分]"
         },
         {
           "title": "xAI正在招聘Cursor公司的两位高级主管Andrew Milich和Jason Ginsberg。",
@@ -180,6 +181,18 @@
           "time_info": "[06时26分 ~ 07时28分]"
         },
         {
+          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
+          "url": "https://www.zhihu.com/question/2012836051480178728",
+          "source": "知乎",
+          "ranks": [
+            20,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 16时40分]"
+        },
+        {
           "title": "Meta与Luxottica因AI智能眼镜视频共享问题再次面临诉讼",
           "url": "https://wallstreetcn.com/livenews/3069178",
           "source": "华尔街见闻-快讯",
@@ -204,6 +217,17 @@
           "time_info": "[12时45分 ~ 13时49分]"
         },
         {
+          "title": "为什么说「2026 年，AI 在疯狂寻找物理外壳」？你看到哪些好玩有趣的 AI 硬件产品？",
+          "url": "https://www.zhihu.com/question/2002762540602581922",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 16时40分]"
+        },
+        {
           "title": "特斯拉在SpaceX上市前将其对xAI的投资转换为SpaceX股份",
           "url": "https://wallstreetcn.com/livenews/3069094",
           "source": "华尔街见闻-快讯",
@@ -226,6 +250,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时49分 ~ 14时55分]"
+        },
+        {
+          "title": "不想看AI演戏",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E6%83%B3%E7%9C%8BAI%E6%BC%94%E6%88%8F&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 16时40分]"
         },
         {
           "title": "周四（3月12日），存储芯片与硬件供应链指数跌4.03%，报104.12点，跳空低开之后，整体低位震荡。 北美科技软件股指数ETF收跌0.87%。 信息科技指数跌2.70%，人工智能（AI）赢家指数跌2.55%，AI软件先驱指数跌1.00%。",
@@ -273,17 +309,6 @@
           "time_info": "04时35分"
         },
         {
-          "title": "为什么说「2026 年，AI 在疯狂寻找物理外壳」？你看到哪些好玩有趣的 AI 硬件产品？",
-          "url": "https://www.zhihu.com/question/2002762540602581922",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
           "title": "市场消息：Anthropic将于今年晚些时候推出首个Claude技术认证。",
           "url": "https://flash.jin10.com/detail/20260313023234906800",
           "source": "金十数据",
@@ -317,24 +342,13 @@
           "time_info": "10时03分"
         },
         {
-          "title": "不想看AI演戏",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E6%83%B3%E7%9C%8BAI%E6%BC%94%E6%88%8F&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
           "title": "新华社：OpenClaw走红凸显AI智能体潜力与风险",
           "url": "https://wallstreetcn.com/livenews/3069485",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -361,17 +375,6 @@
           "time_info": "10时03分"
         },
         {
-          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
-          "url": "https://www.zhihu.com/question/2012836051480178728",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
           "title": "戴尔科技CEO Michael Dell：（回应Anthropic与五角大楼的纠纷）企业无法影响（美国）政府如何使用（AI）工具。 企业（向美国政府）提出工具使用方式要求这种做法不可行。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3069024",
           "source": "华尔街见闻-快讯",
@@ -381,6 +384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "宇树科技四足机器人新专利获授权",
+          "url": "https://wallstreetcn.com/livenews/3069537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "Meta在Facebook Marketplace推出新款AI工具。",
@@ -408,7 +422,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 15,
+      "match_count": 24,
       "titles": [
         {
           "title": "读懂中国经济的长远考量",
@@ -459,6 +473,18 @@
           "time_info": "[05时40分 ~ 07时28分]"
         },
         {
+          "title": "美方以“产能过剩”为由对包括中国在内的16个经济体发起301调查，商务部回应",
+          "url": "https://www.cls.cn/detail/2311899",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 16时40分]"
+        },
+        {
           "title": "墨西哥经济部长埃布拉德：根据美墨加协定，墨西哥85%的贸易与美国第301条款无关，“我们目前仍没有面临关税”。",
           "url": "https://flash.jin10.com/detail/20260313035117217800",
           "source": "金十数据",
@@ -483,15 +509,26 @@
           "time_info": "[06时26分 ~ 07时28分]"
         },
         {
-          "title": "美方以“产能过剩”为由对包括中国在内的16个经济体发起301调查，商务部回应",
-          "url": "https://www.cls.cn/detail/2311899",
-          "source": "财联社热门",
+          "title": "东盟经济部长：强调以规则为基础、非歧视性、开放且可预测的多边贸易体系的重要性。",
+          "url": "https://flash.jin10.com/detail/20260313162300839800",
+          "source": "金十数据",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时45分"
+          "time_info": "16时40分"
+        },
+        {
+          "title": "东盟经济部长：将密切关注美国近期启动的301调查。",
+          "url": "https://flash.jin10.com/detail/20260313162201591800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "拉夫罗夫与古巴外长通电话 重申俄方反对美对古经济政治施压",
@@ -505,6 +542,17 @@
           "time_info": "01时49分"
         },
         {
+          "title": "东盟经济部长：对长期存在的全球贸易不确定性表示关切。",
+          "url": "https://flash.jin10.com/detail/20260313162144440800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "日本经济再生担当大臣木内康弘：原油价格对经济及政策的影响具有不确定性。 金融市场出现显著波动。 鉴于局势高度紧张且紧迫性极强，将密切监控其对市场的影响。 将继续评估中东局势，并采取相应措施。",
           "url": "https://wallstreetcn.com/livenews/3069278",
           "source": "华尔街见闻-快讯",
@@ -514,6 +562,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "东盟各经济部长：继续致力于保持东盟市场对贸易和投资的开放。",
+          "url": "https://flash.jin10.com/detail/20260313162133548800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "东盟经济部长：重申，长期的区域经济可预测性和投资者信心仍是全球贸易稳定的基础。",
+          "url": "https://flash.jin10.com/detail/20260313162120987800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "东盟经济部长：与东盟各国外长一道，呼吁中东冲突降级。",
+          "url": "https://flash.jin10.com/detail/20260313162003582800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "东盟经济部长：地缘政治动荡的长期持续可能对全球经济增长前景构成持续性挑战。",
+          "url": "https://flash.jin10.com/detail/20260313161937095800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "东盟经济部长：对中东持续紧张局势表示深切关注。",
+          "url": "https://flash.jin10.com/detail/20260313161931683800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "日本经济产业大臣赤泽亮正：我认为合理的油价应该是伊朗战争之前的水平。",
@@ -560,6 +663,17 @@
           "time_info": "12时45分"
         },
         {
+          "title": "菲律宾外交部长：讨论加强东盟内部贸易及经济与外交部长之间的协同效应。",
+          "url": "https://flash.jin10.com/detail/20260313161149737800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "日本经济产业大臣赤泽亮正：预计日本原油进口量将在本月晚些时候出现下滑。 将灵活采取措施，以最大限度减少油价对经济的影响。 预计（释放出的）原油储备的买方为国内炼油企业。 政府正努力确保多元化的替代采购渠道。 日本私营企业正在寻找替代石油来源。 合理的油价应是伊朗冲突前的水平。",
           "url": "https://wallstreetcn.com/livenews/3069339",
           "source": "华尔街见闻-快讯",
@@ -577,7 +691,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         }
@@ -585,7 +699,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "钢铁板块快速拉升，酒钢宏兴、安阳钢铁双双涨停，柳钢股份、鞍钢股份、海南矿业、重庆钢铁、凌钢股份跟涨。",
@@ -616,9 +730,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
+        },
+        {
+          "title": "菲律宾能源部长表示，菲律宾将增加燃煤发电、减少液化天然气使用，为寻求紧急权力，菲方可能暂停部分电力市场规则。",
+          "url": "https://flash.jin10.com/detail/20260313161259956800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "商品期货开盘，原油主力合约涨近7%，菜籽粕、燃料油涨超3%，铁矿石涨超2%，豆粕、沥青、焦炭、甲醇涨超1%。苯乙烯、集运欧线、乙二醇、纯苯跌超1%。",
