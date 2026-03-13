@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T20:59:07.898241+08:00",
-  "total_titles_processed": 1807,
+  "generated_at": "2026-03-13T22:03:58.930757+08:00",
+  "total_titles_processed": 1921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "naiyou单曲无关风月",
@@ -17,11 +17,26 @@
             18,
             14,
             17,
-            30
+            30,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时03分 ~ 20时59分]"
+          "appearance_count": 13,
+          "time_info": "[10时03分 ~ 22时03分]"
+        },
+        {
+          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
+          "url": "https://www.zhihu.com/question/2012836051480178728",
+          "source": "知乎",
+          "ranks": [
+            20,
+            4,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时45分 ~ 22时03分]"
         },
         {
           "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
@@ -64,20 +79,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时03分 ~ 10时03分]"
-        },
-        {
-          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
-          "url": "https://www.zhihu.com/question/2012836051480178728",
-          "source": "知乎",
-          "ranks": [
-            20,
-            4,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时45分 ~ 20时59分]"
         },
         {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
@@ -147,6 +148,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "AI带路寻美食,吧友吃到自闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
+          "source": "贴吧",
+          "ranks": [
+            30,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时03分]"
         },
         {
           "title": "xAI正在招聘Cursor公司的两位高级主管Andrew Milich和Jason Ginsberg。",
@@ -220,6 +233,18 @@
           "time_info": "[15时45分 ~ 18时37分]"
         },
         {
+          "title": "人工智能产业发展联盟：持续跟踪OpenClaw及同类AI智能体的安全风险动态",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32755562",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时03分]"
+        },
+        {
           "title": "Baillie Gifford重仓中国AI赛道 MiniMax成新宠",
           "url": "https://wallstreetcn.com/livenews/3069370",
           "source": "华尔街见闻-快讯",
@@ -268,17 +293,6 @@
           "time_info": "[15时45分 ~ 16时40分]"
         },
         {
-          "title": "人工智能产业发展联盟：持续跟踪OpenClaw及同类AI智能体的安全风险动态",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32755562",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 20时59分]"
-        },
-        {
           "title": "周四（3月12日），存储芯片与硬件供应链指数跌4.03%，报104.12点，跳空低开之后，整体低位震荡。 北美科技软件股指数ETF收跌0.87%。 信息科技指数跌2.70%，人工智能（AI）赢家指数跌2.55%，AI软件先驱指数跌1.00%。",
           "url": "https://wallstreetcn.com/livenews/3069155",
           "source": "华尔街见闻-快讯",
@@ -289,17 +303,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时26分]"
-        },
-        {
-          "title": "AI带路寻美食,吧友吃到自闭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 20时59分]"
         },
         {
           "title": "在SpaceX上市前，特斯拉将其对xAI的投资转换为SpaceX股份",
@@ -322,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "浑水创始人转空：若AI持续替代白领，美股401K体系或将崩盘",
+          "url": "https://wallstreetcn.com/articles/3767368",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "马斯克表示欢迎Jason Ginsberg、Andrew Milich加入xAI。",
@@ -355,6 +369,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "美股三大股指高开，道指涨0.47%，标普500指数涨0.5%，纳指涨0.49%。明星科技股多数走高，美光科技涨超3%，英特尔涨2.7%，台积电涨超2%。纳斯达克上市次日，PayPay涨超16%。Adobe跌超7%，公司上季营收超预期创纪录，但指引平平。META下跌3.2%，创3月6日以来最大盘中跌幅，报道称Meta在出现性能担忧后推迟了新AI模型的推出。",
+          "url": "https://wallstreetcn.com/livenews/3069840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "研究：2026年FIFA世界杯有望成AI规模化应用超级场景",
@@ -470,7 +495,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 33,
+      "match_count": 39,
       "titles": [
         {
           "title": "美方以“产能过剩”为由对包括中国在内的16个经济体发起301调查，商务部回应",
@@ -496,6 +521,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时03分 ~ 01时49分]"
+        },
+        {
+          "title": "中国经济圆桌会丨“十五五”规划纲要既登高望远又脚踏实地",
+          "url": "https://wallstreetcn.com/livenews/3069854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "中国经济圆桌会丨大国经济必须把发展的战略基点放在扩大内需上",
+          "url": "https://wallstreetcn.com/livenews/3069853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "中华人民共和国国民经济和社会发展第十五个五年规划纲要",
+          "url": "https://www.cls.cn/detail/2312691",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "经济学家：加拿大就业报告极为疲弱 加央行无需加息",
+          "url": "https://flash.jin10.com/detail/20260313214819883800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "菲律宾贸易部长：地缘政治紧张局势不再只是耸人听闻的头条新闻，它们已经演变成经济冲击了。",
@@ -605,6 +674,17 @@
           "time_info": "16时40分"
         },
         {
+          "title": "中华人民共和国国民经济和社会发展第十五个五年规划纲要。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3069846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "拉夫罗夫与古巴外长通电话 重申俄方反对美对古经济政治施压",
           "url": "https://flash.jin10.com/detail/20260313012905851800",
           "source": "金十数据",
@@ -666,7 +746,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -691,6 +771,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
+        },
+        {
+          "title": "泽连斯基：美国放宽石油制裁将为俄带来100亿美元收入",
+          "url": "https://wallstreetcn.com/livenews/3069835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "东盟经济部长：地缘政治动荡的长期持续可能对全球经济增长前景构成持续性挑战。",
@@ -743,7 +834,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
