@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T17:39:42.449145+08:00",
-  "total_titles_processed": 1483,
+  "generated_at": "2026-03-13T18:37:48.737287+08:00",
+  "total_titles_processed": 1595,
   "failed_sources": [],
   "trends": [
     {
@@ -50,6 +50,21 @@
           "time_info": "[00时03分 ~ 10时03分]"
         },
         {
+          "title": "naiyou单曲无关风月",
+          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            16,
+            18,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时03分 ~ 18时37分]"
+        },
+        {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
           "url": "https://www.zhihu.com/question/2015029846779065089",
           "source": "知乎",
@@ -63,21 +78,6 @@
           "time_info": "[00时03分 ~ 03时43分]"
         },
         {
-          "title": "naiyou单曲无关风月",
-          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            16,
-            18,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时03分 ~ 17时39分]"
-        },
-        {
           "title": "未来乡村会比AI生成的还漂亮",
           "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%B9%A1%E6%9D%91%E4%BC%9A%E6%AF%94AI%E7%94%9F%E6%88%90%E7%9A%84%E8%BF%98%E6%BC%82%E4%BA%AE",
           "source": "百度热搜",
@@ -87,6 +87,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时55分 ~ 17时39分]"
+        },
+        {
+          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
+          "url": "https://www.zhihu.com/question/2012836051480178728",
+          "source": "知乎",
+          "ranks": [
+            20,
+            4,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 18时37分]"
         },
         {
           "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
@@ -99,19 +113,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时49分 ~ 16时40分]"
-        },
-        {
-          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
-          "url": "https://www.zhihu.com/question/2012836051480178728",
-          "source": "知乎",
-          "ranks": [
-            20,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 17时39分]"
         },
         {
           "title": "据Business Insider：xAI联合创始人Zihang Dai本周早些时候已离开公司。",
@@ -214,8 +215,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 17时39分]"
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 18时37分]"
         },
         {
           "title": "Baillie Gifford重仓中国AI赛道 MiniMax成新宠",
@@ -394,7 +395,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -435,8 +436,21 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "美方以“产能过剩”为由对包括中国在内的16个经济体发起301调查，商务部回应",
+          "url": "https://www.cls.cn/detail/2311899",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 18时37分]"
+        },
         {
           "title": "读懂中国经济的长远考量",
           "url": "https://s.weibo.com/weibo?q=%23%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9A%84%E9%95%BF%E8%BF%9C%E8%80%83%E9%87%8F%23&t=31&band_rank=3&Refer=top",
@@ -449,41 +463,6 @@
           "time_info": "[00时03分 ~ 01时49分]"
         },
         {
-          "title": "美方以“产能过剩”为由对包括中国在内的16个经济体发起301调查，商务部回应",
-          "url": "https://www.cls.cn/detail/2311899",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 17时39分]"
-        },
-        {
-          "title": "韩国财政部长：韩国将利用额外税收收入编制补充预算，以缓解油价飙升对家庭和企业的冲击。",
-          "url": "https://wallstreetcn.com/livenews/3069614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "德国经济部长：释放储备并未产生预期效果，因为对船只的袭击仍在继续。",
-          "url": "https://wallstreetcn.com/livenews/3069613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
           "title": "菲律宾贸易部长：地缘政治紧张局势不再只是耸人听闻的头条新闻，它们已经演变成经济冲击了。",
           "url": "https://flash.jin10.com/detail/20260313095142269800",
           "source": "金十数据",
@@ -493,6 +472,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "韩国财政部长：韩国将利用额外税收收入编制补充预算，以缓解油价飙升对家庭和企业的冲击。",
+          "url": "https://wallstreetcn.com/livenews/3069614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时37分]"
         },
         {
           "title": "拉夫罗夫与古巴外长通电话，重申俄方反对美对古经济政治施压",
@@ -519,6 +510,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时40分 ~ 07时28分]"
+        },
+        {
+          "title": "德国经济部长：释放储备并未产生预期效果，因为对船只的袭击仍在继续。",
+          "url": "https://wallstreetcn.com/livenews/3069613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时37分]"
         },
         {
           "title": "墨西哥经济部长埃布拉德：根据美墨加协定，墨西哥85%的贸易与美国第301条款无关，“我们目前仍没有面临关税”。",
@@ -639,7 +642,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -699,6 +702,17 @@
           "time_info": "12时45分"
         },
         {
+          "title": "中办、国办：支持革命老区积极发展有机农业、特色养殖和林下经济等",
+          "url": "https://wallstreetcn.com/livenews/3069631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "日本经济产业大臣赤泽亮正：日本政府将与私营部门经营者一道，尽最大努力确保原油替代来源。",
           "url": "https://flash.jin10.com/detail/20260313113849287800",
           "source": "金十数据",
@@ -746,8 +760,19 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "印尼能源部长：发电厂不存在煤炭供应短缺问题，国内市场义务政策仍将继续实施。",
+          "url": "https://flash.jin10.com/detail/20260313181723616800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
         {
           "title": "钢铁板块快速拉升，酒钢宏兴、安阳钢铁双双涨停，柳钢股份、鞍钢股份、海南矿业、重庆钢铁、凌钢股份跟涨。",
           "url": "https://wallstreetcn.com/livenews/3069280",
@@ -791,6 +816,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "据日本放送协会：东京电力公司因警报显示柏崎刈羽核电站6号机组发电机出现轻微漏电，已停止该机组发电。",
+          "url": "https://flash.jin10.com/detail/20260313175244361800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "据日本放送协会：东京电力公司将暂时停止柏崎刈羽核电站6号反应堆的发电。",
+          "url": "https://flash.jin10.com/detail/20260313175107595800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "商品期货开盘，原油主力合约涨近7%，菜籽粕、燃料油涨超3%，铁矿石涨超2%，豆粕、沥青、焦炭、甲醇涨超1%。苯乙烯、集运欧线、乙二醇、纯苯跌超1%。",
