@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T21:46:21.544374+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2026-03-14T22:29:50.624888+08:00",
+  "total_titles_processed": 1572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "机器人“保姆”何时来咱家",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时18分 ~ 21时46分]"
+          "appearance_count": 13,
+          "time_info": "[12时18分 ~ 22时29分]"
         },
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
@@ -42,11 +42,12 @@
             9,
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时45分 ~ 21时46分]"
+          "appearance_count": 12,
+          "time_info": "[13时45分 ~ 22时29分]"
         },
         {
           "title": "鹅厂抄袭AI龙虾,创始人开喷",
@@ -74,11 +75,12 @@
             18,
             20,
             19,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时40分 ~ 21时46分]"
+          "appearance_count": 25,
+          "time_info": "[00时40分 ~ 22时29分]"
         },
         {
           "title": "张颂文硬气回应AI冲击影视行业",
@@ -164,6 +166,17 @@
           "time_info": "[17时33分 ~ 19时25分]"
         },
         {
+          "title": "机器人正要进电梯被男子一脚踹倒",
+          "url": "https://www.toutiao.com/trending/7616283390312628266/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 22时29分]"
+        },
+        {
           "title": "马斯克旗下xAI聘请AI初创公司Thinking Machines的创始成员Devendra Chaplot参与其Grok AI模型的训练工作。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3070061",
           "source": "华尔街见闻-快讯",
@@ -175,6 +188,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时01分 ~ 13时45分]"
+        },
+        {
+          "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
+          "url": "https://wallstreetcn.com/articles/3767512",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 22时29分]"
         },
         {
           "title": "美国商务部撤回拟议的AI芯片出口管制新规",
@@ -199,17 +223,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时28分 ~ 10时01分]"
-        },
-        {
-          "title": "机器人正要进电梯被男子一脚踹倒",
-          "url": "https://www.toutiao.com/trending/7616283390312628266/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 21时46分]"
         },
         {
           "title": "Mosaic股价跌幅扩大至5.9%。",
@@ -257,17 +270,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
-        },
-        {
-          "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
-          "url": "https://wallstreetcn.com/articles/3767512",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
         },
         {
           "title": "xAI联创团队几乎全跑了！马斯克致歉并放话“数字擎天柱”半年上线",
@@ -325,6 +327,17 @@
           "time_info": "00时40分"
         },
         {
+          "title": "机器人踢球800个假动作",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B8%A2%E7%90%83800%E4%B8%AA%E5%81%87%E5%8A%A8%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "马斯克下令，在xAI实施新一轮裁员。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3069912",
           "source": "华尔街见闻-快讯",
@@ -371,8 +384,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时40分 ~ 21时46分]"
+          "appearance_count": 25,
+          "time_info": "[00时40分 ~ 22时29分]"
         },
         {
           "title": "春日里的中国经济密码",
@@ -425,9 +438,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 22时29分]"
         },
         {
           "title": "韩日财长同意加强经济联系",
@@ -503,6 +516,18 @@
           "time_info": "[16时35分 ~ 17时33分]"
         },
         {
+          "title": "两会受权发布｜关于2025年国民经济和社会发展计划执行情况与2026年国民经济和社会发展计划草案的报告。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3070170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 22时29分]"
+        },
+        {
           "title": "日本经济再生大臣赤泽亮正：今明两天，在东京举行“印度太平洋能源安全保障阁僚·商业论坛”。由日美两国政府共同主办，邀请各国阁僚和产业界领袖。双边会谈也接连不断。在中东局势紧张的时刻，各国的合作显得尤为重要。",
           "url": "https://flash.jin10.com/detail/20260314092011157800",
           "source": "金十数据",
@@ -513,17 +538,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 12时18分]"
-        },
-        {
-          "title": "两会受权发布｜关于2025年国民经济和社会发展计划执行情况与2026年国民经济和社会发展计划草案的报告。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3070170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
         },
         {
           "title": "秘鲁央行首席经济学家阿姆斯：能源中断带来的影响预计将持续至三月底，当前的首要任务是满足国内需求。",
