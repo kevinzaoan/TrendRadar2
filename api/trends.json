@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-03-15T05:28:11.751397+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-03-15T06:27:40.422872+08:00",
+  "total_titles_processed": 424,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
       "match_count": 8,
       "titles": [
-        {
-          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时28分]"
-        },
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
           "url": "https://www.cls.cn/detail/2312637",
@@ -28,8 +16,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 06时27分]"
+        },
+        {
+          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "湖北“省考”开考 人形机器人入考题",
@@ -40,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -51,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "机器人踢球800个假动作",
@@ -62,11 +63,12 @@
             9,
             15,
             16,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -76,8 +78,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "机器人正要进电梯被男子一脚踹倒",
@@ -87,8 +89,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -118,8 +120,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "中国经济怎么看",
@@ -129,8 +131,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "财政部：2026年中央国有资本经营预算收入3716.32亿元，下降4.8%",
@@ -140,8 +142,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "两会受权发布｜关于2025年国民经济和社会发展计划执行情况与2026年国民经济和社会发展计划草案的报告。（新华社）",
@@ -151,8 +153,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "美国共和党参议员格雷厄姆：如果伊朗失去对哈尔克岛石油基础设施的控制权或运营能力，其经济将被摧毁。谁控制了哈尔克岛，谁就掌控了这场战争的走向。",
