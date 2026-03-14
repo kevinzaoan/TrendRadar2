@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T14:45:41.743097+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-03-14T15:36:05.203160+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 14时45分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 15时36分]"
         },
         {
           "title": "张颂文硬气回应AI冲击影视行业",
@@ -59,11 +59,12 @@
             26,
             18,
             19,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 14时45分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 15时36分]"
         },
         {
           "title": "鹅厂抄袭AI龙虾,创始人开喷",
@@ -72,9 +73,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 15时36分]"
         },
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
@@ -85,19 +86,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 14时45分]"
-        },
-        {
-          "title": "政府网站显示，美国商务部撤回关于AI芯片出口的拟议规则",
-          "url": "https://flash.jin10.com/detail/20260314140852478800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 15时36分]"
         },
         {
           "title": "马斯克誓言重建 xAI，又一联合创始人离职",
@@ -124,6 +114,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时35分 ~ 03时31分]"
+        },
+        {
+          "title": "政府网站显示，美国商务部撤回关于AI芯片出口的拟议规则",
+          "url": "https://flash.jin10.com/detail/20260314140852478800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 15时36分]"
+        },
+        {
+          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时45分 ~ 15时36分]"
         },
         {
           "title": "马斯克旗下xAI聘请AI初创公司Thinking Machines的创始成员Devendra Chaplot参与其Grok AI模型的训练工作。（The Information）",
@@ -161,18 +176,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时31分 ~ 04时35分]"
-        },
-        {
-          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 14时45分]"
         },
         {
           "title": "报道：Meta计划因AI成本攀升而实施大规模裁员",
@@ -257,7 +260,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "中华人民共和国国民经济和社会发展第十五个五年规划纲要",
@@ -267,8 +270,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 14时45分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 15时36分]"
         },
         {
           "title": "春日里的中国经济密码",
@@ -293,8 +296,21 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时31分 ~ 12时18分]"
+          "appearance_count": 11,
+          "time_info": "[03时31分 ~ 15时36分]"
+        },
+        {
+          "title": "中华人民共和国国民经济和社会发展第十五个五年规划纲要",
+          "url": "https://wallstreetcn.com/articles/3767483",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 15时36分]"
         },
         {
           "title": "自然资源部 38 号文提出，新增建设用地原则上不用于经营性房地产开发，能否对新房价格起到支撑？",
@@ -321,19 +337,6 @@
           "time_info": "[10时01分 ~ 12时18分]"
         },
         {
-          "title": "中华人民共和国国民经济和社会发展第十五个五年规划纲要",
-          "url": "https://wallstreetcn.com/articles/3767483",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 14时45分]"
-        },
-        {
           "title": "日本经济再生大臣赤泽亮正：今明两天，在东京举行“印度太平洋能源安全保障阁僚·商业论坛”。由日美两国政府共同主办，邀请各国阁僚和产业界领袖。双边会谈也接连不断。在中东局势紧张的时刻，各国的合作显得尤为重要。",
           "url": "https://flash.jin10.com/detail/20260314092011157800",
           "source": "金十数据",
@@ -355,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "十五五规划纲要：优化收入分配格局",
+          "url": "https://www.toutiao.com/trending/7616245037273415707/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "调查显示：经济学家预计美联储2026年将降息两次，对沃什存有疑虑",
