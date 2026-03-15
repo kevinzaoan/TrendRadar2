@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T02:40:20.890423+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-03-16T03:29:14.564810+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "“3·15”晚会：起底荐股分成骗局 给AI大模型投毒已成产业链",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时29分]"
         },
         {
           "title": "系好安全带！最重磅的中美会谈、美日欧央行决议、AI大会和巨头财报，都在这一周",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时29分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时29分]"
         },
         {
           "title": "315晚会曝光“AI投毒产业链”",
@@ -50,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时29分]"
         },
         {
           "title": "六指内塔尼亚胡是AI替身？真相来了",
@@ -62,21 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时40分]"
-        },
-        {
-          "title": "“Apollo-9手环怎么样？”315曝光AI大模型“投毒”后实测：千问拒答，DeepSeek翻车",
-          "url": "https://wallstreetcn.com/livenews/3070375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时29分]"
         },
         {
           "title": "实测AI推荐如何被操控",
@@ -88,8 +75,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时29分]"
         },
         {
           "title": "315晚会曝光“AI投毒产业链”",
@@ -101,8 +88,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时29分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -113,8 +100,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时29分]"
         },
         {
           "title": "给AI投毒已成产业链",
@@ -122,11 +109,52 @@
           "source": "微博",
           "ranks": [
             16,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 03时29分]"
+        },
+        {
+          "title": "“Apollo-9手环怎么样？”315曝光AI大模型“投毒”后实测：千问拒答，DeepSeek翻车",
+          "url": "https://wallstreetcn.com/livenews/3070375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            18,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时29分]"
+        },
+        {
+          "title": "给AI投毒",
+          "url": "https://s.weibo.com/weibo?q=%E7%BB%99AI%E6%8A%95%E6%AF%92&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            22,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 03时29分]"
+        },
+        {
+          "title": "人形机器人夜跑备战半马",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%9C%E8%B7%91%E5%A4%87%E6%88%98%E5%8D%8A%E9%A9%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时29分]"
         },
         {
           "title": "专家：AI大模型投毒是新型不正当竞争",
@@ -141,28 +169,15 @@
           "time_info": "[00时33分 ~ 01时28分]"
         },
         {
-          "title": "人形机器人夜跑备战半马",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%9C%E8%B7%91%E5%A4%87%E6%88%98%E5%8D%8A%E9%A9%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时28分]"
-        },
-        {
-          "title": "给AI投毒",
-          "url": "https://s.weibo.com/weibo?q=%E7%BB%99AI%E6%8A%95%E6%AF%92&t=31&band_rank=24&Refer=top",
+          "title": "315晚会曝光AI大模型被投毒",
+          "url": "https://s.weibo.com/weibo?q=%23315%E6%99%9A%E4%BC%9A%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%A2%AB%E6%8A%95%E6%AF%92%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            24,
-            22
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时28分 ~ 02时40分]"
+          "time_info": "[03时28分 ~ 03时29分]"
         },
         {
           "title": "AI时代家长如何教育孩子",
@@ -171,7 +186,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
         },
@@ -211,8 +226,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时29分]"
         },
         {
           "title": "白宫经济顾问哈塞特：美国可以上线“许多、许多的能源”。",
@@ -221,11 +236,12 @@
           "ranks": [
             3,
             10,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时29分]"
         },
         {
           "title": "高盛警告：伊朗战争或致海湾经济体遭遇90年代以来最严重衰退",
@@ -233,11 +249,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 02时40分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 03时29分]"
         },
         {
           "title": "伊拉克：或发行国债以弥补石油收入下滑",
@@ -245,11 +262,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 02时40分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 03时29分]"
         },
         {
           "title": "美国中央司令部：伊朗部队已向其邻国发射了数千架无人机和导弹，无差别地攻击民用酒店、商业机场、居民社区和经济基础设施。",
