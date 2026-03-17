@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T17:56:58.202844+08:00",
-  "total_titles_processed": 1521,
+  "generated_at": "2026-03-17T18:53:35.121799+08:00",
+  "total_titles_processed": 1607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 66,
+      "match_count": 69,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -39,11 +39,12 @@
             2,
             1,
             5,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时52分 ~ 17时56分]"
+          "appearance_count": 7,
+          "time_info": "[12时52分 ~ 18时53分]"
         },
         {
           "title": "锐评B站AI大赛热门作品",
@@ -135,11 +136,12 @@
           "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E5%8E%82%E6%9C%88%E8%96%AA3%E4%B8%87%E7%96%AF%E6%8A%A2%E6%96%87%E7%A7%91%E7%94%9F%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 17时56分]"
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时53分]"
         },
         {
           "title": "阿里成立 Token Hub 事业群，由吴泳铭直接负责，此次架构调整对阿里 AI 发展有怎样的影响？",
@@ -181,15 +183,18 @@
           "time_info": "03时18分"
         },
         {
-          "title": "马斯克：若告赢OpenAI，上千亿美元收益全部捐给慈善机构。",
-          "url": "https://wallstreetcn.com/livenews/3071571",
-          "source": "华尔街见闻-快讯",
+          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
+          "url": "https://www.zhihu.com/question/1977057445844109122",
+          "source": "知乎",
           "ranks": [
-            2
+            19,
+            15,
+            10,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时59分 ~ 18时53分]"
         },
         {
           "title": "据华尔街日报：由英伟达支持的人工智能初创公司 Reflection AI 计划斥资数十亿美元在韩国建设数据中心。",
@@ -225,17 +230,15 @@
           "time_info": "04时39分"
         },
         {
-          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
-          "url": "https://www.zhihu.com/question/1977057445844109122",
-          "source": "知乎",
+          "title": "推动市场准入制度再创新 北京将推出人形机器人经营范围主题套餐",
+          "url": "https://wallstreetcn.com/livenews/3071603",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            15,
-            10
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时59分 ~ 17时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "AI拉动需求劲增，存储芯片全年涨价“无悬念”",
@@ -248,6 +251,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时32分]"
+        },
+        {
+          "title": "马斯克：若告赢OpenAI，上千亿美元收益全部捐给慈善机构。",
+          "url": "https://wallstreetcn.com/livenews/3071571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时53分]"
         },
         {
           "title": "Nscale宣布，与英伟达、微软、卡特彼勒构建合作关系。 将提供1.35 GW的AI算力。 2028年上半年将获得2 GW电力供应。",
@@ -297,6 +312,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时39分]"
+        },
+        {
+          "title": "人形机器人能打网球了",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%83%BD%E6%89%93%E7%BD%91%E7%90%83%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 18时53分]"
         },
         {
           "title": "英伟达创始人兼CEO黄仁勋表示：AI已经进入了生产时代。智能现在是实时生成的，企业需要为此规模而构建的系统。 随着AI智能体开始具备推理、规划和行动能力，下一个 AI 拐点将大幅拉动对加速计算、软件和 AI 工厂的需求。联想与英伟达正携手交付驱动未来所需的全栈平台。",
@@ -509,9 +536,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        },
+        {
+          "title": "微盟公布2025财报：总营收15.9亿，AI收入首次过亿",
+          "url": "https://wallstreetcn.com/livenews/3071596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "英伟达CEO黄仁勋：。与Corweave的合作非常出色，他们是全球首个AI原生云。这个公司成立的唯一目的就是提供和托管GPU，随着加速计算时代的到来，为AI云提供托管服务。他们拥有一些出色的客户，增长势头惊人。",
@@ -556,6 +594,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "Lex锐评千万播放AI作品",
+          "url": "https://search.bilibili.com/all?keyword=Lex%E9%94%90%E8%AF%84%E5%8D%83%E4%B8%87%E6%92%AD%E6%94%BEAI%E4%BD%9C%E5%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "开云集团成立新的实体Kering Jewelry，Jean-Marc Duplaix将出任其首席执行官（CEO）。",
@@ -712,17 +761,6 @@
           "time_info": "10时06分"
         },
         {
-          "title": "人形机器人能打网球了",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%83%BD%E6%89%93%E7%BD%91%E7%90%83%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
           "title": "三星揭晓HBM4E，展示全方位AI解决方案、英伟达合作伙伴关系及愿景",
           "url": "https://wallstreetcn.com/livenews/3071158",
           "source": "华尔街见闻-快讯",
@@ -740,7 +778,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -781,7 +819,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "美方宣布对中国在内的60个经济体发起301调查，商务部回应",
@@ -838,8 +876,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 17时56分]"
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时53分]"
         },
         {
           "title": "房地产板块密集涨停",
@@ -859,7 +897,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -899,6 +937,18 @@
           "time_info": "[12时52分 ~ 13时59分]"
         },
         {
+          "title": "“龙虾”只是Token经济的前菜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32777273",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时53分]"
+        },
+        {
           "title": "商务部回应美以「未禁止进口强迫劳动产品」为由对包括中国在内 60 个经济体发起调查，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2016789382670075625",
           "source": "知乎",
@@ -908,18 +958,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 00时14分]"
-        },
-        {
-          "title": "“龙虾”只是Token经济的前菜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32777273",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 17时56分]"
         },
         {
           "title": "全岛停电、经济停摆！古巴遭美国逼入绝境，特朗普放言“接管”",
@@ -961,7 +999,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -983,9 +1021,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        },
+        {
+          "title": "德国经济部长赖希：我们将与其他经合组织国家协同行动，向市场释放部分国家石油储备。",
+          "url": "https://flash.jin10.com/detail/20260317182729752800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "腾讯音乐发布2025财报：业务多元增长，全年总收入329亿元创新高",
@@ -994,9 +1043,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        },
+        {
+          "title": "虎牙：2025年总收入增长7%至65亿元，四季度收入创新高",
+          "url": "https://wallstreetcn.com/livenews/3071589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "欧元区3月ZEW经济景气指数 -8.5，前值 39.4。",
+          "url": "https://wallstreetcn.com/livenews/3071587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "墨西哥经济部：将于周二在华盛顿与美国贸易代表办公室官员会晤，启动《美墨加协定》审议会谈。",
@@ -1010,6 +1081,28 @@
           "time_info": "04时39分"
         },
         {
+          "title": "德国3月ZEW经济景气指数 -0.5，预期 39.2，前值 58.3。",
+          "url": "https://wallstreetcn.com/livenews/3071585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "小伙练就“摇盲盒”绝技 年收入30万",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%BB%83%E5%B0%B1%E2%80%9C%E6%91%87%E7%9B%B2%E7%9B%92%E2%80%9D%E7%BB%9D%E6%8A%80+%E5%B9%B4%E6%94%B6%E5%85%A530%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "日本央行行长植田和男：财政支出将提振需求、刺激经济，并可能推升工资和通胀。 如果财政支出能提高经济的供给能力，反过来可能起到缓解通胀压力的作用。",
           "url": "https://wallstreetcn.com/livenews/3071281",
           "source": "华尔街见闻-快讯",
@@ -1021,13 +1114,24 @@
           "time_info": "10时06分"
         },
         {
+          "title": "德国3月ZEW经济现况指数 -62.9，预期 -68，前值 -65.9。",
+          "url": "https://wallstreetcn.com/livenews/3071584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "乌克兰经济部表示，该国计划将2026年春季谷物播种面积由2025年的576万公顷增加至600万公顷。",
           "url": "https://flash.jin10.com/detail/20260317172344421800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -1099,7 +1203,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         }
