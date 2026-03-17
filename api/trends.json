@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-18T06:33:43.220289+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-03-18T07:33:42.698531+08:00",
+  "total_titles_processed": 681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "看机器人跳一支春天的芭蕾",
           "url": "https://www.douyin.com/hot/2433980",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时33分]"
         },
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -26,22 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时33分]"
-        },
-        {
-          "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
-          "url": "https://www.zhihu.com/question/2016992148197750088",
-          "source": "知乎",
-          "ranks": [
-            5,
-            10,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时58分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时33分]"
         },
         {
           "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
@@ -51,11 +38,12 @@
             12,
             9,
             13,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时33分]"
         },
         {
           "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
@@ -66,8 +54,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时33分]"
         },
         {
           "title": "于谦说怕AI偷看相册",
@@ -79,19 +67,46 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时33分]"
+        },
+        {
+          "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
+          "url": "https://www.zhihu.com/question/2016992148197750088",
+          "source": "知乎",
+          "ranks": [
+            5,
+            10,
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时33分]"
+          "time_info": "[01时58分 ~ 07时33分]"
+        },
+        {
+          "title": "橡树资本联合创始人Howard Marks：投资者低估了人工智能（AI）。 AI让世界变得更难预测。 赋予AI重要性的“力量”也让AI未来会做些什么变得难以预料。",
+          "url": "https://wallstreetcn.com/livenews/3071946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "“龙虾”火出圈，券商纷纷自研AI智能体",
           "url": "https://wallstreetcn.com/livenews/3071935",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时33分]"
         },
         {
           "title": "必和必拓集团任命Brandon Craig为首席执行官，自7月1日起接替Mike Henry。",
@@ -177,6 +192,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "公募机构争夺AI好感度，业内提示谨防信息污染",
+          "url": "https://wallstreetcn.com/livenews/3071939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "AI无人机科技公司Swarmer Inc.（SWMR）美国IPO首日开盘报12.50美元，此前给出的IPO发行价为每股5美元。",
           "url": "https://wallstreetcn.com/livenews/3071776",
           "source": "华尔街见闻-快讯",
@@ -197,6 +223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        },
+        {
+          "title": "大厂月薪 3 万元「疯抢」文科生，AI 时代文科生比理科生更吃香了吗？他们有哪些优势？",
+          "url": "https://www.zhihu.com/question/2016095792616744489",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "微软整合个人与工作Copilot团队，全力推进AI布局",
@@ -289,8 +326,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时33分]"
         },
         {
           "title": "油价再度暴涨对各国经济有何影响",
@@ -316,8 +353,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时33分]"
         },
         {
           "title": "白宫经济顾问哈塞特：伊朗冲突几周内就能结束，不会拖上几个月",
@@ -327,8 +364,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 07时33分]"
         },
         {
           "title": "《求是》杂志发表了特约评论员文章明确，房地产带有「显著的金融资产属性」，您怎么看？",
@@ -337,11 +374,12 @@
           "ranks": [
             17,
             15,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时58分 ~ 06时33分]"
+          "appearance_count": 9,
+          "time_info": "[01时58分 ~ 07时33分]"
         },
         {
           "title": "小伙练就“摇盲盒”绝技 年收入30万",
@@ -351,22 +389,12 @@
             24,
             19,
             8,
-            22
+            22,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时40分]"
-        },
-        {
-          "title": "中通快递(02057.HK)：2025年第四季度收入为人民币145.1亿元，同比增长12.3%；净利润为人民币26.93亿元，同比增长10.1%。2025财年收入为人民币490.99亿元，同比增长10.9%；净利润为人民币 92.36亿元，同比增长3.9%。",
-          "url": "https://flash.jin10.com/detail/20260318060616022800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时33分]"
         },
         {
           "title": "根据美国银行对欧洲基金经理进行的一项调查，随着市场对滞胀的担忧加剧，自战争爆发以来，投资者对今年欧洲经济增长的乐观情绪已大幅下降。 调查发现，目前净29%的基金经理预计欧洲经济将加速增长，低于一个月前创纪录的74%。",
@@ -379,6 +407,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 03时13分]"
+        },
+        {
+          "title": "中通快递(02057.HK)：2025年第四季度收入为人民币145.1亿元，同比增长12.3%；净利润为人民币26.93亿元，同比增长10.1%。2025财年收入为人民币490.99亿元，同比增长10.9%；净利润为人民币 92.36亿元，同比增长3.9%。",
+          "url": "https://flash.jin10.com/detail/20260318060616022800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时33分]"
         },
         {
           "title": "美国国务卿鲁比奥：古巴禁运与政治变革息息相关，他们的经济行不通。",
@@ -395,7 +435,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国总统特朗普重申，将在任期内封杀风力发电机",
@@ -407,6 +447,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "英国石油(BP.N)：各方将继续进行谈判；若要结束停工，美国钢铁工人联合会（USW）必须接受3月17日的提案。",
+          "url": "https://flash.jin10.com/detail/20260318065407237800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "英国石油(BP.N)：（关于怀廷炼油厂谈判）由美国钢铁工人联合会（USW）代表的员工在3月17日（周二）之后不应前往炼油厂上班。已向工会发出停工通知，停工将于3月19日（周四）凌晨12:00生效。",
+          "url": "https://flash.jin10.com/detail/20260318064714954800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         }
       ]
     }
