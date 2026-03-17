@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T16:54:39.680524+08:00",
-  "total_titles_processed": 1409,
+  "generated_at": "2026-03-17T17:56:58.202844+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 63,
+      "match_count": 66,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -30,6 +30,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[06时03分 ~ 15时16分]"
+        },
+        {
+          "title": "于谦说怕AI偷看相册",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            1,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 17时56分]"
         },
         {
           "title": "锐评B站AI大赛热门作品",
@@ -91,19 +105,6 @@
           "time_info": "[00时13分 ~ 16时54分]"
         },
         {
-          "title": "于谦说怕AI偷看相册",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 16时54分]"
-        },
-        {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
           "url": "https://www.zhihu.com/question/2015734176020656294",
           "source": "知乎",
@@ -128,6 +129,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时52分 ~ 15时16分]"
+        },
+        {
+          "title": "AI大厂月薪3万疯抢文科生",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E5%8E%82%E6%9C%88%E8%96%AA3%E4%B8%87%E7%96%AF%E6%8A%A2%E6%96%87%E7%A7%91%E7%94%9F%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时56分]"
         },
         {
           "title": "阿里成立 Token Hub 事业群，由吴泳铭直接负责，此次架构调整对阿里 AI 发展有怎样的影响？",
@@ -158,17 +170,6 @@
           "time_info": "[10时05分 ~ 15时16分]"
         },
         {
-          "title": "AI大厂月薪3万疯抢文科生",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E5%8E%82%E6%9C%88%E8%96%AA3%E4%B8%87%E7%96%AF%E6%8A%A2%E6%96%87%E7%A7%91%E7%94%9F%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
           "title": "据华尔街日报：Reflection AI 正与新世界集团合作建设数据中心，该中心将部署数万颗英伟达(NVDA.O)芯片。",
           "url": "https://flash.jin10.com/detail/20260317030428527800",
           "source": "金十数据",
@@ -178,6 +179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "马斯克：若告赢OpenAI，上千亿美元收益全部捐给慈善机构。",
+          "url": "https://wallstreetcn.com/livenews/3071571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "据华尔街日报：由英伟达支持的人工智能初创公司 Reflection AI 计划斥资数十亿美元在韩国建设数据中心。",
@@ -213,6 +225,19 @@
           "time_info": "04时39分"
         },
         {
+          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
+          "url": "https://www.zhihu.com/question/1977057445844109122",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时59分 ~ 17时56分]"
+        },
+        {
           "title": "AI拉动需求劲增，存储芯片全年涨价“无悬念”",
           "url": "https://wallstreetcn.com/livenews/3071204",
           "source": "华尔街见闻-快讯",
@@ -235,19 +260,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 06时35分]"
-        },
-        {
-          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
-          "url": "https://www.zhihu.com/question/1977057445844109122",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时59分 ~ 16时54分]"
         },
         {
           "title": "AI 裁员",
@@ -464,7 +476,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -486,9 +498,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "北京启动专项行动 重点整治五类涉AI领域网络乱象",
+          "url": "https://flash.jin10.com/detail/20260317173625216800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "英伟达CEO黄仁勋：。与Corweave的合作非常出色，他们是全球首个AI原生云。这个公司成立的唯一目的就是提供和托管GPU，随着加速计算时代的到来，为AI云提供托管服务。他们拥有一些出色的客户，增长势头惊人。",
@@ -618,7 +641,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -695,7 +718,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -709,6 +732,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "知情人士：字节原计划推出的一代豆包AI眼镜或不会上市",
+          "url": "https://wallstreetcn.com/livenews/3071534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "谷歌公司宣布，在Google AI Studio实施项目开支上限方案。 这将有助于掌控月度Gemini API开销。",
@@ -728,7 +762,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -747,7 +781,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "美方宣布对中国在内的60个经济体发起301调查，商务部回应",
@@ -797,6 +831,17 @@
           "time_info": "[12时52分 ~ 15时16分]"
         },
         {
+          "title": "漫说年初中国经济亮点",
+          "url": "https://www.douyin.com/hot/2433215",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时56分]"
+        },
+        {
           "title": "房地产板块密集涨停",
           "url": "https://www.toutiao.com/trending/7618033445512839231/",
           "source": "今日头条",
@@ -808,15 +853,15 @@
           "time_info": "12时52分"
         },
         {
-          "title": "漫说年初中国经济亮点",
-          "url": "https://www.douyin.com/hot/2433215",
-          "source": "抖音",
+          "title": "中力股份：拟与浙江安吉经济开发区管委会合作投资3.5亿元",
+          "url": "https://flash.jin10.com/detail/20260317174515145800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时54分"
+          "time_info": "17时56分"
         },
         {
           "title": "人民日报：从“苹果税”下调看反垄断护航数字经济",
@@ -865,6 +910,18 @@
           "time_info": "[00时13分 ~ 00时14分]"
         },
         {
+          "title": "“龙虾”只是Token经济的前菜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32777273",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时56分]"
+        },
+        {
           "title": "全岛停电、经济停摆！古巴遭美国逼入绝境，特朗普放言“接管”",
           "url": "https://flash.jin10.com/detail/20260317122535189800",
           "source": "金十数据",
@@ -893,9 +950,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "腾讯音乐：第四季度总收入86.4亿元，同比增长15.9%",
+          "url": "https://wallstreetcn.com/livenews/3071558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "A股房地产开发板块盘初走强，京投发展涨停，盈新发展涨超5%，光大嘉宝、西藏城投、中洲控股、深深房A等个股跟涨；国家金融监督管理总局表示将加快建立与房地产发展新模式相适应的融资制度。",
@@ -909,15 +977,26 @@
           "time_info": "10时06分"
         },
         {
-          "title": "“龙虾”只是Token经济的前菜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32777273",
-          "source": "澎湃新闻",
+          "title": "油价扰动有限？经济衰退才是贵金属的致命利空！",
+          "url": "https://flash.jin10.com/detail/20260317173544924800",
+          "source": "金十数据",
           "ranks": [
-            18
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时54分"
+          "time_info": "17时56分"
+        },
+        {
+          "title": "腾讯音乐发布2025财报：业务多元增长，全年总收入329亿元创新高",
+          "url": "https://wallstreetcn.com/livenews/3071549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "墨西哥经济部：将于周二在华盛顿与美国贸易代表办公室官员会晤，启动《美墨加协定》审议会谈。",
@@ -942,6 +1021,17 @@
           "time_info": "10时06分"
         },
         {
+          "title": "乌克兰经济部表示，该国计划将2026年春季谷物播种面积由2025年的576万公顷增加至600万公顷。",
+          "url": "https://flash.jin10.com/detail/20260317172344421800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "英伟达预计到2027年底Blackwell和Rubin芯片将带来至少1万亿美元收入",
           "url": "https://wallstreetcn.com/livenews/3071119",
           "source": "华尔街见闻-快讯",
@@ -959,7 +1049,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -989,7 +1079,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国打算成立一家由煤炭发电的火电厂，这将是2013年以来首次。 Terra Energy Center投资10亿美元到一份协议，将按原计划推进阿拉斯加州的煤炭项目。",
@@ -1001,6 +1091,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "特朗普政府考虑达成一项10亿美元的新协议，以阻止海上风力发电场的建设。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3071547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         }
       ]
     }
