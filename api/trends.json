@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T19:46:56.761431+08:00",
-  "total_titles_processed": 1718,
+  "generated_at": "2026-03-17T21:12:37.750234+08:00",
+  "total_titles_processed": 1841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 73,
+      "match_count": 78,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -41,11 +41,12 @@
             5,
             4,
             12,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时52分 ~ 19时46分]"
+          "appearance_count": 9,
+          "time_info": "[12时52分 ~ 21时12分]"
         },
         {
           "title": "锐评B站AI大赛热门作品",
@@ -100,11 +101,12 @@
             27,
             23,
             24,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 16时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 21时12分]"
         },
         {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
@@ -174,6 +176,18 @@
           "time_info": "[13时59分 ~ 19时46分]"
         },
         {
+          "title": "看机器人跳一支春天的芭蕾",
+          "url": "https://www.douyin.com/hot/2433980",
+          "source": "抖音",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 21时12分]"
+        },
+        {
           "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
           "url": "https://www.cls.cn/detail/2314845",
           "source": "财联社热门",
@@ -199,24 +213,13 @@
           "time_info": "03时18分"
         },
         {
-          "title": "看机器人跳一支春天的芭蕾",
-          "url": "https://www.douyin.com/hot/2433980",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850486&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/U7t3ECByVtBPn2V5yKJMT.jpg/lite\" height=\"120\" /></a>",
           "url": "https://flash.jin10.com/detail/20260317193805932800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -230,6 +233,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "OpenAI与亚马逊云（AWS）签署协议，向美国政府工作人员销售AI产品。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3071699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "英伟达首席执行官发布基于OpenCLAW AI代理的企业级安全工具NeMoCLAW。",
@@ -252,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "AI味太冲,英伟达DLSS5翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "推动市场准入制度再创新 北京将推出人形机器人经营范围主题套餐",
@@ -521,6 +546,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "36 岁程序员，被 AI 写代码吓到了，如果再不转型，我几年内会失业吗？",
+          "url": "https://www.zhihu.com/question/1977057445844109122",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "英伟达押注下一个万亿级机遇 入局AI服务器系统",
           "url": "https://wallstreetcn.com/livenews/3071516",
           "source": "华尔街见闻-快讯",
@@ -530,6 +566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "宇树科技王兴兴：预计今年人形机器人会跑得比博尔特还快",
+          "url": "https://wallstreetcn.com/livenews/3071687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "三星电子：将在2026年3月16日至19日于美国加州圣何塞举行的英伟达GTC 2026大会上展示全面的AI计算技术。核心产品将是全新第六代HBM4，目前已进入量产阶段，并专为英伟达Vera Rubin平台设计。",
@@ -574,6 +621,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
+        },
+        {
+          "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
+          "url": "https://www.cls.cn/detail/2315814",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "英伟达CEO黄仁勋：。与Corweave的合作非常出色，他们是全球首个AI原生云。这个公司成立的唯一目的就是提供和托管GPU，随着加速计算时代的到来，为AI云提供托管服务。他们拥有一些出色的客户，增长势头惊人。",
@@ -637,7 +695,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -670,7 +728,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -865,7 +923,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "美方宣布对中国在内的60个经济体发起301调查，商务部回应",
@@ -904,6 +962,18 @@
           "time_info": "[00时13分 ~ 07时32分]"
         },
         {
+          "title": "漫说年初中国经济亮点",
+          "url": "https://www.douyin.com/hot/2433215",
+          "source": "抖音",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时54分 ~ 21时12分]"
+        },
+        {
           "title": "1-2月份主要经济指标明显回升",
           "url": "https://www.douyin.com/hot/2433524",
           "source": "抖音",
@@ -913,17 +983,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时52分 ~ 15时16分]"
-        },
-        {
-          "title": "漫说年初中国经济亮点",
-          "url": "https://www.douyin.com/hot/2433215",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时54分 ~ 19时46分]"
         },
         {
           "title": "房地产板块密集涨停",
@@ -954,7 +1013,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -965,7 +1024,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -987,9 +1046,34 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "“龙虾”只是Token经济的前菜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32777273",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时54分 ~ 21时12分]"
+        },
+        {
+          "title": "小伙练就“摇盲盒”绝技 年收入30万",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%BB%83%E5%B0%B1%E2%80%9C%E6%91%87%E7%9B%B2%E7%9B%92%E2%80%9D%E7%BB%9D%E6%8A%80+%E5%B9%B4%E6%94%B6%E5%85%A530%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时53分 ~ 21时12分]"
         },
         {
           "title": "韩国外交部：美国国务卿鲁比奥表示，对于全球经济和稳定油价而言，各国之间的合作比以往任何时候都更加重要。",
@@ -1016,30 +1100,6 @@
           "time_info": "[12时52分 ~ 13时59分]"
         },
         {
-          "title": "小伙练就“摇盲盒”绝技 年收入30万",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%BB%83%E5%B0%B1%E2%80%9C%E6%91%87%E7%9B%B2%E7%9B%92%E2%80%9D%E7%BB%9D%E6%8A%80+%E5%B9%B4%E6%94%B6%E5%85%A530%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时53分 ~ 19时46分]"
-        },
-        {
-          "title": "“龙虾”只是Token经济的前菜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32777273",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时54分 ~ 19时46分]"
-        },
-        {
           "title": "商务部回应美以「未禁止进口强迫劳动产品」为由对包括中国在内 60 个经济体发起调查，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2016789382670075625",
           "source": "知乎",
@@ -1057,7 +1117,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -1068,9 +1128,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "2025年香港本地居民总收入同比增长4.6%",
+          "url": "https://wallstreetcn.com/livenews/3071691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "全岛停电、经济停摆！古巴遭美国逼入绝境，特朗普放言“接管”",
@@ -1112,7 +1183,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -1181,6 +1252,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
+        },
+        {
+          "title": "白宫经济顾问：油轮“已开始零星通过”霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3071676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "欧元区3月ZEW经济景气指数 -8.5，前值 39.4。",
