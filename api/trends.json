@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T10:10:09.489274+08:00",
-  "total_titles_processed": 847,
+  "generated_at": "2026-03-18T12:56:55.513970+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 34,
+      "match_count": 45,
       "titles": [
         {
           "title": "看机器人跳一支春天的芭蕾",
@@ -26,11 +26,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 10时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 12时56分]"
         },
         {
           "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
@@ -97,8 +98,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 10时10分]"
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 12时56分]"
         },
         {
           "title": "男二以下 AI演员",
@@ -108,30 +109,54 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 10时10分]"
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 12时56分]"
+        },
+        {
+          "title": "金蝶徐少春：AI转型是生死之战",
+          "url": "https://wallstreetcn.com/livenews/3072128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
+          "title": "日本AI造假,套壳DeepSeek",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
         },
         {
           "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
           "url": "https://www.zhihu.com/question/2016095792616744489",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 10时10分]"
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 12时56分]"
         },
         {
           "title": "宇树创始人：今年机器人会快过博尔特",
           "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E5%88%9B%E5%A7%8B%E4%BA%BA%EF%BC%9A%E4%BB%8A%E5%B9%B4%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%9A%E5%BF%AB%E8%BF%87%E5%8D%9A%E5%B0%94%E7%89%B9",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 10时10分]"
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 12时56分]"
         },
         {
           "title": "橡树资本联合创始人Howard Marks：投资者低估了人工智能（AI）。 AI让世界变得更难预测。 赋予AI重要性的“力量”也让AI未来会做些什么变得难以预料。",
@@ -181,6 +206,17 @@
           "time_info": "[00时17分 ~ 01时59分]"
         },
         {
+          "title": "七部门发AI安全治理3年计划？谣言",
+          "url": "https://www.toutiao.com/trending/7618388030847700530/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 12时56分]"
+        },
+        {
           "title": "欧莱雅与英伟达扩大AI合作伙伴关系。",
           "url": "https://wallstreetcn.com/livenews/3071829",
           "source": "华尔街见闻-快讯",
@@ -191,17 +227,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 03时13分]"
-        },
-        {
-          "title": "七部门发AI安全治理3年计划？谣言",
-          "url": "https://www.toutiao.com/trending/7618388030847700530/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 10时10分]"
         },
         {
           "title": "OpenAI：GPT-5.4 Mini在ChatGPT、Codex、API上线。 在GPT-5.4中，GPT-5.4 Nano是最便宜的一款。",
@@ -240,15 +265,70 @@
           "time_info": "[05时38分 ~ 06时33分]"
         },
         {
+          "title": "阿里云AI算力和存储产品最高涨价34%",
+          "url": "https://flash.jin10.com/detail/20260318123706594800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
           "title": "三星电子芯片业务负责人：存储芯片市场正经历前所未有的“超级周期”。 电力供应可能成为AI增长的瓶颈。 需对AI市场前景持谨慎态度。 将重点销售用于服务器和AI应用的高利润芯片。",
           "url": "https://wallstreetcn.com/livenews/3072037",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "阿里云AI算力和存储产品最高涨价34%",
+          "url": "https://wallstreetcn.com/livenews/3072122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
+          "title": "官方辟谣“AI安全治理3年计划”",
+          "url": "https://www.douyin.com/hot/2434741",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
+          "title": "阿里巴巴2027届校招正式启动，新增七类AI岗位，AI相关岗位占比超八成。",
+          "url": "https://wallstreetcn.com/livenews/3072118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
+          "title": "七部门发AI安全治理3年计划系谣言",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%83%E9%83%A8%E9%97%A8%E5%8F%91AI%E5%AE%89%E5%85%A8%E6%B2%BB%E7%90%863%E5%B9%B4%E8%AE%A1%E5%88%92%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
         },
         {
           "title": "惠与（HPE）推出由英伟达产品支持的HPE AI Grid。",
@@ -260,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "看机器人剥香蕉，大爷急疯了",
+          "url": "https://news.ifeng.com/c/8rZeUSzEwjt",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
         },
         {
           "title": "公募机构争夺AI好感度，业内提示谨防信息污染",
@@ -284,6 +375,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "如何看待 2026 EWC 官方因 Xiaohai 更换战队而取消其《街霸 6》卫冕冠军直邀资格的行为？",
+          "url": "https://www.zhihu.com/question/2016967278948787751",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
           "title": "德国寻求扩大AI基础设施 计划瞄准大规模数据中心扩张",
           "url": "https://wallstreetcn.com/livenews/3071875",
           "source": "华尔街见闻-快讯",
@@ -301,7 +403,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -372,6 +474,17 @@
           "time_info": "05时38分"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850486&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/41iv_6DrFt70-d2h7wt6W.jpg/lite\" height=\"120\" /></a>",
+          "url": "https://flash.jin10.com/detail/20260318120145325800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
           "title": "超微电脑加入英伟达BlueField-4 STX首发阵营，旨在通过存储服务器提升AI推理性能",
           "url": "https://wallstreetcn.com/livenews/3071813",
           "source": "华尔街见闻-快讯",
@@ -394,13 +507,24 @@
           "time_info": "01时59分"
         },
         {
+          "title": "为何游戏大厂都在聊AI",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E6%B8%B8%E6%88%8F%E5%A4%A7%E5%8E%82%E9%83%BD%E5%9C%A8%E8%81%8AAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
           "title": "三星电子联合首席执行官Jun：已对股东回报政策进行了深入审查，将长期致力于提升股东价值。 将董事会成员人数从9人减至8人。 芯片业务首席技术官Song Jai-hyuk辞去董事会职务。",
           "url": "https://wallstreetcn.com/livenews/3071991",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         }
@@ -408,7 +532,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "中国经济强劲开局",
@@ -420,6 +544,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时17分 ~ 10时10分]"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：伊朗冲突几周内就能结束，不会拖上几个月",
+          "url": "https://wallstreetcn.com/articles/3767742",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 12时56分]"
         },
         {
           "title": "油价再度暴涨对各国经济有何影响",
@@ -464,17 +600,6 @@
           "time_info": "[00时17分 ~ 07时33分]"
         },
         {
-          "title": "白宫经济顾问哈塞特：伊朗冲突几周内就能结束，不会拖上几个月",
-          "url": "https://wallstreetcn.com/articles/3767742",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 07时33分]"
-        },
-        {
           "title": "小伙练就“摇盲盒”绝技 年收入30万",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%BB%83%E5%B0%B1%E2%80%9C%E6%91%87%E7%9B%B2%E7%9B%92%E2%80%9D%E7%BB%9D%E6%8A%80+%E5%B9%B4%E6%94%B6%E5%85%A530%E4%B8%87",
           "source": "百度热搜",
@@ -514,6 +639,17 @@
           "time_info": "[06时33分 ~ 07时33分]"
         },
         {
+          "title": "奇瑞汽车：2025年收入3002.87亿元，同比增长11.3%",
+          "url": "https://flash.jin10.com/detail/20260318122747809800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
           "title": "美国国务卿鲁比奥：古巴禁运与政治变革息息相关，他们的经济行不通。",
           "url": "https://flash.jin10.com/detail/20260318000819535800",
           "source": "金十数据",
@@ -523,6 +659,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "吉利汽车：2025年收入3452.32亿元，同比增长25%",
+          "url": "https://flash.jin10.com/detail/20260318122153811800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
+          "title": "林毅夫接受经济日报采访：我们有优势潜力实现经济发展目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32786283",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
         }
       ]
     },
@@ -570,7 +728,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         }
