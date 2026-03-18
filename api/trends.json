@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T21:12:44.804464+08:00",
-  "total_titles_processed": 1765,
+  "generated_at": "2026-03-18T23:03:21.934250+08:00",
+  "total_titles_processed": 1907,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 75,
+      "match_count": 80,
       "titles": [
         {
           "title": "看机器人跳一支春天的芭蕾",
@@ -37,6 +37,24 @@
           "time_info": "[01时58分 ~ 10时10分]"
         },
         {
+          "title": "日本AI造假,套壳DeepSeek",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            7,
+            8,
+            9,
+            12,
+            13,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时56分 ~ 23时03分]"
+        },
+        {
           "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
           "url": "https://www.zhihu.com/question/2016095792616744489",
           "source": "知乎",
@@ -62,11 +80,27 @@
             16,
             19,
             20,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时17分 ~ 21时12分]"
+          "appearance_count": 22,
+          "time_info": "[00时17分 ~ 23时03分]"
+        },
+        {
+          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
+          "url": "https://www.cls.cn/detail/2316633",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时53分 ~ 23时03分]"
         },
         {
           "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
@@ -110,21 +144,18 @@
           "time_info": "[00时17分 ~ 10时10分]"
         },
         {
-          "title": "日本AI造假,套壳DeepSeek",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
-          "source": "贴吧",
+          "title": "短剧演员谈被AI替代",
+          "url": "https://www.douyin.com/hot/2434994",
+          "source": "抖音",
           "ranks": [
-            3,
-            7,
-            8,
-            9,
-            12,
-            13,
-            15
+            6,
+            2,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时56分 ~ 21时12分]"
+          "appearance_count": 6,
+          "time_info": "[17时55分 ~ 23时03分]"
         },
         {
           "title": "男二以下 AI演员",
@@ -138,35 +169,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时09分 ~ 16时51分]"
-        },
-        {
-          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
-          "url": "https://www.cls.cn/detail/2316633",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时53分 ~ 21时12分]"
-        },
-        {
-          "title": "短剧演员谈被AI替代",
-          "url": "https://www.douyin.com/hot/2434994",
-          "source": "抖音",
-          "ranks": [
-            6,
-            2,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时55分 ~ 21时12分]"
         },
         {
           "title": "科大讯飞辟谣网传「裁员 70%」，称消息并不属实，具体情况如何？如何看待 AI 浪潮下的裁员焦虑？",
@@ -205,6 +207,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时56分 ~ 17时55分]"
+        },
+        {
+          "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
+          "url": "https://www.zhihu.com/question/2017627475413262735",
+          "source": "知乎",
+          "ranks": [
+            10,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时46分 ~ 23时03分]"
         },
         {
           "title": "百度智能云：AI算力产品涨价约5%-30%，存储涨价约30%",
@@ -253,6 +268,19 @@
           "time_info": "[10时09分 ~ 14时04分]"
         },
         {
+          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
+          "url": "https://www.cls.cn/detail/2316793",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时53分 ~ 23时03分]"
+        },
+        {
           "title": "橡树资本联合创始人Howard Marks：投资者低估了人工智能（AI）。 AI让世界变得更难预测。 赋予AI重要性的“力量”也让AI未来会做些什么变得难以预料。",
           "url": "https://wallstreetcn.com/livenews/3071946",
           "source": "华尔街见闻-快讯",
@@ -262,6 +290,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "耀客AI演员 赵今麦翟子路",
+          "url": "https://s.weibo.com/weibo?q=%E8%80%80%E5%AE%A2AI%E6%BC%94%E5%91%98%20%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%BF%9F%E5%AD%90%E8%B7%AF&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时53分 ~ 23时03分]"
         },
         {
           "title": "腾讯：2025年第四季资本开支付款224亿元 主要用于支持AI业务发展",
@@ -312,19 +353,6 @@
           "time_info": "[12时56分 ~ 14时04分]"
         },
         {
-          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
-          "url": "https://www.cls.cn/detail/2316793",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时53分 ~ 21时12分]"
-        },
-        {
           "title": "必和必拓集团任命Brandon Craig为首席执行官，自7月1日起接替Mike Henry。",
           "url": "https://flash.jin10.com/detail/20260318052306073800",
           "source": "金十数据",
@@ -349,18 +377,6 @@
           "time_info": "[12时56分 ~ 14时04分]"
         },
         {
-          "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
-          "url": "https://www.zhihu.com/question/2017627475413262735",
-          "source": "知乎",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时46分 ~ 21时12分]"
-        },
-        {
           "title": "网传“男二以下用AI演员” 于正发声",
           "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E2%80%9C%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%E7%94%A8AI%E6%BC%94%E5%91%98%E2%80%9D+%E4%BA%8E%E6%AD%A3%E5%8F%91%E5%A3%B0",
           "source": "百度热搜",
@@ -373,6 +389,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时04分 ~ 17时55分]"
+        },
+        {
+          "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
+          "url": "https://www.zhihu.com/question/2017543464514974274",
+          "source": "知乎",
+          "ranks": [
+            19,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 23时03分]"
         },
         {
           "title": "七部门发AI安全治理3年计划系谣言",
@@ -395,18 +423,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时56分 ~ 16时51分]"
-        },
-        {
-          "title": "耀客AI演员 赵今麦翟子路",
-          "url": "https://s.weibo.com/weibo?q=%E8%80%80%E5%AE%A2AI%E6%BC%94%E5%91%98%20%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%BF%9F%E5%AD%90%E8%B7%AF&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时53分 ~ 21时12分]"
         },
         {
           "title": "36 岁程序员，被 AI 写代码吓到了，如果再不转型，我几年内会失业吗？",
@@ -567,9 +583,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
+        },
+        {
+          "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
+          "url": "https://wallstreetcn.com/articles/3767836",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "腾讯控股(00700.HK)：2025年销售及市场推广开支同比增长15%至人民币417亿元，反映为支持我们的AI原生应用程序及游戏的发展而加大推广力度。",
@@ -658,6 +685,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
+        },
+        {
+          "title": "宇树科技王兴兴：人形机器人今年年中跑赢人类，具身智能“ChatGPT时刻”还需2-3年",
+          "url": "https://www.cls.cn/detail/2316519",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
+          "title": "如何评价 OpenAI 最新发布的 GPT-5.4 mini 和 GPT-5.4 Nano?",
+          "url": "https://www.zhihu.com/question/2017426077002253714",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "石景山区人形机器人数据训练中心三期将投用",
@@ -770,17 +819,6 @@
           "time_info": "14时04分"
         },
         {
-          "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
-          "url": "https://www.zhihu.com/question/2017543464514974274",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
           "title": "A股算力概念股持续活跃，数据港直线涨停，杭钢股份、首都在线、优刻得、铜牛信息、东方国信等纷纷冲高，消息上，阿里云AI算力和存储产品最高涨价34%。",
           "url": "https://wallstreetcn.com/livenews/3072133",
           "source": "华尔街见闻-快讯",
@@ -880,6 +918,28 @@
           "time_info": "01时59分"
         },
         {
+          "title": "被黑产投毒的AI还可信吗",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A2%AB%E9%BB%91%E4%BA%A7%E6%8A%95%E6%AF%92%E7%9A%84AI%E8%BF%98%E5%8F%AF%E4%BF%A1%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
+          "title": "网友抵制AI演员",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8A%B5%E5%88%B6AI%E6%BC%94%E5%91%98%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
           "title": "智元机器人获颁国家高新技术企业认证",
           "url": "https://wallstreetcn.com/livenews/3072250",
           "source": "华尔街见闻-快讯",
@@ -905,7 +965,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "中国经济强劲开局",
@@ -917,6 +977,22 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时17分 ~ 10时10分]"
+        },
+        {
+          "title": "林毅夫接受经济日报采访：我们有优势潜力实现经济发展目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32786283",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时56分 ~ 23时03分]"
         },
         {
           "title": "白宫经济顾问哈塞特：伊朗冲突几周内就能结束，不会拖上几个月",
@@ -974,22 +1050,6 @@
           "time_info": "[00时17分 ~ 07时33分]"
         },
         {
-          "title": "林毅夫接受经济日报采访：我们有优势潜力实现经济发展目标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32786283",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            15,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时56分 ~ 21时12分]"
-        },
-        {
           "title": "小伙练就“摇盲盒”绝技 年收入30万",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%BB%83%E5%B0%B1%E2%80%9C%E6%91%87%E7%9B%B2%E7%9B%92%E2%80%9D%E7%BB%9D%E6%8A%80+%E5%B9%B4%E6%94%B6%E5%85%A530%E4%B8%87",
           "source": "百度热搜",
@@ -1040,6 +1100,17 @@
           "time_info": "16时51分"
         },
         {
+          "title": "加拿大央行行长麦克勒姆：伊朗战争对加拿大经济的影响取决于持续时间。",
+          "url": "https://flash.jin10.com/detail/20260318224108682800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
           "title": "腾讯：营销服务业务2025年收入同比增长19% 主要得益于广告单价及广告曝光量增长",
           "url": "https://flash.jin10.com/detail/20260318164052232800",
           "source": "金十数据",
@@ -1073,6 +1144,17 @@
           "time_info": "16时51分"
         },
         {
+          "title": "特朗普称考虑退出北约，从经济角度看，如果美国真退出了世界会发生哪些变化？",
+          "url": "https://www.zhihu.com/question/2017526267604385905",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
           "title": "欧洲推出“EU Inc.”计划，旨在打造与美国等经济体相抗衡的初创企业生态系统。",
           "url": "https://flash.jin10.com/detail/20260318193157083800",
           "source": "金十数据",
@@ -1082,6 +1164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：伊朗战争对加拿大经济的影响取决于冲突的持续时间。 战事持续时间越长，影响可能就会越大。",
+          "url": "https://wallstreetcn.com/livenews/3072539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "根据美国银行对欧洲基金经理进行的一项调查，随着市场对滞胀的担忧加剧，自战争爆发以来，投资者对今年欧洲经济增长的乐观情绪已大幅下降。 调查发现，目前净29%的基金经理预计欧洲经济将加速增长，低于一个月前创纪录的74%。",
@@ -1278,7 +1371,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国总统特朗普重申，将在任期内封杀风力发电机",
@@ -1312,6 +1405,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "伊拉克电力部发言人Ahmed Moussa：以色列和美国袭击伊朗能源资产，造成伊朗停止供应天然气之后，我国发电量损失3.1 GW。 伊朗停止供气已经持续一个小时。 停供之前的输送量达到1900万立方米/日。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3072524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "英国石油(BP.N)：（关于怀廷炼油厂谈判）由美国钢铁工人联合会（USW）代表的员工在3月17日（周二）之后不应前往炼油厂上班。已向工会发出停工通知，停工将于3月19日（周四）凌晨12:00生效。",
