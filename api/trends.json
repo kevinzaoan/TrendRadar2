@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T22:48:11.701617+08:00",
-  "total_titles_processed": 1955,
+  "generated_at": "2026-03-19T23:55:33.068895+08:00",
+  "total_titles_processed": 2044,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -71,8 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时01分 ~ 22时48分]"
+          "appearance_count": 25,
+          "time_info": "[01时01分 ~ 23时55分]"
         },
         {
           "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
@@ -156,6 +156,24 @@
           "time_info": "[10时10分 ~ 19时36分]"
         },
         {
+          "title": "AI万物皆可龙抬头",
+          "url": "https://www.douyin.com/hot/2435867",
+          "source": "抖音",
+          "ranks": [
+            13,
+            17,
+            19,
+            14,
+            15,
+            16,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时07分 ~ 23时55分]"
+        },
+        {
           "title": "日本AI造假,套壳DeepSeek",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
           "source": "贴吧",
@@ -185,23 +203,6 @@
           "time_info": "[01时01分 ~ 13时59分]"
         },
         {
-          "title": "AI万物皆可龙抬头",
-          "url": "https://www.douyin.com/hot/2435867",
-          "source": "抖音",
-          "ranks": [
-            13,
-            17,
-            19,
-            14,
-            15,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时07分 ~ 22时48分]"
-        },
-        {
           "title": "AI龙虾大战我的世界",
           "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
           "source": "bilibili 热搜",
@@ -212,8 +213,24 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时42分 ~ 23时55分]"
+        },
+        {
+          "title": "雪宝机器人让童年照进现实",
+          "url": "https://www.douyin.com/hot/2435852",
+          "source": "抖音",
+          "ranks": [
+            18,
+            25,
+            26,
+            24,
+            27,
+            30
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[16时42分 ~ 22时48分]"
+          "time_info": "[15时07分 ~ 23时55分]"
         },
         {
           "title": "网友抵制AI演员",
@@ -243,22 +260,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时10分 ~ 15时07分]"
-        },
-        {
-          "title": "雪宝机器人让童年照进现实",
-          "url": "https://www.douyin.com/hot/2435852",
-          "source": "抖音",
-          "ranks": [
-            18,
-            25,
-            26,
-            24,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时07分 ~ 22时48分]"
         },
         {
           "title": "普通人如何防范AI投毒",
@@ -354,6 +355,18 @@
           "time_info": "21时06分"
         },
         {
+          "title": "央视AI短片《流金谷恩仇录》爆火",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86AI%E7%9F%AD%E7%89%87%E3%80%8A%E6%B5%81%E9%87%91%E8%B0%B7%E6%81%A9%E4%BB%87%E5%BD%95%E3%80%8B%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时47分 ~ 23时55分]"
+        },
+        {
           "title": "被黑产投毒的AI还可信吗",
           "url": "https://search.bilibili.com/all?keyword=%E8%A2%AB%E9%BB%91%E4%BA%A7%E6%8A%95%E6%AF%92%E7%9A%84AI%E8%BF%98%E5%8F%AF%E4%BF%A1%E5%90%97",
           "source": "bilibili 热搜",
@@ -374,6 +387,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
+        },
+        {
+          "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
+          "url": "https://www.cls.cn/detail/2318157",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时05分 ~ 23时55分]"
         },
         {
           "title": "鲍威尔：还没有开始看到人工智能（AI）对于生产力的影响。 近期的生产力趋势并非生成式AI所致。 AI肯定应该会对生产力趋势做出贡献。 数据中心建设可能正推高通胀。 AI投资可能会在短期内刺激中性利率（走高）。",
@@ -398,18 +424,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时34分]"
-        },
-        {
-          "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
-          "url": "https://www.cls.cn/detail/2318157",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时05分 ~ 22时48分]"
         },
         {
           "title": "网易回应外包裁员称信息不实，此前网易被曝计划「使用 AI 清退全裁部外包员工」，具体怎么回事？",
@@ -516,17 +530,6 @@
           "time_info": "[21时05分 ~ 21时06分]"
         },
         {
-          "title": "央视AI短片《流金谷恩仇录》爆火",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86AI%E7%9F%AD%E7%89%87%E3%80%8A%E6%B5%81%E9%87%91%E8%B0%B7%E6%81%A9%E4%BB%87%E5%BD%95%E3%80%8B%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时47分 ~ 22时48分]"
-        },
-        {
           "title": "日本自研AI被扒底层全是中国代码",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%87%AA%E7%A0%94AI%E8%A2%AB%E6%89%92%E5%BA%95%E5%B1%82%E5%85%A8%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BB%A3%E7%A0%81%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -547,6 +550,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
+        },
+        {
+          "title": "机器人是否已踏入日常生活",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%98%AF%E5%90%A6%E5%B7%B2%E8%B8%8F%E5%85%A5%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "AI成家电标配，头部企业竞逐主动智能赛道",
@@ -635,6 +649,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
+        },
+        {
+          "title": "Cursor将面向软件开发领域发布一款更加有效的AI模型Composer 2。",
+          "url": "https://wallstreetcn.com/livenews/3073450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "Coinbase为AI智能体支付酝酿基础设施。（The Information）",
@@ -805,8 +830,20 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
+        {
+          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
+          "url": "https://news.ifeng.com/c/8rckc3J46aj",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时43分 ~ 23时55分]"
+        },
         {
           "title": "特朗普称考虑退出北约，从经济角度看，如果美国真退出了世界会发生哪些变化？",
           "url": "https://www.zhihu.com/question/2017526267604385905",
@@ -820,18 +857,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时01分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
-          "url": "https://news.ifeng.com/c/8rckc3J46aj",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时43分 ~ 22时48分]"
         },
         {
           "title": "数读2025海洋经济公报",
@@ -856,6 +881,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时01分 ~ 07时31分]"
+        },
+        {
+          "title": "5 个月增加 1 万亿美元，美国国债总额突破历史新高至 39 万亿美元，对美国经济和全球金融市场有哪些影响？",
+          "url": "https://www.zhihu.com/question/2017913786695186154",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17,
+            13,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时41分 ~ 23时55分]"
         },
         {
           "title": "鲍威尔：美经济前景“极不确定” 联储内部倾向减少降息次数",
@@ -891,20 +931,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
-        },
-        {
-          "title": "5 个月增加 1 万亿美元，美国国债总额突破历史新高至 39 万亿美元，对美国经济和全球金融市场有哪些影响？",
-          "url": "https://www.zhihu.com/question/2017913786695186154",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时41分 ~ 22时48分]"
         },
         {
           "title": "标普：基本情境假设仍是，科威特庞大的财政资产将作为有效缓冲，抵御地区冲突带来的冲击。由于中东战争，预计科威特2026-2027年经济增长将放缓。",
@@ -1074,6 +1100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "前美联储副主席克拉里达：冲突持续时间越长，对美国经济的负面影响就越大",
+          "url": "https://wallstreetcn.com/livenews/3073455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "日本央行行长植田和男：实际利率处于显著低位。 如果经济和物价表现符合预期，并且经济、物价持续改善，将继续上调政策利率。 通胀趋势的判断将变得更加困难。 正在重新评估我们对潜在增长率和供需缺口的预测。 正在根据最新数据重新评估中性利率。 将公布更详细的核心CPI数据。",
