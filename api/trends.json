@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T01:56:03.630271+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-03-20T03:01:23.805711+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -15,8 +15,45 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 01时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时01分]"
+        },
+        {
+          "title": "AI龙虾大战我的世界",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时01分]"
+        },
+        {
+          "title": "AI万物皆可龙抬头",
+          "url": "https://www.douyin.com/hot/2435867",
+          "source": "抖音",
+          "ranks": [
+            19,
+            21,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时01分]"
+        },
+        {
+          "title": "雪宝机器人让童年照进现实",
+          "url": "https://www.douyin.com/hot/2435852",
+          "source": "抖音",
+          "ranks": [
+            26,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时01分]"
         },
         {
           "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
@@ -30,50 +67,27 @@
           "time_info": "[00时58分 ~ 01时56分]"
         },
         {
-          "title": "AI龙虾大战我的世界",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 01时56分]"
-        },
-        {
-          "title": "AI万物皆可龙抬头",
-          "url": "https://www.douyin.com/hot/2435867",
-          "source": "抖音",
-          "ranks": [
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 01时56分]"
-        },
-        {
-          "title": "雪宝机器人让童年照进现实",
-          "url": "https://www.douyin.com/hot/2435852",
-          "source": "抖音",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 01时56分]"
-        },
-        {
           "title": "机器人是否已踏入日常生活",
           "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%98%AF%E5%90%A6%E5%B7%B2%E8%B8%8F%E5%85%A5%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 03时01分]"
+        },
+        {
+          "title": "央视AI短片《流金谷恩仇录》爆火",
+          "url": "https://www.toutiao.com/trending/7618387888183836715/",
+          "source": "今日头条",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
+          "time_info": "[02时59分 ~ 03时01分]"
         },
         {
           "title": "微软(MSFT.O)CEO：我们的新图像生成器MAI-Image-2发布了，现在可以在MAIPlayground上使用，从逼真的现实主义到详细的信息图表应有尽有，现在我们已经跻身顶尖模型之列。",
@@ -82,7 +96,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         }
@@ -90,7 +104,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -100,8 +114,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 01时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时01分]"
         },
         {
           "title": "5 个月增加 1 万亿美元，美国国债总额突破历史新高至 39 万亿美元，对美国经济和全球金融市场有哪些影响？",
@@ -112,8 +126,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 01时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 03时01分]"
+        },
+        {
+          "title": "欧洲央行管委斯图纳拉斯：伊朗冲突可能产生重大宏观经济影响。",
+          "url": "https://flash.jin10.com/detail/20260320015254802800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
         }
       ]
     },
