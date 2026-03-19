@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T13:59:12.646698+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-03-19T15:07:46.775286+08:00",
+  "total_titles_processed": 1246,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -35,19 +35,6 @@
           "time_info": "[01时01分 ~ 07时31分]"
         },
         {
-          "title": "AI短片流金谷恩仇录",
-          "url": "https://www.douyin.com/hot/2435233",
-          "source": "抖音",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 13时59分]"
-        },
-        {
           "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
           "url": "https://wallstreetcn.com/articles/3767836",
           "source": "华尔街见闻",
@@ -58,8 +45,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 13时59分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 15时07分]"
+        },
+        {
+          "title": "AI短片流金谷恩仇录",
+          "url": "https://www.douyin.com/hot/2435233",
+          "source": "抖音",
+          "ranks": [
+            7,
+            6,
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 15时07分]"
         },
         {
           "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
@@ -101,11 +102,12 @@
             8,
             9,
             14,
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时01分 ~ 13时59分]"
+          "appearance_count": 15,
+          "time_info": "[01时01分 ~ 15时07分]"
         },
         {
           "title": "日本AI造假,套壳DeepSeek",
@@ -115,11 +117,12 @@
             16,
             17,
             23,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 13时59分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 15时07分]"
         },
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -149,6 +152,33 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时01分 ~ 07时31分]"
+        },
+        {
+          "title": "多名配音演员发函要求停止 AI 侵权，这反映出 AI 时代版权保护面临哪些新挑战？",
+          "url": "https://www.zhihu.com/question/2016065149123970133",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时10分 ~ 15时07分]"
+        },
+        {
+          "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712009",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时10分 ~ 15时07分]"
         },
         {
           "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
@@ -184,29 +214,16 @@
           "time_info": "01时02分"
         },
         {
-          "title": "多名配音演员发函要求停止 AI 侵权，这反映出 AI 时代版权保护面临哪些新挑战？",
-          "url": "https://www.zhihu.com/question/2016065149123970133",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时10分 ~ 13时59分]"
-        },
-        {
-          "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712009",
+          "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788074",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            12
+            18,
+            16
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时10分 ~ 13时59分]"
+          "time_info": "[12时54分 ~ 15时07分]"
         },
         {
           "title": "鲍威尔：还没有开始看到人工智能（AI）对于生产力的影响。 近期的生产力趋势并非生成式AI所致。 AI肯定应该会对生产力趋势做出贡献。 数据中心建设可能正推高通胀。 AI投资可能会在短期内刺激中性利率（走高）。",
@@ -244,17 +261,6 @@
           "time_info": "[12时54分 ~ 13时59分]"
         },
         {
-          "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32788074",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 13时59分]"
-        },
-        {
           "title": "微短剧专业学生制作AI漫剧1分钟100元",
           "url": "https://www.toutiao.com/trending/7617807310119288875/",
           "source": "今日头条",
@@ -278,6 +284,18 @@
           "time_info": "[12时54分 ~ 13时59分]"
         },
         {
+          "title": "AI演员 粉丝",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%20%E7%B2%89%E4%B8%9D&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时07分]"
+        },
+        {
           "title": "日本自研AI被扒底层全是中国代码",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%87%AA%E7%A0%94AI%E8%A2%AB%E6%89%92%E5%BA%95%E5%B1%82%E5%85%A8%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BB%A3%E7%A0%81%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -287,17 +305,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 06时33分]"
-        },
-        {
-          "title": "AI演员 粉丝",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%20%E7%B2%89%E4%B8%9D&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 13时59分]"
         },
         {
           "title": "AI成家电标配，头部企业竞逐主动智能赛道",
@@ -317,7 +324,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -355,6 +362,28 @@
           "time_info": "12时55分"
         },
         {
+          "title": "AI万物皆可龙抬头",
+          "url": "https://www.douyin.com/hot/2435867",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
+          "title": "网易回应外包裁员称信息不实，此前网易被曝计划「使用 AI 清退全部外包员工」，具体怎么回事？",
+          "url": "https://www.zhihu.com/question/2017645383652696499",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
           "title": "A股算力租赁板块盘初冲高，宏景科技涨超10%创新高，奥瑞德2连板，金开新能、贵广网络、亚康股份、利通电子、铜牛信息跟涨。日前，百度智能云发布AI算力、存储等产品调价公告；京东云宣布，明确拒绝跟风涨价，现有云主机、AI算力、存储、网络等全系核心产品价格保持稳定。",
           "url": "https://flash.jin10.com/detail/20260319094112725800",
           "source": "金十数据",
@@ -366,6 +395,17 @@
           "time_info": "10时10分"
         },
         {
+          "title": "集邦咨询：AI动能稳健，预估2026年晶圆代工产值年增24.8%，部分制程涨价浮现",
+          "url": "https://wallstreetcn.com/livenews/3072987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
           "title": "Coinbase为AI智能体支付酝酿基础设施。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3072598",
           "source": "华尔街见闻-快讯",
@@ -375,6 +415,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "雪宝机器人让童年照进现实",
+          "url": "https://www.douyin.com/hot/2435852",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
+          "title": "华为李鹏：到2030年，中国AI相关产业规模将突破10万亿元",
+          "url": "https://wallstreetcn.com/livenews/3072982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
         },
         {
           "title": "大胜达涨停，公司拟5.5亿元投资高性能图形处理器公司芯瞳半导体，标的公司AI系统可打造内部闭环的养虾生态。",
@@ -394,7 +456,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -446,7 +508,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普称考虑退出北约，从经济角度看，如果美国真退出了世界会发生哪些变化？",
@@ -489,6 +551,17 @@
           "time_info": "[07时31分 ~ 13时59分]"
         },
         {
+          "title": "日本央行行长植田和男：全球经济前景受中东冲突持续时间影响。 还需关注物流影响、供应链约束及消费者心态。 将在4月会议重新审视对价格的核心观点。 我个人希望有更多时间来判断中东因素对价格是上行还是下行影响。 4月会议的最大看点将是物价中位数展望是否发生变化。 如果存在足够大的风险，我们可能会在政策制定时更加重视该风险。 将在4月短观报告发布后说明该报告是否充分反映了中东冲突的影响。",
+          "url": "https://wallstreetcn.com/livenews/3073009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
           "title": "标普：基本情境假设仍是，科威特庞大的财政资产将作为有效缓冲，抵御地区冲突带来的冲击。由于中东战争，预计科威特2026-2027年经济增长将放缓。",
           "url": "https://flash.jin10.com/detail/20260319051052188800",
           "source": "金十数据",
@@ -509,6 +582,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "日本央行行长植田和男：全球经济前景取决于中东冲突将持续多久。",
+          "url": "https://flash.jin10.com/detail/20260319145310356800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
         },
         {
           "title": "经济学家：市场可能误判美联储降息前景",
@@ -568,6 +652,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "日本央行行长植田和男：油价上涨将恶化日本的贸易条件，并对经济造成下行压力。 重要的是关注中东局势对国内经济的影响。 由于伊朗冲突，难以明确表示应更侧重抑制通胀还是支持经济。 关于未来加息时机将在每次会议上进行评估，这一立场没有变化。 将评估油价飙升对经济造成影响的程度。 油价飙升可能推高通胀预期和基础通胀。",
+          "url": "https://wallstreetcn.com/livenews/3072993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
           "title": "提醒：北京时间02:00，美联储将发布FOMC利率决议声明和经济预期概要（SEP），美联储主席鲍威尔将在02:30举行新闻发布会。",
           "url": "https://wallstreetcn.com/livenews/3072605",
           "source": "华尔街见闻-快讯",
@@ -579,6 +674,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "日本央行行长植田和男：实际利率处于显著低位。 如果经济和物价表现符合预期，并且经济、物价持续改善，将继续上调政策利率。 通胀趋势的判断将变得更加困难。 正在重新评估我们对潜在增长率和供需缺口的预测。 正在根据最新数据重新评估中性利率。 将公布更详细的核心CPI数据。",
+          "url": "https://wallstreetcn.com/livenews/3072991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
           "title": "鲍威尔：上调美国GDP预期，体现出对生产力的信心。 面临诸多挑战之际，美国经济表现强劲。",
           "url": "https://wallstreetcn.com/livenews/3072645",
           "source": "华尔街见闻-快讯",
@@ -588,6 +694,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "日本央行行长植田和男：日本经济有望继续温和增长。 全球市场波动，中东局势紧张导致原油价格大幅上涨。 需要关注中东局势的进一步发展。 由于油价上涨，预计通胀增速将面临上行压力。 预计基础通胀将在预测期后半段达到与价格目标一致的水平。 风险因素包括中东局势、油价、金融和外汇市场动态。 需要关注这些风险对日本经济和物价的影响。",
+          "url": "https://wallstreetcn.com/livenews/3072986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
         },
         {
           "title": "美国贸易代表办公室：美国和墨西哥宣布在《美墨加协定》联合评估前推进双边讨论的下一步举措。美国贸易代表Jamieson Greer与墨西哥经济部长Marcelo Ebrard今日会面，正式启动在7月1日《美墨加协定》联合评估前的双边技术性讨论。",
