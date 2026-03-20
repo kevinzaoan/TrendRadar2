@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T17:42:00.785731+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2026-03-20T18:38:30.635039+08:00",
+  "total_titles_processed": 1617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时05分 ~ 17时42分]"
+          "appearance_count": 10,
+          "time_info": "[10时05分 ~ 18时38分]"
         },
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -33,6 +34,32 @@
           "time_info": "[00时58分 ~ 10时05分]"
         },
         {
+          "title": "椰树集团招标剥椰子机器人，要求每小时至少处理 360 个，完全去壳且损伤率≤ 1%，这标准能实现吗？",
+          "url": "https://www.zhihu.com/question/2017994120187097771",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时56分 ~ 18时38分]"
+        },
+        {
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时47分 ~ 18时38分]"
+        },
+        {
           "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
           "url": "https://wallstreetcn.com/articles/3767932",
           "source": "华尔街见闻",
@@ -42,8 +69,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时31分 ~ 17时42分]"
+          "appearance_count": 11,
+          "time_info": "[07时31分 ~ 18时38分]"
         },
         {
           "title": "AI万物皆可龙抬头",
@@ -79,34 +106,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时58分 ~ 17时42分]"
-        },
-        {
-          "title": "椰树集团招标剥椰子机器人，要求每小时至少处理 360 个，完全去壳且损伤率≤ 1%，这标准能实现吗？",
-          "url": "https://www.zhihu.com/question/2017994120187097771",
-          "source": "知乎",
-          "ranks": [
-            7,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时56分 ~ 17时42分]"
-        },
-        {
-          "title": "人工智能太绕,AI急需中文名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时47分 ~ 17时42分]"
+          "appearance_count": 21,
+          "time_info": "[00时58分 ~ 18时38分]"
         },
         {
           "title": "雪宝机器人让童年照进现实",
@@ -409,6 +410,17 @@
           "time_info": "10时05分"
         },
         {
+          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
+          "url": "https://www.cls.cn/detail/2319626",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "美国白宫计划周五推出人工智能（AI）框架。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3073585",
           "source": "华尔街见闻-快讯",
@@ -486,6 +498,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "超级麦吉3.0宣布成为全球首个企业级开源AI Agent平台",
+          "url": "https://wallstreetcn.com/livenews/3074022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "贝佐斯计划为人工智能（AI）制造基金筹资1000亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3073543",
           "source": "华尔街见闻-快讯",
@@ -506,6 +529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "利通电子：廖某走私英伟达AI服务器售卖给公司的传闻不实",
+          "url": "https://wallstreetcn.com/livenews/3074006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "加州火锅店机器人突然蹦迪",
@@ -544,7 +578,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -583,6 +617,19 @@
           "time_info": "15时47分"
         },
         {
+          "title": "一文读懂：油价再涨多少会触发全球经济衰退“红线”？",
+          "url": "https://www.cls.cn/detail/2319356",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 18时38分]"
+        },
+        {
           "title": "联合国：中东冲突使阿拉伯地区经济损失重大",
           "url": "https://wallstreetcn.com/livenews/3073896",
           "source": "华尔街见闻-快讯",
@@ -593,18 +640,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时47分 ~ 16时41分]"
-        },
-        {
-          "title": "一文读懂：油价再涨多少会触发全球经济衰退“红线”？",
-          "url": "https://www.cls.cn/detail/2319356",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 17时42分]"
         },
         {
           "title": "预测下周一油价进入 9 元时代，现阶段是否将油车换电车？如何更经济一些？",
@@ -627,6 +662,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "大智慧：2025年营业收入8.27亿元，同比增长7.23%；净亏损4402.57万元，上年同期净亏损2.01亿元。",
+          "url": "https://wallstreetcn.com/livenews/3074043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "大智慧：2025年营业收入8.27亿元，同比增长7.23%；净亏损4402.57万元，上年同期净亏损2.01亿元。",
+          "url": "https://flash.jin10.com/detail/20260320180811132800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "凯投宏观：油价上涨对日本经济冲击或有限",
@@ -682,6 +739,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        },
+        {
+          "title": "宇树科技：2025年度实现营业收入17.08亿元，同比增长335.36%",
+          "url": "https://wallstreetcn.com/livenews/3074018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "欧洲央行管委斯图纳拉斯：伊朗冲突可能产生重大宏观经济影响。",
