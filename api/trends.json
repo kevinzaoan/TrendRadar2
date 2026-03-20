@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-20T16:41:17.108709+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-03-20T17:42:00.785731+08:00",
+  "total_titles_processed": 1513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
       "match_count": 44,
       "titles": [
+        {
+          "title": "配音圈集体声讨,抵制AI盗声",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时05分 ~ 17时42分]"
+        },
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86AI%E7%9F%AD%E7%89%87%E3%80%8A%E6%B5%81%E9%87%91%E8%B0%B7%E6%81%A9%E4%BB%87%E5%BD%95%E3%80%8B%E7%88%86%E7%81%AB",
@@ -20,17 +33,17 @@
           "time_info": "[00时58分 ~ 10时05分]"
         },
         {
-          "title": "配音圈集体声讨,抵制AI盗声",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
-          "source": "贴吧",
+          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
+          "url": "https://wallstreetcn.com/articles/3767932",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            2,
-            3
+            10,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时05分 ~ 16时41分]"
+          "appearance_count": 10,
+          "time_info": "[07时31分 ~ 17时42分]"
         },
         {
           "title": "AI万物皆可龙抬头",
@@ -62,24 +75,38 @@
             18,
             19,
             13,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时58分 ~ 16时41分]"
+          "appearance_count": 20,
+          "time_info": "[00时58分 ~ 17时42分]"
         },
         {
-          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
-          "url": "https://wallstreetcn.com/articles/3767932",
-          "source": "华尔街见闻",
+          "title": "椰树集团招标剥椰子机器人，要求每小时至少处理 360 个，完全去壳且损伤率≤ 1%，这标准能实现吗？",
+          "url": "https://www.zhihu.com/question/2017994120187097771",
+          "source": "知乎",
           "ranks": [
-            10,
-            6,
-            7
+            7,
+            3,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时31分 ~ 16时41分]"
+          "appearance_count": 6,
+          "time_info": "[14时56分 ~ 17时42分]"
+        },
+        {
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时47分 ~ 17时42分]"
         },
         {
           "title": "雪宝机器人让童年照进现实",
@@ -97,18 +124,6 @@
           "time_info": "[00时58分 ~ 04时38分]"
         },
         {
-          "title": "人工智能太绕,AI急需中文名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时47分 ~ 16时41分]"
-        },
-        {
           "title": "人民日报：请给AI起个中文名字",
           "url": "https://www.toutiao.com/trending/7618806460609200137/",
           "source": "今日头条",
@@ -121,19 +136,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时05分 ~ 15时47分]"
-        },
-        {
-          "title": "椰树集团招标剥椰子机器人，要求每小时至少处理 360 个，完全去壳且损伤率≤ 1%，这标准能实现吗？",
-          "url": "https://www.zhihu.com/question/2017994120187097771",
-          "source": "知乎",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时56分 ~ 16时41分]"
         },
         {
           "title": "机器人是否已踏入日常生活",
@@ -284,6 +286,18 @@
           "time_info": "[10时05分 ~ 15时47分]"
         },
         {
+          "title": "曝AI短剧使用杨紫的脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DAI%E7%9F%AD%E5%89%A7%E4%BD%BF%E7%94%A8%E6%9D%A8%E7%B4%AB%E7%9A%84%E8%84%B8%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 17时42分]"
+        },
+        {
           "title": "刘慈欣提出「技术能生成一切，却不能辨认伟大」，有道理吗？这对当下理解 AI 与人的关系有何启示？",
           "url": "https://www.zhihu.com/question/2017606912024207686",
           "source": "知乎",
@@ -305,17 +319,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时05分 ~ 13时52分]"
-        },
-        {
-          "title": "曝AI短剧使用杨紫的脸",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DAI%E7%9F%AD%E5%89%A7%E4%BD%BF%E7%94%A8%E6%9D%A8%E7%B4%AB%E7%9A%84%E8%84%B8%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 16时41分]"
         },
         {
           "title": "上万条大厂春招要求的背后，非技术岗位也要求“会AI”？",
@@ -541,7 +544,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -596,11 +599,23 @@
           "url": "https://www.cls.cn/detail/2319356",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 17时42分]"
+        },
+        {
+          "title": "预测下周一油价进入 9 元时代，现阶段是否将油车换电车？如何更经济一些？",
+          "url": "https://www.zhihu.com/question/2017885857223288599",
+          "source": "知乎",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时40分 ~ 16时41分]"
+          "time_info": "[17时41分 ~ 17时42分]"
         },
         {
           "title": "A股房地产板块异动拉升，京投发展触及涨停，津投城开、首开股份、我爱我家、世联行、先导基电、财信发展等跟涨。",
@@ -653,7 +668,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
         },
