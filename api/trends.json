@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T01:36:35.056241+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-03-21T02:51:45.564466+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "椰树集团招标剥椰子机器人，要求每小时至少处理 360 个，完全去壳且损伤率≤ 1%，这标准能实现吗？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时51分]"
         },
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时51分]"
         },
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时51分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时51分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -60,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时51分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -69,11 +69,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时51分]"
         },
         {
           "title": "AI演员林汐颜、秦凌岳为何引众怒",
@@ -81,11 +82,12 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            23
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时51分]"
         },
         {
           "title": "博主用AI手搓应用1个多月赚近九千",
@@ -93,33 +95,47 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时36分]"
-        },
-        {
-          "title": "亚马逊旗下AWS与Cerebras Systems Inc.合作，将共同开发AI推理解决方案。",
-          "url": "https://wallstreetcn.com/livenews/3074276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时36分"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时51分]"
         },
         {
           "title": "人形机器人第一股要来了吗",
           "url": "https://www.toutiao.com/trending/7619319389564702249/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 02时51分]"
+        },
+        {
+          "title": "亚马逊旗下AWS与Cerebras Systems Inc.合作，将共同开发AI推理解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3074276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 02时51分]"
+        },
+        {
+          "title": "普通人如何防范AI投毒",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "02时51分"
         },
         {
           "title": "京东云披露“龙虾天团”：基于JoyAI大模型驱动",
@@ -136,7 +152,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "秘鲁中央银行预计2026年经济增长率为3.2%，高于此前报告中的3.0%。",
@@ -157,8 +173,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时51分]"
         },
         {
           "title": "墨西哥财政部长Edgar Amador：国际油价动荡对我们的财政影响为中性。 出口行业抵消油价上涨带来的（不利）影响。 墨西哥比索在过去12个月走强。 墨西哥与美国推进经济融合，预计将继续这样发展下去。 墨方相信，美国墨西哥加拿大贸易协议（USMCA）将获得延期。（彭博电视）",
@@ -192,6 +208,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "墨西哥财政部长：鉴于激励机制和墨西哥国家石油公司的高收入，我们预计油价上涨将产生相对中性评级的影响。",
+          "url": "https://flash.jin10.com/detail/20260321021400958800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "标普500指数跌幅扩大至1%，房地产板块跌1.45%，公用事业板块跌1.39%，科技板块跌1.14%，电信板块跌1.13%，能源板块涨1.17%。 道指跌284点跌幅0.62%，纳指跌1.3%，半导体指数跌1.85%，罗素2000指数跌1.29%。",
