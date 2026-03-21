@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T19:24:12.885533+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-03-21T20:49:56.026697+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 28,
+      "match_count": 34,
       "titles": [
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -20,6 +20,22 @@
           "time_info": "[00时43分 ~ 07时29分]"
         },
         {
+          "title": "人形机器人出货全球第一！从宇树招股书看王兴兴的“技术野心”与“扩张蓝图”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32802764",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9,
+            7,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时10分 ~ 20时49分]"
+        },
+        {
           "title": "人工智能太绕,AI急需中文名",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
           "source": "贴吧",
@@ -30,11 +46,12 @@
             9,
             10,
             11,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时43分 ~ 19时24分]"
+          "appearance_count": 21,
+          "time_info": "[00时43分 ~ 20时49分]"
         },
         {
           "title": "椰树集团招标剥椰子机器人，要求每小时至少处理 360 个，完全去壳且损伤率≤ 1%，这标准能实现吗？",
@@ -50,21 +67,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时43分 ~ 07时29分]"
-        },
-        {
-          "title": "人形机器人出货全球第一！从宇树招股书看王兴兴的“技术野心”与“扩张蓝图”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32802764",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            9,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时10分 ~ 19时24分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -94,11 +96,12 @@
             14,
             15,
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时43分 ~ 19时24分]"
+          "appearance_count": 21,
+          "time_info": "[00时43分 ~ 20时49分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -146,17 +149,6 @@
           "time_info": "[02时51分 ~ 07时29分]"
         },
         {
-          "title": "库克说AI是对人能力的放大而非取代 不要惧怕要拥抱AI",
-          "url": "https://wallstreetcn.com/livenews/3074449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
           "title": "博主用AI手搓应用1个多月赚近九千",
           "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%94%A8AI%E6%89%8B%E6%90%93%E5%BA%94%E7%94%A81%E4%B8%AA%E5%A4%9A%E6%9C%88%E8%B5%9A%E8%BF%91%E4%B9%9D%E5%8D%83",
           "source": "百度热搜",
@@ -169,6 +161,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时43分 ~ 07时29分]"
+        },
+        {
+          "title": "库克说AI是对人能力的放大而非取代 不要惧怕要拥抱AI",
+          "url": "https://wallstreetcn.com/livenews/3074449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时49分]"
         },
         {
           "title": "伊朗媒体：巴斯基民兵组织副指挥官“阿齐姆·埃斯梅伊利”（Azim Esmaili）遇害。",
@@ -258,6 +262,18 @@
           "time_info": "[00时43分 ~ 02时51分]"
         },
         {
+          "title": "季冠霖发文抵制AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%A3%E5%86%A0%E9%9C%96%E5%8F%91%E6%96%87%E6%8A%B5%E5%88%B6AI&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时49分]"
+        },
+        {
           "title": "AI时代教育将被如何改写",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E6%95%99%E8%82%B2%E5%B0%86%E8%A2%AB%E5%A6%82%E4%BD%95%E6%94%B9%E5%86%99",
           "source": "bilibili 热搜",
@@ -302,26 +318,70 @@
           "time_info": "13时41分"
         },
         {
+          "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3074453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "华为肖德刚：AI技术与存储密不可分，加速迈入双向赋能新阶段",
+          "url": "https://flash.jin10.com/detail/20260321201526714800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "OpenAI计划到2026年底将员工人数增至8000人，以缩小与竞争对手Anthropic的差距。",
+          "url": "https://flash.jin10.com/detail/20260321200202568800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
           "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
           "url": "https://flash.jin10.com/detail/20260321183027923800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
         {
-          "title": "季冠霖发文抵制AI",
-          "url": "https://s.weibo.com/weibo?q=%E5%AD%A3%E5%86%A0%E9%9C%96%E5%8F%91%E6%96%87%E6%8A%B5%E5%88%B6AI&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "浙江一社区食堂引入智能炒菜机器人，油盐配比精准到克，你会去尝试吗？机器人炒的菜会有「锅气」吗？",
+          "url": "https://www.zhihu.com/question/2013207584849486050",
+          "source": "知乎",
           "ranks": [
-            24
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时24分"
+          "time_info": "20时49分"
+        },
+        {
+          "title": "用AI拍出创意反诈大片",
+          "url": "https://www.douyin.com/hot/2437681",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "京东云披露“龙虾天团”：基于JoyAI大模型驱动",
@@ -355,6 +415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "库克称不要惧怕要拥抱AI",
+          "url": "https://flash.jin10.com/detail/20260321192052787800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "AI演员林汐颜秦凌岳为何引众怒",
@@ -405,8 +476,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 19时24分]"
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 20时49分]"
         },
         {
           "title": "陕西实施一揽子贷款贴息政策支持实体经济",
@@ -630,11 +701,12 @@
           "ranks": [
             7,
             3,
-            2
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时10分 ~ 19时24分]"
+          "appearance_count": 10,
+          "time_info": "[12时10分 ~ 20时49分]"
         },
         {
           "title": "我国首台550兆瓦F级燃气机组投产发电",
