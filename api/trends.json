@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T16:34:25.793828+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-03-21T17:32:39.782300+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             8,
             9,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时43分 ~ 16时34分]"
+          "appearance_count": 17,
+          "time_info": "[00时43分 ~ 17时32分]"
         },
         {
           "title": "椰树集团招标剥椰子机器人，要求每小时至少处理 360 个，完全去壳且损伤率≤ 1%，这标准能实现吗？",
@@ -77,11 +78,12 @@
             13,
             14,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时43分 ~ 16时34分]"
+          "appearance_count": 17,
+          "time_info": "[00时43分 ~ 17时32分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -114,6 +116,21 @@
           "time_info": "[00时43分 ~ 09时59分]"
         },
         {
+          "title": "人形机器人出货全球第一！从宇树招股书看王兴兴的“技术野心”与“扩张蓝图”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32802764",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时10分 ~ 17时32分]"
+        },
+        {
           "title": "普通人如何防范AI投毒",
           "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
           "source": "bilibili 热搜",
@@ -129,32 +146,6 @@
           "time_info": "[02时51分 ~ 07时29分]"
         },
         {
-          "title": "人形机器人出货全球第一！从宇树招股书看王兴兴的“技术野心”与“扩张蓝图”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32802764",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            9,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 16时34分]"
-        },
-        {
-          "title": "伊朗媒体：巴斯基民兵组织副指挥官“阿齐姆·埃斯梅伊利”（Azim Esmaili）遇害。",
-          "url": "https://flash.jin10.com/detail/20260321155755350800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
           "title": "博主用AI手搓应用1个多月赚近九千",
           "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%94%A8AI%E6%89%8B%E6%90%93%E5%BA%94%E7%94%A81%E4%B8%AA%E5%A4%9A%E6%9C%88%E8%B5%9A%E8%BF%91%E4%B9%9D%E5%8D%83",
           "source": "百度热搜",
@@ -167,6 +158,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时43分 ~ 07时29分]"
+        },
+        {
+          "title": "伊朗媒体：巴斯基民兵组织副指挥官“阿齐姆·埃斯梅伊利”（Azim Esmaili）遇害。",
+          "url": "https://flash.jin10.com/detail/20260321155755350800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时32分]"
         },
         {
           "title": "抵制没用 AI演员已经杀进影视圈",
@@ -335,7 +338,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "网友贷款抄底 8 套老破小，靠房租还贷还有额外收入，「以租养贷」叙事当下还流行吗？存在哪些风险？",
@@ -358,8 +361,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时28分 ~ 16时34分]"
+          "appearance_count": 9,
+          "time_info": "[07时28分 ~ 17时32分]"
         },
         {
           "title": "陕西实施一揽子贷款贴息政策支持实体经济",
@@ -505,6 +508,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "泰国工业经济办公室：伊朗战争将重创泰国六大产业",
+          "url": "https://flash.jin10.com/detail/20260321161651399800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "俄称美以轰炸伊朗恩泽利港触及俄经济利益",
           "url": "https://wallstreetcn.com/livenews/3074243",
           "source": "华尔街见闻-快讯",
@@ -575,8 +589,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 16时34分]"
+          "appearance_count": 6,
+          "time_info": "[12时10分 ~ 17时32分]"
         },
         {
           "title": "我国首台550兆瓦F级燃气机组投产发电",
@@ -584,11 +598,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时33分 ~ 16时34分]"
+          "appearance_count": 3,
+          "time_info": "[15时33分 ~ 17时32分]"
         },
         {
           "title": "焦煤夜盘收涨超8.7%，LPG涨6.8%，焦炭涨超4.9%",
