@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T17:33:07.306765+08:00",
-  "total_titles_processed": 1055,
+  "generated_at": "2026-03-22T18:28:30.077861+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时11分 ~ 17时33分]"
+          "appearance_count": 11,
+          "time_info": "[10时11分 ~ 18时28分]"
         },
         {
           "title": "华为成立传媒军团，将聚焦 AIGC 全场景赋能等三大核心方向，如何看待这一布局？将会带来哪些改变？",
@@ -89,8 +89,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 17时33分]"
+          "appearance_count": 23,
+          "time_info": "[00时31分 ~ 18时28分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -105,8 +105,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 17时33分]"
+          "appearance_count": 23,
+          "time_info": "[00时31分 ~ 18时28分]"
         },
         {
           "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
@@ -189,11 +189,12 @@
           "ranks": [
             2,
             5,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 17时33分]"
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 18时28分]"
         },
         {
           "title": "中国AI大模型调用量领跑全球 中国AI大模型周调用量达4.69万亿Token",
@@ -207,6 +208,20 @@
           "time_info": "15时39分"
         },
         {
+          "title": "全网给U航机器人写剧本",
+          "url": "https://www.douyin.com/hot/2439561",
+          "source": "抖音",
+          "ranks": [
+            12,
+            10,
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时39分 ~ 18时28分]"
+        },
+        {
           "title": "苹果CEO库克：迫不及待想看看中国AI下一步进展",
           "url": "https://flash.jin10.com/detail/20260322131458099800",
           "source": "金十数据",
@@ -218,19 +233,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时54分 ~ 15时39分]"
-        },
-        {
-          "title": "全网给U航机器人写剧本",
-          "url": "https://www.douyin.com/hot/2439561",
-          "source": "抖音",
-          "ranks": [
-            12,
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时39分 ~ 17时33分]"
         },
         {
           "title": "种地都要“AI”了",
@@ -322,8 +324,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时52分 ~ 17时33分]"
+          "appearance_count": 7,
+          "time_info": "[14时52分 ~ 18时28分]"
         },
         {
           "title": "韩国政府：国际清算银行经济顾问申铉松（Hyun-Song Shin）出任韩国央行行长。",
@@ -409,7 +411,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
@@ -420,8 +422,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时11分 ~ 17时33分]"
+          "appearance_count": 11,
+          "time_info": "[10时11分 ~ 18时28分]"
         },
         {
           "title": "特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂",
@@ -462,6 +464,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时11分 ~ 12时53分]"
+        },
+        {
+          "title": "若特朗普兑现威胁 伊朗天然气发电厂恐遭袭击",
+          "url": "https://flash.jin10.com/detail/20260322173327101800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "特朗普要求伊朗开放霍尔木兹海峡，威胁摧毁发电厂",
