@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T20:52:02.442364+08:00",
-  "total_titles_processed": 1291,
+  "generated_at": "2026-03-22T21:44:34.812241+08:00",
+  "total_titles_processed": 1359,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "人形机器人出货全球第一！从宇树招股书看王兴兴的“技术野心”与“扩张蓝图”",
@@ -47,8 +47,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时11分 ~ 20时52分]"
+          "appearance_count": 15,
+          "time_info": "[10时11分 ~ 21时44分]"
         },
         {
           "title": "季冠霖发文抵制AI",
@@ -92,8 +92,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时31分 ~ 20时52分]"
+          "appearance_count": 27,
+          "time_info": "[00时31分 ~ 21时44分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -109,8 +109,25 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时31分 ~ 20时52分]"
+          "appearance_count": 27,
+          "time_info": "[00时31分 ~ 21时44分]"
+        },
+        {
+          "title": "全网给U航机器人写剧本",
+          "url": "https://www.douyin.com/hot/2439561",
+          "source": "抖音",
+          "ranks": [
+            12,
+            10,
+            22,
+            18,
+            19,
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时39分 ~ 21时44分]"
         },
         {
           "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
@@ -161,22 +178,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时11分 ~ 15时39分]"
-        },
-        {
-          "title": "全网给U航机器人写剧本",
-          "url": "https://www.douyin.com/hot/2439561",
-          "source": "抖音",
-          "ranks": [
-            12,
-            10,
-            22,
-            18,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时39分 ~ 20时52分]"
         },
         {
           "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
@@ -295,12 +296,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
+        },
+        {
+          "title": "跑马拉松护航的民警居然是AI机器人",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%8A%A4%E8%88%AA%E7%9A%84%E6%B0%91%E8%AD%A6%E5%B1%85%E7%84%B6%E6%98%AFAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "春日经济何以活力全开",
@@ -349,8 +361,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时52分 ~ 20时52分]"
+          "appearance_count": 11,
+          "time_info": "[14时52分 ~ 21时44分]"
         },
         {
           "title": "新城市志｜巨轮出坞，邮轮经济渐成消费新热点",
@@ -377,6 +389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
+        },
+        {
+          "title": "美国财长贝森特宣称：（在放宽制裁方面）俄罗斯可能会从石油销售中获得最多20亿美元收入。",
+          "url": "https://wallstreetcn.com/livenews/3074577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "国际清算银行（BIS）：Smets将担任货币与经济部门代理主管。 Shin Hyun Song立即免去在BIS的相关职务。",
@@ -420,11 +443,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32810188",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 21时44分]"
         },
         {
           "title": "招金矿业(01818.HK)：截至2025年12月31日止年度，本集团收入约人民币180.56亿元，较去年增加约56.32%。净利润约为人民币44.4亿元，较去年增加约139.81%。董事会建议向全体股东每股派送现金股息人民币0.1元（未除税）。",
@@ -477,7 +501,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -518,8 +542,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时11分 ~ 20时52分]"
+          "appearance_count": 15,
+          "time_info": "[10时11分 ~ 21时44分]"
         },
         {
           "title": "特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂",
@@ -601,7 +625,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
