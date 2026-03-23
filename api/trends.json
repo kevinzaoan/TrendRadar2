@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T05:37:02.478176+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-03-24T06:33:05.862616+08:00",
+  "total_titles_processed": 636,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "普通人如何制作AI视频",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 06时33分]"
         },
         {
           "title": "深度解析AI对影视行业的影响",
@@ -80,6 +80,17 @@
           "time_info": "[02时55分 ~ 03时50分]"
         },
         {
+          "title": "据航空新闻资讯平台The Air Current：波音(BA.N)已获得美国联邦航空管理局的批准，推出787-9和787-10远程宽体客机的新型增重最大起飞重量型号。",
+          "url": "https://flash.jin10.com/detail/20260324052732928800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
           "title": "苹果将于6月召开年度全球开发者大会 料将发布一系列AI功能",
           "url": "https://flash.jin10.com/detail/20260324030521664800",
           "source": "金十数据",
@@ -115,8 +126,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 06时33分]"
         },
         {
           "title": "欧洲央行首席经济学家：欧洲金融体系不适配人工智能时代",
@@ -135,11 +146,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            9
+            9,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 05时37分]"
+          "appearance_count": 3,
+          "time_info": "[05时03分 ~ 06时33分]"
         },
         {
           "title": "美联储戴利：经济至少有两条潜在的发展道路。旷日持久的冲突可能加剧货币政策的权衡取舍。",
@@ -147,11 +159,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            10
+            10,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 05时37分]"
+          "appearance_count": 3,
+          "time_info": "[05时03分 ~ 06时33分]"
         },
         {
           "title": "新西兰联储行长布雷曼：我们经济前景面临风险，如果这一前景发生变化，我们将调整货币政策立场，以实现我们的目标。",
@@ -183,7 +196,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -212,8 +225,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 06时33分]"
         },
         {
           "title": "伊朗否认与美国沟通，此前特朗普称已与伊朗对话，将推迟五天打击伊朗发电站，如何看待此事？战争要结束了吗？",
@@ -223,8 +236,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 06时33分]"
         },
         {
           "title": "伊朗革命卫队：若美袭击伊发电站，将完全关闭霍尔木兹海峡",
@@ -234,8 +247,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 06时33分]"
         }
       ]
     }
