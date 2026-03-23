@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T03:50:54.588820+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-03-24T05:03:57.142009+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 03时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 05时03分]"
+        },
+        {
+          "title": "深度解析AI对影视行业的影响",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90AI%E5%AF%B9%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 05时03分]"
         },
         {
           "title": "内娱影视行业AI化是好是坏",
@@ -56,17 +68,6 @@
           "time_info": "[02时55分 ~ 03时50分]"
         },
         {
-          "title": "深度解析AI对影视行业的影响",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90AI%E5%AF%B9%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
-        },
-        {
           "title": "OpenAI的CEO Altman确认：退出Helion董事会。",
           "url": "https://wallstreetcn.com/livenews/3075367",
           "source": "华尔街见闻-快讯",
@@ -85,7 +86,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         },
@@ -104,7 +105,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "科技春耕与春日经济共绘希望田野",
@@ -114,8 +115,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 03时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 05时03分]"
         },
         {
           "title": "欧洲央行首席经济学家：欧洲金融体系不适配人工智能时代",
@@ -129,15 +130,48 @@
           "time_info": "02时55分"
         },
         {
+          "title": "美联储戴利：过多的前瞻性指引会造成虚假的确定感。如果战争迅速结束，对经济的影响将是短暂的。承认不确定性才是最佳沟通方式。",
+          "url": "https://flash.jin10.com/detail/20260324043601913800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "美联储戴利：经济至少有两条潜在的发展道路。旷日持久的冲突可能加剧货币政策的权衡取舍。",
+          "url": "https://flash.jin10.com/detail/20260324042738400800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
           "title": "加沙与黎巴嫩冲突重创以色列经济 以色列GDP两年缩水8.6%",
           "url": "https://flash.jin10.com/detail/20260324031506402800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "新西兰联储行长布雷曼：我们经济前景面临风险，如果这一前景发生变化，我们将调整货币政策立场，以实现我们的目标。",
+          "url": "https://flash.jin10.com/detail/20260324040500218800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         },
         {
           "title": "消息人士：因伊朗局势升级推高石油收入，俄罗斯推迟旨在扩充财政储备基金的预算规则改革。",
@@ -164,8 +198,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 03时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 05时03分]"
         },
         {
           "title": "伊朗否认与美国沟通，此前特朗普称已与伊朗对话，将推迟五天打击伊朗发电站，如何看待此事？战争要结束了吗？",
@@ -175,8 +209,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 03时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 05时03分]"
         },
         {
           "title": "伊朗革命卫队：若美袭击伊发电站，将完全关闭霍尔木兹海峡",
@@ -186,8 +220,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 03时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 05时03分]"
         }
       ]
     }
