@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T14:02:15.758530+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2026-03-24T15:17:27.792743+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "科技春耕与春日经济共绘希望田野",
@@ -90,6 +90,18 @@
           "time_info": "[10时04分 ~ 12时53分]"
         },
         {
+          "title": "“第四大经济体”的增长故事：霍尔木兹海峡断航后，新德里小吃摊燃起木柴",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32815618",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 15时17分]"
+        },
+        {
           "title": "新西兰联储行长布雷曼：我们经济前景面临风险，如果这一前景发生变化，我们将调整货币政策立场，以实现我们的目标。",
           "url": "https://flash.jin10.com/detail/20260324040500218800",
           "source": "金十数据",
@@ -100,17 +112,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时03分 ~ 05时37分]"
-        },
-        {
-          "title": "“第四大经济体”的增长故事：霍尔木兹海峡断航后，新德里小吃摊燃起木柴",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32815618",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
         },
         {
           "title": "加沙与黎巴嫩冲突重创以色列经济 以色列GDP两年缩水8.6%",
@@ -135,6 +136,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "主要经济体的PMI初值可能反映中东冲突带来的一定影响",
+          "url": "https://flash.jin10.com/detail/20260324144651687800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
           "title": "新西兰总理卢克森：过去几年已取得良好进展。通胀和利率已经下降，经济也重新开始增长。",
           "url": "https://flash.jin10.com/detail/20260324122015753800",
           "source": "金十数据",
@@ -152,7 +164,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -215,7 +227,7 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "普通人如何制作AI视频",
@@ -238,8 +250,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 15时17分]"
         },
         {
           "title": "国内首个！新型储能AI分析平台投用 新能源消纳电量提升30%",
@@ -250,8 +262,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 15时17分]"
+        },
+        {
+          "title": "知名编剧打假:AI是庞氏骗局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "贝莱德CEO芬克：AI将重演财富分化剧本，普通人的出路是\"持股上车\"",
@@ -427,8 +450,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时01分 ~ 14时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 15时17分]"
         },
         {
           "title": "伊朗革命卫队：若美袭击伊发电站，将完全关闭霍尔木兹海峡",
