@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T17:56:53.668322+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2026-03-24T18:53:47.995929+08:00",
+  "total_titles_processed": 1618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "科技春耕与春日经济共绘希望田野",
@@ -39,6 +39,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "“第四大经济体”的增长故事：霍尔木兹海峡断航后，新德里小吃摊燃起木柴",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32815618",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            14,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时01分 ~ 18时53分]"
         },
         {
           "title": "新西兰联储主席布雷曼：金融状况正在收紧，可能在短期内抑制经济增长，我们正在密切关注。",
@@ -80,23 +95,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
-        },
-        {
-          "title": "“第四大经济体”的增长故事：霍尔木兹海峡断航后，新德里小吃摊燃起木柴",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32815618",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时01分 ~ 17时56分]"
         },
         {
           "title": "美联储戴利：过多的前瞻性指引会造成虚假的确定感。如果战争迅速结束，对经济的影响将是短暂的。承认不确定性才是最佳沟通方式。",
@@ -155,7 +156,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -182,6 +183,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "海底捞：2025年本集团收入为432.25亿元，同比增长1.1%",
+          "url": "https://wallstreetcn.com/livenews/3075885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "主要经济体的PMI初值可能反映中东冲突带来的一定影响",
           "url": "https://flash.jin10.com/detail/20260324144651687800",
           "source": "金十数据",
@@ -199,7 +211,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -210,7 +222,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -232,7 +244,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -254,7 +266,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -287,7 +299,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -303,6 +315,28 @@
           "time_info": "16时54分"
         },
         {
+          "title": "欧洲央行管委Kazaks：很明显物价会更高，经济增长会放慢。 如果通胀从能源向外蔓延，则需要加息。",
+          "url": "https://wallstreetcn.com/livenews/3075869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "伊朗冲突冲击高规格活动 世界经济论坛推迟沙特会议",
+          "url": "https://wallstreetcn.com/livenews/3075865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "国家数据局局长刘烈宏：将梯次培育数字产业集群，培育壮大数字经济创新型企业",
           "url": "https://wallstreetcn.com/livenews/3075613",
           "source": "华尔街见闻-快讯",
@@ -312,6 +346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "商汤：2025年收入50.15亿元，同比增长32.9%",
+          "url": "https://wallstreetcn.com/livenews/3075856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "博鳌亚洲论坛旗舰报告：中国和东盟是亚洲最具外资吸引力的经济体",
@@ -362,11 +407,12 @@
             6,
             5,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时53分 ~ 17时56分]"
+          "appearance_count": 7,
+          "time_info": "[12时53分 ~ 18时53分]"
         },
         {
           "title": "AI骗老美,虚拟女兵狂捞金",
@@ -375,11 +421,12 @@
           "ranks": [
             2,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时53分 ~ 17时56分]"
+          "appearance_count": 7,
+          "time_info": "[12时53分 ~ 18时53分]"
         },
         {
           "title": "知名编剧打假:AI是庞氏骗局",
@@ -388,11 +435,12 @@
           "ranks": [
             4,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时17分 ~ 17时56分]"
+          "appearance_count": 4,
+          "time_info": "[15时17分 ~ 18时53分]"
         },
         {
           "title": "贝莱德CEO芬克：AI将重演财富分化剧本，普通人的出路是\"持股上车\"",
@@ -432,6 +480,18 @@
           "time_info": "[01时04分 ~ 03时50分]"
         },
         {
+          "title": "如何看待阿里达摩院发布玄铁 C950 刷新 RISC-V 全球性能纪录，AI 时代 CPU 的重要性是否被低估了？",
+          "url": "https://www.zhihu.com/question/2019761369977767358",
+          "source": "知乎",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时53分]"
+        },
+        {
           "title": "AI写歌走红程序员9个月赚20万",
           "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E6%AD%8C%E8%B5%B0%E7%BA%A2%E7%A8%8B%E5%BA%8F%E5%91%989%E4%B8%AA%E6%9C%88%E8%B5%9A20%E4%B8%87",
           "source": "百度热搜",
@@ -467,16 +527,26 @@
           "time_info": "[02时55分 ~ 03时50分]"
         },
         {
-          "title": "如何看待阿里达摩院发布玄铁 C950 刷新 RISC-V 全球性能纪录，AI 时代 CPU 的重要性是否被低估了？",
-          "url": "https://www.zhihu.com/question/2019761369977767358",
-          "source": "知乎",
+          "title": "“去人化”的AI影视 你还会看吗",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8E%BB%E4%BA%BA%E5%8C%96%E2%80%9D%E7%9A%84AI%E5%BD%B1%E8%A7%86+%E4%BD%A0%E8%BF%98%E4%BC%9A%E7%9C%8B%E5%90%97",
+          "source": "百度热搜",
           "ranks": [
-            15,
-            17
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时54分 ~ 17时56分]"
+          "time_info": "[17时56分 ~ 18时53分]"
+        },
+        {
+          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时53分]"
         },
         {
           "title": "OpenAI在投资者文件中指出：对微软的依赖是一大风险",
@@ -518,7 +588,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -545,17 +615,6 @@
           "time_info": "06时33分"
         },
         {
-          "title": "“去人化”的AI影视 你还会看吗",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8E%BB%E4%BA%BA%E5%8C%96%E2%80%9D%E7%9A%84AI%E5%BD%B1%E8%A7%86+%E4%BD%A0%E8%BF%98%E4%BC%9A%E7%9C%8B%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
           "title": "苹果将于6月召开年度全球开发者大会 料将发布一系列AI功能",
           "url": "https://flash.jin10.com/detail/20260324030521664800",
           "source": "金十数据",
@@ -576,17 +635,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
-        },
-        {
-          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
         },
         {
           "title": "欧洲央行首席经济学家Lane：AI是欧盟（致力于）完成储蓄联盟的另外一个理由。",
@@ -617,7 +665,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         }
@@ -625,7 +673,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "称伊对话“富有成效”，特朗普“推迟5天”打击伊朗发电站，伊朗断然否认",
@@ -636,8 +684,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时01分 ~ 17时56分]"
+          "appearance_count": 19,
+          "time_info": "[00时01分 ~ 18时53分]"
         },
         {
           "title": "伊朗革命卫队：若美袭击伊发电站，将完全关闭霍尔木兹海峡",
@@ -670,9 +718,20 @@
           "ranks": [
             12
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时53分]"
+        },
+        {
+          "title": "特朗普称推迟打击伊朗发电设施，外交部回应",
+          "url": "https://www.cls.cn/detail/2322947",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时56分"
+          "time_info": "18时53分"
         },
         {
           "title": "电网设备板块反复活跃，新能泰山一字涨停，北京科锐、积成电子、三晖电气、凯发电气、通光线缆等集体高开。",
