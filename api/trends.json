@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T16:52:46.435527+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2026-03-25T17:54:50.818070+08:00",
+  "total_titles_processed": 1552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "官方定调！AI时代“词元经济”崛起",
@@ -34,6 +34,19 @@
           "time_info": "[01时56分 ~ 16时52分]"
         },
         {
+          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
+          "url": "https://www.zhihu.com/question/2020036375211157322",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时54分 ~ 17时54分]"
+        },
+        {
           "title": "马上评｜“去人化”的AI影视，你还会看吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
           "source": "澎湃新闻",
@@ -59,11 +72,12 @@
             21,
             20,
             22,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 16时52分]"
+          "appearance_count": 17,
+          "time_info": "[00时12分 ~ 17时54分]"
         },
         {
           "title": "报告称AI将全面取代这六大岗位",
@@ -110,19 +124,6 @@
           "time_info": "[00时12分 ~ 10时09分]"
         },
         {
-          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
-          "url": "https://www.zhihu.com/question/2020036375211157322",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时54分 ~ 16时52分]"
-        },
-        {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
           "url": "https://www.cls.cn/detail/2323711",
           "source": "财联社热门",
@@ -133,8 +134,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时09分 ~ 16时52分]"
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 17时54分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -144,11 +145,26 @@
             6,
             19,
             20,
-            16
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 17时54分]"
+        },
+        {
+          "title": "Token AI时代的新KPI",
+          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            10,
+            7,
+            17
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时09分 ~ 16时52分]"
+          "time_info": "[12时54分 ~ 17时54分]"
         },
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
@@ -168,7 +184,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -201,7 +217,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -240,17 +256,30 @@
           "time_info": "[10时09分 ~ 14时02分]"
         },
         {
-          "title": "Token AI时代的新KPI",
-          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
-          "source": "bilibili 热搜",
+          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
+          "url": "https://www.cls.cn/detail/2323916",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            10,
-            7
+            12,
+            9,
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时54分 ~ 16时52分]"
+          "time_info": "[14时02分 ~ 17时54分]"
+        },
+        {
+          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
+          "url": "https://wallstreetcn.com/articles/3768269",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时33分 ~ 17时54分]"
         },
         {
           "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
@@ -264,31 +293,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时42分 ~ 06时32分]"
-        },
-        {
-          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
-          "url": "https://wallstreetcn.com/articles/3768269",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时33分 ~ 16时52分]"
-        },
-        {
-          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
-          "url": "https://www.cls.cn/detail/2323916",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时02分 ~ 16时52分]"
         },
         {
           "title": "“七巨头”集体熄火！华尔街惊呼：AI最大赢家已换人",
@@ -448,7 +452,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -470,7 +474,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -525,7 +529,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -607,6 +611,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "特斯拉机器人Optimus发招聘，称目标尽快量产",
+          "url": "https://wallstreetcn.com/livenews/3076573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
           "title": "Anthropic宣布，大模型Claude现在可以自主做出权限决策。 为Claude Code推出“自动模式”（Auto Model）。 安全防护机制将在操作执行前进行预监测。 现已作为“研究预览版”面向团队版（Team Plan）用户开放。 将在未来几天内推送到企业版（Enterprise Plan）和API用户。",
           "url": "https://wallstreetcn.com/livenews/3076129",
           "source": "华尔街见闻-快讯",
@@ -616,6 +631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "媒体评AI短片《雪山救狐狸》爆火",
+          "url": "https://www.toutiao.com/trending/7621087757850381830/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "OpenAI首席财务官：本轮融资总额达1200亿美元",
@@ -635,7 +661,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -764,7 +790,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 17,
+      "match_count": 26,
       "titles": [
         {
           "title": "“第四大经济体”的增长故事：霍尔木兹海峡断航后，新德里小吃摊燃起木柴",
@@ -781,6 +807,19 @@
           "time_info": "[00时12分 ~ 07时33分]"
         },
         {
+          "title": "经济日报：外卖大战该结束了",
+          "url": "https://www.cls.cn/detail/2324046",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 17时54分]"
+        },
+        {
           "title": "港股午后快速拉升恒生指数涨超1.3%，恒生科技指数涨超2%，科网股领涨大市，美团(03690.HK)涨超11.5%，阿里巴巴(09988.HK)涨超6%，京东(09618.HK)涨超5%；消息面上，经济日报评论员发布文章表示，外卖大战该结束了。",
           "url": "https://flash.jin10.com/detail/20260325134255736800",
           "source": "金十数据",
@@ -790,18 +829,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
-        },
-        {
-          "title": "经济日报：外卖大战该结束了",
-          "url": "https://www.cls.cn/detail/2324046",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时52分 ~ 16时52分]"
         },
         {
           "title": "高盛：若伊朗战争冲击经济增长，美元涨势将消退",
@@ -839,6 +866,17 @@
           "time_info": "14时02分"
         },
         {
+          "title": "欧洲央行首席经济学家连恩：工资追踪器是谈判工资的良好领先指标。",
+          "url": "https://flash.jin10.com/detail/20260325173534953800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
           "title": "国家市场监管总局转发《经济日报》文章：外卖大战该结束了",
           "url": "https://wallstreetcn.com/livenews/3076431",
           "source": "华尔街见闻-快讯",
@@ -870,6 +908,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
+        },
+        {
+          "title": "经济日报：外卖大战该结束了",
+          "url": "https://www.toutiao.com/trending/7620075374026555428/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "《经济日报》刊文“外卖大战该结束了”，美团、阿里直线拉升，这一战曾半年烧光800亿",
+          "url": "https://wallstreetcn.com/articles/3768336",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "Citadel Securities（城堡证券）在2025年斩获120亿美元交易收入。",
@@ -905,6 +965,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "欧洲央行首席经济学家连恩：我们将在每次会议上考虑当前的情景。 消费者信心的下降幅度相当大。 可以看到PMI的下行趋势。",
+          "url": "https://wallstreetcn.com/livenews/3076585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
           "title": "高盛：若伊朗战争冲击经济增长 美元强势将消退",
           "url": "https://flash.jin10.com/detail/20260325023821847800",
           "source": "金十数据",
@@ -938,6 +1009,17 @@
           "time_info": "15时53分"
         },
         {
+          "title": "欧洲央行首席经济学家连恩：市场动态暗示物价水平将出现跃升。",
+          "url": "https://flash.jin10.com/detail/20260325172804255800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
           "title": "妙可蓝多：2025年实现营业收入56.33亿元，同比增长16.29%；归母净利润1.18亿元，同比增长4.29%。",
           "url": "https://wallstreetcn.com/livenews/3076053",
           "source": "华尔街见闻-快讯",
@@ -949,6 +1031,28 @@
           "time_info": "00时12分"
         },
         {
+          "title": "欧洲央行首席经济学家连恩：市场预计3月、4月经济数据将大幅走高，随后恢复正常。",
+          "url": "https://flash.jin10.com/detail/20260325172741579800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "欧洲央行首席经济学家连恩：从PMI指数中可以看出经济正在下滑。",
+          "url": "https://flash.jin10.com/detail/20260325172521770800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
           "title": "随着全球风险加剧，新西兰联储首席经济学家呼吁进行改革",
           "url": "https://wallstreetcn.com/livenews/3076229",
           "source": "华尔街见闻-快讯",
@@ -958,13 +1062,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "欧洲央行首席经济学家连恩：消费者信心指数降幅相当大。",
+          "url": "https://flash.jin10.com/detail/20260325172446050800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "惠誉：石油和液化天然气供应中断通过强化能源进口经济体在能源安全驱动下对可再生能源及电池储能系统的投资，增加了市场上行空间。",
+          "url": "https://flash.jin10.com/detail/20260325172419245800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         }
       ]
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "爱沙尼亚外交部长：击中发电厂的无人机并非针对爱沙尼亚。",
+          "url": "https://flash.jin10.com/detail/20260325173709159800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
         {
           "title": "把发电炼成世界的算力，Token 是否是中国未来电力出口的核心形式？",
           "url": "https://www.zhihu.com/question/2019356040198583652",
