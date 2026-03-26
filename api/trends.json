@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T19:51:01.375115+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2026-03-26T21:16:15.517125+08:00",
+  "total_titles_processed": 1656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "《经济日报》刊文“外卖大战该结束了”，美团、阿里直线拉升，这一战曾半年烧光800亿",
@@ -19,6 +19,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时19分 ~ 13时07分]"
+        },
+        {
+          "title": "首都经济贸易大学校园歌手大赛",
+          "url": "https://www.douyin.com/hot/2444236",
+          "source": "抖音",
+          "ranks": [
+            15,
+            17,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时09分 ~ 21时16分]"
         },
         {
           "title": "看体验经济新潜力",
@@ -43,19 +57,6 @@
           "time_info": "[00时19分 ~ 07时35分]"
         },
         {
-          "title": "首都经济贸易大学校园歌手大赛",
-          "url": "https://www.douyin.com/hot/2444236",
-          "source": "抖音",
-          "ranks": [
-            15,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时09分 ~ 19时51分]"
-        },
-        {
           "title": "经济学家巴曙松被带走调查？港交所回应",
           "url": "https://www.cls.cn/detail/2324637",
           "source": "财联社热门",
@@ -66,6 +67,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时59分 ~ 07时35分]"
+        },
+        {
+          "title": "如何看待吴柳芳披露退役后财务状况，退役费全给家里买房凑首付，每月「擦边」直播收入仅几千？",
+          "url": "https://www.zhihu.com/question/2020459617558296057",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时02分 ~ 21时16分]"
         },
         {
           "title": "保险业高管们预计：美国未来三年内将出现经济衰退",
@@ -175,17 +187,6 @@
           "time_info": "[01时59分 ~ 03时07分]"
         },
         {
-          "title": "如何看待吴柳芳披露退役后财务状况，退役费全给家里买房凑首付，每月「擦边」直播收入仅几千？",
-          "url": "https://www.zhihu.com/question/2020459617558296057",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时02分 ~ 19时51分]"
-        },
-        {
           "title": "关于中国经济，外媒抛出的这些谬论必须澄清",
           "url": "https://m.thepaper.cn/newsDetail_forward_32828207",
           "source": "澎湃新闻",
@@ -263,7 +264,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -274,7 +275,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -296,7 +297,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -318,7 +319,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -373,7 +374,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -384,7 +385,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -417,9 +418,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
+        },
+        {
+          "title": "中国人保：2025年营业收入6690.44亿元，同比增长7.6%；净利润630.33亿元，同比增长9.0%。",
+          "url": "https://wallstreetcn.com/livenews/3077470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "亚开行：中东冲突可能导致亚太发展中经济体通胀率上升3.2个百分点",
@@ -431,6 +443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
+        },
+        {
+          "title": "唯科科技：数据中心MPO项目收入占比较小",
+          "url": "https://wallstreetcn.com/livenews/3077464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         }
       ]
     },
@@ -452,8 +475,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 19时51分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 21时16分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -467,8 +490,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 19时51分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 21时16分]"
         },
         {
           "title": "俄乌战场惊现持枪机器人",
@@ -477,11 +500,12 @@
           "ranks": [
             5,
             7,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时56分 ~ 19时51分]"
+          "appearance_count": 8,
+          "time_info": "[16时56分 ~ 21时16分]"
         },
         {
           "title": "俄乌战场惊现持枪人形机器人",
@@ -507,6 +531,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时56分 ~ 19时51分]"
+        },
+        {
+          "title": "深挖首个亮相白宫的人形机器人：何方神圣竟能参加第一夫人聚会？",
+          "url": "https://www.cls.cn/detail/2325417",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时02分 ~ 21时16分]"
         },
         {
           "title": "OpenAI Codex工程负责人：Codex App将继续保留。我们只是比以往投入了更多资源进行开发，它很快会变得相当出色。",
@@ -612,18 +649,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时39分 ~ 06时36分]"
-        },
-        {
-          "title": "深挖首个亮相白宫的人形机器人：何方神圣竟能参加第一夫人聚会？",
-          "url": "https://www.cls.cn/detail/2325417",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时02分 ~ 19时51分]"
         },
         {
           "title": "Sparc AI：在乌克兰推荐代理商，以加快OverwatchGPS无信号导航平台的部署。",
