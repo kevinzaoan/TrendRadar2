@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T10:23:43.241866+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-03-26T13:07:01.494887+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "OpenAI宣布关停Sora",
@@ -20,8 +20,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 10时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 13时07分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -34,8 +34,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 10时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 13时07分]"
         },
         {
           "title": "OpenAI Codex工程负责人：Codex App将继续保留。我们只是比以往投入了更多资源进行开发，它很快会变得相当出色。",
@@ -44,7 +44,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -148,6 +148,28 @@
           "time_info": "[00时19分 ~ 01时59分]"
         },
         {
+          "title": "俄乌战场惊现持枪人形机器人",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%B9%8C%E6%88%98%E5%9C%BA%E6%83%8A%E7%8E%B0%E6%8C%81%E6%9E%AA%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 13时07分]"
+        },
+        {
+          "title": "伊朗官媒发炸毁自由女神像AI视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%98%E5%AA%92%E5%8F%91%E7%82%B8%E6%AF%81%E8%87%AA%E7%94%B1%E5%A5%B3%E7%A5%9E%E5%83%8FAI%E8%A7%86%E9%A2%91%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 13时07分]"
+        },
+        {
           "title": "市场消息：CrowdStrike扩大与英特尔的战略合作，以保护新一代AI PC。",
           "url": "https://flash.jin10.com/detail/20260326011459054800",
           "source": "金十数据",
@@ -165,9 +187,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "报告：2025年国内消费级AI/AR市场销量增幅109%，雷鸟夺冠",
+          "url": "https://flash.jin10.com/detail/20260326125531947800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "俄乌战场现持枪机器人",
@@ -228,7 +261,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "《经济日报》刊文“外卖大战该结束了”，美团、阿里直线拉升，这一战曾半年烧光800亿",
@@ -240,8 +273,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 10时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 13时07分]"
         },
         {
           "title": "美前商务部长：对伊战争致美国经济压力暴增",
@@ -253,6 +286,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时19分 ~ 07时35分]"
+        },
+        {
+          "title": "看体验经济新潜力",
+          "url": "https://www.toutiao.com/trending/7620643567492644890/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 13时07分]"
         },
         {
           "title": "经济学家巴曙松被带走调查？港交所回应",
@@ -315,6 +359,19 @@
           "time_info": "[06时36分 ~ 07时35分]"
         },
         {
+          "title": "华尔街机构集体转向悲观：美国经济将迎“中东战事冲击波”",
+          "url": "https://www.cls.cn/detail/2324957",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时35分 ~ 13时07分]"
+        },
+        {
           "title": "澳洲联储助理主席肯特：冲突持续的时间越长，对经济的影响就越大。",
           "url": "https://flash.jin10.com/detail/20260326061739896800",
           "source": "金十数据",
@@ -351,18 +408,6 @@
           "time_info": "[04时39分 ~ 05时39分]"
         },
         {
-          "title": "华尔街机构集体转向悲观：美国经济将迎“中东战事冲击波”",
-          "url": "https://www.cls.cn/detail/2324957",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时35分 ~ 10时23分]"
-        },
-        {
           "title": "墨西哥经济部：墨西哥将于周四在总统新闻发布会上宣布针对运输业的支持计划。",
           "url": "https://flash.jin10.com/detail/20260326055224594800",
           "source": "金十数据",
@@ -385,6 +430,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 03时07分]"
+        },
+        {
+          "title": "关于中国经济，外媒抛出的这些谬论必须澄清",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32828207",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 13时07分]"
         },
         {
           "title": "法国央行：基准情景下预计2027年经济增长0.8%（此前预测为1.0%），2028年增长1.2%（此前预测为1.1%）。",
