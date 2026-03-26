@@ -1,11 +1,153 @@
 {
-  "generated_at": "2026-03-27T04:36:59.147474+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-03-27T05:32:22.824218+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "github AI 机器人 Claude",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "AI短剧冲击横店 第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E5%86%B2%E5%87%BB%E6%A8%AA%E5%BA%97+%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时32分]"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时32分]"
+        },
+        {
+          "title": "Token AI时代的新KPI",
+          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时32分]"
+        },
+        {
+          "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3077691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "据The Information：OpenAI的广告客户已超过600家，预计将于四月推出自助广告客户接入服务。",
+          "url": "https://flash.jin10.com/detail/20260327045344271800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "据 The Information：OpenAI广告试点的年化收入突破1亿美元。",
+          "url": "https://flash.jin10.com/detail/20260327045343835800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "苹果公司将在策略转向中向竞争对手的AI助理开放Siri。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3077634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "亚马逊AI芯片产品的主管Gadi Htt离职。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3077682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "俄乌战场惊现持枪机器人",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E6%88%98%E5%9C%BA%E6%83%8A%E7%8E%B0%E6%8C%81%E6%9E%AA%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "Meta目前前计划在美国得克萨斯州埃尔帕索（El Paso）的AI数据中心投入100亿美元，远高于此前承诺的15亿美元。 该数据中心的目标是到2028年实现1吉瓦（1 GW） 的电力容量上线。 Meta正在加大对AI基础设施的投资。今年1月，该公司曾向华尔街表示，全年的资本支出将高达1350亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3077656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "谷歌：用户可以将其他AI应用的记忆转移到Gemini。",
+          "url": "https://flash.jin10.com/detail/20260327032315760800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "谷歌公司：推出Gemini 3.1 Flash Live Audio & Voice模型。 在全球推广Search Live。 向那些已经存在人工智能（AI）模型的地方推广Search Live。",
+          "url": "https://wallstreetcn.com/livenews/3077571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "经济学家：年轻人可以考虑买房了",
@@ -16,8 +158,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时36分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时32分]"
+        },
+        {
+          "title": "中国与尼日利亚签署共同发展经济伙伴关系框架协定",
+          "url": "https://wallstreetcn.com/livenews/3077692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "如何看待吴柳芳披露退役后财务状况，退役费全给家里买房凑首付，每月「擦边」直播收入仅几千？",
+          "url": "https://www.zhihu.com/question/2020459617558296057",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时32分]"
         },
         {
           "title": "首都经济贸易大学校园歌手大赛",
@@ -33,15 +197,16 @@
           "time_info": "[01时02分 ~ 04时36分]"
         },
         {
-          "title": "如何看待吴柳芳披露退役后财务状况，退役费全给家里买房凑首付，每月「擦边」直播收入仅几千？",
-          "url": "https://www.zhihu.com/question/2020459617558296057",
-          "source": "知乎",
+          "title": "提醒：美联储理事库克并未置评FOMC货币政策与美国经济前景。",
+          "url": "https://wallstreetcn.com/livenews/3077671",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时36分]"
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时32分]"
         },
         {
           "title": "欧洲央行行长拉加德：我们面对一个实实在在的冲击。 市场可能过于乐观。（经济学人）",
@@ -53,6 +218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "中国与尼日利亚签署共同发展经济伙伴关系框架协定",
+          "url": "https://flash.jin10.com/detail/20260327045907833800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "欧洲央行行长拉加德：我们在对战争做出反应方面准备就绪。（经济学人）",
@@ -77,17 +253,6 @@
           "time_info": "03时06分"
         },
         {
-          "title": "提醒：美联储理事库克并未置评FOMC货币政策与美国经济前景。",
-          "url": "https://wallstreetcn.com/livenews/3077671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
           "title": "据华尔街日报：消息人士称，X公司剩余员工被要求专注于增加收入， X Money在合规和运营方面面临延误。",
           "url": "https://flash.jin10.com/detail/20260327021852979800",
           "source": "金十数据",
@@ -105,7 +270,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         },
@@ -116,106 +281,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "github AI 机器人 Claude",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "AI短剧冲击横店 第一批受害者出现了",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E5%86%B2%E5%87%BB%E6%A8%AA%E5%BA%97+%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时36分]"
-        },
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时36分]"
-        },
-        {
-          "title": "Token AI时代的新KPI",
-          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时36分]"
-        },
-        {
-          "title": "苹果公司将在策略转向中向竞争对手的AI助理开放Siri。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3077634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "俄乌战场惊现持枪机器人",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E6%88%98%E5%9C%BA%E6%83%8A%E7%8E%B0%E6%8C%81%E6%9E%AA%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "Meta目前前计划在美国得克萨斯州埃尔帕索（El Paso）的AI数据中心投入100亿美元，远高于此前承诺的15亿美元。 该数据中心的目标是到2028年实现1吉瓦（1 GW） 的电力容量上线。 Meta正在加大对AI基础设施的投资。今年1月，该公司曾向华尔街表示，全年的资本支出将高达1350亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3077656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "谷歌：用户可以将其他AI应用的记忆转移到Gemini。",
-          "url": "https://flash.jin10.com/detail/20260327032315760800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "谷歌公司：推出Gemini 3.1 Flash Live Audio & Voice模型。 在全球推广Search Live。 向那些已经存在人工智能（AI）模型的地方推广Search Live。",
-          "url": "https://wallstreetcn.com/livenews/3077571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
         }
       ]
     },
@@ -228,11 +296,12 @@
           "url": "https://wallstreetcn.com/livenews/3077680",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时32分]"
         },
         {
           "title": "美国宾夕法尼亚州4.4 GW规模的天然气发电厂Homer City Generation Station推后至2028年再投产（发电入网），原定2027年发电上网。",
@@ -241,7 +310,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         }
