@@ -1,11 +1,222 @@
 {
-  "generated_at": "2026-03-27T06:31:26.645393+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-03-27T07:33:36.373502+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "经济 房地产 收入",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "经济学家：年轻人可以考虑买房了",
+          "url": "https://www.toutiao.com/trending/7621143160471978025/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 07时33分]"
+        },
+        {
+          "title": "美联储理事巴尔：美联储在进一步调整政策之前，花些时间评估经济发展形势是明智之举。",
+          "url": "https://flash.jin10.com/detail/20260327071252856800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "如何看待吴柳芳披露退役后财务状况，退役费全给家里买房凑首付，每月「擦边」直播收入仅几千？",
+          "url": "https://www.zhihu.com/question/2020459617558296057",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 07时33分]"
+        },
+        {
+          "title": "美联储副主席杰斐逊：将密切关注成本上升是否会对经济产生深远影响。",
+          "url": "https://flash.jin10.com/detail/20260327071218871800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "中国与尼日利亚签署共同发展经济伙伴关系框架协定",
+          "url": "https://wallstreetcn.com/livenews/3077692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时31分]"
+        },
+        {
+          "title": "澳新银行驻奥克兰的新西兰首席经济学家Sharon Zollner：中东冲突为经济前景带来了巨大的不确定性，并已经直接削弱了新西兰民众的购买力。 消费者信心受挫可能会加剧对增长的影响。 在局势可能显著恶化的情况下，企业和家庭在做支出决策时表现得谨小慎微，这是完全合理的。",
+          "url": "https://wallstreetcn.com/livenews/3077709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时33分]"
+        },
+        {
+          "title": "首都经济贸易大学校园歌手大赛",
+          "url": "https://www.douyin.com/hot/2444236",
+          "source": "抖音",
+          "ranks": [
+            14,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 04时36分]"
+        },
+        {
+          "title": "中国与尼日利亚签署共同发展经济伙伴关系框架协定",
+          "url": "https://flash.jin10.com/detail/20260327045907833800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时31分]"
+        },
+        {
+          "title": "提醒：美联储理事库克并未置评FOMC货币政策与美国经济前景。",
+          "url": "https://wallstreetcn.com/livenews/3077671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时32分]"
+        },
+        {
+          "title": "经济日报金观平：各级政府要更好“当家理财”",
+          "url": "https://wallstreetcn.com/livenews/3077732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：我们面对一个实实在在的冲击。 市场可能过于乐观。（经济学人）",
+          "url": "https://wallstreetcn.com/livenews/3077594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：我们在对战争做出反应方面准备就绪。（经济学人）",
+          "url": "https://wallstreetcn.com/livenews/3077641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "在太空探索公司SpaceX IPO之前，马斯克旗下X（原名推特）重组。 X遣散了CMO和超过20名非技术职员。 X Money面临与合规和运营相关的推迟。 X剩下的员工称，X将侧重于提高收入。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3077640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "美联储副主席杰斐逊：今年经济将以约2%或略高于2%的速度扩张，但不确定性较高。",
+          "url": "https://flash.jin10.com/detail/20260327070457057800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，X公司剩余员工被要求专注于增加收入， X Money在合规和运营方面面临延误。",
+          "url": "https://flash.jin10.com/detail/20260327021852979800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "纽约联储系统公开市场账户经理Perli ：企业在具有经济合理性时应使用回购便利工具。",
+          "url": "https://flash.jin10.com/detail/20260327070018522800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "王文涛部长会见智利外交部国际经济关系副部长埃斯特韦斯",
+          "url": "https://wallstreetcn.com/livenews/3077658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "王文涛会见智利外交部国际经济关系副部长",
+          "url": "https://flash.jin10.com/detail/20260327033037917800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI短剧冲击横店 第一批受害者出现了",
@@ -15,8 +226,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 06时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 07时33分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -29,8 +240,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 06时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 07时33分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -41,8 +252,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 06时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 07时33分]"
+        },
+        {
+          "title": "Anthropic赢得法院支持，以阻止特朗普对其AI工具使用的禁令。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3077736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
@@ -152,171 +374,27 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济 房地产 收入",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "经济学家：年轻人可以考虑买房了",
-          "url": "https://www.toutiao.com/trending/7621143160471978025/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 06时31分]"
-        },
-        {
-          "title": "澳新银行驻奥克兰的新西兰首席经济学家Sharon Zollner：中东冲突为经济前景带来了巨大的不确定性，并已经直接削弱了新西兰民众的购买力。 消费者信心受挫可能会加剧对增长的影响。 在局势可能显著恶化的情况下，企业和家庭在做支出决策时表现得谨小慎微，这是完全合理的。",
-          "url": "https://wallstreetcn.com/livenews/3077709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "如何看待吴柳芳披露退役后财务状况，退役费全给家里买房凑首付，每月「擦边」直播收入仅几千？",
-          "url": "https://www.zhihu.com/question/2020459617558296057",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 06时31分]"
-        },
-        {
-          "title": "中国与尼日利亚签署共同发展经济伙伴关系框架协定",
-          "url": "https://wallstreetcn.com/livenews/3077692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时31分]"
-        },
-        {
-          "title": "首都经济贸易大学校园歌手大赛",
-          "url": "https://www.douyin.com/hot/2444236",
-          "source": "抖音",
-          "ranks": [
-            14,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时36分]"
-        },
-        {
-          "title": "中国与尼日利亚签署共同发展经济伙伴关系框架协定",
-          "url": "https://flash.jin10.com/detail/20260327045907833800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时31分]"
-        },
-        {
-          "title": "提醒：美联储理事库克并未置评FOMC货币政策与美国经济前景。",
-          "url": "https://wallstreetcn.com/livenews/3077671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时32分]"
-        },
-        {
-          "title": "欧洲央行行长拉加德：我们面对一个实实在在的冲击。 市场可能过于乐观。（经济学人）",
-          "url": "https://wallstreetcn.com/livenews/3077594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：我们在对战争做出反应方面准备就绪。（经济学人）",
-          "url": "https://wallstreetcn.com/livenews/3077641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "在太空探索公司SpaceX IPO之前，马斯克旗下X（原名推特）重组。 X遣散了CMO和超过20名非技术职员。 X Money面临与合规和运营相关的推迟。 X剩下的员工称，X将侧重于提高收入。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3077640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，X公司剩余员工被要求专注于增加收入， X Money在合规和运营方面面临延误。",
-          "url": "https://flash.jin10.com/detail/20260327021852979800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "王文涛部长会见智利外交部国际经济关系副部长埃斯特韦斯",
-          "url": "https://wallstreetcn.com/livenews/3077658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "王文涛会见智利外交部国际经济关系副部长",
-          "url": "https://flash.jin10.com/detail/20260327033037917800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
         }
       ]
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美以伊战争丨特朗普：再推迟10天打击伊朗发电厂",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
         {
           "title": "特朗普称再推迟10天打击伊朗发电厂",
           "url": "https://wallstreetcn.com/livenews/3077680",
