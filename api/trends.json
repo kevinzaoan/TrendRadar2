@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T21:07:05.388532+08:00",
-  "total_titles_processed": 1741,
+  "generated_at": "2026-03-27T22:51:01.035895+08:00",
+  "total_titles_processed": 1876,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "经济学家：年轻人可以考虑买房了",
@@ -27,11 +27,24 @@
             14,
             21,
             15,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时07分 ~ 21时07分]"
+          "appearance_count": 13,
+          "time_info": "[15时07分 ~ 22时51分]"
+        },
+        {
+          "title": "“对经济至关重要”，肯尼亚与中国达成协议",
+          "url": "https://news.ifeng.com/c/8rq9aoqdST4",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时42分 ~ 22时51分]"
         },
         {
           "title": "经济学家：年轻人可以考虑买房了",
@@ -46,17 +59,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时24分 ~ 16时54分]"
-        },
-        {
-          "title": "“对经济至关重要”，肯尼亚与中国达成协议",
-          "url": "https://news.ifeng.com/c/8rq9aoqdST4",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时42分 ~ 21时07分]"
         },
         {
           "title": "美联储理事巴尔：美联储在进一步调整政策之前，花些时间评估经济发展形势是明智之举。",
@@ -101,6 +103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
+        },
+        {
+          "title": "七国集团外长：正专注于支持旨在缓解全球经济冲击的举措。",
+          "url": "https://flash.jin10.com/detail/20260327224528518800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "日本央行：鉴于对自然利率估计存在不确定性，有必要全面评估货币宽松程度，同时审慎考察经济活动、物价和金融发展态势。",
@@ -363,6 +376,17 @@
           "time_info": "19时42分"
         },
         {
+          "title": "美国密歇根大学消费者信心指数项目调查主管Joanne Hsu：高物价的持续依然是消费者衡量经济的主导因素，47%的消费者主动提到，物价目前正在侵蚀他们的个人财务状况。 未来一年的汽油价格预期已跃升至2022年6月以来的最高水平，当时正值俄乌冲突发生后通胀达到顶峰的时期。 拥有中高收入及股票财富的消费者受到的打击尤为严重。 在伊朗冲突之后，他们不仅面临汽油价格攀升，还受到金融市场动荡的影响，这部分人群的信心出现了特别明显的下滑。",
+          "url": "https://wallstreetcn.com/livenews/3078328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "茶百道(02555.HK)：2025年营业收入53.95亿元，同比增长9.7%；拥有人应占年内利润8.04亿元。",
           "url": "https://flash.jin10.com/detail/20260327122505528800",
           "source": "金十数据",
@@ -446,7 +470,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -490,7 +514,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -509,8 +533,21 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "假赛挨重拳,naiyou终身禁赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时55分 ~ 22时51分]"
+        },
         {
           "title": "130.5%！半导体分立器件制造业开年利润暴增 AI或成最强推手",
           "url": "https://www.cls.cn/detail/2326528",
@@ -532,21 +569,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时07分 ~ 21时07分]"
-        },
-        {
-          "title": "假赛挨重拳,naiyou终身禁赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时55分 ~ 21时07分]"
+          "appearance_count": 13,
+          "time_info": "[15时07分 ~ 22时51分]"
         },
         {
           "title": "小孩观看表演遭机器人回旋巴掌误伤，暴露出机器人在目标识别、防碰撞方面的哪些问题？当前技术水平能规避吗？",
@@ -581,11 +605,59 @@
             26,
             27,
             23,
-            28
+            28,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时07分 ~ 21时07分]"
+          "appearance_count": 13,
+          "time_info": "[15时07分 ~ 22时51分]"
+        },
+        {
+          "title": "LPL宣布naiyou假赛被终身禁赛",
+          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时53分 ~ 22时51分]"
+        },
+        {
+          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
+          "url": "https://news.ifeng.com/c/8rpvER227kd",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时55分 ~ 22时51分]"
+        },
+        {
+          "title": "一行代码破甲,AI水军现原形",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时06分 ~ 22时51分]"
+        },
+        {
+          "title": "中国AI模型调用量爆发式增长",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E6%A8%A1%E5%9E%8B%E8%B0%83%E7%94%A8%E9%87%8F%E7%88%86%E5%8F%91%E5%BC%8F%E5%A2%9E%E9%95%BF",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时06分 ~ 22时51分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -600,29 +672,6 @@
           "time_info": "[01时02分 ~ 10时25分]"
         },
         {
-          "title": "LPL宣布naiyou假赛被终身禁赛",
-          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时53分 ~ 19时42分]"
-        },
-        {
-          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
-          "url": "https://news.ifeng.com/c/8rpvER227kd",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时55分 ~ 21时07分]"
-        },
-        {
           "title": "如何看待 Sora 宣布下架当日，即梦随即取消折扣，国内 AI 市场是否已进入「一家独大」的收割期？",
           "url": "https://www.zhihu.com/question/2020423157757028308",
           "source": "知乎",
@@ -634,28 +683,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时07分 ~ 16时54分]"
-        },
-        {
-          "title": "一行代码破甲,AI水军现原形",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 21时07分]"
-        },
-        {
-          "title": "中国AI模型调用量爆发式增长",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E6%A8%A1%E5%9E%8B%E8%B0%83%E7%94%A8%E9%87%8F%E7%88%86%E5%8F%91%E5%BC%8F%E5%A2%9E%E9%95%BF",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 21时07分]"
         },
         {
           "title": "人形机器人高质量真机数据集",
@@ -763,6 +790,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时31分]"
+        },
+        {
+          "title": "Naiyou 假赛被罚终身禁赛，LPL 打野为什么多次出现假赛风波？电竞选手的「假赛」又是如何调查定性的？",
+          "url": "https://www.zhihu.com/question/2020885312767881505",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
         },
         {
           "title": "亚马逊AI芯片产品的主管Gadi Htt离职。（The Information）",
@@ -882,7 +920,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -967,7 +1005,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美以伊战争丨特朗普：再推迟10天打击伊朗发电厂",
@@ -1004,6 +1042,17 @@
           "time_info": "13时08分"
         },
         {
+          "title": "美以空袭伊朗钢铁厂及配套发电厂，纳斯达克100指数跌入调整区间！",
+          "url": "https://flash.jin10.com/detail/20260327222933681800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "美国宾夕法尼亚州4.4 GW规模的天然气发电厂Homer City Generation Station推后至2028年再投产（发电入网），原定2027年发电上网。",
           "url": "https://wallstreetcn.com/livenews/3077662",
           "source": "华尔街见闻-快讯",
@@ -1021,7 +1070,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         }
