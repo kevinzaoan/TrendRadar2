@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-27T22:51:01.035895+08:00",
-  "total_titles_processed": 1876,
+  "generated_at": "2026-03-27T23:54:13.525387+08:00",
+  "total_titles_processed": 1959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
+        {
+          "title": "“对经济至关重要”，肯尼亚与中国达成协议",
+          "url": "https://news.ifeng.com/c/8rq9aoqdST4",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时42分 ~ 23时54分]"
+        },
         {
           "title": "经济学家：年轻人可以考虑买房了",
           "url": "https://www.toutiao.com/trending/7621143160471978025/",
@@ -28,23 +40,12 @@
             21,
             15,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时07分 ~ 22时51分]"
-        },
-        {
-          "title": "“对经济至关重要”，肯尼亚与中国达成协议",
-          "url": "https://news.ifeng.com/c/8rq9aoqdST4",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时42分 ~ 22时51分]"
+          "appearance_count": 15,
+          "time_info": "[15时07分 ~ 23时54分]"
         },
         {
           "title": "经济学家：年轻人可以考虑买房了",
@@ -111,7 +112,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -277,6 +278,17 @@
           "time_info": "16时54分"
         },
         {
+          "title": "美联储保尔森：伊朗战争给经济增长和通胀带来风险。",
+          "url": "https://flash.jin10.com/detail/20260327233027475800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "欧洲央行行长拉加德：我们在对战争做出反应方面准备就绪。（经济学人）",
           "url": "https://wallstreetcn.com/livenews/3077641",
           "source": "华尔街见闻-快讯",
@@ -286,6 +298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "美联储保尔森：通胀高于目标水平将使美联储应对人工智能驱动的经济增长的政策举措更加复杂。",
+          "url": "https://flash.jin10.com/detail/20260327233020527800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "在太空探索公司SpaceX IPO之前，马斯克旗下X（原名推特）重组。 X遣散了CMO和超过20名非技术职员。 X Money面临与合规和运营相关的推迟。 X剩下的员工称，X将侧重于提高收入。（华尔街日报）",
@@ -354,6 +377,17 @@
           "time_info": "17时56分"
         },
         {
+          "title": "Roubini Macro Associates首席执行官鲁里埃尔·鲁比尼警告称：伊朗战争持续将伤害全球经济。 存在一种尾部风险：如果美国和以色列升级行动，而伊朗进一步攻击石油设施，“局面就可能演变成上世纪70年代那样”。 即便战争明天就结束，油价也不会回到战前水平。 油价上涨10%-15%“不算悲剧性”。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3078363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "宏和科技：通过公司全资子公司黄石宏和在黄石经济技术开发区·铁山区投资“高性能电子材料产业园项目”新建项目，项目总投资金额约人民币80亿元。",
           "url": "https://wallstreetcn.com/livenews/3078146",
           "source": "华尔街见闻-快讯",
@@ -382,7 +416,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -533,7 +567,7 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -545,8 +579,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时55分 ~ 22时51分]"
+          "appearance_count": 11,
+          "time_info": "[17时55分 ~ 23时54分]"
         },
         {
           "title": "130.5%！半导体分立器件制造业开年利润暴增 AI或成最强推手",
@@ -569,8 +603,43 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时07分 ~ 22时51分]"
+          "appearance_count": 15,
+          "time_info": "[15时07分 ~ 23时54分]"
+        },
+        {
+          "title": "一行代码破甲,AI水军现原形",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时06分 ~ 23时54分]"
+        },
+        {
+          "title": "中国AI模型调用量爆发式增长",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E6%A8%A1%E5%9E%8B%E8%B0%83%E7%94%A8%E9%87%8F%E7%88%86%E5%8F%91%E5%BC%8F%E5%A2%9E%E9%95%BF",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时06分 ~ 23时54分]"
+        },
+        {
+          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
+          "url": "https://news.ifeng.com/c/8rpvER227kd",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[17时55分 ~ 23时54分]"
         },
         {
           "title": "小孩观看表演遭机器人回旋巴掌误伤，暴露出机器人在目标识别、防碰撞方面的哪些问题？当前技术水平能规避吗？",
@@ -597,6 +666,19 @@
           "time_info": "[01时02分 ~ 07时33分]"
         },
         {
+          "title": "LPL宣布naiyou假赛被终身禁赛",
+          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时53分 ~ 23时54分]"
+        },
+        {
           "title": "湘女多情AI陶喆版",
           "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
           "source": "bilibili 热搜",
@@ -606,58 +688,12 @@
             27,
             23,
             28,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时07分 ~ 22时51分]"
-        },
-        {
-          "title": "LPL宣布naiyou假赛被终身禁赛",
-          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时53分 ~ 22时51分]"
-        },
-        {
-          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
-          "url": "https://news.ifeng.com/c/8rpvER227kd",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时55分 ~ 22时51分]"
-        },
-        {
-          "title": "一行代码破甲,AI水军现原形",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时06分 ~ 22时51分]"
-        },
-        {
-          "title": "中国AI模型调用量爆发式增长",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E6%A8%A1%E5%9E%8B%E8%B0%83%E7%94%A8%E9%87%8F%E7%88%86%E5%8F%91%E5%BC%8F%E5%A2%9E%E9%95%BF",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时06分 ~ 22时51分]"
+          "appearance_count": 15,
+          "time_info": "[15时07分 ~ 23时54分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -768,6 +804,18 @@
           "time_info": "13时08分"
         },
         {
+          "title": "Naiyou 假赛被罚终身禁赛，LPL 打野为什么多次出现假赛风波？电竞选手的「假赛」又是如何调查定性的？",
+          "url": "https://www.zhihu.com/question/2020885312767881505",
+          "source": "知乎",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时50分 ~ 23时54分]"
+        },
+        {
           "title": "机器人扎双马尾在樱花树下翩翩起舞",
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8E%E5%8F%8C%E9%A9%AC%E5%B0%BE%E5%9C%A8%E6%A8%B1%E8%8A%B1%E6%A0%91%E4%B8%8B%E7%BF%A9%E7%BF%A9%E8%B5%B7%E8%88%9E",
           "source": "百度热搜",
@@ -790,17 +838,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时31分]"
-        },
-        {
-          "title": "Naiyou 假赛被罚终身禁赛，LPL 打野为什么多次出现假赛风波？电竞选手的「假赛」又是如何调查定性的？",
-          "url": "https://www.zhihu.com/question/2020885312767881505",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
         },
         {
           "title": "亚马逊AI芯片产品的主管Gadi Htt离职。（The Information）",
@@ -846,6 +883,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时53分 ~ 16时54分]"
+        },
+        {
+          "title": "美国费城联储主席Anna Paulson（2026年FOMC票委）：（美国和以色列发动的）伊朗战争已经给美国通胀也经济增长带来新的风险。 长期通胀预期可能变得更加脆弱。 并没有迹象表明劳动力市场助燃通胀。 不可能预料到人工智能（AI）的影响范围。",
+          "url": "https://wallstreetcn.com/livenews/3078369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "科威特称无人机袭击Shuwaikh港 造成破坏",
@@ -1005,7 +1053,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美以伊战争丨特朗普：再推迟10天打击伊朗发电厂",
@@ -1031,6 +1079,17 @@
           "time_info": "[04时36分 ~ 05时32分]"
         },
         {
+          "title": "美以空袭伊朗钢铁厂及配套发电厂",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97%E9%92%A2%E9%93%81%E5%8E%82%E5%8F%8A%E9%85%8D%E5%A5%97%E5%8F%91%E7%94%B5%E5%8E%82%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时53分 ~ 23时54分]"
+        },
+        {
           "title": "消息人士：印度将于下月与阿根廷、印度尼西亚和阿曼举行会谈，寻求增加焦煤、铁矿石等炼钢原材料供应，并获取相关技术。会谈预计将于下月在一场全球钢铁峰会期间启动。",
           "url": "https://flash.jin10.com/detail/20260327123007018800",
           "source": "金十数据",
@@ -1048,7 +1107,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
