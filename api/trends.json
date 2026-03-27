@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T13:08:11.988412+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-03-27T15:08:02.638208+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "经济学家：年轻人可以考虑买房了",
@@ -25,11 +25,12 @@
           "source": "百度热搜",
           "ranks": [
             7,
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时24分 ~ 13时08分]"
+          "appearance_count": 6,
+          "time_info": "[10时24分 ~ 15时08分]"
         },
         {
           "title": "美联储理事巴尔：美联储在进一步调整政策之前，花些时间评估经济发展形势是明智之举。",
@@ -63,6 +64,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "日本央行发布自然利率及货币宽松程度的评估。日本央行认为，在考察经济活动和物价对短期利率变动的反应时，继续调整货币宽松力度是恰当的。",
+          "url": "https://flash.jin10.com/detail/20260327143757169800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "日本央行：鉴于对自然利率估计存在不确定性，有必要全面评估货币宽松程度，同时审慎考察经济活动、物价和金融发展态势。",
+          "url": "https://flash.jin10.com/detail/20260327143630576800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "首都经济贸易大学校园歌手大赛",
@@ -138,6 +161,17 @@
           "time_info": "[10时24分 ~ 10时25分]"
         },
         {
+          "title": "经济学家：房地产有止跌回暖迹象",
+          "url": "https://www.douyin.com/hot/2445342",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时07分 ~ 15时08分]"
+        },
+        {
           "title": "经济日报金观平：各级政府要更好“当家理财”",
           "url": "https://wallstreetcn.com/livenews/3077732",
           "source": "华尔街见闻-快讯",
@@ -210,7 +244,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -221,7 +255,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -254,7 +288,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -276,7 +310,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         }
@@ -284,7 +318,7 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI短剧冲击横店 第一批受害者出现了",
@@ -298,6 +332,18 @@
           "time_info": "[01时02分 ~ 07时33分]"
         },
         {
+          "title": "小孩观看表演遭机器人回旋巴掌误伤，暴露出机器人在目标识别、防碰撞方面的哪些问题？当前技术水平能规避吗？",
+          "url": "https://www.zhihu.com/question/2019377327549674299",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时07分 ~ 15时08分]"
+        },
+        {
           "title": "Token AI时代的新KPI",
           "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
           "source": "bilibili 热搜",
@@ -308,17 +354,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时02分 ~ 10时25分]"
-        },
-        {
-          "title": "小孩观看表演遭机器人回旋巴掌误伤，暴露出机器人在目标识别、防碰撞方面的哪些问题？当前技术水平能规避吗？",
-          "url": "https://www.zhihu.com/question/2019377327549674299",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 13时08分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -352,7 +387,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -364,8 +399,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 13时08分]"
+          "appearance_count": 4,
+          "time_info": "[13时07分 ~ 15时08分]"
+        },
+        {
+          "title": "如何看待 Sora 宣布下架当日，即梦随即取消折扣，国内 AI 市场是否已进入「一家独大」的收割期？",
+          "url": "https://www.zhihu.com/question/2020423157757028308",
+          "source": "知乎",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时07分 ~ 15时08分]"
+        },
+        {
+          "title": "美媒称美已在俄乌战场部署持枪机器人，可 AI 评估战场射击，其作战能力如何？人形机器人上战场靠谱吗？",
+          "url": "https://www.zhihu.com/question/2020472799739814121",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时07分 ~ 15时08分]"
         },
         {
           "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
@@ -380,26 +439,26 @@
           "time_info": "[05时32分 ~ 06时31分]"
         },
         {
-          "title": "如何看待 Sora 宣布下架当日，即梦随即取消折扣，国内 AI 市场是否已进入「一家独大」的收割期？",
-          "url": "https://www.zhihu.com/question/2020423157757028308",
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
           "source": "知乎",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时07分 ~ 13时08分]"
+          "time_info": "[15时07分 ~ 15时08分]"
         },
         {
-          "title": "美媒称美已在俄乌战场部署持枪机器人，可 AI 评估战场射击，其作战能力如何？人形机器人上战场靠谱吗？",
-          "url": "https://www.zhihu.com/question/2020472799739814121",
-          "source": "知乎",
+          "title": "湘女多情AI陶喆版",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
+          "source": "bilibili 热搜",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时07分 ~ 13时08分]"
+          "time_info": "[15时07分 ~ 15时08分]"
         },
         {
           "title": "亚马逊AI芯片产品的主管Gadi Htt离职。（The Information）",
@@ -423,6 +482,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时24分 ~ 10时25分]"
+        },
+        {
+          "title": "科威特称无人机袭击Shuwaikh港 造成破坏",
+          "url": "https://wallstreetcn.com/livenews/3077989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "据The Information：OpenAI的广告客户已超过600家，预计将于四月推出自助广告客户接入服务。",
@@ -519,7 +589,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         }
@@ -559,7 +629,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
