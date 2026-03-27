@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T10:25:03.207957+08:00",
-  "total_titles_processed": 845,
+  "generated_at": "2026-03-27T13:08:11.988412+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "经济学家：年轻人可以考虑买房了",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时02分 ~ 07时33分]"
+        },
+        {
+          "title": "经济学家：年轻人可以考虑买房了",
+          "url": "https://www.baidu.com/s?wd=%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%EF%BC%9A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%AF%E4%BB%A5%E8%80%83%E8%99%91%E4%B9%B0%E6%88%BF%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 13时08分]"
         },
         {
           "title": "美联储理事巴尔：美联储在进一步调整政策之前，花些时间评估经济发展形势是明智之举。",
@@ -53,6 +65,20 @@
           "time_info": "07时33分"
         },
         {
+          "title": "首都经济贸易大学校园歌手大赛",
+          "url": "https://www.douyin.com/hot/2444236",
+          "source": "抖音",
+          "ranks": [
+            14,
+            19,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 13时08分]"
+        },
+        {
           "title": "中国与尼日利亚签署共同发展经济伙伴关系框架协定",
           "url": "https://wallstreetcn.com/livenews/3077692",
           "source": "华尔街见闻-快讯",
@@ -75,30 +101,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时33分]"
-        },
-        {
-          "title": "首都经济贸易大学校园歌手大赛",
-          "url": "https://www.douyin.com/hot/2444236",
-          "source": "抖音",
-          "ranks": [
-            14,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时36分]"
-        },
-        {
-          "title": "经济学家：年轻人可以考虑买房了",
-          "url": "https://www.baidu.com/s?wd=%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%EF%BC%9A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%AF%E4%BB%A5%E8%80%83%E8%99%91%E4%B9%B0%E6%88%BF%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 10时25分]"
         },
         {
           "title": "中国与尼日利亚签署共同发展经济伙伴关系框架协定",
@@ -202,6 +204,28 @@
           "time_info": "03时06分"
         },
         {
+          "title": "茶百道2025年营业收入53.95亿元，同比增长9.7%；拥有人应占年内利润8.04亿元。",
+          "url": "https://wallstreetcn.com/livenews/3077920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "茶百道(02555.HK)：2025年营业收入53.95亿元，同比增长9.7%；拥有人应占年内利润8.04亿元。",
+          "url": "https://flash.jin10.com/detail/20260327122505528800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
           "title": "纽约联储系统公开市场账户经理Perli ：企业在具有经济合理性时应使用回购便利工具。",
           "url": "https://flash.jin10.com/detail/20260327070018522800",
           "source": "金十数据",
@@ -224,6 +248,17 @@
           "time_info": "04时36分"
         },
         {
+          "title": "碧桂园服务(06098.HK)：2025年收入人民币483.5亿元，同比增长9.9%；股东应占利润人民币6.02亿元，同比减少66.7%。",
+          "url": "https://flash.jin10.com/detail/20260327122208574800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
           "title": "王文涛会见智利外交部国际经济关系副部长",
           "url": "https://flash.jin10.com/detail/20260327033037917800",
           "source": "金十数据",
@@ -233,12 +268,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "龙湖集团(00960.HK)：2025年本公司营业收入为人民币973.1亿元，年本公司拥有人应占溢利为人民币10.2亿元。截至2025年底，本公司综合借贷总额为人民币1,528.1亿元，较上年末下降人民币235.1亿元。",
+          "url": "https://flash.jin10.com/detail/20260327121244514800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         }
       ]
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI短剧冲击横店 第一批受害者出现了",
@@ -262,6 +308,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时02分 ~ 10时25分]"
+        },
+        {
+          "title": "小孩观看表演遭机器人回旋巴掌误伤，暴露出机器人在目标识别、防碰撞方面的哪些问题？当前技术水平能规避吗？",
+          "url": "https://www.zhihu.com/question/2019377327549674299",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -289,6 +346,28 @@
           "time_info": "07时33分"
         },
         {
+          "title": "从Anthropic泄露的文件显示，新一代超强模型Claude Mythos已在测试中，Anthropic认为它“带来了前所未有的网络安全风险”。马斯克就此表示：“令人深感担忧”。",
+          "url": "https://flash.jin10.com/detail/20260327124527758800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "130.5%！半导体分立器件制造业开年利润暴增 AI或成最强推手",
+          "url": "https://www.cls.cn/detail/2326528",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
           "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3077691",
           "source": "华尔街见闻-快讯",
@@ -299,6 +378,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时31分]"
+        },
+        {
+          "title": "如何看待 Sora 宣布下架当日，即梦随即取消折扣，国内 AI 市场是否已进入「一家独大」的收割期？",
+          "url": "https://www.zhihu.com/question/2020423157757028308",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
+          "title": "美媒称美已在俄乌战场部署持枪机器人，可 AI 评估战场射击，其作战能力如何？人形机器人上战场靠谱吗？",
+          "url": "https://www.zhihu.com/question/2020472799739814121",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
         },
         {
           "title": "亚马逊AI芯片产品的主管Gadi Htt离职。（The Information）",
@@ -410,12 +511,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "阿里QoderWork打通钉钉、微信、飞书，手机端可直接召唤桌面AI助手",
+          "url": "https://wallstreetcn.com/livenews/3077893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         }
       ]
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美以伊战争丨特朗普：再推迟10天打击伊朗发电厂",
@@ -439,6 +551,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时32分]"
+        },
+        {
+          "title": "消息人士：印度将于下月与阿根廷、印度尼西亚和阿曼举行会谈，寻求增加焦煤、铁矿石等炼钢原材料供应，并获取相关技术。会谈预计将于下月在一场全球钢铁峰会期间启动。",
+          "url": "https://flash.jin10.com/detail/20260327123007018800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "美国宾夕法尼亚州4.4 GW规模的天然气发电厂Homer City Generation Station推后至2028年再投产（发电入网），原定2027年发电上网。",
