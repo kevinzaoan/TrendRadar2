@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T03:42:17.262348+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-03-28T04:39:59.313943+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时39分]"
         },
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时39分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时39分]"
         },
         {
           "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
@@ -62,8 +62,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[01时51分 ~ 04时39分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -73,8 +73,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时39分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -82,11 +82,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时39分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
@@ -94,11 +95,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时39分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -112,6 +114,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时56分 ~ 03时42分]"
+        },
+        {
+          "title": "据英国金融时报：因AI驱动的短缺交易回落，内存芯片股票市值蒸发1000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260328034557564800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
         }
       ]
     },
@@ -119,6 +132,17 @@
       "keyword_group": "经济 房地产 收入",
       "match_count": 5,
       "titles": [
+        {
+          "title": "经济学家：房地产有止跌回暖迹象",
+          "url": "https://www.douyin.com/hot/2445342",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时39分]"
+        },
         {
           "title": "“对经济至关重要”，肯尼亚与中国达成协议",
           "url": "https://news.ifeng.com/c/8rq9aoqdST4",
@@ -129,17 +153,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
-        },
-        {
-          "title": "经济学家：房地产有止跌回暖迹象",
-          "url": "https://www.douyin.com/hot/2445342",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 03时42分]"
         },
         {
           "title": "美国总统特朗普：将在迈阿密发表关于经济的重要讲话。",
@@ -188,11 +201,12 @@
           "ranks": [
             10,
             19,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时39分]"
         },
         {
           "title": "伊朗称或报复打击以色列及地区多国钢铁工业设施",
