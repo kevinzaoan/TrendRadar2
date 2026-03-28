@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T06:29:57.882277+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-03-29T07:32:18.749482+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             2,
             16,
             4,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时32分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -30,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时32分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -41,8 +42,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时32分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -52,8 +53,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时32分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -63,8 +64,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时32分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -74,8 +75,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 07时32分]"
         },
         {
           "title": "如何评价 Anthropic 的下一个模型 Claude Mythos？",
@@ -121,11 +122,24 @@
           "source": "微博",
           "ranks": [
             29,
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时32分]"
+        },
+        {
+          "title": "就是你是RAIN也得接孩子放学",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%B1%E6%98%AF%E4%BD%A0%E6%98%AFRAIN%E4%B9%9F%E5%BE%97%E6%8E%A5%E5%AD%A9%E5%AD%90%E6%94%BE%E5%AD%A6%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
             27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时29分]"
+          "time_info": "[06时29分 ~ 07时32分]"
         },
         {
           "title": "xAI最后一位联合创始人据悉已离开公司",
@@ -148,17 +162,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
-        },
-        {
-          "title": "就是你是RAIN也得接孩子放学",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%B1%E6%98%AF%E4%BD%A0%E6%98%AFRAIN%E4%B9%9F%E5%BE%97%E6%8E%A5%E5%AD%A9%E5%AD%90%E6%94%BE%E5%AD%A6%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
         }
       ]
     },
@@ -174,8 +177,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 07时32分]"
         },
         {
           "title": "新能源车充电涨价因用油发电？没关联",
@@ -184,11 +187,12 @@
           "ranks": [
             23,
             17,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时32分]"
         }
       ]
     },
@@ -206,11 +210,12 @@
             26,
             29,
             23,
-            24
+            24,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时32分]"
         },
         {
           "title": "伊朗外交部：伊朗方面和希腊外长通话。希腊外长对战争的后果，特别是其对安全和经济的影响，表示深切关注，并希望该地区能够尽快恢复和平与稳定。",
