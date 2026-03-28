@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T07:33:08.470962+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-03-28T10:08:08.876802+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 10时08分]"
         },
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -26,19 +26,34 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 10时08分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 10时08分]"
+        },
+        {
+          "title": "人形机器人高质量真机数据集",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9C%9F%E6%9C%BA%E6%95%B0%E6%8D%AE%E9%9B%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            1,
+            7,
+            29
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时33分]"
+          "time_info": "[01时51分 ~ 10时08分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -50,6 +65,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时56分 ~ 07时33分]"
+        },
+        {
+          "title": "湘女多情AI陶喆版",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            11,
+            12,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 10时08分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
@@ -67,19 +97,6 @@
           "time_info": "[00时56分 ~ 07时33分]"
         },
         {
-          "title": "人形机器人高质量真机数据集",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9C%9F%E6%9C%BA%E6%95%B0%E6%8D%AE%E9%9B%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时51分 ~ 07时33分]"
-        },
-        {
           "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
           "url": "https://www.zhihu.com/question/2017224899635142906",
           "source": "知乎",
@@ -91,20 +108,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时56分 ~ 03时42分]"
-        },
-        {
-          "title": "湘女多情AI陶喆版",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            11,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时33分]"
         },
         {
           "title": "Naiyou终身禁赛",
