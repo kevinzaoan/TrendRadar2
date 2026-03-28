@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T22:32:26.640071+08:00",
-  "total_titles_processed": 1579,
+  "generated_at": "2026-03-28T23:33:04.892838+08:00",
+  "total_titles_processed": 1645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -33,8 +33,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时56分 ~ 22时32分]"
+          "appearance_count": 25,
+          "time_info": "[00时56分 ~ 23时33分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -52,8 +52,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时56分 ~ 22时32分]"
+          "appearance_count": 25,
+          "time_info": "[00时56分 ~ 23时33分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -67,8 +67,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时52分 ~ 22时32分]"
+          "appearance_count": 15,
+          "time_info": "[12时52分 ~ 23时33分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -82,8 +82,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时03分 ~ 22时32分]"
+          "appearance_count": 12,
+          "time_info": "[15时03分 ~ 23时33分]"
         },
         {
           "title": "人形机器人高质量真机数据集",
@@ -154,16 +154,28 @@
           "time_info": "[00时56分 ~ 03时42分]"
         },
         {
+          "title": "一个视频了解AI常识",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E4%BA%86%E8%A7%A3AI%E5%B8%B8%E8%AF%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时33分]"
+        },
+        {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
           "url": "https://wallstreetcn.com/livenews/3078600",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 22时32分]"
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 23时33分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -311,6 +323,18 @@
           "time_info": "[18时33分 ~ 20时55分]"
         },
         {
+          "title": "杨臣刚自曝因老鼠爱大米收入1.7亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%87%A3%E5%88%9A%E8%87%AA%E6%9B%9D%E5%9B%A0%E8%80%81%E9%BC%A0%E7%88%B1%E5%A4%A7%E7%B1%B3%E6%94%B6%E5%85%A51.7%E4%BA%BF%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时32分 ~ 23时33分]"
+        },
+        {
           "title": "美国总统特朗普：将在迈阿密发表关于经济的重要讲话。",
           "url": "https://wallstreetcn.com/livenews/3078436",
           "source": "华尔街见闻-快讯",
@@ -401,17 +425,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
-        },
-        {
-          "title": "杨臣刚自曝因老鼠爱大米收入1.7亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%87%A3%E5%88%9A%E8%87%AA%E6%9B%9D%E5%9B%A0%E8%80%81%E9%BC%A0%E7%88%B1%E5%A4%A7%E7%B1%B3%E6%94%B6%E5%85%A51.7%E4%BA%BF%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时32分"
         }
       ]
     },
@@ -440,11 +453,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 22时32分]"
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 23时33分]"
         },
         {
           "title": "伊朗称或报复打击以色列及地区多国钢铁工业设施",
