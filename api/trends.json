@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T15:03:25.952053+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2026-03-28T16:40:23.623781+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             2,
             9,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时56分 ~ 15时03分]"
+          "appearance_count": 15,
+          "time_info": "[00时56分 ~ 16时40分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -41,11 +42,12 @@
             7,
             11,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时56分 ~ 15时03分]"
+          "appearance_count": 15,
+          "time_info": "[00时56分 ~ 16时40分]"
         },
         {
           "title": "人形机器人高质量真机数据集",
@@ -125,8 +127,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 15时03分]"
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 16时40分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -140,6 +142,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时56分 ~ 03时42分]"
+        },
+        {
+          "title": "AI神游!原神现六指派蒙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时03分 ~ 16时40分]"
         },
         {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
@@ -174,17 +188,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 12时53分]"
-        },
-        {
-          "title": "AI神游!原神现六指派蒙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时03分"
         },
         {
           "title": "上海市人工智能行业协会：AI发展不能因噎废食 安全和风控要协同推进",
@@ -223,7 +226,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "词元经济为何突然“出圈”",
@@ -315,6 +318,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "阿布扎比媒体办公室：阿联酋最大的综合经济区KEZAD（哈利法经济区）附近发生第三起火灾。当局已控制住火势，目前正在进行降温处理。",
+          "url": "https://flash.jin10.com/detail/20260328154449962800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "阿布扎比媒体表示，将提供有关阿布扎比哈利法经济区附近火灾的最新消息。",
