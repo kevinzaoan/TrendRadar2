@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T06:32:56.688322+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-03-30T07:34:04.886077+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "AI勇闯二游圈,引爆米库论战",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 07时34分]"
         },
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 07时34分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 07时34分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -52,8 +52,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 07时34分]"
         },
         {
           "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
@@ -81,13 +81,24 @@
           "time_info": "[00时36分 ~ 06时32分]"
         },
         {
+          "title": "AI驱动新一轮增长周期，云厂商迎来业绩拐点",
+          "url": "https://wallstreetcn.com/livenews/3078783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
           "title": "“下个月比赛 机器人将跑得比人快”",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8B%E4%B8%AA%E6%9C%88%E6%AF%94%E8%B5%9B+%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%86%E8%B7%91%E5%BE%97%E6%AF%94%E4%BA%BA%E5%BF%AB%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
         }
@@ -95,7 +106,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "面对海湾国家安抚，美国投资者“忧心忡忡”：中东经济还能撑多久？中东还有钱投资美国吗？",
@@ -105,19 +116,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 07时34分]"
         },
         {
           "title": "环球下周看点：胡塞武装加入美以伊战争 鲍威尔亮相哈佛经济学课堂",
           "url": "https://www.cls.cn/detail/2327978",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 07时34分]"
+        },
+        {
+          "title": "经济学家：油价冲击或已造成澳大利亚经济萎缩",
+          "url": "https://flash.jin10.com/detail/20260330054429605800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时34分]"
         },
         {
           "title": "中国古代有没有专业的经济学家？",
@@ -143,21 +167,32 @@
           "time_info": "00时36分"
         },
         {
-          "title": "经济学家：油价冲击或已造成澳大利亚经济萎缩",
-          "url": "https://flash.jin10.com/detail/20260330054429605800",
-          "source": "金十数据",
+          "title": "创新药收入强势增长，生物医药公司业绩含“新”量高",
+          "url": "https://wallstreetcn.com/livenews/3078785",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时32分"
+          "time_info": "07时34分"
+        },
+        {
+          "title": "船舶追踪数据显示，载有俄罗斯原油的油轮进入古巴专属经济区。",
+          "url": "https://flash.jin10.com/detail/20260330061429883800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         }
       ]
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "伊朗革命卫队：针对伊朗基础设施遭袭的报复行动正在进行中，我们正在摧毁该地区与美以敌对势力有关联的战略性工业设施。目前，被占领土上的尼奥特·霍瓦夫化工厂、一座炼油厂、两座钢铁综合体、两座大型铝业综合体已遭打击，这些沉痛的打击将持续下去。",
@@ -171,6 +206,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时33分 ~ 06时32分]"
+        },
+        {
+          "title": "新能源车充电涨价因用油发电系谣言",
+          "url": "https://www.toutiao.com/trending/7621733228176834569/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时33分 ~ 07时34分]"
         }
       ]
     }
