@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-03-29T19:30:00.119655+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-03-29T20:56:46.760841+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            6,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时11分 ~ 20时56分]"
+        },
         {
           "title": "一个视频了解AI常识",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E4%BA%86%E8%A7%A3AI%E5%B8%B8%E8%AF%86",
@@ -19,26 +35,12 @@
             10,
             7,
             22,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 18时34分]"
-        },
-        {
-          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时11分 ~ 19时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 20时56分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -50,11 +52,12 @@
             13,
             20,
             18,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时27分 ~ 19时30分]"
+          "appearance_count": 11,
+          "time_info": "[10时27分 ~ 20时56分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -81,11 +84,12 @@
             22,
             24,
             25,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时35分 ~ 19时30分]"
+          "appearance_count": 20,
+          "time_info": "[00时35分 ~ 20时56分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -122,8 +126,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时34分 ~ 19时30分]"
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 20时56分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -137,6 +141,20 @@
           "time_info": "[00时35分 ~ 07时32分]"
         },
         {
+          "title": "伊朗战争的账单，“AI牛市”来买？",
+          "url": "https://wallstreetcn.com/articles/3768662",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 20时56分]"
+        },
+        {
           "title": "如何评价 Anthropic 的下一个模型 Claude Mythos？",
           "url": "https://www.zhihu.com/question/2020874143453725371",
           "source": "知乎",
@@ -148,19 +166,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时35分 ~ 04时31分]"
-        },
-        {
-          "title": "伊朗战争的账单，“AI牛市”来买？",
-          "url": "https://wallstreetcn.com/articles/3768662",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时37分 ~ 19时30分]"
         },
         {
           "title": "过于火爆！Anthropic算力吃紧，本周限制Claude用户高峰时段用量",
@@ -249,6 +254,17 @@
           "time_info": "18时34分"
         },
         {
+          "title": "所有“联创”均离职，马斯克“彻底重组”xAI",
+          "url": "https://wallstreetcn.com/articles/3768659",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "xAI最后一位联合创始人据悉已离开公司",
           "url": "https://flash.jin10.com/detail/20260329003301596800",
           "source": "金十数据",
@@ -285,7 +301,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "杨臣刚自曝因老鼠爱大米收入1.7亿",
@@ -311,11 +327,23 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时40分 ~ 19时30分]"
+          "appearance_count": 7,
+          "time_info": "[16时40分 ~ 20时56分]"
+        },
+        {
+          "title": "数据感知中国经济活力满满",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E6%8D%AE%E6%84%9F%E7%9F%A5%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B%E6%BB%A1%E6%BB%A1%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "欧洲多国开始实行夏令时，欧洲地区金融市场的交易时间和经济数据的公布时间将较冬令时提前一个小时公布。",
