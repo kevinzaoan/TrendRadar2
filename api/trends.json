@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T02:43:01.083524+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-03-30T03:32:54.298158+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 03时32分]"
         },
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 03时32分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 03时32分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -47,11 +47,12 @@
           "ranks": [
             29,
             24,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 03时32分]"
         },
         {
           "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
@@ -62,8 +63,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 03时32分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -74,14 +75,14 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时32分]"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "面对海湾国家安抚，美国投资者“忧心忡忡”：中东经济还能撑多久？中东还有钱投资美国吗？",
@@ -91,8 +92,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 03时32分]"
         },
         {
           "title": "环球下周看点：胡塞武装加入美以伊战争 鲍威尔亮相哈佛经济学课堂",
@@ -102,8 +103,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 03时32分]"
         },
         {
           "title": "数据感知中国经济活力满满",
@@ -115,6 +116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "中国古代有没有专业的经济学家？",
+          "url": "https://www.zhihu.com/question/23853569",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时32分"
         }
       ]
     }
