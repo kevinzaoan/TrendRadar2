@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T21:20:18.889759+08:00",
-  "total_titles_processed": 1485,
+  "generated_at": "2026-03-30T23:04:23.612779+08:00",
+  "total_titles_processed": 1616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "面对海湾国家安抚，美国投资者“忧心忡忡”：中东经济还能撑多久？中东还有钱投资美国吗？",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时36分 ~ 07时34分]"
+        },
+        {
+          "title": "中国经济硬核数据上新",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%A1%AC%E6%A0%B8%E6%95%B0%E6%8D%AE%E4%B8%8A%E6%96%B0%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 23时04分]"
         },
         {
           "title": "赛力斯(09927.HK)：2025年营业收入1648.88亿元，同比增长13.63%。",
@@ -61,18 +72,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时20分"
-        },
-        {
-          "title": "中国经济硬核数据上新",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%A1%AC%E6%A0%B8%E6%95%B0%E6%8D%AE%E4%B8%8A%E6%96%B0%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         },
@@ -134,6 +134,18 @@
           "time_info": "[19时02分 ~ 21时20分]"
         },
         {
+          "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32861369",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 23时04分]"
+        },
+        {
           "title": "中国古代有没有专业的经济学家？",
           "url": "https://www.zhihu.com/question/23853569",
           "source": "知乎",
@@ -152,7 +164,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         },
@@ -174,9 +186,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
+        },
+        {
+          "title": "「新茶饮第一股」奈雪的茶大幅关店后年收入再度下降，问题出在哪？为什么消费者不喝奈雪了？",
+          "url": "https://www.zhihu.com/question/2021614118805792359",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "数据感知中国经济活力满满",
@@ -223,6 +246,17 @@
           "time_info": "15时28分"
         },
         {
+          "title": "墨西哥央行行长：随着宏观经济和金融状况的发展需要，我们将评估进一步下调基准利率的必要性和时机。",
+          "url": "https://flash.jin10.com/detail/20260330223026913800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "船舶追踪数据显示，载有俄罗斯原油的油轮进入古巴专属经济区。",
           "url": "https://flash.jin10.com/detail/20260330061429883800",
           "source": "金十数据",
@@ -256,24 +290,13 @@
           "time_info": "17时13分"
         },
         {
-          "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32861369",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时20分"
-        },
-        {
           "title": "壁仞科技(06082.HK)：2025年录得收入人民币10.34亿元人民币，同比增长207.2%。",
           "url": "https://flash.jin10.com/detail/20260330210542854800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         },
@@ -284,7 +307,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         },
@@ -306,7 +329,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         },
@@ -320,6 +343,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
+        },
+        {
+          "title": "九号公司：2025年实现营业收入212.78亿元，同比增长49.89%；归母净利润17.58亿元，同比增长62.17%。",
+          "url": "https://wallstreetcn.com/livenews/3079456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "赛力斯2025年营业收入1648.88亿元",
+          "url": "https://www.toutiao.com/trending/7622594721889734150/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "豪威集团：预计2026年第一季度实现营业收入61.80亿元至64.70亿元",
@@ -344,6 +389,17 @@
           "time_info": "17时13分"
         },
         {
+          "title": "美联储理事米兰：私人信用并不意味着美国现在存在经济风险。",
+          "url": "https://wallstreetcn.com/livenews/3079451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "瑞士3月KOF经济领先指标 96.1，预期100.8，前值由104.2修正为103.8。",
           "url": "https://flash.jin10.com/detail/20260330150002436800",
           "source": "金十数据",
@@ -358,7 +414,7 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -385,8 +441,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时36分 ~ 21时20分]"
+          "appearance_count": 20,
+          "time_info": "[00时36分 ~ 23时04分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -415,8 +471,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时36分 ~ 21时20分]"
+          "appearance_count": 20,
+          "time_info": "[00时36分 ~ 23时04分]"
         },
         {
           "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
@@ -477,6 +533,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "宇树科技CEO：机器人任意动作生成、自主出招对打，六个月后可实现",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32862408",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "智元机器人第10000台产品下线",
           "url": "https://flash.jin10.com/detail/20260330094809150800",
           "source": "金十数据",
@@ -486,6 +553,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "Shanghai Foursemi Semiconductor将香港IPO股票发行价定在每股40港元。",
+          "url": "https://wallstreetcn.com/livenews/3079462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "“下个月比赛 机器人将跑得比人快”",
@@ -502,8 +580,30 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "棕榈油夜盘收涨约2.1%，乙二醇涨约1.5%，合成橡胶涨约0.5%。 燃油跌约1%，焦炭跌超1.3%，LPG跌超1.8%，焦煤跌超2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3079480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "特朗普威胁：若不达成协议，就摧毁伊朗发电厂、油井和哈尔克岛",
+          "url": "https://news.ifeng.com/c/8rvIfVFBMLi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
         {
           "title": "新能源车充电涨价因用油发电系谣言",
           "url": "https://www.toutiao.com/trending/7621733228176834569/",
@@ -527,6 +627,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时33分 ~ 06时32分]"
+        },
+        {
+          "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
+          "url": "https://wallstreetcn.com/articles/3768769",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         }
       ]
     }
