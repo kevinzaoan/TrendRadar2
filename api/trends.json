@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T06:36:32.441700+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-03-31T07:35:39.135381+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "「新茶饮第一股」奈雪的茶大幅关店后年收入再度下降，问题出在哪？为什么消费者不喝奈雪了？",
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时35分]"
         },
         {
           "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
@@ -26,11 +27,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时35分]"
         },
         {
           "title": "普京下令企业组建准军事部队，需自购武器自担战损，将如何影响俄罗斯企业和经济？",
@@ -41,11 +43,12 @@
             16,
             13,
             9,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时55分 ~ 06时36分]"
+          "appearance_count": 8,
+          "time_info": "[01时55分 ~ 07时35分]"
         },
         {
           "title": "中国经济硬核数据上新",
@@ -65,7 +68,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         },
@@ -76,9 +79,23 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "赛力斯2025年营业收入1648.88亿元",
+          "url": "https://www.toutiao.com/trending/7622594721889734150/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            22,
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时55分 ~ 07时35分]"
         },
         {
           "title": "以军：战争已进入“收尾阶段”，将打击伊朗经济目标",
@@ -103,19 +120,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时36分]"
-        },
-        {
-          "title": "赛力斯2025年营业收入1648.88亿元",
-          "url": "https://www.toutiao.com/trending/7622594721889734150/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 06时36分]"
         },
         {
           "title": "美国纽约联储主席（FOMC永久票委，号称美联储三把手）威廉姆斯：美国经济面临实质性风险和高度不确定性。 （伊朗）战争可能会在未来好几个月推高通胀。 战争还可能带来供应冲击，破坏经济。 长期通胀预期与2%目标保持一致。 现在看到能源领域发生供应链紊乱。 诸多指标针对就业市场释放喜忧参半的信号。",
@@ -179,6 +183,17 @@
           "time_info": "[00时57分 ~ 01时56分]"
         },
         {
+          "title": "五大金融机构首席经济学家热议经济趋势：一季度中国GDP增速有望达到5%左右",
+          "url": "https://wallstreetcn.com/livenews/3079620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
           "title": "以军称战争已进入“收尾阶段” 将打击伊朗经济目标",
           "url": "https://flash.jin10.com/detail/20260331025212409800",
           "source": "金十数据",
@@ -188,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "宏观经济压力日益严峻，印度放宽“关键行业中企采购禁令”",
+          "url": "https://wallstreetcn.com/livenews/3079609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "美联储威廉姆斯：低就业增速可能加剧经济悲观情绪。",
@@ -236,11 +262,12 @@
             14,
             13,
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时35分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -253,11 +280,12 @@
             20,
             14,
             18,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时35分]"
         },
         {
           "title": "AI勇闯二游圈,引爆米库论战",
@@ -268,8 +296,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时35分]"
         },
         {
           "title": "复旦教授解析AI冲击职场真相",
@@ -280,8 +308,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 06时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 07时35分]"
         },
         {
           "title": "AI 会让年轻人的机会变多还是变少？",
@@ -345,8 +373,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时35分]"
         },
         {
           "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
@@ -357,8 +385,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时35分]"
         },
         {
           "title": "伊朗指责美以袭击伊朗钢铁企业构成国家恐怖主义",
@@ -380,7 +408,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         }
