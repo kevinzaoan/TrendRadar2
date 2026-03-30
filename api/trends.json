@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T15:28:29.201679+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2026-03-30T17:13:09.084193+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "面对海湾国家安抚，美国投资者“忧心忡忡”：中东经济还能撑多久？中东还有钱投资美国吗？",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时36分 ~ 07时34分]"
+        },
+        {
+          "title": "赛力斯(09927.HK)：2025年营业收入1648.88亿元，同比增长13.63%。",
+          "url": "https://flash.jin10.com/detail/20260330164808226800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
@@ -79,6 +90,17 @@
           "time_info": "[03时32分 ~ 06时32分]"
         },
         {
+          "title": "欧元区3月经济景气指数 96.6，预期 96.7，前值 98.3。",
+          "url": "https://wallstreetcn.com/livenews/3079158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
           "title": "数据感知中国经济活力满满",
           "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E6%8D%AE%E6%84%9F%E7%9F%A5%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B%E6%BB%A1%E6%BB%A1%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -118,7 +140,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -140,9 +162,42 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "赛力斯：2025年营业收入1648.88亿元，同比增长13.63%",
+          "url": "https://wallstreetcn.com/livenews/3079145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "极兔速递：2025年财政年度营业收入121.58亿美元，同比增长18.5%",
+          "url": "https://flash.jin10.com/detail/20260330163142976800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "中国银行全年净利润2,430.2亿元人民币，预估2,401.1亿元人民币。 中国银行全年净利息收入4,407.1亿元人民币，预估4,362.7亿元人民币。 全年资产减值损失1,030.9亿元人民币，预估999.2亿元人民币。 全年不良贷款率1.23％，预估1.24％。",
+          "url": "https://wallstreetcn.com/livenews/3079129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "瑞士3月KOF经济领先指标 96.1，预期100.8，前值由104.2修正为103.8。",
@@ -151,7 +206,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         }
@@ -159,7 +214,7 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -180,11 +235,12 @@
           "ranks": [
             1,
             8,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 15时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 17时13分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -208,11 +264,12 @@
             22,
             21,
             20,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 15时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 17时13分]"
         },
         {
           "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
@@ -238,6 +295,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时36分 ~ 06时32分]"
+        },
+        {
+          "title": "韩红秀牙缝自证“不是AI人”",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E7%A7%80%E7%89%99%E7%BC%9D%E8%87%AA%E8%AF%81%E2%80%9C%E4%B8%8D%E6%98%AFAI%E4%BA%BA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
         },
         {
           "title": "AI驱动新一轮增长周期，云厂商迎来业绩拐点",
