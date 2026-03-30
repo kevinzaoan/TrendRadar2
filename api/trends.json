@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T17:13:09.084193+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2026-03-30T19:02:37.282205+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "面对海湾国家安抚，美国投资者“忧心忡忡”：中东经济还能撑多久？中东还有钱投资美国吗？",
@@ -39,9 +39,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
+        },
+        {
+          "title": "叙利亚总统府：今天，沙拉总统与多家德国公司的代表举行了圆桌会议。会议期间，各公司在能源、金融、安全、数字转型等多个经济领域提出了建议，此外还涉及建筑、医疗保健和物流服务。会议上还签署了叙利亚方面与多家参与公司的谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20260330185259579800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
@@ -64,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "永辉超市业绩快报：2025年净亏损25亿元，上年同期亏损14.7亿元；公司因门店调改对利润产生了较大影响，主要包含调改相关的资产报废损失、停业装修营业收入损失、一次性开办费投入等。",
+          "url": "https://wallstreetcn.com/livenews/3079258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "经济学家：油价冲击或已造成澳大利亚经济萎缩",
@@ -96,7 +118,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -145,6 +167,17 @@
           "time_info": "15时28分"
         },
         {
+          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
+          "url": "https://www.cls.cn/detail/2328703",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "船舶追踪数据显示，载有俄罗斯原油的油轮进入古巴专属经济区。",
           "url": "https://flash.jin10.com/detail/20260330061429883800",
           "source": "金十数据",
@@ -173,9 +206,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
+        },
+        {
+          "title": "欧元势创2024年以来最差季度表现 能源冲击令欧洲经济前景蒙上阴影",
+          "url": "https://wallstreetcn.com/livenews/3079234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "极兔速递：2025年财政年度营业收入121.58亿美元，同比增长18.5%",
@@ -184,9 +228,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
+        },
+        {
+          "title": "豪威集团：预计2026年第一季度实现营业收入61.80亿元至64.70亿元",
+          "url": "https://flash.jin10.com/detail/20260330183444365800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "中国银行全年净利润2,430.2亿元人民币，预估2,401.1亿元人民币。 中国银行全年净利息收入4,407.1亿元人民币，预估4,362.7亿元人民币。 全年资产减值损失1,030.9亿元人民币，预估999.2亿元人民币。 全年不良贷款率1.23％，预估1.24％。",
@@ -195,7 +250,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -214,7 +269,7 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -236,11 +291,12 @@
             1,
             8,
             11,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 17时13分]"
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 19时02分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -268,8 +324,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 17时13分]"
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 19时02分]"
         },
         {
           "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
@@ -295,6 +351,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时36分 ~ 06时32分]"
+        },
+        {
+          "title": "宇树科技CEO：机器人任意动作生成、自主出招对打，六个月后可实现",
+          "url": "https://wallstreetcn.com/livenews/3079263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "韩红秀牙缝自证“不是AI人”",
