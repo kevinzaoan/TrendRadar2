@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T13:25:47.316442+08:00",
-  "total_titles_processed": 921,
+  "generated_at": "2026-03-30T15:28:29.201679+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "面对海湾国家安抚，美国投资者“忧心忡忡”：中东经济还能撑多久？中东还有钱投资美国吗？",
@@ -39,7 +39,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -50,7 +50,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -112,6 +112,17 @@
           "time_info": "10时29分"
         },
         {
+          "title": "俄罗斯联邦安全局：一名英国外交官试图收集俄罗斯经济信息。",
+          "url": "https://flash.jin10.com/detail/20260330150645428800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "船舶追踪数据显示，载有俄罗斯原油的油轮进入古巴专属经济区。",
           "url": "https://flash.jin10.com/detail/20260330061429883800",
           "source": "金十数据",
@@ -121,6 +132,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "瑞士3月KOF经济领先指标 96.1，预期 101，前值 104.2。",
+          "url": "https://wallstreetcn.com/livenews/3079034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "瑞士3月KOF经济领先指标 96.1，预期100.8，前值由104.2修正为103.8。",
+          "url": "https://flash.jin10.com/detail/20260330150002436800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     },
@@ -146,11 +179,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 13时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 15时28分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -177,8 +211,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 13时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 15时28分]"
         },
         {
           "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
