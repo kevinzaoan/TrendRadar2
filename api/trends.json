@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-03-31T10:25:18.665887+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-03-31T13:10:01.480214+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "普京下令企业组建准军事部队，需自购武器自担战损，将如何影响俄罗斯企业和经济？",
+          "url": "https://www.zhihu.com/question/2021958839793099702",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16,
+            13,
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时55分 ~ 13时10分]"
+        },
         {
           "title": "「新茶饮第一股」奈雪的茶大幅关店后年收入再度下降，问题出在哪？为什么消费者不喝奈雪了？",
           "url": "https://www.zhihu.com/question/2021614118805792359",
@@ -28,27 +44,23 @@
           "ranks": [
             16,
             17,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 13时10分]"
         },
         {
-          "title": "普京下令企业组建准军事部队，需自购武器自担战损，将如何影响俄罗斯企业和经济？",
-          "url": "https://www.zhihu.com/question/2021958839793099702",
-          "source": "知乎",
+          "title": "3月全国各地经济社会发展观察",
+          "url": "https://www.toutiao.com/trending/7622991171736059913/",
+          "source": "今日头条",
           "ranks": [
-            17,
-            16,
-            13,
-            9,
-            8,
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时55分 ~ 10时25分]"
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
         },
         {
           "title": "中国经济硬核数据上新",
@@ -90,7 +102,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -170,6 +182,17 @@
           "time_info": "[04时56分 ~ 05时42分]"
         },
         {
+          "title": "3月官方制造业PMI为50.4% 经济回升向好",
+          "url": "https://www.cls.cn/detail/2329847",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
           "title": "美联储威廉姆斯：人工智能活动减弱将导致经济增长乏力。",
           "url": "https://flash.jin10.com/detail/20260331044951046800",
           "source": "金十数据",
@@ -180,6 +203,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时36分]"
+        },
+        {
+          "title": "疑鞠婧祎收入明细曝光",
+          "url": "https://www.baidu.com/s?wd=%E7%96%91%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%94%B6%E5%85%A5%E6%98%8E%E7%BB%86%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
         },
         {
           "title": "IMF称伊朗战争将推高全球价格并拖累经济增长，或引发不对称冲击",
@@ -200,7 +234,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -211,7 +245,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -227,13 +261,24 @@
           "time_info": "07时35分"
         },
         {
+          "title": "联想控股公告，2025年收入6059.45亿元；2025年净利润97.99亿元，同比增长28%。",
+          "url": "https://wallstreetcn.com/livenews/3079828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
           "title": "马来西亚央行：经济增长将由家庭消费、投资、旅游业以及电气和电子产品出口支撑。",
           "url": "https://flash.jin10.com/detail/20260331100040233800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -296,7 +341,7 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "宇树科技CEO：机器人任意动作生成、自主出招对打，六个月后可实现",
@@ -308,11 +353,12 @@
             12,
             10,
             8,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 10时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 13时10分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -338,11 +384,12 @@
           "source": "贴吧",
           "ranks": [
             19,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 10时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 13时10分]"
         },
         {
           "title": "复旦教授解析AI冲击职场真相",
@@ -357,13 +404,35 @@
           "time_info": "[00时56分 ~ 07时35分]"
         },
         {
+          "title": "苹果客服回应撤回国行AI",
+          "url": "https://www.douyin.com/hot/2449610",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "凌晨3点上班,AI卷疯打工人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
           "title": "联想推两款“养虾”专用终端，对标Mac mini争夺AI智能体入口",
           "url": "https://wallstreetcn.com/livenews/3079751",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -372,11 +441,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时25分 ~ 13时10分]"
+        },
+        {
+          "title": "AI短剧 偷脸",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20%E5%81%B7%E8%84%B8&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时25分 ~ 13时10分]"
         },
         {
           "title": "AI 会让年轻人的机会变多还是变少？",
@@ -389,6 +471,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时01分 ~ 04时56分]"
+        },
+        {
+          "title": "功勋翻译下岗,AI包揽游戏翻译",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
         },
         {
           "title": "美国纽约联储主席（FOMC永久票委，号称美联储三把手）威廉姆斯：在一段时期内，AI将是投资的驱动因素。",
@@ -415,15 +508,15 @@
           "time_info": "[03时59分 ~ 05时42分]"
         },
         {
-          "title": "AI短剧 偷脸",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20%E5%81%B7%E8%84%B8&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "红果回应普通人形象被AI短剧盗脸",
+          "url": "https://www.baidu.com/s?wd=%E7%BA%A2%E6%9E%9C%E5%9B%9E%E5%BA%94%E6%99%AE%E9%80%9A%E4%BA%BA%E5%BD%A2%E8%B1%A1%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E7%9B%97%E8%84%B8",
+          "source": "百度热搜",
           "ranks": [
-            6
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 13时10分]"
         },
         {
           "title": "周一（3月30日），存储芯片与硬件供应链指数跌6.94%，报96.83点，小幅高开之后迅速转跌，日内绝大部分时间平缓地持续扩大跌幅。 成分股全线收跌，Rambus收跌11.14%，美光科技跌9.92%，西部数据跌8.60%，Sandisk跌7.04%，泰瑞达、拉姆研究、希捷科技、应用材料跌6.52%-4.17%。 北美科技软件股指数ETF涨0.95%，报77.62美元。 信息科技指数跌3.75%，报244.90点。 人工智能（AI）赢家指数跌3.93%，报259.19点。 AI软件先驱指数涨1.02%，报91.46点。",
@@ -443,7 +536,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         }
@@ -475,8 +568,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 10时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 13时10分]"
         },
         {
           "title": "伊朗指责美以袭击伊朗钢铁企业构成国家恐怖主义",
