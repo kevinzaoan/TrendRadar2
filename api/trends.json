@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T18:12:37.623905+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2026-03-31T19:51:06.169983+08:00",
+  "total_titles_processed": 1560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "普京下令企业组建准军事部队，需自购武器自担战损，将如何影响俄罗斯企业和经济？",
@@ -52,6 +52,39 @@
           "time_info": "[00时56分 ~ 13时10分]"
         },
         {
+          "title": "春日经济供需两旺活力足",
+          "url": "https://www.toutiao.com/trending/7622472380443492388/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时01分 ~ 19时51分]"
+        },
+        {
+          "title": "春日经济供需两旺活力足",
+          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E6%97%A5%E7%BB%8F%E6%B5%8E%E4%BE%9B%E9%9C%80%E4%B8%A4%E6%97%BA%E6%B4%BB%E5%8A%9B%E8%B6%B3",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时01分 ~ 19时51分]"
+        },
+        {
+          "title": "银发经济市场规模预期超30万亿",
+          "url": "https://www.douyin.com/hot/2450160",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时01分 ~ 19时51分]"
+        },
+        {
           "title": "3月官方制造业PMI为50.4% 经济回升向好",
           "url": "https://www.cls.cn/detail/2329847",
           "source": "财联社热门",
@@ -75,39 +108,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时09分 ~ 15时14分]"
-        },
-        {
-          "title": "春日经济供需两旺活力足",
-          "url": "https://www.toutiao.com/trending/7622472380443492388/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时01分 ~ 18时12分]"
-        },
-        {
-          "title": "春日经济供需两旺活力足",
-          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E6%97%A5%E7%BB%8F%E6%B5%8E%E4%BE%9B%E9%9C%80%E4%B8%A4%E6%97%BA%E6%B4%BB%E5%8A%9B%E8%B6%B3",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时01分 ~ 18时12分]"
-        },
-        {
-          "title": "银发经济市场规模预期超30万亿",
-          "url": "https://www.douyin.com/hot/2450160",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时01分 ~ 18时12分]"
         },
         {
           "title": "中国经济硬核数据上新",
@@ -138,7 +138,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -264,6 +264,17 @@
           "time_info": "[04时56分 ~ 05时42分]"
         },
         {
+          "title": "跳楼机数月吸金4000万原唱收入为0",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%A5%BC%E6%9C%BA%E6%95%B0%E6%9C%88%E5%90%B8%E9%87%914000%E4%B8%87%E5%8E%9F%E5%94%B1%E6%94%B6%E5%85%A5%E4%B8%BA0%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 19时51分]"
+        },
+        {
           "title": "美联储威廉姆斯：人工智能活动减弱将导致经济增长乏力。",
           "url": "https://flash.jin10.com/detail/20260331044951046800",
           "source": "金十数据",
@@ -327,7 +338,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -338,7 +349,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -409,6 +420,17 @@
           "time_info": "15时14分"
         },
         {
+          "title": "【阳光电源：2025年净利润134.61亿元，同比增长21.97%】据阳光电源公告，2025年公司实现营业收入891.84亿元，同比增加14.55%；实现归属于上市公司股东的净利润134.61亿元，同比增加21.97%。",
+          "url": "https://wallstreetcn.com/livenews/3080116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
           "title": "宏观经济压力日益严峻，印度放宽“关键行业中企采购禁令”",
           "url": "https://wallstreetcn.com/livenews/3079609",
           "source": "华尔街见闻-快讯",
@@ -437,7 +459,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -459,7 +481,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -489,7 +511,7 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "宇树科技CEO：机器人任意动作生成、自主出招对打，六个月后可实现",
@@ -516,11 +538,12 @@
           "source": "抖音",
           "ranks": [
             1,
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时09分 ~ 18时12分]"
+          "appearance_count": 8,
+          "time_info": "[13时09分 ~ 19时51分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -561,11 +584,27 @@
             3,
             6,
             7,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时09分 ~ 18时12分]"
+          "appearance_count": 8,
+          "time_info": "[13时09分 ~ 19时51分]"
+        },
+        {
+          "title": "功勋翻译下岗,AI包揽游戏翻译",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            9,
+            12,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时09分 ~ 19时51分]"
         },
         {
           "title": "复旦教授解析AI冲击职场真相",
@@ -580,20 +619,6 @@
           "time_info": "[00时56分 ~ 07时35分]"
         },
         {
-          "title": "功勋翻译下岗,AI包揽游戏翻译",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            9,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时09分 ~ 18时12分]"
-        },
-        {
           "title": "联想推两款“养虾”专用终端，对标Mac mini争夺AI智能体入口",
           "url": "https://wallstreetcn.com/livenews/3079751",
           "source": "华尔街见闻-快讯",
@@ -603,6 +628,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "Claude Code完整源代码疑似因npm配置失误遭泄露",
+          "url": "https://flash.jin10.com/detail/20260331194021815800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
         },
         {
           "title": "国行版苹果AI",
@@ -639,6 +675,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时01分 ~ 04时56分]"
+        },
+        {
+          "title": "77部作品看到AI创作可能性",
+          "url": "https://search.bilibili.com/all?keyword=77%E9%83%A8%E4%BD%9C%E5%93%81%E7%9C%8B%E5%88%B0AI%E5%88%9B%E4%BD%9C%E5%8F%AF%E8%83%BD%E6%80%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 19时51分]"
         },
         {
           "title": "美国纽约联储主席（FOMC永久票委，号称美联储三把手）威廉姆斯：在一段时期内，AI将是投资的驱动因素。",
@@ -715,7 +762,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -747,8 +794,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 18时12分]"
+          "appearance_count": 19,
+          "time_info": "[00时56分 ~ 19时51分]"
         },
         {
           "title": "特朗普威胁：若不达成协议，就摧毁伊朗发电厂、油井和哈尔克岛",
