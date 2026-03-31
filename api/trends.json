@@ -1,974 +1,105 @@
 {
-  "generated_at": "2026-03-31T23:03:19.449366+08:00",
-  "total_titles_processed": 1809,
+  "generated_at": "2026-04-01T00:57:56.721474+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "经济 房地产 收入",
-      "match_count": 49,
-      "titles": [
-        {
-          "title": "普京下令企业组建准军事部队，需自购武器自担战损，将如何影响俄罗斯企业和经济？",
-          "url": "https://www.zhihu.com/question/2021958839793099702",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16,
-            13,
-            9,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时55分 ~ 13时10分]"
-        },
-        {
-          "title": "「新茶饮第一股」奈雪的茶大幅关店后年收入再度下降，问题出在哪？为什么消费者不喝奈雪了？",
-          "url": "https://www.zhihu.com/question/2021614118805792359",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时35分]"
-        },
-        {
-          "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32861369",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时56分 ~ 13时10分]"
-        },
-        {
-          "title": "春日经济供需两旺活力足",
-          "url": "https://www.toutiao.com/trending/7622472380443492388/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时01分 ~ 19时51分]"
-        },
-        {
-          "title": "春日经济供需两旺活力足",
-          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E6%97%A5%E7%BB%8F%E6%B5%8E%E4%BE%9B%E9%9C%80%E4%B8%A4%E6%97%BA%E6%B4%BB%E5%8A%9B%E8%B6%B3",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时01分 ~ 19时51分]"
-        },
-        {
-          "title": "银发经济市场规模预期超30万亿",
-          "url": "https://www.douyin.com/hot/2450160",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时01分 ~ 19时51分]"
-        },
-        {
-          "title": "3月官方制造业PMI为50.4% 经济回升向好",
-          "url": "https://www.cls.cn/detail/2329847",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时09分 ~ 18时12分]"
-        },
-        {
-          "title": "3月全国各地经济社会发展观察",
-          "url": "https://www.toutiao.com/trending/7622991171736059913/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时09分 ~ 15时14分]"
-        },
-        {
-          "title": "中国经济硬核数据上新",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%A1%AC%E6%A0%B8%E6%95%B0%E6%8D%AE%E4%B8%8A%E6%96%B0%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 00时57分]"
-        },
-        {
-          "title": "美联储威廉姆斯：能源价格的经济影响前景取决于市场定价水平。",
-          "url": "https://flash.jin10.com/detail/20260331060442776800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "工信部：1-2月份，我国规模以上互联网企业完成互联网业务收入3179亿元，同比增长9%",
-          "url": "https://flash.jin10.com/detail/20260331180233336800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
-          "title": "美国纽约联储主席（享有FOMC永久票委，号称美联储三把手）威廉姆斯：基本假设是，美国经济前景非常不错。 油价面临巨大的不确定性。 核心通胀预期还没有（显著地）受到油价冲击的影响。 监管的目标是银行业安全性，而不是储备金的规模。",
-          "url": "https://wallstreetcn.com/livenews/3079593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "马来西亚将2026年经济增长预期上调至4%至5%区间。",
-          "url": "https://wallstreetcn.com/livenews/3079744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "赛力斯2025年营业收入1648.88亿元",
-          "url": "https://www.toutiao.com/trending/7622594721889734150/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            22,
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时55分 ~ 07时35分]"
-        },
-        {
-          "title": "深度解析中国经济重点方向",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%87%8D%E7%82%B9%E6%96%B9%E5%90%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时19分 ~ 23时03分]"
-        },
-        {
-          "title": "以军：战争已进入“收尾阶段”，将打击伊朗经济目标",
-          "url": "https://wallstreetcn.com/livenews/3079549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时56分]"
-        },
-        {
-          "title": "美联储威廉姆斯：经济不平等现象长期来看有所加剧。",
-          "url": "https://flash.jin10.com/detail/20260331050002377800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时36分]"
-        },
-        {
-          "title": "美国纽约联储主席（FOMC永久票委，号称美联储三把手）威廉姆斯：美国经济面临实质性风险和高度不确定性。 （伊朗）战争可能会在未来好几个月推高通胀。 战争还可能带来供应冲击，破坏经济。 长期通胀预期与2%目标保持一致。 现在看到能源领域发生供应链紊乱。 诸多指标针对就业市场释放喜忧参半的信号。",
-          "url": "https://wallstreetcn.com/livenews/3079563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时56分 ~ 06时36分]"
-        },
-        {
-          "title": "疑鞠婧祎收入明细曝光",
-          "url": "https://www.baidu.com/s?wd=%E7%96%91%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%94%B6%E5%85%A5%E6%98%8E%E7%BB%86%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时09分 ~ 15时14分]"
-        },
-        {
-          "title": "鞠婧祎被实名举报偷漏税，称其申报 1100 万元，实际收入超五千万元，若情况属实将面临哪些法律后果？",
-          "url": "https://www.zhihu.com/question/2022257383494173642",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时14分 ~ 17时02分]"
-        },
-        {
-          "title": "美联储威廉姆斯：经济的基本前景一直良好。",
-          "url": "https://flash.jin10.com/detail/20260331042102795800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时42分]"
-        },
-        {
-          "title": "美联储威廉姆斯：存在诸多不确定性，但经济韧性超出预期。",
-          "url": "https://flash.jin10.com/detail/20260331042006191800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时42分]"
-        },
-        {
-          "title": "跳楼机数月吸金4000万原唱收入为0",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%A5%BC%E6%9C%BA%E6%95%B0%E6%9C%88%E5%90%B8%E9%87%914000%E4%B8%87%E5%8E%9F%E5%94%B1%E6%94%B6%E5%85%A5%E4%B8%BA0%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 19时51分]"
-        },
-        {
-          "title": "美联储威廉姆斯：人工智能活动减弱将导致经济增长乏力。",
-          "url": "https://flash.jin10.com/detail/20260331044951046800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时36分]"
-        },
-        {
-          "title": "IMF称伊朗战争将推高全球价格并拖累经济增长，或引发不对称冲击",
-          "url": "https://wallstreetcn.com/livenews/3079497",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时56分]"
-        },
-        {
-          "title": "战事反噬美国经济",
-          "url": "https://www.toutiao.com/trending/7623195681104969770/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
-        },
-        {
-          "title": "马来西亚央行：油价冲击或将影响经济增长和通胀，具体取决于冲突的持续时间和严重程度。",
-          "url": "https://flash.jin10.com/detail/20260331100118832800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "马来西亚央行：预计2026年经济增长率为4%-5%。",
-          "url": "https://flash.jin10.com/detail/20260331100111088800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "工信部：1-2月份，我国规模以上互联网和相关服务企业完成互联网业务收入3179亿元，同比增长9%。",
-          "url": "https://wallstreetcn.com/livenews/3080066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
-          "title": "瑞典央行副行长扬松：伊朗战争对经济活动和通胀预测的影响较为温和，但更长期的后果仍不明确，局势可能迅速变化。",
-          "url": "https://flash.jin10.com/detail/20260331180134916800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
-          "title": "五大金融机构首席经济学家热议经济趋势：一季度中国GDP增速有望达到5%左右",
-          "url": "https://wallstreetcn.com/livenews/3079620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "联想控股公告，2025年收入6059.45亿元；2025年净利润97.99亿元，同比增长28%。",
-          "url": "https://wallstreetcn.com/livenews/3079828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "财政部：1-2月国有企业营业总收入同比增长0.2%",
-          "url": "https://wallstreetcn.com/livenews/3079993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "马来西亚央行：经济增长将由家庭消费、投资、旅游业以及电气和电子产品出口支撑。",
-          "url": "https://flash.jin10.com/detail/20260331100040233800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "以军称战争已进入“收尾阶段” 将打击伊朗经济目标",
-          "url": "https://flash.jin10.com/detail/20260331025212409800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "国家数据局：要加快构建体系化数据资源 探索开展低空经济领域数据市场交易",
-          "url": "https://wallstreetcn.com/livenews/3080241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时03分"
-        },
-        {
-          "title": "华为2025年销售收入8809亿",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA2025%E5%B9%B4%E9%94%80%E5%94%AE%E6%94%B6%E5%85%A58809%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时03分"
-        },
-        {
-          "title": "标普：中东战争对我们2026年的全球经济展望造成实质冲击，实际上抵消了我们先前预期的成长潜力。",
-          "url": "https://flash.jin10.com/detail/20260331210231306800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "泰国央行：泰国经济面临下行风险。",
-          "url": "https://flash.jin10.com/detail/20260331150155932800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "【阳光电源：2025年净利润134.61亿元，同比增长21.97%】据阳光电源公告，2025年公司实现营业收入891.84亿元，同比增加14.55%；实现归属于上市公司股东的净利润134.61亿元，同比增加21.97%。",
-          "url": "https://wallstreetcn.com/livenews/3080116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时51分"
-        },
-        {
-          "title": "宏观经济压力日益严峻，印度放宽“关键行业中企采购禁令”",
-          "url": "https://wallstreetcn.com/livenews/3079609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "国家数据局：要加快构建体系化数据资源 探索开展低空经济领域数据市场交易",
-          "url": "https://flash.jin10.com/detail/20260331222225423800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时03分"
-        },
-        {
-          "title": "美联储威廉姆斯：低就业增速可能加剧经济悲观情绪。",
-          "url": "https://flash.jin10.com/detail/20260331040117235800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "中国央行：要继续实施适度宽松的货币政策 促进经济稳定增长和物价合理回升",
-          "url": "https://wallstreetcn.com/livenews/3080037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
-          "title": "美联储威廉姆斯：经济面临“不同寻常的局面”。",
-          "url": "https://flash.jin10.com/detail/20260331040111996800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "中国央行：维护金融市场稳定运行，提高开放条件下经济金融管理能力和风险防控能力",
-          "url": "https://wallstreetcn.com/livenews/3080036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
-          "title": "阿沁曾说自己靠版权年收入破千万",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%B2%81%E6%9B%BE%E8%AF%B4%E8%87%AA%E5%B7%B1%E9%9D%A0%E7%89%88%E6%9D%83%E5%B9%B4%E6%94%B6%E5%85%A5%E7%A0%B4%E5%8D%83%E4%B8%87%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "美联储威廉姆斯：战争可能既推高通胀，又抑制经济增长。",
-          "url": "https://flash.jin10.com/detail/20260331040059109800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "“美联储传声筒”Nick Timiraos：1月的职位空缺数据被上调，但三个月移动平均值在2月继续缓慢下降。2月每位被统计为失业的工人对应0.9个职位空缺，接近当前经济周期的低点。",
-          "url": "https://flash.jin10.com/detail/20260331221055549800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 24,
+      "match_count": 5,
       "titles": [
         {
-          "title": "宇树科技CEO：机器人任意动作生成、自主出招对打，六个月后可实现",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32862408",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            12,
-            10,
-            8,
-            6,
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 18时12分]"
-        },
-        {
-          "title": "苹果客服回应撤回国行AI",
-          "url": "https://www.douyin.com/hot/2449610",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2,
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时09分 ~ 21时19分]"
-        },
-        {
-          "title": "凌晨3点上班,AI卷疯打工人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            6,
-            7,
-            9,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时09分 ~ 23时03分]"
-        },
-        {
-          "title": "功勋翻译下岗,AI包揽游戏翻译",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            9,
-            12,
-            14,
-            18,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时09分 ~ 23时03分]"
-        },
-        {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            23,
-            21,
-            20,
-            14,
-            18,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时35分]"
-        },
-        {
-          "title": "AI勇闯二游圈,引爆米库论战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时56分 ~ 13时10分]"
-        },
-        {
-          "title": "复旦教授解析AI冲击职场真相",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 07时35分]"
-        },
-        {
-          "title": "联想推两款“养虾”专用终端，对标Mac mini争夺AI智能体入口",
-          "url": "https://wallstreetcn.com/livenews/3079751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "Claude Code完整源代码疑似因npm配置失误遭泄露",
-          "url": "https://flash.jin10.com/detail/20260331194021815800",
-          "source": "金十数据",
+          "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
+          "url": "https://www.zhihu.com/question/2022394365436248248",
+          "source": "知乎",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时51分"
+          "time_info": "00时57分"
         },
         {
           "title": "国行版苹果AI",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI",
           "source": "bilibili 热搜",
           "ranks": [
-            5,
-            29
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 13时10分]"
-        },
-        {
-          "title": "AI短剧 偷脸",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20%E5%81%B7%E8%84%B8&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 13时10分]"
-        },
-        {
-          "title": "AI 会让年轻人的机会变多还是变少？",
-          "url": "https://www.zhihu.com/question/2016930184062789503",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 04时56分]"
-        },
-        {
-          "title": "77部作品看到AI创作可能性",
-          "url": "https://search.bilibili.com/all?keyword=77%E9%83%A8%E4%BD%9C%E5%93%81%E7%9C%8B%E5%88%B0AI%E5%88%9B%E4%BD%9C%E5%8F%AF%E8%83%BD%E6%80%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 19时51分]"
-        },
-        {
-          "title": "美国纽约联储主席（FOMC永久票委，号称美联储三把手）威廉姆斯：在一段时期内，AI将是投资的驱动因素。",
-          "url": "https://wallstreetcn.com/livenews/3079576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时36分]"
-        },
-        {
-          "title": "文科生能吃到什么 ai 红利？",
-          "url": "https://www.zhihu.com/question/2016910965501871946",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 05时42分]"
-        },
-        {
-          "title": "红果回应普通人形象被AI短剧盗脸",
-          "url": "https://www.baidu.com/s?wd=%E7%BA%A2%E6%9E%9C%E5%9B%9E%E5%BA%94%E6%99%AE%E9%80%9A%E4%BA%BA%E5%BD%A2%E8%B1%A1%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E7%9B%97%E8%84%B8",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 13时10分]"
+          "appearance_count": 1,
+          "time_info": "00时57分"
         },
         {
           "title": "Claude Code源码意外泄露",
           "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E6%84%8F%E5%A4%96%E6%B3%84%E9%9C%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时19分"
+          "time_info": "00时57分"
         },
         {
-          "title": "​国行版苹果AI突然上线后又被撤回 苹果回应：正在积极推进落地中国",
-          "url": "https://flash.jin10.com/detail/20260331150542905800",
-          "source": "金十数据",
+          "title": "凌晨3点上班,AI卷疯打工人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "source": "贴吧",
           "ranks": [
-            8
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时14分"
+          "time_info": "00时57分"
         },
         {
-          "title": "周一（3月30日），存储芯片与硬件供应链指数跌6.94%，报96.83点，小幅高开之后迅速转跌，日内绝大部分时间平缓地持续扩大跌幅。 成分股全线收跌，Rambus收跌11.14%，美光科技跌9.92%，西部数据跌8.60%，Sandisk跌7.04%，泰瑞达、拉姆研究、希捷科技、应用材料跌6.52%-4.17%。 北美科技软件股指数ETF涨0.95%，报77.62美元。 信息科技指数跌3.75%，报244.90点。 人工智能（AI）赢家指数跌3.93%，报259.19点。 AI软件先驱指数涨1.02%，报91.46点。",
-          "url": "https://wallstreetcn.com/livenews/3079581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        },
-        {
-          "title": "AI演员 拼尸块",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%20%E6%8B%BC%E5%B0%B8%E5%9D%97&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "B站AI创作产品“updream”已开启内测",
-          "url": "https://wallstreetcn.com/livenews/3080055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
-          "title": "国行版苹果AI",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "Meta公司：新款AI眼镜即日起在美国开启预订，起售价499美元。",
-          "url": "https://flash.jin10.com/detail/20260331210216044800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "优必选：2025年收入同比增加53.3%至人民币20.01亿元；其中，全尺寸具身智能人形机器人产品及解决方案收入快速增长约2,203.7%到人民币8.21亿元，成为最大的收入来源。",
-          "url": "https://wallstreetcn.com/livenews/3080157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
-          "url": "https://wallstreetcn.com/articles/3768769",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时56分 ~ 19时51分]"
-        },
-        {
-          "title": "特朗普威胁：若不达成协议，就摧毁伊朗发电厂、油井和哈尔克岛",
-          "url": "https://news.ifeng.com/c/8rvIfVFBMLi",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时35分]"
-        },
-        {
-          "title": "夜盘期货开盘，焦煤、乙二醇跌逾2%，氧化铝、纯苯、PVC、燃油、甲醇、焦炭跌逾1%；沪铝、沪银、棕榈油、低硫燃油涨逾1%。",
-          "url": "https://wallstreetcn.com/livenews/3080197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "伊朗指责美以袭击伊朗钢铁企业构成国家恐怖主义",
-          "url": "https://wallstreetcn.com/livenews/3079514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 03时01分]"
-        },
-        {
-          "title": "市场消息：美国在科威特的陆军营地布尔林遭伊朗袭击后损毁严重。基地内的飞机库、营房、健身房、仓库、发电站及其他设施均受到损坏。",
-          "url": "https://flash.jin10.com/detail/20260331052552655800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约跌多涨少，碳酸锂跌近8%，集运欧线跌近7%，LPG跌近6%，PVC、焦煤跌超5%，塑料、甲醇、PP、LU燃油跌超4%，燃油、丙烯跌近4%，氧化铝、焦炭、乙二醇跌超3%。涨幅方面，沪银涨超3%，沪金、豆一、沪铝涨超1%。",
-          "url": "https://flash.jin10.com/detail/20260331150129162800",
-          "source": "金十数据",
+          "title": "功勋翻译下岗,AI包揽游戏翻译",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
+          "source": "贴吧",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时14分"
-        },
+          "time_info": "00时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济 房地产 收入",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "夜盘开盘，国内期货主力合约涨跌不一，铝合金、沪铝、沪银、棕榈油、低硫燃料油（LU）涨超1%，跌幅方面，焦煤、乙二醇跌超2%，氧化铝、纯苯、PVC、燃料油、甲醇、瓶片、焦炭跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260331210004281800",
-          "source": "金十数据",
+          "title": "深度解析中国经济重点方向",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%87%8D%E7%82%B9%E6%96%B9%E5%90%91",
+          "source": "bilibili 热搜",
           "ranks": [
-            23
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时19分"
+          "time_info": "00时57分"
+        },
+        {
+          "title": "华为2025年销售收入8809亿",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA2025%E5%B9%B4%E9%94%80%E5%94%AE%E6%94%B6%E5%85%A58809%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时57分"
+        },
+        {
+          "title": "根据斯坦福大学经济政策研究所Ryan Cummings和Neale Mahoney的研究，即使考虑了其他经济影响，每当油价上涨1美元，美国密歇根大学消费者信心指数就会下降4.5个点或更多。该研究所的首席Cummings表示：“这大致意味着，汽油价格每上涨1美元，民众对经济状况的感受就会恶化5%。”Cummings曾于2021-23年担任拜登政府经济顾问委员会的专职经济学家，负责汽油政策相关工作。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3080262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时57分"
         }
       ]
     }
