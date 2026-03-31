@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T13:10:01.480214+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2026-03-31T15:14:47.851409+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "普京下令企业组建准军事部队，需自购武器自担战损，将如何影响俄罗斯企业和经济？",
@@ -59,8 +59,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 13时10分]"
+          "appearance_count": 3,
+          "time_info": "[13时09分 ~ 15时14分]"
         },
         {
           "title": "中国经济硬核数据上新",
@@ -145,6 +145,18 @@
           "time_info": "[05时42分 ~ 06时36分]"
         },
         {
+          "title": "3月官方制造业PMI为50.4% 经济回升向好",
+          "url": "https://www.cls.cn/detail/2329847",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时09分 ~ 15时14分]"
+        },
+        {
           "title": "美国纽约联储主席（FOMC永久票委，号称美联储三把手）威廉姆斯：美国经济面临实质性风险和高度不确定性。 （伊朗）战争可能会在未来好几个月推高通胀。 战争还可能带来供应冲击，破坏经济。 长期通胀预期与2%目标保持一致。 现在看到能源领域发生供应链紊乱。 诸多指标针对就业市场释放喜忧参半的信号。",
           "url": "https://wallstreetcn.com/livenews/3079563",
           "source": "华尔街见闻-快讯",
@@ -156,6 +168,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时56分 ~ 06时36分]"
+        },
+        {
+          "title": "疑鞠婧祎收入明细曝光",
+          "url": "https://www.baidu.com/s?wd=%E7%96%91%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%94%B6%E5%85%A5%E6%98%8E%E7%BB%86%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时09分 ~ 15时14分]"
         },
         {
           "title": "美联储威廉姆斯：经济的基本前景一直良好。",
@@ -182,17 +206,6 @@
           "time_info": "[04时56分 ~ 05时42分]"
         },
         {
-          "title": "3月官方制造业PMI为50.4% 经济回升向好",
-          "url": "https://www.cls.cn/detail/2329847",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 13时10分]"
-        },
-        {
           "title": "美联储威廉姆斯：人工智能活动减弱将导致经济增长乏力。",
           "url": "https://flash.jin10.com/detail/20260331044951046800",
           "source": "金十数据",
@@ -203,17 +216,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时36分]"
-        },
-        {
-          "title": "疑鞠婧祎收入明细曝光",
-          "url": "https://www.baidu.com/s?wd=%E7%96%91%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%94%B6%E5%85%A5%E6%98%8E%E7%BB%86%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 13时10分]"
         },
         {
           "title": "IMF称伊朗战争将推高全球价格并拖累经济增长，或引发不对称冲击",
@@ -267,7 +269,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -292,6 +294,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "鞠婧祎被实名举报偷漏税，称其申报 1100 万元，实际收入超五千万元，若情况属实将面临哪些法律后果？",
+          "url": "https://www.zhihu.com/question/2022257383494173642",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "泰国央行：泰国经济面临下行风险。",
+          "url": "https://flash.jin10.com/detail/20260331150155932800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "宏观经济压力日益严峻，印度放宽“关键行业中企采购禁令”",
@@ -327,6 +351,17 @@
           "time_info": "04时56分"
         },
         {
+          "title": "阿沁曾说自己靠版权年收入破千万",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%B2%81%E6%9B%BE%E8%AF%B4%E8%87%AA%E5%B7%B1%E9%9D%A0%E7%89%88%E6%9D%83%E5%B9%B4%E6%94%B6%E5%85%A5%E7%A0%B4%E5%8D%83%E4%B8%87%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "美联储威廉姆斯：战争可能既推高通胀，又抑制经济增长。",
           "url": "https://flash.jin10.com/detail/20260331040059109800",
           "source": "金十数据",
@@ -341,7 +376,7 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "宇树科技CEO：机器人任意动作生成、自主出招对打，六个月后可实现",
@@ -354,11 +389,12 @@
             10,
             8,
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时56分 ~ 13时10分]"
+          "appearance_count": 14,
+          "time_info": "[00时56分 ~ 15时14分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -392,6 +428,18 @@
           "time_info": "[00时56分 ~ 13时10分]"
         },
         {
+          "title": "苹果客服回应撤回国行AI",
+          "url": "https://www.douyin.com/hot/2449610",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时09分 ~ 15时14分]"
+        },
+        {
           "title": "复旦教授解析AI冲击职场真相",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
           "source": "bilibili 热搜",
@@ -402,28 +450,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时56分 ~ 07时35分]"
-        },
-        {
-          "title": "苹果客服回应撤回国行AI",
-          "url": "https://www.douyin.com/hot/2449610",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 13时10分]"
-        },
-        {
-          "title": "凌晨3点上班,AI卷疯打工人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 13时10分]"
         },
         {
           "title": "联想推两款“养虾”专用终端，对标Mac mini争夺AI智能体入口",
@@ -437,6 +463,18 @@
           "time_info": "10时25分"
         },
         {
+          "title": "凌晨3点上班,AI卷疯打工人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时09分 ~ 15时14分]"
+        },
+        {
           "title": "国行版苹果AI",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI",
           "source": "bilibili 热搜",
@@ -447,6 +485,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时25分 ~ 13时10分]"
+        },
+        {
+          "title": "功勋翻译下岗,AI包揽游戏翻译",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时09分 ~ 15时14分]"
         },
         {
           "title": "AI短剧 偷脸",
@@ -471,17 +521,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时01分 ~ 04时56分]"
-        },
-        {
-          "title": "功勋翻译下岗,AI包揽游戏翻译",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 13时10分]"
         },
         {
           "title": "美国纽约联储主席（FOMC永久票委，号称美联储三把手）威廉姆斯：在一段时期内，AI将是投资的驱动因素。",
@@ -519,6 +558,17 @@
           "time_info": "[13时09分 ~ 13时10分]"
         },
         {
+          "title": "​国行版苹果AI突然上线后又被撤回 苹果回应：正在积极推进落地中国",
+          "url": "https://flash.jin10.com/detail/20260331150542905800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "周一（3月30日），存储芯片与硬件供应链指数跌6.94%，报96.83点，小幅高开之后迅速转跌，日内绝大部分时间平缓地持续扩大跌幅。 成分股全线收跌，Rambus收跌11.14%，美光科技跌9.92%，西部数据跌8.60%，Sandisk跌7.04%，泰瑞达、拉姆研究、希捷科技、应用材料跌6.52%-4.17%。 北美科技软件股指数ETF涨0.95%，报77.62美元。 信息科技指数跌3.75%，报244.90点。 人工智能（AI）赢家指数跌3.93%，报259.19点。 AI软件先驱指数涨1.02%，报91.46点。",
           "url": "https://wallstreetcn.com/livenews/3079581",
           "source": "华尔街见闻-快讯",
@@ -528,6 +578,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "AI演员 拼尸块",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%20%E6%8B%BC%E5%B0%B8%E5%9D%97&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "国行版苹果AI",
@@ -544,8 +605,22 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
+          "url": "https://wallstreetcn.com/articles/3768769",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时56分 ~ 15时14分]"
+        },
         {
           "title": "特朗普威胁：若不达成协议，就摧毁伊朗发电厂、油井和哈尔克岛",
           "url": "https://news.ifeng.com/c/8rvIfVFBMLi",
@@ -557,19 +632,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时56分 ~ 07时35分]"
-        },
-        {
-          "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
-          "url": "https://wallstreetcn.com/articles/3768769",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时56分 ~ 13时10分]"
         },
         {
           "title": "伊朗指责美以袭击伊朗钢铁企业构成国家恐怖主义",
@@ -594,6 +656,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约跌多涨少，碳酸锂跌近8%，集运欧线跌近7%，LPG跌近6%，PVC、焦煤跌超5%，塑料、甲醇、PP、LU燃油跌超4%，燃油、丙烯跌近4%，氧化铝、焦炭、乙二醇跌超3%。涨幅方面，沪银涨超3%，沪金、豆一、沪铝涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260331150129162800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         }
       ]
     }
