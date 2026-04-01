@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T10:35:31.046109+08:00",
-  "total_titles_processed": 891,
+  "generated_at": "2026-04-01T13:25:18.128763+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
@@ -22,6 +22,31 @@
           "time_info": "[00时57分 ~ 10时35分]"
         },
         {
+          "title": "凌晨3点上班,AI卷疯打工人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 13时25分]"
+        },
+        {
+          "title": "功勋翻译下岗,AI包揽游戏翻译",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 13时25分]"
+        },
+        {
           "title": "Claude Code源码意外泄露",
           "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E6%84%8F%E5%A4%96%E6%B3%84%E9%9C%B2",
           "source": "bilibili 热搜",
@@ -36,38 +61,40 @@
           "time_info": "[00时57分 ~ 07时34分]"
         },
         {
-          "title": "凌晨3点上班,AI卷疯打工人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 10时35分]"
-        },
-        {
-          "title": "功勋翻译下岗,AI包揽游戏翻译",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 10时35分]"
-        },
-        {
           "title": "深度解析Claude源码泄漏",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90Claude%E6%BA%90%E7%A0%81%E6%B3%84%E6%BC%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 13时25分]"
+        },
+        {
+          "title": "A股机器人概念股走势活跃，科森科技午后涨停，瑞迪智驱涨超10%，震裕科技、绿的谐波、上纬新材、道通科技涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3080633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时35分"
+          "time_info": "13时25分"
+        },
+        {
+          "title": "史诗级泄露！51.2万行，Claude Code源代码开源了！",
+          "url": "https://wallstreetcn.com/articles/3768915",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时34分 ~ 13时25分]"
         },
         {
           "title": "男子靠AI开一人公司年营收达150万",
@@ -76,7 +103,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -93,16 +120,27 @@
           "time_info": "[04时43分 ~ 05时39分]"
         },
         {
-          "title": "史诗级泄露！51.2万行，Claude Code源代码开源了！",
-          "url": "https://wallstreetcn.com/articles/3768915",
-          "source": "华尔街见闻",
+          "title": "借助AI监控伊朗高官后“定点清除”：以色列如何替美国“干脏活”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865901",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            5
+            14,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时34分 ~ 10时35分]"
+          "time_info": "[10时35分 ~ 13时25分]"
+        },
+        {
+          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
+          "url": "https://www.cls.cn/detail/2331334",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 13时25分]"
         },
         {
           "title": "苹果客服回应撤回国行AI",
@@ -173,15 +211,26 @@
           "time_info": "00时57分"
         },
         {
-          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
-          "url": "https://www.cls.cn/detail/2331334",
-          "source": "财联社热门",
+          "title": "字节Seed启动大模型校招 全球招募百位AI人才",
+          "url": "https://flash.jin10.com/detail/20260401130758814800",
+          "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时35分"
+          "time_info": "13时25分"
+        },
+        {
+          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
+          "url": "https://www.cls.cn/detail/2331423",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "澳大利亚3月AIG/PWC制造业表现指数 -27.9，前值-15.6。",
@@ -193,17 +242,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
-        },
-        {
-          "title": "借助AI监控伊朗高官后“定点清除”：以色列如何替美国“干脏活”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865901",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
         },
         {
           "title": "77部作品看到AI创作可能性",
@@ -245,7 +283,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -256,7 +294,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -275,7 +313,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "深度解析中国经济重点方向",
@@ -329,6 +367,17 @@
           "time_info": "[01时58分 ~ 03时08分]"
         },
         {
+          "title": "“Token经济”崛起再获验证！智谱发布“炸裂”数据 机构：Agent场景渗透打开利润空间",
+          "url": "https://www.cls.cn/detail/2331554",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "美联储施密德：预计持续走高的油价将对经济增长形成“温和拖累”。",
           "url": "https://flash.jin10.com/detail/20260401011147105800",
           "source": "金十数据",
@@ -346,7 +395,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
