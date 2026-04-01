@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T03:02:53.585123+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-04-02T04:43:43.844583+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时43分]"
         },
         {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
@@ -28,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时43分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -37,11 +37,25 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时43分]"
+        },
+        {
+          "title": "Claude Opus是否会淘汰程序员",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            16,
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时43分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -50,11 +64,12 @@
           "ranks": [
             22,
             14,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时43分]"
         },
         {
           "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
@@ -65,20 +80,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时02分]"
-        },
-        {
-          "title": "Claude Opus是否会淘汰程序员",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时43分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -89,8 +92,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时43分]"
         },
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -100,8 +103,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时43分]"
         },
         {
           "title": "被AI短剧盗脸成丑角 女模特发声",
@@ -114,6 +117,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时55分 ~ 01时52分]"
+        },
+        {
+          "title": "如何看待 3.31 Claude Code 源码泄露一事？",
+          "url": "https://www.zhihu.com/question/2022398469655074136",
+          "source": "知乎",
+          "ranks": [
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时02分 ~ 04时43分]"
         },
         {
           "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
@@ -137,17 +152,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
-        },
-        {
-          "title": "如何看待 3.31 Claude Code 源码泄露一事？",
-          "url": "https://www.zhihu.com/question/2022398469655074136",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
         },
         {
           "title": "消息人士称，SpaceX邀请分析师于4月23日参观在田纳西州孟菲斯市的XAI数据中心。",
@@ -254,7 +258,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         }
