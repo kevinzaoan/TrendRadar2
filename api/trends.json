@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T15:21:35.138057+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2026-04-01T17:05:18.048560+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
@@ -29,11 +29,12 @@
             14,
             15,
             18,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 15时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 17时05分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -42,11 +43,12 @@
           "ranks": [
             22,
             25,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 15时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 17时05分]"
         },
         {
           "title": "Claude Code源码意外泄露",
@@ -72,8 +74,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时34分 ~ 15时21分]"
+          "appearance_count": 5,
+          "time_info": "[07时34分 ~ 17时05分]"
         },
         {
           "title": "深度解析Claude源码泄漏",
@@ -99,6 +101,17 @@
           "time_info": "13时25分"
         },
         {
+          "title": "HBM之父：看好高带宽闪存技术 未来AI产业或从GPU转向内存主导",
+          "url": "https://flash.jin10.com/detail/20260401164104532800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
           "title": "男子靠AI开一人公司年营收达150万",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%9D%A0AI%E5%BC%80%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E5%B9%B4%E8%90%A5%E6%94%B6%E8%BE%BE150%E4%B8%87%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -108,6 +121,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "Anthropic意外泄露了Claude AI智能体的源代码",
+          "url": "https://wallstreetcn.com/livenews/3080773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
         },
         {
           "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
@@ -120,6 +144,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时39分]"
+        },
+        {
+          "title": "ClaudeCode源码泄露",
+          "url": "https://www.douyin.com/hot/2451216",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 17时05分]"
         },
         {
           "title": "借助AI监控伊朗高官后“定点清除”：以色列如何替美国“干脏活”",
@@ -167,6 +202,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时39分]"
+        },
+        {
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 17时05分]"
         },
         {
           "title": "OpenAI按8520亿美元估值完成本轮1220亿美元规模的融资",
@@ -231,20 +278,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
         {
-          "title": "ClaudeCode源码泄露",
-          "url": "https://www.douyin.com/hot/2451216",
-          "source": "抖音",
+          "title": "UP主复现Claude Code代码漏洞",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
+          "source": "bilibili 热搜",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时21分"
+          "time_info": "17时05分"
+        },
+        {
+          "title": "微软预计到2029年将在新加坡的AI领域投资55亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3080767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
         },
         {
           "title": "字节Seed启动大模型校招 全球招募百位AI人才",
@@ -258,6 +316,17 @@
           "time_info": "13时25分"
         },
         {
+          "title": "HBM之父：看好高带宽闪存技术 未来AI产业或从GPU转向内存主导",
+          "url": "https://wallstreetcn.com/livenews/3080764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
           "title": "澳大利亚3月AIG/PWC制造业表现指数 -27.9，前值-15.6。",
           "url": "https://flash.jin10.com/detail/20260401060121394800",
           "source": "金十数据",
@@ -267,17 +336,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
-        },
-        {
-          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
-          "url": "https://www.zhihu.com/question/2022593285970027591",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
         },
         {
           "title": "77部作品看到AI创作可能性",
@@ -308,7 +366,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -360,7 +418,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "深度解析中国经济重点方向",
@@ -390,6 +448,18 @@
           "time_info": "[00时57分 ~ 10时35分]"
         },
         {
+          "title": "“Token经济”崛起再获验证！智谱发布“炸裂”数据 机构：Agent场景渗透打开利润空间",
+          "url": "https://www.cls.cn/detail/2331554",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 17时05分]"
+        },
+        {
           "title": "布隆迪经济首都发生军火库爆炸",
           "url": "https://flash.jin10.com/detail/20260401025217829800",
           "source": "金十数据",
@@ -402,18 +472,6 @@
           "time_info": "[03时08分 ~ 04时43分]"
         },
         {
-          "title": "“Token经济”崛起再获验证！智谱发布“炸裂”数据 机构：Agent场景渗透打开利润空间",
-          "url": "https://www.cls.cn/detail/2331554",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 15时21分]"
-        },
-        {
           "title": "美国堪萨斯城联储主席Schmid：对消费者、财政政策、生产力都感到乐观。 预计石油价格将拖累美国经济。 无法假设通胀汇市暂时性的。",
           "url": "https://wallstreetcn.com/livenews/3080305",
           "source": "华尔街见闻-快讯",
@@ -424,6 +482,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 03时08分]"
+        },
+        {
+          "title": "欧洲央行行长公开驳斥美财长：伊朗战争的经济破坏绝非短暂",
+          "url": "https://www.cls.cn/detail/2331432",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
+          "title": "中国财险(02328.HK)：2025年原保险保费收入5557.77 亿元，同比增长3.3%；保险服务收入 5,115.94亿元，同比增长5.4%。",
+          "url": "https://flash.jin10.com/detail/20260401163529824800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC CEO：伊朗在霍尔木兹海峡的行径并非地区性问题，而是全球性的经济胁迫，这种威胁世界绝不能容忍。",
+          "url": "https://flash.jin10.com/detail/20260401163243592800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
         },
         {
           "title": "美联储施密德：预计持续走高的油价将对经济增长形成“温和拖累”。",
@@ -448,13 +539,24 @@
           "time_info": "10时35分"
         },
         {
+          "title": "德国经济研究机构大幅下调德2026年经济增长预期",
+          "url": "https://wallstreetcn.com/livenews/3080752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
           "title": "抄底买家要当心？顶级经济学家警告：务必避开美股大盘！",
           "url": "https://flash.jin10.com/detail/20260401143225343800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -479,6 +581,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "日本央行新任审议委员浅田统一郎：财政与货币政策的配合可支撑经济。",
+          "url": "https://flash.jin10.com/detail/20260401162250285800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
+          "title": "日本央行新任审议委员浅田统一郎：希望避免就具体立场发表评论。 政策组合能够克服严峻的经济形势。 毫无疑问，高油价将推高通胀。 若出现滞胀将难以应对。 对日本央行结束通缩的政策予以积极评价。 希望避免对近期日本央行政策进行评估。 日本央行无意干预外汇市场。 不便表态日元疲软或走强哪个更好。 被称为“再通胀主义者”并不觉得奇怪。",
+          "url": "https://wallstreetcn.com/livenews/3080742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
         },
         {
           "title": "南非总统向投资者抛出橄榄枝，战争动摇南非经济前景",
@@ -506,7 +630,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "据伊朗媒体Fars News：伊朗中部的Sepid Dasht钢铁厂遭到美以袭击。",
@@ -554,6 +678,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时35分]"
+        },
+        {
+          "title": "据捷克通讯社报道，因当前形势所致，Sev.en Global旗下的波采拉迪和赫瓦列季采两座捷克发电厂的运营将至少延续运行至2027年3月31日。",
+          "url": "https://flash.jin10.com/detail/20260401162918732800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
         }
       ]
     }
