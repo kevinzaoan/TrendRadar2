@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-04-02T19:45:44.279628+08:00",
-  "total_titles_processed": 1568,
+  "generated_at": "2026-04-02T21:36:16.607548+08:00",
+  "total_titles_processed": 1714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "经济日报头版头条：驳“中国经济失速论”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32876233",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            12,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时13分 ~ 21时36分]"
+        },
         {
           "title": "加快打造智能经济新形态",
           "url": "https://www.toutiao.com/trending/7623555536247603254/",
@@ -31,20 +45,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时13分 ~ 19时45分]"
-        },
-        {
-          "title": "经济日报头版头条：驳“中国经济失速论”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32876233",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            12,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时13分 ~ 19时45分]"
         },
         {
           "title": "加拿大央行：在3月份货币政策会议上讨论了石油冲击对CPI的长期影响，但现在做出判断还言之过早。 央行官员们同意，他们可以花时间来观察（美国和以色列发动的）伊朗战争将如何演变。 除了伊朗战争，加拿大经济面临的风险还包括美国墨西哥加拿大贸易协议（USMCA）等。",
@@ -215,7 +215,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -229,6 +229,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "国际货币基金组织：对美国经济的强劲表现表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20260402210740432800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "加拿大央行：伊朗战争不应凌驾于其他经济风险之上",
@@ -363,21 +374,43 @@
           "time_info": "10时13分"
         },
         {
+          "title": "国际货币基金组织：预计美国经济增速将于2026年升至2.4%；随着关税效应消退和油价回落，核心个人消费支出通胀率有望在2027年上半年回落至2%。",
+          "url": "https://flash.jin10.com/detail/20260402210414290800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "外媒：越南10%经济增速目标面临挑战",
           "url": "https://www.toutiao.com/trending/7624073224564772406/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
+        },
+        {
+          "title": "国际货币基金组织：短期内经济活动和失业率面临的风险总体均衡，但全球能源价格前景构成了通胀上行风险。",
+          "url": "https://flash.jin10.com/detail/20260402210344995800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "ClaudeCode源码泄露",
@@ -392,6 +425,28 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时55分 ~ 13时03分]"
+        },
+        {
+          "title": "从泄露源码扒出Claude隐藏彩蛋",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%B3%84%E9%9C%B2%E6%BA%90%E7%A0%81%E6%89%92%E5%87%BAClaude%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            14,
+            16,
+            18,
+            15,
+            19,
+            24,
+            27,
+            26,
+            28,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时55分 ~ 21时36分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -415,25 +470,23 @@
           "time_info": "[00时55分 ~ 19时45分]"
         },
         {
-          "title": "从泄露源码扒出Claude隐藏彩蛋",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%B3%84%E9%9C%B2%E6%BA%90%E7%A0%81%E6%89%92%E5%87%BAClaude%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B",
+          "title": "Claude Opus是否会淘汰程序员",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
           "source": "bilibili 热搜",
           "ranks": [
-            22,
-            14,
+            21,
             16,
-            18,
-            15,
+            14,
             19,
-            24,
-            27,
+            18,
+            17,
+            23,
             26,
-            28,
-            25
+            24
           ],
           "is_new": false,
           "appearance_count": 16,
-          "time_info": "[00时55分 ~ 19时45分]"
+          "time_info": "[00时55分 ~ 21时36分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -448,25 +501,6 @@
             25,
             22,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 19时45分]"
-        },
-        {
-          "title": "Claude Opus是否会淘汰程序员",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            16,
-            14,
-            19,
-            18,
-            17,
-            23,
-            26,
-            24
           ],
           "is_new": false,
           "appearance_count": 14,
@@ -543,6 +577,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时03分 ~ 19时45分]"
+        },
+        {
+          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时57分 ~ 21时36分]"
         },
         {
           "title": "ClaudeCode里到底藏了什么",
@@ -632,18 +679,6 @@
           "time_info": "[03时02分 ~ 05时42分]"
         },
         {
-          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 19时45分]"
-        },
-        {
           "title": "美国AI又被电力设备“卡脖子”：今年近半数据中心受阻 开发商盯上二手变压器",
           "url": "https://www.cls.cn/detail/2333025",
           "source": "财联社热门",
@@ -654,6 +689,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时03分 ~ 19时45分]"
+        },
+        {
+          "title": "AI冲击+侵权,配音演员联合抵制",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
+        },
+        {
+          "title": "年薪最高1.24亿！“人形机器人第一股”招首席",
+          "url": "https://www.cls.cn/detail/2333820",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
@@ -697,7 +754,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -746,6 +803,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "滴滴AI打车用户增长37倍",
+          "url": "https://wallstreetcn.com/livenews/3081601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "AI 写游戏剧情已经与真人分不出差别，那么未来游戏文案策划的核心竞争力是什么？",
           "url": "https://www.zhihu.com/question/2011753780459300532",
           "source": "知乎",
@@ -755,12 +823,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "美国科技公司宣布的裁员人数持续增加 AI成主要推手",
+          "url": "https://wallstreetcn.com/livenews/3081587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普：若无协议将袭伊所有发电厂",
@@ -770,8 +849,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时03分 ~ 19时45分]"
+          "appearance_count": 8,
+          "time_info": "[13时03分 ~ 21时36分]"
+        },
+        {
+          "title": "【伊朗穆巴拉克钢铁厂全面停产】伊朗伊斯法罕穆巴拉克钢铁厂今天（4月2日）宣布全面停产。这一伊朗最大钢铁厂发布声明称，由于近期袭击造成严重破坏，相关生产设施受损，导致生产线全部停运，在确保人员安全前提下，暂不具备恢复生产条件。厂方呼吁员工暂时不要前往厂区。(CCTV国际时讯)",
+          "url": "https://wallstreetcn.com/livenews/3081612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "【伊朗实施“真实承诺-4”第90波打击行动 袭击美相关金属产业设施】当地时间4月2日，伊朗伊斯兰革命卫队发布声明称，已实施“真实承诺-4”第90波打击行动，对地区内与美国相关的钢铁和铝业设施发动打击。（央视）",
@@ -780,7 +870,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -816,6 +906,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "伊朗伊斯法罕穆巴拉克钢铁厂全面停产",
+          "url": "https://flash.jin10.com/detail/20260402210717877800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     }
