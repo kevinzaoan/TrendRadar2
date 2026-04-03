@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T21:04:14.583832+08:00",
-  "total_titles_processed": 1741,
+  "generated_at": "2026-04-03T22:42:47.149636+08:00",
+  "total_titles_processed": 1868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "年薪最高1.24亿！“人形机器人第一股”招首席",
@@ -60,8 +60,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时02分 ~ 21时04分]"
+          "appearance_count": 22,
+          "time_info": "[00时02分 ~ 22时42分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -130,18 +130,6 @@
           "time_info": "[00时02分 ~ 10时15分]"
         },
         {
-          "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
-          "url": "https://www.zhihu.com/question/2023359161887450046",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时54分 ~ 19时38分]"
-        },
-        {
           "title": "Anthropic误删数千GitHub仓库",
           "url": "https://search.bilibili.com/all?keyword=Anthropic%20GitHub%E4%BB%93%E5%BA%93",
           "source": "bilibili 热搜",
@@ -153,8 +141,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时54分 ~ 21时04分]"
+          "appearance_count": 9,
+          "time_info": "[16时54分 ~ 22时42分]"
+        },
+        {
+          "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
+          "url": "https://www.zhihu.com/question/2023359161887450046",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 19时38分]"
         },
         {
           "title": "法拉第未来(FFIE.O)：迄今为止交付的FX Aegis机器人现在可以转换为正式交付，该系列机器人起售价为2490美元。",
@@ -177,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "Claude源码能否让全球AI工具大升级",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "AI重塑短剧制作模式，行业洗牌催生新投资风口",
@@ -318,7 +329,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "经济日报头版头条：驳“中国经济失速论”",
@@ -332,6 +343,21 @@
           "time_info": "[00时02分 ~ 06时32分]"
         },
         {
+          "title": "经济日报头版头条再发文：驳“中国经济治理失效论”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32890936",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[10时14分 ~ 22时42分]"
+        },
+        {
           "title": "6 月起网约车司机 24 小时内累计驾驶超 8 小时，将属于疲劳驾驶，这对平台和司机收入有何影响？",
           "url": "https://www.zhihu.com/question/2022098936475689525",
           "source": "知乎",
@@ -342,20 +368,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时14分 ~ 16时55分]"
-        },
-        {
-          "title": "经济日报头版头条再发文：驳“中国经济治理失效论”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32890936",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时14分 ~ 21时04分]"
         },
         {
           "title": "日本经济再生大臣赤泽亮正：昨晚，与阿联酋能源部长、阿布扎比国有石油公司（ADNOC）CEO贾贝尔进行了在线会谈，就两国间的能源合作及其他领域的合作进行了意见交流。",
@@ -466,6 +478,17 @@
           "time_info": "17时53分"
         },
         {
+          "title": "阿联酋环球铝业公司：在阿布扎比哈利法经济区遭到伊朗导弹和无人机袭击后，遭受了重大损失。",
+          "url": "https://flash.jin10.com/detail/20260403223058325800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "常山北明回应2025年收入下滑：剥离纺织业务对营收有影响，后续会加大新业务拓展力度",
           "url": "https://flash.jin10.com/detail/20260403142909538800",
           "source": "金十数据",
@@ -532,6 +555,17 @@
           "time_info": "04时36分"
         },
         {
+          "title": "白宫经济顾问哈塞特：（谈伊朗）油轮已开始通过海峡。 （谈伊朗）我们非常乐观地认为，这将在短期内结束。 认为这将在几周内结束，而非几个月。 伊朗并未损害美国经济，美国经济依然稳健。 担忧亚洲可能减少向美国出口的石油供应。 （谈就业报告）这对市场来说是非常积极的一天。 我密切关注期货市场。 期货市场认同伊朗局势是短期干扰。 预计目前就业市场的状况将会持续。",
+          "url": "https://wallstreetcn.com/livenews/3082225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "美联储威廉姆斯：能源价格对经济存在传导效应，需数月或一年才能传导至经济。",
           "url": "https://flash.jin10.com/detail/20260403034710157800",
           "source": "金十数据",
@@ -546,7 +580,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
@@ -560,8 +594,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时09分 ~ 21时04分]"
+          "appearance_count": 10,
+          "time_info": "[15时09分 ~ 22时42分]"
+        },
+        {
+          "title": "阿联酋环球铝业公司：塔维拉生产基地，包括电解厂和铸造车间、发电厂、塔维拉氧化铝精炼厂以及塔维拉回收厂，已全部疏散。",
+          "url": "https://flash.jin10.com/detail/20260403223251821800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "Osaka Gas考虑在美国至多五座发电站投资。（日经新闻）",
