@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T02:43:12.035226+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-04-05T03:32:04.160211+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 03时32分]"
+        },
+        {
+          "title": "「同事.skill」爆火，工作经验、业务方法论会被 AI 轻易「窃取」吗？如因此被解雇会受到法律保护吗？",
+          "url": "https://www.zhihu.com/question/2023363667584927528",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 03时32分]"
         },
         {
           "title": "Claude禁止OpenClaw接入",
@@ -26,11 +40,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 03时32分]"
         },
         {
           "title": "“没中国，美国机器人就动不了”",
@@ -40,8 +55,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 03时32分]"
         },
         {
           "title": "Space X并购xAI目的何在",
@@ -53,21 +68,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时43分]"
-        },
-        {
-          "title": "「同事.skill」爆火，工作经验、业务方法论会被 AI 轻易「窃取」吗？如因此被解雇会受到法律保护吗？",
-          "url": "https://www.zhihu.com/question/2023363667584927528",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 03时32分]"
         },
         {
           "title": "广东鸡煲店老板累瘫照系AI生成",
@@ -75,11 +77,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 03时32分]"
         },
         {
           "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
@@ -89,8 +92,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时32分]"
         },
         {
           "title": "如何评价恽之玮对 AI 冲击下的数学行业的悲观看法？",
@@ -117,30 +120,32 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时32分]"
         },
         {
           "title": "以色列总理内塔尼亚胡表示，以色列在打击用于生产武器基础材料的钢铁厂设施后，又袭击了伊朗的石化工厂。",
           "url": "https://flash.jin10.com/detail/20260405012945391800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 03时32分]"
         },
         {
           "title": "以色列总理内塔尼亚胡表示，以色列的目标是伊朗的钢铁厂和石化厂，已实施了打击。",
           "url": "https://flash.jin10.com/detail/20260405012537822800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 03时32分]"
         }
       ]
     },
@@ -156,8 +161,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 03时32分]"
         },
         {
           "title": "伊朗否认石化经济特区遭袭后发生有毒物质泄漏",
@@ -167,8 +172,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时32分]"
         }
       ]
     }
