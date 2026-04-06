@@ -1,461 +1,145 @@
 {
-  "generated_at": "2026-04-06T23:47:16.081279+08:00",
-  "total_titles_processed": 1566,
+  "generated_at": "2026-04-07T00:48:23.570220+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 32,
+      "match_count": 9,
       "titles": [
         {
-          "title": "腾讯AI闯祸,拿唐山地震玩梗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352804&amp;topic_name=%E8%85%BE%E8%AE%AFAI%E9%97%AF%E7%A5%B8%2C%E6%8B%BF%E5%94%90%E5%B1%B1%E5%9C%B0%E9%9C%87%E7%8E%A9%E6%A2%97",
-          "source": "贴吧",
+          "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
+          "url": "https://www.zhihu.com/question/2024413032667772670",
+          "source": "知乎",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 10时31分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
           "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
           "url": "https://wallstreetcn.com/articles/3769308",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时43分 ~ 23时47分]"
-        },
-        {
-          "title": "AI时代，如何打赢人脸保护战？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32907515",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            6,
-            7,
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 10时31分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
-          "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
-          "url": "https://www.zhihu.com/question/2024413032667772670",
-          "source": "知乎",
+          "title": "报道：OpenAI计划最早今年四季度IPO",
+          "url": "https://wallstreetcn.com/livenews/3082897",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            9,
-            5,
-            2,
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时43分 ~ 23时47分]"
-        },
-        {
-          "title": "妈妈不知儿子去世 跟AI儿子聊了1年",
-          "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96+%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            8,
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 13时25分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
           "title": "机器人保姆“上岗”了",
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BF%9D%E5%A7%86%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            2,
-            1,
-            4,
-            13,
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时09分 ~ 23时47分]"
-        },
-        {
-          "title": "母亲不知儿子去世跟AI儿子聊了1年",
-          "url": "https://www.toutiao.com/trending/7625239644062023743/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            17,
-            16,
-            26,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时30分 ~ 23时47分]"
-        },
-        {
-          "title": "妈妈不知儿子去世跟AI儿子聊了1年",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            7,
-            14,
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 07时34分]"
-        },
-        {
-          "title": "Claude禁止OpenClaw接入",
-          "url": "https://search.bilibili.com/all?keyword=Claude%E7%A6%81%E6%AD%A2OpenClaw%E6%8E%A5%E5%85%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            12,
-            15,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 13时25分]"
-        },
-        {
-          "title": "Space X并购xAI目的何在",
-          "url": "https://search.bilibili.com/all?keyword=Space%20X%E5%B9%B6%E8%B4%ADxAI%E7%9B%AE%E7%9A%84%E4%BD%95%E5%9C%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            14,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 13时25分]"
-        },
-        {
-          "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
-          "url": "https://www.zhihu.com/question/2022702768251564692",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 04时35分]"
-        },
-        {
-          "title": "如何看软著申请严查AI新规",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E8%BD%AF%E8%91%97%E7%94%B3%E8%AF%B7%E4%B8%A5%E6%9F%A5AI%E6%96%B0%E8%A7%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时10分 ~ 22时47分]"
-        },
-        {
-          "title": "公司用AI复刻离职员工继续工作",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E7%94%A8AI%E5%A4%8D%E5%88%BB%E7%A6%BB%E8%81%8C%E5%91%98%E5%B7%A5%E7%BB%A7%E7%BB%AD%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时46分 ~ 23时47分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
           "title": "易烊千玺被“换脸”？红果短剧：坚决打击AI短剧素材违规使用、无授权盗用等行为",
           "url": "https://m.thepaper.cn/newsDetail_forward_32911737",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            19,
-            15,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时51分 ~ 23时47分]"
-        },
-        {
-          "title": "OpenAI首席执行官和首席财务官据称在IPO时机问题上意见分歧。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3082679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时33分 ~ 07时34分]"
-        },
-        {
-          "title": "OpenAI发布文章 提出AI时代产业政策建议",
-          "url": "https://flash.jin10.com/detail/20260406183015530800",
-          "source": "金十数据",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时57分"
+          "time_info": "00时48分"
         },
         {
-          "title": "澎湃AI晚新闻丨2026年4月5日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32909915",
-          "source": "澎湃新闻",
+          "title": "据CNBC：OpenAI计划最早于第四季度进行IPO。OpenAI首席执行官、首席财务官在筹集1220亿美元后对IPO“充满信心”。",
+          "url": "https://flash.jin10.com/detail/20260407000320677800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            19,
-            16,
-            13,
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时43分 ~ 21时10分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
-          "title": "OpenAI首席执行官和首席财务官在上市时间上存在分歧。",
-          "url": "https://flash.jin10.com/detail/20260406043433475800",
-          "source": "金十数据",
+          "title": "母亲不知儿子去世跟AI儿子聊了1年",
+          "url": "https://www.toutiao.com/trending/7625239644062023743/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            20
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时32分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "公司用AI复刻离职员工继续工作",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E7%94%A8AI%E5%A4%8D%E5%88%BB%E7%A6%BB%E8%81%8C%E5%91%98%E5%B7%A5%E7%BB%A7%E7%BB%AD%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
           "title": "AI翻唱淘金小镇",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%BF%BB%E5%94%B1%E6%B7%98%E9%87%91%E5%B0%8F%E9%95%87",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时46分 ~ 23时47分]"
-        },
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "室内空气系统供应商Madison Air Solutions寻求通过IPO筹资至多22.3亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3082806",
+          "title": "美国总统特朗普谈及伊朗问题，声称：周二是最后期限。 我已看过所有提议的方案。 伊朗的提议迈出了重要一步，但还不够好。 如果他们（伊朗）做好某些事，战争可能很快就会结束。 那些代表伊朗说话的人现在更加理性。 重申伊朗不能拥有核武器。 如果伊朗不让步，就不会有桥梁和发电站。 美国民众想要我们（在发动战争后）赢，然后（让美军）回国。 我希望美国赢，然后回国。",
+          "url": "https://wallstreetcn.com/livenews/3082880",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时51分 ~ 21时10分]"
-        },
-        {
-          "title": "男子用AI写歌仅版权赚了5位数",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8AI%E5%86%99%E6%AD%8C%E4%BB%85%E7%89%88%E6%9D%83%E8%B5%9A%E4%BA%865%E4%BD%8D%E6%95%B0",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "孙女用AI复刻奶奶的叮嘱",
-          "url": "https://www.toutiao.com/trending/7625500381922017321/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "OpenAI发布文章 提出AI时代产业政策建议",
-          "url": "https://wallstreetcn.com/livenews/3082798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时51分"
-        },
-        {
-          "title": "AirAsia X创始人：燃油成本基本上已翻了一倍多。",
-          "url": "https://flash.jin10.com/detail/20260406121342962800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "迪拜南城（Dubai South）自贸区：商业园区面向中小企业社区出台支持方案。",
-          "url": "https://flash.jin10.com/detail/20260406142129838800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "迪拜南城（Dubai South）自贸区：在此期间，符合资格的续租将维持现行租金标准。",
-          "url": "https://flash.jin10.com/detail/20260406142111851800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "中国AI大模型调用量环比增逾31%，连续五周超越美国",
-          "url": "https://wallstreetcn.com/livenews/3082722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "迪拜南城（Dubai South）自贸区：宣布推出与阿联酋经济稳定举措相一致的支持方案。该方案包括与合同续签挂钩的免租激励措施，以及更为灵活的付款延期政策。",
-          "url": "https://flash.jin10.com/detail/20260406142101944800",
-          "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时43分"
+          "time_info": "00时48分"
         },
         {
-          "title": "AirAsia X创始人：飞机交付未出现延误；今年将按计划接收四架新机。",
-          "url": "https://flash.jin10.com/detail/20260406120359099800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "男子用AI写歌仅版权赚了5位数",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8AI%E5%86%99%E6%AD%8C%E4%BB%85%E7%89%88%E6%9D%83%E8%B5%9A%E4%BA%865%E4%BD%8D%E6%95%B0%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "AirAsia X创始人：不受林吉特汇率波动影响；油价是最关键因素。",
-          "url": "https://flash.jin10.com/detail/20260406120353341800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "AirAsia X创始人：马来西亚国家石油公司告知我们，燃油储备可维持至6月。越南和泰国对飞机加油仍有一定限制。",
-          "url": "https://flash.jin10.com/detail/20260406120124811800",
-          "source": "金十数据",
+          "title": "钢铁森林卧底线开始虐了",
+          "url": "https://www.douyin.com/hot/2456851",
+          "source": "抖音",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时25分"
+          "time_info": "00时48分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 18,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "日本央行名古屋分行行长：该地区部分企业担心，外汇市场波动及中东冲突带来的不确定性会通过恶化家庭和企业信心而损害经济。",
-          "url": "https://flash.jin10.com/detail/20260406151611439800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "日本经济再生担当大臣木内康弘：疲软日元有利有弊。",
-          "url": "https://wallstreetcn.com/livenews/3082714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 13时25分]"
-        },
-        {
-          "title": "经济日报金观平：高质量培育夜间经济",
-          "url": "https://wallstreetcn.com/livenews/3082687",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 10时31分]"
-        },
-        {
-          "title": "商务部等6部门发布《关于更好服务实体经济 推进电子商务高质量发展的指导意见》",
-          "url": "https://wallstreetcn.com/livenews/3082712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 13时25分]"
-        },
         {
           "title": "网红牙膏品牌“参半”递表港交所：营收暴增82.5%却出现首亏，六成收入砸向营销",
           "url": "https://m.thepaper.cn/newsDetail_forward_32893974",
@@ -464,247 +148,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时46分 ~ 23时47分]"
-        },
-        {
-          "title": "韩国总理：与经济基本面的其他指标相比，韩元的走势过度疲软。",
-          "url": "https://wallstreetcn.com/livenews/3082750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 17时09分]"
-        },
-        {
-          "title": "欧洲央行管委斯图纳拉斯：欧元区经济增长预测存在下行风险，反映出其对能源供应中断的结构性脆弱性。",
-          "url": "https://flash.jin10.com/detail/20260406163123708800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "韩国总理：韩元疲软程度超出经济基本面的其他指标。",
-          "url": "https://flash.jin10.com/detail/20260406145929755800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "欧洲央行管委斯图纳拉斯：地缘政治不确定性下，希腊经济增速将于2026年放缓至1.9%。",
-          "url": "https://flash.jin10.com/detail/20260406162302808800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "日本央行大阪分行行长：迄今为止，历次加息对企业融资状况和经济活动未产生重大影响。",
-          "url": "https://flash.jin10.com/detail/20260406144503224800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时43分"
+          "time_info": "00时48分"
         },
         {
           "title": "美国白宫经济顾问哈塞特：各州应该采取行动来解决汽油价格（上涨）问题。 美联储应该能够降低利率。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3082879",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "日本央行大阪分行行长：若中东冲突持续，对经济活动的负面影响可能扩大。",
-          "url": "https://flash.jin10.com/detail/20260406143357115800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "日本央行大阪分行行长：中东冲突迄今对近畿西部地区经济活动的影响有限。",
-          "url": "https://flash.jin10.com/detail/20260406143348829800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "加拿大至4月3日全国经济信心指数 46.9，前值49.2。",
-          "url": "https://flash.jin10.com/detail/20260406200302895800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "东盟与中日韩宏观经济研究办公室：2026年地区经济预计增长4%",
-          "url": "https://wallstreetcn.com/livenews/3082724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "泰国总理政策声明草案显示，泰国将聚焦经济复苏、旅游业和改善民生福祉；将升级农业、促进投资。",
-          "url": "https://flash.jin10.com/detail/20260406115749361800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "印尼经济部长：印尼将上调航空燃油附加费。",
-          "url": "https://flash.jin10.com/detail/20260406153842176800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "多家国际机构说美以伊战事对非洲经济构成严重风险",
-          "url": "https://flash.jin10.com/detail/20260406115643907800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "特朗普再次威胁：“4月7日将是伊朗的发电厂日和大桥日”，“打开那个该死的海峡”！",
-          "url": "https://wallstreetcn.com/articles/3769295",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时37分 ~ 21时10分]"
-        },
-        {
-          "title": "特朗普：若伊朗未在7日晚前开放霍尔木兹海峡将打击其发电厂",
-          "url": "https://wallstreetcn.com/livenews/3082668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 07时34分]"
-        },
-        {
-          "title": "韩国计划将可再生能源发电占比提升至20%",
-          "url": "https://wallstreetcn.com/livenews/3082757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 17时09分]"
-        },
-        {
-          "title": "科威特称两座发电和海水淡化厂遭伊朗无人机袭击",
-          "url": "https://wallstreetcn.com/articles/3769275",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时44分]"
-        },
-        {
-          "title": "钢铁森林卧底线开始虐了",
-          "url": "https://www.douyin.com/hot/2456851",
-          "source": "抖音",
-          "ranks": [
-            24,
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时43分 ~ 19时51分]"
-        },
-        {
-          "title": "美国总统特朗普谈及伊朗问题，声称：周二是最后期限。 我已看过所有提议的方案。 伊朗的提议迈出了重要一步，但还不够好。 如果他们（伊朗）做好某些事，战争可能很快就会结束。 那些代表伊朗说话的人现在更加理性。 重申伊朗不能拥有核武器。 如果伊朗不让步，就不会有桥梁和发电站。 美国民众想要我们（在发动战争后）赢，然后（让美军）回国。 我希望美国赢，然后回国。",
-          "url": "https://wallstreetcn.com/livenews/3082880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "美国总统特朗普：如果伊朗不让步，就不会有桥梁和发电。",
-          "url": "https://flash.jin10.com/detail/20260406231551054800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
+          "time_info": "00时48分"
         }
       ]
     }
