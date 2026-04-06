@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T03:00:18.903174+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-04-07T03:56:38.306394+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时56分]"
         },
         {
           "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
@@ -24,11 +24,51 @@
           "source": "知乎",
           "ranks": [
             3,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时56分]"
+        },
+        {
+          "title": "机器人保姆“上岗”了",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BF%9D%E5%A7%86%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            12,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时56分]"
+        },
+        {
+          "title": "易烊千玺被“换脸”？红果短剧：坚决打击AI短剧素材违规使用、无授权盗用等行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32911737",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时56分]"
+        },
+        {
+          "title": "母亲不知儿子去世跟AI儿子聊了1年",
+          "url": "https://www.toutiao.com/trending/7625239644062023743/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时56分]"
         },
         {
           "title": "报道：OpenAI计划最早今年四季度IPO",
@@ -43,65 +83,29 @@
           "time_info": "[00时48分 ~ 01时44分]"
         },
         {
-          "title": "机器人保姆“上岗”了",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BF%9D%E5%A7%86%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 03时00分]"
-        },
-        {
-          "title": "易烊千玺被“换脸”？红果短剧：坚决打击AI短剧素材违规使用、无授权盗用等行为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32911737",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 03时00分]"
-        },
-        {
-          "title": "母亲不知儿子去世跟AI儿子聊了1年",
-          "url": "https://www.toutiao.com/trending/7625239644062023743/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 03时00分]"
-        },
-        {
           "title": "如何看软著申请严查AI新规",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E8%BD%AF%E8%91%97%E7%94%B3%E8%AF%B7%E4%B8%A5%E6%9F%A5AI%E6%96%B0%E8%A7%84",
           "source": "bilibili 热搜",
           "ranks": [
             20,
-            28
+            28,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 03时00分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时56分]"
         },
         {
           "title": "男子用 AI 写歌仅版权就赚了五位数，AI 还能怎样用来变现？各地「一人公司」扶持政策能带来哪些利好？",
           "url": "https://www.zhihu.com/question/2024406743845794724",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 03时00分]"
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 03时56分]"
         },
         {
           "title": "Meta Platforms将发布其下一代AI模型的开源版本。（Axios）",
@@ -116,6 +120,29 @@
           "time_info": "[01时44分 ~ 03时00分]"
         },
         {
+          "title": "AI热潮推动美国旧金山房价涨至215万美元，创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3082921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时00分 ~ 03时56分]"
+        },
+        {
+          "title": "英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装",
+          "url": "https://wallstreetcn.com/livenews/3082940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
           "title": "据CNBC：OpenAI计划最早于第四季度进行IPO。OpenAI首席执行官、首席财务官在筹集1220亿美元后对IPO“充满信心”。",
           "url": "https://flash.jin10.com/detail/20260407000320677800",
           "source": "金十数据",
@@ -127,15 +154,15 @@
           "time_info": "00时48分"
         },
         {
-          "title": "AI热潮推动美国旧金山房价涨至215万美元，创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3082921",
-          "source": "华尔街见闻-快讯",
+          "title": "美媒：Meta将发布其下一代AI模型的开源版本",
+          "url": "https://flash.jin10.com/detail/20260407030914594800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时00分"
+          "time_info": "03时56分"
         },
         {
           "title": "公司用AI复刻离职员工继续工作",
@@ -163,8 +190,44 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "WTI原油5分钟内下跌0.6美元/桶，报112.9美元/桶。 美国总统特朗普声称，明晚（美东时间）8点的最后期限一过，伊朗将失去桥梁。 如果没有协议，伊朗将失去桥梁和发电站。 与伊朗谈判的最大问题是，他们无法沟通。 美国已经有计划在明晚前摧毁伊朗的桥梁。 美国可以帮助伊朗重建。 美国最不想做的，局势重建发电厂。 “我不想摧毁”伊朗的基础设施。 伊朗重建的唯一途径就是通过美国。",
+          "url": "https://wallstreetcn.com/livenews/3082930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时00分 ~ 03时56分]"
+        },
+        {
+          "title": "标普500指数涨幅重新收窄至不足0.1%。 美国总统特朗普继续宣称，无法让伊朗拥有核武器。 伊朗人“想要我们继续轰炸”。 美军飞行员被手持肩扛式导弹击中。 不希望库尔德武装参与（伊朗战争）。 希望“我不必袭击伊朗发电站和基础设施”。 被问及是否会缩减战争规模，称“我无法告诉你们”。 被问及战争结束问题，称“取决于伊朗的行动”。 伊朗正在真诚地谈判。",
+          "url": "https://wallstreetcn.com/livenews/3082923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时00分 ~ 03时56分]"
+        },
+        {
+          "title": "钢铁森林卧底线开始虐了",
+          "url": "https://www.douyin.com/hot/2456851",
+          "source": "抖音",
+          "ranks": [
+            27,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 03时56分]"
+        },
         {
           "title": "美国总统特朗普：我不想摧毁伊朗的基础设施。我们最不想做的就是重建发电厂。",
           "url": "https://flash.jin10.com/detail/20260407023151889800",
@@ -172,20 +235,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         },
         {
-          "title": "WTI原油5分钟内下跌0.6美元/桶，报112.9美元/桶。 美国总统特朗普声称，明晚（美东时间）8点的最后期限一过，伊朗将失去桥梁。 如果没有协议，伊朗将失去桥梁和发电站。 与伊朗谈判的最大问题是，他们无法沟通。 美国已经有计划在明晚前摧毁伊朗的桥梁。 美国可以帮助伊朗重建。 美国最不想做的，局势重建发电厂。 “我不想摧毁”伊朗的基础设施。 伊朗重建的唯一途径就是通过美国。",
-          "url": "https://wallstreetcn.com/livenews/3082930",
+          "title": "特朗普再发威胁：若伊朗不在7日20时前“投降”，4小时摧毁伊朗桥梁发电厂",
+          "url": "https://wallstreetcn.com/livenews/3082938",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时00分"
+          "time_info": "03时56分"
         },
         {
           "title": "美国总统特朗普：若到12点仍未能达成协议，所有桥梁、发电厂都将被摧毁。",
@@ -194,7 +257,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         },
@@ -205,20 +268,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         },
         {
-          "title": "标普500指数涨幅重新收窄至不足0.1%。 美国总统特朗普继续宣称，无法让伊朗拥有核武器。 伊朗人“想要我们继续轰炸”。 美军飞行员被手持肩扛式导弹击中。 不希望库尔德武装参与（伊朗战争）。 希望“我不必袭击伊朗发电站和基础设施”。 被问及是否会缩减战争规模，称“我无法告诉你们”。 被问及战争结束问题，称“取决于伊朗的行动”。 伊朗正在真诚地谈判。",
-          "url": "https://wallstreetcn.com/livenews/3082923",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称4小时内可摧毁伊朗桥梁和发电厂",
+          "url": "https://flash.jin10.com/detail/20260407025810321800",
+          "source": "金十数据",
           "ranks": [
-            14
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时00分"
+          "time_info": "03时56分"
         },
         {
           "title": "美国总统特朗普谈及伊朗问题，声称：周二是最后期限。 我已看过所有提议的方案。 伊朗的提议迈出了重要一步，但还不够好。 如果他们（伊朗）做好某些事，战争可能很快就会结束。 那些代表伊朗说话的人现在更加理性。 重申伊朗不能拥有核武器。 如果伊朗不让步，就不会有桥梁和发电站。 美国民众想要我们（在发动战争后）赢，然后（让美军）回国。 我希望美国赢，然后回国。",
@@ -230,24 +293,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
-        },
-        {
-          "title": "钢铁森林卧底线开始虐了",
-          "url": "https://www.douyin.com/hot/2456851",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 2,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "巴西财长：我们将出台措施，确保低收入家庭液化石油气的进口和分配。",
+          "url": "https://flash.jin10.com/detail/20260407033628991800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
         {
           "title": "网红牙膏品牌“参半”递表港交所：营收暴增82.5%却出现首亏，六成收入砸向营销",
           "url": "https://m.thepaper.cn/newsDetail_forward_32893974",
@@ -257,8 +320,41 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时56分]"
+        },
+        {
+          "title": "IMF：中东战争将导致经济增长放缓，通胀加剧",
+          "url": "https://wallstreetcn.com/livenews/3082941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：如果俄罗斯能够承担这场战争的代价，它绝不会主动选择和平。只有巨大的经济损失才会迫使俄罗斯考虑放弃这场战争的可能性。",
+          "url": "https://flash.jin10.com/detail/20260407031047148800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：若战争持续，对通胀和经济增长的影响将更大。",
+          "url": "https://flash.jin10.com/detail/20260407024815049800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         },
         {
           "title": "美国白宫经济顾问哈塞特：各州应该采取行动来解决汽油价格（上涨）问题。 美联储应该能够降低利率。（CNBC）",
@@ -270,6 +366,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：即便冲突迅速结束、经济相当快速复苏，经济增长预期仍将下调，通胀预期则将上调。",
+          "url": "https://flash.jin10.com/detail/20260407024713246800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：若没有战争，IMF原本预计将其2026年3.3%的经济增长预期小幅上调；然而如今“所有路径都指向更高的物价和更慢的增长”。",
+          "url": "https://flash.jin10.com/detail/20260407024700269800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：中东战争将导致通胀加剧、全球经济增长放缓。",
+          "url": "https://flash.jin10.com/detail/20260407024636537800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         }
       ]
     }
