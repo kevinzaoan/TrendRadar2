@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T07:36:39.288197+08:00",
-  "total_titles_processed": 681,
+  "generated_at": "2026-04-07T10:26:22.604625+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
@@ -15,8 +15,25 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 10时26分]"
+        },
+        {
+          "title": "男子用 AI 写歌仅版权就赚了五位数，AI 还能怎样用来变现？各地「一人公司」扶持政策能带来哪些利好？",
+          "url": "https://www.zhihu.com/question/2024406743845794724",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16,
+            14,
+            10,
+            9,
+            8,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时48分 ~ 07时36分]"
+          "time_info": "[01时44分 ~ 10时26分]"
         },
         {
           "title": "易烊千玺被“换脸”？红果短剧：坚决打击AI短剧素材违规使用、无授权盗用等行为",
@@ -24,11 +41,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 10时26分]"
         },
         {
           "title": "母亲不知儿子去世跟AI儿子聊了1年",
@@ -63,22 +81,6 @@
           "time_info": "[01时44分 ~ 07时36分]"
         },
         {
-          "title": "男子用 AI 写歌仅版权就赚了五位数，AI 还能怎样用来变现？各地「一人公司」扶持政策能带来哪些利好？",
-          "url": "https://www.zhihu.com/question/2024406743845794724",
-          "source": "知乎",
-          "ranks": [
-            20,
-            16,
-            14,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时44分 ~ 07时36分]"
-        },
-        {
           "title": "机器人保姆“上岗”了",
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BF%9D%E5%A7%86%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D%E4%BA%86",
           "source": "百度热搜",
@@ -106,6 +108,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时48分 ~ 03时56分]"
+        },
+        {
+          "title": "中国AI大模型调用量连续五周超美国",
+          "url": "https://www.toutiao.com/trending/7625463207994179611/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "报道：OpenAI计划最早今年四季度IPO",
@@ -180,6 +193,28 @@
           "time_info": "[03时00分 ~ 03时56分]"
         },
         {
+          "title": "Sand.ai旗下产品VidMuse ARR最快破千万美金，公司完成新一轮超五千万美金融资",
+          "url": "https://wallstreetcn.com/livenews/3083088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "如果创造一个汉字来代替「AI」这个词，你会如何创造它的字形与发音，为什么？",
+          "url": "https://www.zhihu.com/question/667901263",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
           "title": "据CNBC：OpenAI计划最早于第四季度进行IPO。OpenAI首席执行官、首席财务官在筹集1220亿美元后对IPO“充满信心”。",
           "url": "https://flash.jin10.com/detail/20260407000320677800",
           "source": "金十数据",
@@ -197,7 +232,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         },
@@ -227,7 +262,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "网红牙膏品牌“参半”递表港交所：营收暴增82.5%却出现首亏，六成收入砸向营销",
@@ -235,11 +270,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            20
+            20,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 10时26分]"
         },
         {
           "title": "清明出游半径显著扩展，演唱会经济成文旅市场新引擎",
@@ -248,7 +284,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         },
@@ -337,6 +373,17 @@
           "time_info": "[03时56分 ~ 04时38分]"
         },
         {
+          "title": "经济日报：科学看待“菜比肉贵”现象",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32914978",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
           "title": "高盛：短期内预计铜价将继续保持波动，市场仍在评估中东局势对全球经济增长的影响。",
           "url": "https://flash.jin10.com/detail/20260407053632131800",
           "source": "金十数据",
@@ -401,6 +448,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "电商要更好服务实体经济",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%95%86%E8%A6%81%E6%9B%B4%E5%A5%BD%E6%9C%8D%E5%8A%A1%E5%AE%9E%E4%BD%93%E7%BB%8F%E6%B5%8E%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         }
       ]
     },
@@ -420,8 +478,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 07时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 10时26分]"
         },
         {
           "title": "WTI原油5分钟内下跌0.6美元/桶，报112.9美元/桶。 美国总统特朗普声称，明晚（美东时间）8点的最后期限一过，伊朗将失去桥梁。 如果没有协议，伊朗将失去桥梁和发电站。 与伊朗谈判的最大问题是，他们无法沟通。 美国已经有计划在明晚前摧毁伊朗的桥梁。 美国可以帮助伊朗重建。 美国最不想做的，局势重建发电厂。 “我不想摧毁”伊朗的基础设施。 伊朗重建的唯一途径就是通过美国。",
