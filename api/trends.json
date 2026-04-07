@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T10:26:22.604625+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-04-07T13:09:47.522583+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
@@ -42,11 +42,12 @@
           "ranks": [
             14,
             15,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时48分 ~ 10时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时48分 ~ 13时09分]"
         },
         {
           "title": "母亲不知儿子去世跟AI儿子聊了1年",
@@ -110,15 +111,38 @@
           "time_info": "[00时48分 ~ 03时56分]"
         },
         {
+          "title": "芭比大战AI偶像",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%AD%E6%AF%94%E5%A4%A7%E6%88%98AI%E5%81%B6%E5%83%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "OpenAI：GPT5.4是处理复杂低级工程工作的最佳模型。在现有代码库中没有任何模型能与之媲美。",
+          "url": "https://flash.jin10.com/detail/20260407123739903800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
           "title": "中国AI大模型调用量连续五周超美国",
           "url": "https://www.toutiao.com/trending/7625463207994179611/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 13时09分]"
         },
         {
           "title": "报道：OpenAI计划最早今年四季度IPO",
@@ -169,6 +193,17 @@
           "time_info": "[03时56分 ~ 04时38分]"
         },
         {
+          "title": "如果创造一个汉字来代替「AI」这个词，你会如何创造它的字形与发音，为什么？",
+          "url": "https://www.zhihu.com/question/667901263",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 13时09分]"
+        },
+        {
           "title": "美媒：Meta将发布其下一代AI模型的开源版本",
           "url": "https://flash.jin10.com/detail/20260407030914594800",
           "source": "金十数据",
@@ -193,24 +228,24 @@
           "time_info": "[03时00分 ~ 03时56分]"
         },
         {
+          "title": "英国拟对银行AI模型进行标准化测试",
+          "url": "https://flash.jin10.com/detail/20260407122348424800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
           "title": "Sand.ai旗下产品VidMuse ARR最快破千万美金，公司完成新一轮超五千万美金融资",
           "url": "https://wallstreetcn.com/livenews/3083088",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "如果创造一个汉字来代替「AI」这个词，你会如何创造它的字形与发音，为什么？",
-          "url": "https://www.zhihu.com/question/667901263",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -262,7 +297,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "网红牙膏品牌“参半”递表港交所：营收暴增82.5%却出现首亏，六成收入砸向营销",
@@ -271,11 +306,12 @@
           "ranks": [
             19,
             20,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时48分 ~ 10时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时48分 ~ 13时09分]"
         },
         {
           "title": "清明出游半径显著扩展，演唱会经济成文旅市场新引擎",
@@ -377,11 +413,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32914978",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 13时09分]"
         },
         {
           "title": "高盛：短期内预计铜价将继续保持波动，市场仍在评估中东局势对全球经济增长的影响。",
@@ -404,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "伊朗冲突威胁全球经济增长 高盛警告称铜价面临进一步下跌风险",
+          "url": "https://flash.jin10.com/detail/20260407115507902800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "美国白宫经济顾问哈塞特：各州应该采取行动来解决汽油价格（上涨）问题。 美联储应该能够降低利率。（CNBC）",
@@ -456,7 +504,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         }
