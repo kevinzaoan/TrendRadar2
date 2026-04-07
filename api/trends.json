@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T19:55:12.575342+08:00",
-  "total_titles_processed": 1559,
+  "generated_at": "2026-04-07T21:19:36.113415+08:00",
+  "total_titles_processed": 1684,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
@@ -98,6 +98,31 @@
           "time_info": "[00时48分 ~ 07时36分]"
         },
         {
+          "title": "大魔王迎战硬刚马斯克AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352857&amp;topic_name=%E5%A4%A7%E9%AD%94%E7%8E%8B%E8%BF%8E%E6%88%98%E7%A1%AC%E5%88%9A%E9%A9%AC%E6%96%AF%E5%85%8BAI",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时17分 ~ 21时19分]"
+        },
+        {
+          "title": "AI染指鬼灭,日网友气急跳脚",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352871&amp;topic_name=AI%E6%9F%93%E6%8C%87%E9%AC%BC%E7%81%AD%2C%E6%97%A5%E7%BD%91%E5%8F%8B%E6%B0%94%E6%80%A5%E8%B7%B3%E8%84%9A",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时03分 ~ 21时19分]"
+        },
+        {
           "title": "Faker称已准备好迎战马斯克AI",
           "url": "https://search.bilibili.com/all?keyword=Faker%E7%A7%B0%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E8%BF%8E%E6%88%98%E9%A9%AC%E6%96%AF%E5%85%8BAI",
           "source": "bilibili 热搜",
@@ -122,29 +147,29 @@
           "time_info": "[00时48分 ~ 03时56分]"
         },
         {
-          "title": "大魔王迎战硬刚马斯克AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352857&amp;topic_name=%E5%A4%A7%E9%AD%94%E7%8E%8B%E8%BF%8E%E6%88%98%E7%A1%AC%E5%88%9A%E9%A9%AC%E6%96%AF%E5%85%8BAI",
-          "source": "贴吧",
+          "title": "如何看待电竞假赛选手 naiyou 被终身禁赛，却仍被指「百万撤离」无实质处罚？",
+          "url": "https://www.zhihu.com/question/2021524973303408230",
+          "source": "知乎",
           "ranks": [
-            5,
-            8,
-            11
+            20,
+            18,
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时17分 ~ 19时55分]"
+          "appearance_count": 6,
+          "time_info": "[15时17分 ~ 21时19分]"
         },
         {
-          "title": "AI染指鬼灭,日网友气急跳脚",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352871&amp;topic_name=AI%E6%9F%93%E6%8C%87%E9%AC%BC%E7%81%AD%2C%E6%97%A5%E7%BD%91%E5%8F%8B%E6%B0%94%E6%80%A5%E8%B7%B3%E8%84%9A",
-          "source": "贴吧",
+          "title": "AI时代鸡娃还有意义吗",
+          "url": "https://www.baidu.com/s?wd=AI%E6%97%B6%E4%BB%A3%E9%B8%A1%E5%A8%83%E8%BF%98%E6%9C%89%E6%84%8F%E4%B9%89%E5%90%97",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时03分 ~ 19时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "芭比大战AI偶像",
@@ -167,19 +192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
-        },
-        {
-          "title": "如何看待电竞假赛选手 naiyou 被终身禁赛，却仍被指「百万撤离」无实质处罚？",
-          "url": "https://www.zhihu.com/question/2021524973303408230",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时17分 ~ 19时55分]"
         },
         {
           "title": "中国AI大模型调用量连续五周超美国",
@@ -288,6 +300,17 @@
           "time_info": "[03时00分 ~ 03时56分]"
         },
         {
+          "title": "京东开源图像模型JoyAI-Image-Edit",
+          "url": "https://flash.jin10.com/detail/20260407211119572800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "英国拟对银行AI模型进行标准化测试",
           "url": "https://flash.jin10.com/detail/20260407122348424800",
           "source": "金十数据",
@@ -349,7 +372,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -360,7 +383,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -390,7 +413,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "网红牙膏品牌“参半”递表港交所：营收暴增82.5%却出现首亏，六成收入砸向营销",
@@ -426,11 +449,12 @@
             14,
             16,
             13,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时26分 ~ 19时55分]"
+          "appearance_count": 8,
+          "time_info": "[10时26分 ~ 21时19分]"
         },
         {
           "title": "清明出游半径显著扩展，演唱会经济成文旅市场新引擎",
@@ -546,7 +570,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -615,6 +639,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
+        },
+        {
+          "title": "美国纽约联储主席威廉姆斯：劳动力市场状况相当复杂。 当前就业市场呈现“低招聘、低裁员”的状态。 预计今年晚些时候基础通胀将趋于温和。 美国经济表现出极强的韧性，科技广泛提升了生产力水平。 薪酬增长与生产力相一致，并未对通胀造成压力。 企业一直在适应更加不确定的世界。",
+          "url": "https://wallstreetcn.com/livenews/3083506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "我国广告产业年收入首次突破2万亿元",
@@ -708,7 +743,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "钢铁森林卧底线开始虐了",
@@ -724,6 +759,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时48分 ~ 10时26分]"
+        },
+        {
+          "title": "伊朗高级消息人士：卡塔尔于周一向美方转达了伊朗关于打击发电厂的立场。",
+          "url": "https://flash.jin10.com/detail/20260407211556894800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
+          "title": "伊朗高级消息人士：如果美国袭击伊朗的发电厂，整个地区及沙特阿拉伯将陷入彻底的黑暗之中。",
+          "url": "https://flash.jin10.com/detail/20260407211546433800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "WTI原油5分钟内下跌0.6美元/桶，报112.9美元/桶。 美国总统特朗普声称，明晚（美东时间）8点的最后期限一过，伊朗将失去桥梁。 如果没有协议，伊朗将失去桥梁和发电站。 与伊朗谈判的最大问题是，他们无法沟通。 美国已经有计划在明晚前摧毁伊朗的桥梁。 美国可以帮助伊朗重建。 美国最不想做的，局势重建发电厂。 “我不想摧毁”伊朗的基础设施。 伊朗重建的唯一途径就是通过美国。",
