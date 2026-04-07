@@ -1,11 +1,144 @@
 {
-  "generated_at": "2026-04-08T05:42:35.737877+08:00",
-  "total_titles_processed": 597,
+  "generated_at": "2026-04-08T06:38:43.162072+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "经济 房地产 收入",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "房地产高薪退潮：千万年薪销声匿迹",
+          "url": "https://www.baidu.com/s?wd=%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%AB%98%E8%96%AA%E9%80%80%E6%BD%AE%EF%BC%9A%E5%8D%83%E4%B8%87%E5%B9%B4%E8%96%AA%E9%94%80%E5%A3%B0%E5%8C%BF%E8%BF%B9",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            10,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
+        },
+        {
+          "title": "经济日报：科学看待“菜比肉贵”现象",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32914978",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
+        },
+        {
+          "title": "伊朗武装部队哈塔姆·安比亚中央司令部发言人：将以更强力度继续对以色列及美国在该地区的军事、安全和经济基础设施发动袭击。",
+          "url": "https://flash.jin10.com/detail/20260408042917398800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "IMF总裁称拟下调全球增长预测，警告全球经济应对冲击能力不足",
+          "url": "https://wallstreetcn.com/livenews/3083728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时38分]"
+        },
+        {
+          "title": "周二（4月7日），美股大类资产类ETF多数收涨，恐慌指数做多涨3.36%，黄金ETF涨0.97%，巴克莱美国可转债ETF涨0.67%，欧元做多、新兴市场ETF、罗素2000指数ETF、美国房地产ETF、标普500 ETF、日元做多、纳指100 ETF至多涨0.42%。 美国国债20+年ETF则收跌0.01%，道指ETF跌0.19%，做多美元指数跌0.29%，大豆基金跌0.59%，农产品基金跌0.99%，美国布伦特油价基金跌2.10%。",
+          "url": "https://wallstreetcn.com/livenews/3083722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时38分]"
+        },
+        {
+          "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：石油价格可能会按滞胀的方式推高价格。 招聘偏低、解雇偏低，这都是不确定性。 我对经济前景持谨慎态度，并感到紧张。 高通胀持续的时间越长，就约会根深蒂固地融入经济。",
+          "url": "https://wallstreetcn.com/livenews/3083651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "美联储副主席Jefferson：在面临不确定性之际，利率政策处于不错的状态。 美联储能够针对一系列经济后果做出反应。 劳动力市场趋于稳定，但在冲击面前是脆弱的。 能源成本偏高，可能会不利于消费者和企业。 我将致力于推动美联储实现通胀朝着目标2%靠拢。",
+          "url": "https://wallstreetcn.com/livenews/3083737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "美联储副主席杰斐逊对经济前景持谨慎态度，因不确定性加剧。",
+          "url": "https://flash.jin10.com/detail/20260408055050046800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "美联储副主席杰斐逊将于十分钟后就经济前景和劳动力市场发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260408054000001800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "房地产高薪退潮：郁亮去年薪水24万",
+          "url": "https://www.toutiao.com/trending/7625957305489559078/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "美联储古尔斯比：高通胀持续的时间越长，就越会深深扎根于经济之中。",
+          "url": "https://flash.jin10.com/detail/20260408010903465800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "Claude防话痨插件爆火",
@@ -15,8 +148,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -26,8 +159,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -37,8 +170,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
         },
         {
           "title": "Anthropic：“GLASSWING”项目由Claude Mythos预览版提供支持；合作方将利用Mythos预览版开展防御性安全工作。",
@@ -74,6 +207,17 @@
           "time_info": "04时51分"
         },
         {
+          "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
+          "url": "https://www.cls.cn/detail/2336990",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
           "title": "Anthropic正创建一个名为Project Glasswing的倡议，允许苹果、亚马逊测试更加强大的AI模型Mythos。",
           "url": "https://wallstreetcn.com/livenews/3083664",
           "source": "华尔街见闻-快讯",
@@ -83,91 +227,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济 房地产 收入",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "房地产高薪退潮：千万年薪销声匿迹",
-          "url": "https://www.baidu.com/s?wd=%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%AB%98%E8%96%AA%E9%80%80%E6%BD%AE%EF%BC%9A%E5%8D%83%E4%B8%87%E5%B9%B4%E8%96%AA%E9%94%80%E5%A3%B0%E5%8C%BF%E8%BF%B9",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时42分]"
-        },
-        {
-          "title": "经济日报：科学看待“菜比肉贵”现象",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32914978",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时42分]"
-        },
-        {
-          "title": "伊朗武装部队哈塔姆·安比亚中央司令部发言人：将以更强力度继续对以色列及美国在该地区的军事、安全和经济基础设施发动袭击。",
-          "url": "https://flash.jin10.com/detail/20260408042917398800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "IMF总裁称拟下调全球增长预测，警告全球经济应对冲击能力不足",
-          "url": "https://wallstreetcn.com/livenews/3083728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        },
-        {
-          "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：石油价格可能会按滞胀的方式推高价格。 招聘偏低、解雇偏低，这都是不确定性。 我对经济前景持谨慎态度，并感到紧张。 高通胀持续的时间越长，就约会根深蒂固地融入经济。",
-          "url": "https://wallstreetcn.com/livenews/3083651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
-          "title": "周二（4月7日），美股大类资产类ETF多数收涨，恐慌指数做多涨3.36%，黄金ETF涨0.97%，巴克莱美国可转债ETF涨0.67%，欧元做多、新兴市场ETF、罗素2000指数ETF、美国房地产ETF、标普500 ETF、日元做多、纳指100 ETF至多涨0.42%。 美国国债20+年ETF则收跌0.01%，道指ETF跌0.19%，做多美元指数跌0.29%，大豆基金跌0.59%，农产品基金跌0.99%，美国布伦特油价基金跌2.10%。",
-          "url": "https://wallstreetcn.com/livenews/3083722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        },
-        {
-          "title": "美联储古尔斯比：高通胀持续的时间越长，就越会深深扎根于经济之中。",
-          "url": "https://flash.jin10.com/detail/20260408010903465800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
         }
       ]
     },
@@ -185,8 +244,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
         },
         {
           "title": "伊朗民众组成人链保护发电厂桥梁",
@@ -196,8 +255,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时38分]"
         },
         {
           "title": "特朗普：伊朗让年轻人包围发电厂作为人肉盾牌是“完全非法的”，“他们不被允许这样做”。",
