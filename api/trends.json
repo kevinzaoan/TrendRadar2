@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T06:39:40.829975+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-04-09T07:39:16.998248+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时39分]"
         },
         {
           "title": "Claude防话痨插件爆火",
@@ -26,11 +26,12 @@
             26,
             22,
             23,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时39分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -40,8 +41,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时39分]"
         },
         {
           "title": "OpenAI的CFO Sarah Friar：公司将在IPO中配售股票给散户们。（CNBC）",
@@ -107,7 +108,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         },
@@ -118,7 +119,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         },
@@ -129,7 +130,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         },
@@ -140,7 +141,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         },
@@ -151,7 +152,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         }
@@ -169,8 +170,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时39分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：在CPI报告中，油价飙升可能只是一次性事件。",
@@ -214,7 +215,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         },
