@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T05:38:17.047742+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-04-11T06:38:04.039937+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 05时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 06时38分]"
         },
         {
           "title": "李强主持召开经济形势专家和企业家座谈会",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 05时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 06时38分]"
         },
         {
           "title": "标普：稳定前景反映出市场预期，即英国经济将能抵御与中东冲突相关的石油、天然气及其他投入品价格上涨所带来的冲击。",
@@ -38,19 +38,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时38分]"
+          "appearance_count": 3,
+          "time_info": "[04时37分 ~ 06时38分]"
         },
         {
           "title": "猪肉价格下降背后藏着什么经济信号",
           "url": "https://www.toutiao.com/trending/7627081362708631094/",
           "source": "今日头条",
           "ranks": [
-            30
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时43分 ~ 06时38分]"
+        },
+        {
+          "title": "消息人士透露，沙特财政部长访问巴基斯坦以展示经济支持。",
+          "url": "https://flash.jin10.com/detail/20260411040527255800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时43分 ~ 04时37分]"
+          "time_info": "[04时37分 ~ 06时38分]"
         },
         {
           "title": "全美经济顾问哈塞特：希望汽油价格上涨不至于影响到其他东西。",
@@ -63,18 +76,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时44分 ~ 04时37分]"
-        },
-        {
-          "title": "消息人士透露，沙特财政部长访问巴基斯坦以展示经济支持。",
-          "url": "https://flash.jin10.com/detail/20260411040527255800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时38分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：此次事件对GDP的影响有限。",
@@ -149,7 +150,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         }
@@ -167,19 +168,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 05时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 06时38分]"
         },
         {
           "title": "AI换脸偷声侵权，那么大模型训练呢？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 05时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 06时38分]"
         },
         {
           "title": "美财长与美联储主席召开紧急会议，称 Claude 新模型对金融业有巨大风险，是指什么？究竟有多危险？",
@@ -189,8 +191,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 05时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 06时38分]"
         },
         {
           "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
@@ -199,9 +201,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时38分]"
         },
         {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
@@ -243,11 +245,12 @@
           "url": "https://www.toutiao.com/trending/7626953352832040996/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[02时53分 ~ 06时38分]"
         },
         {
           "title": "美国财长贝森特与副总统万斯向科技行业CEO们询问AI安全问题。 这发生在Anthropic发布Mythos之前。",
