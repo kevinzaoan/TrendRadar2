@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T21:59:08.804351+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2026-04-11T22:42:11.593721+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "贝森特与鲍威尔召集华尔街紧急开会：Claude新模型对金融业有巨大风险",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时42分 ~ 21时59分]"
+          "appearance_count": 11,
+          "time_info": "[16时42分 ~ 22时42分]"
         },
         {
           "title": "AI换脸偷声侵权，那么大模型训练呢？",
@@ -56,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时01分 ~ 21时59分]"
+          "appearance_count": 15,
+          "time_info": "[14时01分 ~ 22时42分]"
         },
         {
           "title": "郑丽文参访清华附中称想带机器人回家",
@@ -89,8 +89,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时14分 ~ 21时59分]"
+          "appearance_count": 13,
+          "time_info": "[15时14分 ~ 22时42分]"
         },
         {
           "title": "美财长与美联储主席召开紧急会议，称 Claude 新模型对金融业有巨大风险，是指什么？究竟有多危险？",
@@ -102,6 +102,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时52分 ~ 07时42分]"
+        },
+        {
+          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
+          "url": "https://wallstreetcn.com/articles/3769738",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时40分 ~ 22时42分]"
         },
         {
           "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
@@ -154,19 +168,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时53分 ~ 07时42分]"
-        },
-        {
-          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
-          "url": "https://wallstreetcn.com/articles/3769738",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时40分 ~ 21时59分]"
         },
         {
           "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
@@ -243,6 +244,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时12分 ~ 15时15分]"
+        },
+        {
+          "title": "机器人机器狗方阵献舞苏超开幕式",
+          "url": "https://www.toutiao.com/trending/7626963528087408182/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时58分 ~ 22时42分]"
         },
         {
           "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
@@ -355,18 +369,6 @@
           "time_info": "[15时15分 ~ 17时40分]"
         },
         {
-          "title": "机器人机器狗方阵献舞苏超开幕式",
-          "url": "https://www.toutiao.com/trending/7626963528087408182/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时58分 ~ 21时59分]"
-        },
-        {
           "title": "普京：俄须自主研发有竞争力的AI模型",
           "url": "https://www.toutiao.com/trending/7627072537363677227/",
           "source": "今日头条",
@@ -377,6 +379,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时42分 ~ 17时40分]"
+        },
+        {
+          "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
+          "url": "https://wallstreetcn.com/articles/3769740",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 22时42分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/3E_Vzh_i3rotK1w6yvq7f.jpg/lite\" height=\"120\"/></a>",
@@ -495,7 +508,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "李强主持召开经济形势专家和企业家座谈会",
@@ -528,8 +541,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时58分 ~ 21时59分]"
+          "appearance_count": 5,
+          "time_info": "[20时58分 ~ 22时42分]"
         },
         {
           "title": "一季度经济开局良好起步有力",
@@ -539,8 +552,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时58分 ~ 21时59分]"
+          "appearance_count": 5,
+          "time_info": "[20时58分 ~ 22时42分]"
         },
         {
           "title": "标普：稳定前景反映出市场预期，即英国经济将能抵御与中东冲突相关的石油、天然气及其他投入品价格上涨所带来的冲击。",
@@ -601,6 +614,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时44分 ~ 04时37分]"
+        },
+        {
+          "title": "收入降低的时候，怎么养娃更省钱？",
+          "url": "https://www.zhihu.com/question/384647710",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 22时42分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：此次事件对GDP的影响有限。",
