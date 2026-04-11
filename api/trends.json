@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T19:31:48.340551+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-04-11T20:58:28.221511+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "贝森特与鲍威尔召集华尔街紧急开会：Claude新模型对金融业有巨大风险",
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时42分 ~ 19时31分]"
+          "appearance_count": 7,
+          "time_info": "[16时42分 ~ 20时58分]"
         },
         {
           "title": "郑丽文参访清华附中称想带机器人回家",
@@ -72,8 +72,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时01分 ~ 19时31分]"
+          "appearance_count": 11,
+          "time_info": "[14时01分 ~ 20时58分]"
         },
         {
           "title": "美财长与美联储主席召开紧急会议，称 Claude 新模型对金融业有巨大风险，是指什么？究竟有多危险？",
@@ -85,6 +85,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时52分 ~ 07时42分]"
+        },
+        {
+          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/2026136705757902456",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 20时58分]"
         },
         {
           "title": "侵入式脑机“首秀”、康养机器人扎堆CMEF，前沿技术能否撑起智慧康养新蓝海？",
@@ -100,15 +111,19 @@
           "time_info": "[12时55分 ~ 17时40分]"
         },
         {
-          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
-          "url": "https://www.zhihu.com/question/2026136705757902456",
-          "source": "知乎",
+          "title": "我也来试一下这个wait",
+          "url": "https://www.douyin.com/hot/2462368",
+          "source": "抖音",
           "ranks": [
-            5
+            19,
+            22,
+            16,
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 19时31分]"
+          "appearance_count": 9,
+          "time_info": "[15时14分 ~ 20时58分]"
         },
         {
           "title": "郑丽文访清华附中：想带机器人回台湾",
@@ -123,20 +138,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时11分 ~ 15时15分]"
-        },
-        {
-          "title": "我也来试一下这个wait",
-          "url": "https://www.douyin.com/hot/2462368",
-          "source": "抖音",
-          "ranks": [
-            19,
-            22,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时14分 ~ 19时31分]"
         },
         {
           "title": "夫妻称用AI写公众号年赚200万被封号",
@@ -228,6 +229,18 @@
           "time_info": "[10时12分 ~ 15时15分]"
         },
         {
+          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
+          "url": "https://wallstreetcn.com/articles/3769738",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 20时58分]"
+        },
+        {
           "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
           "url": "https://flash.jin10.com/detail/20260411094848579800",
           "source": "金十数据",
@@ -277,18 +290,6 @@
           "time_info": "[10时12分 ~ 12时56分]"
         },
         {
-          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
-          "url": "https://wallstreetcn.com/articles/3769738",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 19时31分]"
-        },
-        {
           "title": "OpenAI就第三方库安全事件发布公告：未发现用户数据泄露或系统遭入侵",
           "url": "https://flash.jin10.com/detail/20260411094510379800",
           "source": "金十数据",
@@ -325,6 +326,18 @@
           "time_info": "[03时44分 ~ 04时37分]"
         },
         {
+          "title": "AI让新闻变成“流体”：液态内容生产开始成为现实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32940819",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时33分 ~ 20时58分]"
+        },
+        {
           "title": "普京呼吁发展具有全球竞争力且最大限度自主的国产AI模型",
           "url": "https://flash.jin10.com/detail/20260411142532640800",
           "source": "金十数据",
@@ -336,17 +349,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时15分 ~ 17时40分]"
-        },
-        {
-          "title": "AI让新闻变成“流体”：液态内容生产开始成为现实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32940819",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时33分 ~ 19时31分]"
         },
         {
           "title": "普京：俄须自主研发有竞争力的AI模型",
@@ -452,6 +454,28 @@
           "time_info": "04时37分"
         },
         {
+          "title": "AI短片《雪山救狐狸》爆火背后",
+          "url": "https://www.toutiao.com/trending/7627304476291940362/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "机器人机器狗方阵献舞苏超开幕式",
+          "url": "https://www.toutiao.com/trending/7626963528087408182/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/L0FUuQ9wjv5TrILFaKkYG.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260410233017921800",
           "source": "金十数据",
@@ -466,7 +490,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "李强主持召开经济形势专家和企业家座谈会",
@@ -502,6 +526,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时37分 ~ 07时42分]"
+        },
+        {
+          "title": "我国经济一季度交出亮眼答卷",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%B8%80%E5%AD%A3%E5%BA%A6%E4%BA%A4%E5%87%BA%E4%BA%AE%E7%9C%BC%E7%AD%94%E5%8D%B7%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "一季度经济开局良好起步有力",
+          "url": "https://www.douyin.com/hot/2463093",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "猪肉价格下降背后藏着什么经济信号",
@@ -616,6 +662,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "美国总统特朗普：我们的石油储量比排在我们之后的两个最大产油经济体的总和还要多，而且品质更高。",
+          "url": "https://flash.jin10.com/detail/20260411193245673800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "美国总统特朗普：美国准备提振匈牙利经济。",
