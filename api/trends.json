@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-13T07:35:41.923110+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-04-13T10:39:49.745496+08:00",
+  "total_titles_processed": 743,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "央视曝光AI“造黄”产业链",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E2%80%9C%E9%80%A0%E9%BB%84%E2%80%9D%E4%BA%A7%E4%B8%9A%E9%93%BE",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时35分]"
-        },
         {
           "title": "国产AI模型为何大多免费",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7AI%E6%A8%A1%E5%9E%8B%E4%B8%BA%E4%BD%95%E5%A4%A7%E5%A4%9A%E5%85%8D%E8%B4%B9",
@@ -30,16 +19,16 @@
           "time_info": "[00时39分 ~ 07时35分]"
         },
         {
-          "title": "机器人短跑破纪录有什么用",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9F%AD%E8%B7%91%E7%A0%B4%E7%BA%AA%E5%BD%95%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8",
-          "source": "bilibili 热搜",
+          "title": "央视曝光AI“造黄”产业链",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E2%80%9C%E9%80%A0%E9%BB%84%E2%80%9D%E4%BA%A7%E4%B8%9A%E9%93%BE",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            4
+            1,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时39分]"
         },
         {
           "title": "机器人冲线后坐车休息脚搭车架上",
@@ -53,8 +42,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时39分]"
+        },
+        {
+          "title": "机器人短跑破纪录有什么用",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9F%AD%E8%B7%91%E7%A0%B4%E7%BA%AA%E5%BD%95%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时39分]"
         },
         {
           "title": "宇树机器人百米冲刺 10 米每秒，逼近博尔特记录，这个速度是什么水平？能应用到哪些现实场景？",
@@ -94,22 +96,24 @@
           "source": "抖音",
           "ranks": [
             10,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时39分]"
         },
         {
           "title": "水军机器人走错片场露马脚",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353086&amp;topic_name=%E6%B0%B4%E5%86%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E9%94%99%E7%89%87%E5%9C%BA%E9%9C%B2%E9%A9%AC%E8%84%9A",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时39分]"
         },
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -151,6 +155,17 @@
           "time_info": "[00时39分 ~ 06时35分]"
         },
         {
+          "title": "太乙真人配音演员声音被 AI 偷走，合作告吹，当声音被轻易复制，配音演员该如何保护自己的饭碗与权益？",
+          "url": "https://www.zhihu.com/question/2026361952214017900",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
           "title": "多款AI应用存在涉黄生成漏洞",
           "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E6%AC%BEAI%E5%BA%94%E7%94%A8%E5%AD%98%E5%9C%A8%E6%B6%89%E9%BB%84%E7%94%9F%E6%88%90%E6%BC%8F%E6%B4%9E",
           "source": "百度热搜",
@@ -175,12 +190,56 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时35分 ~ 05时36分]"
+        },
+        {
+          "title": "战争间歇期的四个缩圈方向：AI硬件、资源、周期涨价和红利",
+          "url": "https://wallstreetcn.com/articles/3769770",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "券商晨会精华：AI供需缺口和出海新能源成为新“宁组合”概率正在增大",
+          "url": "https://www.cls.cn/detail/2341719",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "泰国公主诗琳通访问北京邮电大学，被人形机器人逗笑",
+          "url": "https://v.ifeng.com/c/8sGweLHSQl6",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "美国总统特朗普发布了AI生成的图片，其中一张为“月球上的特朗普大厦”。",
+          "url": "https://flash.jin10.com/detail/20260413102351722800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         }
       ]
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "钢铁森林大结局",
@@ -189,11 +248,12 @@
           "ranks": [
             16,
             14,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时39分]"
         },
         {
           "title": "辽宁铁岭一风力发电机断裂坠地",
@@ -257,12 +317,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "钢铁森林",
+          "url": "https://s.weibo.com/weibo?q=%E9%92%A2%E9%93%81%E6%A3%AE%E6%9E%97&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
@@ -286,6 +357,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时35分]"
+        },
+        {
+          "title": "据上海市房地产交易中心，4月6日至4月12日上海二手房网签成交量达到7342套，其中4月11日网签成交量（1632套）创近5年上海二手房单日网签成交量新高。（新华财经）",
+          "url": "https://wallstreetcn.com/livenews/3086587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "韩国央行行长提名人申铉松：芯片出口和追加预算正抵消经济下行压力。",
+          "url": "https://flash.jin10.com/detail/20260413101144469800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         }
       ]
     }
