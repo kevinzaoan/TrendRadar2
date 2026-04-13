@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T02:01:59.040611+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-04-14T03:27:07.890453+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "中国人形机器人在波兰街头驱赶野猪",
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时27分]"
+        },
+        {
+          "title": "守护未成年,AI伴侣全禁售",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时27分]"
         },
         {
           "title": "Claude：正在调查Claude.ai出现的问题。",
@@ -41,16 +53,16 @@
           "time_info": "00时13分"
         },
         {
-          "title": "守护未成年,AI伴侣全禁售",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
-          "source": "贴吧",
+          "title": "AI辅助炒股哪家强",
+          "url": "https://www.toutiao.com/trending/7627268703821840426/",
+          "source": "今日头条",
           "ranks": [
-            5,
-            6
+            22,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 03时27分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -61,8 +73,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时27分]"
         },
         {
           "title": "中国机器人在波兰街头驱赶野猪",
@@ -70,11 +82,12 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时27分]"
         },
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
@@ -85,8 +98,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时27分]"
         },
         {
           "title": "机器人短跑破纪录有什么用",
@@ -94,11 +107,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时27分]"
         },
         {
           "title": "水军机器人走错片场露马脚",
@@ -109,8 +123,30 @@
             27
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时27分]"
+        },
+        {
+          "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
+          "url": "https://www.cls.cn/detail/2342373",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时13分 ~ 02时01分]"
+          "time_info": "[03时26分 ~ 03时27分]"
+        },
+        {
+          "title": "真主党领导人Naim Qassem：呼吁黎巴嫩政府取消4月14日前往美国华盛顿会见以色列官员的打算。",
+          "url": "https://wallstreetcn.com/livenews/3087118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         },
         {
           "title": "据网络状况监测网站DownDetector：用户报告显示Claude服务出现问题。",
@@ -133,23 +169,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
-        },
-        {
-          "title": "AI辅助炒股哪家强",
-          "url": "https://www.toutiao.com/trending/7627268703821840426/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "乌克兰央行行长：伊朗战争可能导致乌克兰通胀率上升1.8至2.5个百分点。因伊朗局势引发的油价上涨将对乌克兰的通胀和经济增长产生最大影响；化肥及生产成本的上升也将带来相当显著的影响。",
@@ -158,7 +183,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -169,7 +194,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -183,6 +208,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "美联储古尔斯比：美国消费者的强劲表现是美国经济的关键",
+          "url": "https://flash.jin10.com/detail/20260414020622316800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         }
       ]
     }
