@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T06:43:54.460011+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2026-04-14T07:43:03.559880+08:00",
+  "total_titles_processed": 693,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "中国人形机器人在波兰街头驱赶野猪",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 06时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 07时43分]"
         },
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 06时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 07时43分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -39,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 06时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 07时43分]"
         },
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
@@ -52,8 +52,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 06时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 07时43分]"
         },
         {
           "title": "机器人短跑破纪录有什么用",
@@ -62,11 +62,12 @@
           "ranks": [
             17,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 06时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 07时43分]"
         },
         {
           "title": "水军机器人走错片场露马脚",
@@ -77,8 +78,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 06时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 07时43分]"
         },
         {
           "title": "中国机器人在波兰街头驱赶野猪",
@@ -89,11 +90,24 @@
             21,
             17,
             25,
-            24
+            24,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 07时43分]"
+        },
+        {
+          "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
+          "url": "https://www.cls.cn/detail/2342373",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时26分 ~ 07时43分]"
         },
         {
           "title": "Claude：正在调查Claude.ai出现的问题。",
@@ -128,18 +142,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时13分 ~ 03时27分]"
-        },
-        {
-          "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
-          "url": "https://www.cls.cn/detail/2342373",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时26分 ~ 06时43分]"
         },
         {
           "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
@@ -182,9 +184,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
+        },
+        {
+          "title": "美联储理事米兰：AI可能会迅速摧毁就业，而要创造就业岗位则需数年。",
+          "url": "https://wallstreetcn.com/livenews/3087209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "北京最火饺子馆开始喂AI龙虾",
@@ -201,7 +214,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "乌克兰央行行长：伊朗战争可能导致乌克兰通胀率上升1.8至2.5个百分点。因伊朗局势引发的油价上涨将对乌克兰的通胀和经济增长产生最大影响；化肥及生产成本的上升也将带来相当显著的影响。",
@@ -268,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "澳洲联储副主席Hauser：对澳大利亚而言，能源价格上涨是一个重大的收入冲击。 央行的噩梦就是通胀上扬、经济活动下滑。 对于某些国家而言，财政主导型可能会成为一个问题。 不希望中期通胀预期上扬。 能源价格对经济活动的影响是一个重大问题。",
+          "url": "https://wallstreetcn.com/livenews/3087196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         }
       ]
     },
@@ -306,7 +330,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
         }
