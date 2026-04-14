@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T04:01:33.442763+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-04-15T04:54:52.709927+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "Claude：Claude Code中的“例程”（routines）现已进入研究预览阶段。只需配置一次例程（包括提示词、代码仓库以及连接器），它即可按计划调度运行、通过API调用触发，或根据事件自动执行。例程运行在Web基础设施上，因此无需保持本地电脑开启。",
@@ -19,6 +19,17 @@
           "time_info": "01时08分"
         },
         {
+          "title": "加拿大AI部长会见Anthropic PBC的领导层。",
+          "url": "https://wallstreetcn.com/livenews/3087961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
           "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
           "url": "https://www.cls.cn/detail/2343603",
           "source": "财联社热门",
@@ -27,8 +38,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 04时54分]"
+        },
+        {
+          "title": "Lumen Technologies的CEO Johnson：AI机器人正在占领网络。",
+          "url": "https://wallstreetcn.com/livenews/3087960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         },
         {
           "title": "具身智能开始分层：谁卖整机，谁做底座，谁定义机器人的大脑",
@@ -39,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 04时54分]"
         },
         {
           "title": "对话蔚来创始人李斌：出海2.0、芯片外供、对人形机器人和Robotaxi保持观望",
@@ -48,11 +70,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 04时54分]"
         },
         {
           "title": "英伟达推出全球首个开源量子AI模型",
@@ -62,8 +85,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 04时54分]"
         },
         {
           "title": "UP主揭秘AI短剧制作流程",
@@ -74,8 +97,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 04时54分]"
         },
         {
           "title": "机器人跑马拉松也穿跑鞋了",
@@ -83,11 +106,12 @@
           "source": "抖音",
           "ranks": [
             16,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 04时54分]"
         },
         {
           "title": "当AI算力不再便宜：云服务价格“只降不升”行业惯例被打破意味着什么",
@@ -97,8 +121,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 04时54分]"
         },
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -108,8 +132,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 04时54分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -119,8 +143,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 04时54分]"
         },
         {
           "title": "微软将接管挪威Stargate Data Center（星际之门数据中心），该项目原本是为OpenAI准备的。",
@@ -134,13 +158,35 @@
           "time_info": "01时08分"
         },
         {
+          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
+          "url": "https://wallstreetcn.com/articles/3769939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "OpenAI向有限群体发布网络安全模型，与Mythos展开角逐",
+          "url": "https://wallstreetcn.com/livenews/3087952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
           "title": "Adobe跌幅扩大至2.1%，报道称Anthropic正准备发布新款AI设计工具。 北美科技软件股指数ETF涨幅收窄至不足0.6%。",
           "url": "https://wallstreetcn.com/livenews/3087919",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -151,7 +197,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -162,7 +208,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         }
@@ -170,7 +216,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "赏花经济点亮乡村振兴新图景",
@@ -179,9 +225,20 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时54分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：我们今年绝对可以实现4%的增长。",
+          "url": "https://flash.jin10.com/detail/20260415044500788800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时01分"
+          "time_info": "04时54分"
         },
         {
           "title": "辽宁省「砍掉」21 家省级经开区，对经济发展和产业结构优化有何影响？",
@@ -192,8 +249,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 04时54分]"
         },
         {
           "title": "德商银行CEO：德国经济前景已减弱。",
@@ -202,7 +259,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -218,13 +275,35 @@
           "time_info": "01时08分"
         },
         {
+          "title": "国际货币基金组织（IMF）总裁格奥尔基耶娃：如果战争在两周内结束，全球经济仍能实现快速复苏。 如果我们看到整个夏季持续动荡，我们将处于不利局面。 全球经济中仍有20%的石油和天然气供应处于缺失状态。 正与各国讨论其需求，以便我们能为他们筹集支持。 如果中央银行过早收紧政策，可能会窒息经济增长。 如果影响持续的时间足以让价格的二轮效应显现，那么许多央行就需要采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3087955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "经济学家：现在进入牛市相持阶段",
+          "url": "https://www.toutiao.com/trending/7628041777216667699/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
           "title": "加拿大财政部长：将于4月28日公布春季经济更新报告。",
           "url": "https://flash.jin10.com/detail/20260415024831247800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -250,11 +329,12 @@
           "url": "https://news.ifeng.com/c/8sK3rkuYnHa",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 04时54分]"
         },
         {
           "title": "垃圾真的不够烧！广州一公司挖160万吨存量垃圾焚烧发电",
@@ -264,8 +344,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 04时54分]"
         }
       ]
     }
