@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-04-15T06:45:32.433430+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-04-15T07:42:23.138177+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
       "match_count": 26,
       "titles": [
-        {
-          "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
-          "url": "https://www.cls.cn/detail/2343603",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 06时45分]"
-        },
         {
           "title": "对话蔚来创始人李斌：出海2.0、芯片外供、对人形机器人和Robotaxi保持观望",
           "url": "https://www.cls.cn/detail/2344095",
@@ -28,7 +15,21 @@
             9,
             8,
             7,
-            4
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时42分]"
+        },
+        {
+          "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
+          "url": "https://www.cls.cn/detail/2343603",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -44,30 +45,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 06时45分]"
-        },
-        {
-          "title": "英伟达推出全球首个开源量子AI模型",
-          "url": "https://www.toutiao.com/trending/7627728168379547654/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 06时45分]"
-        },
-        {
-          "title": "据The Information：Anthropic将Claude Enterprise改为按使用量计费，导致重度用户成本上升。",
-          "url": "https://flash.jin10.com/detail/20260415061241772800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时42分]"
         },
         {
           "title": "UP主揭秘AI短剧制作流程",
@@ -76,11 +55,12 @@
           "ranks": [
             20,
             15,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时42分]"
         },
         {
           "title": "机器人跑马拉松也穿跑鞋了",
@@ -90,22 +70,24 @@
             16,
             19,
             17,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时42分]"
         },
         {
           "title": "当AI算力不再便宜：云服务价格“只降不升”行业惯例被打破意味着什么",
           "url": "https://m.thepaper.cn/newsDetail_forward_32961502",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时42分]"
         },
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -115,8 +97,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时42分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -124,6 +106,17 @@
           "source": "贴吧",
           "ranks": [
             27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时42分]"
+        },
+        {
+          "title": "英伟达推出全球首个开源量子AI模型",
+          "url": "https://www.toutiao.com/trending/7627728168379547654/",
+          "source": "今日头条",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -152,6 +145,30 @@
           "time_info": "04时54分"
         },
         {
+          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
+          "url": "https://wallstreetcn.com/articles/3769939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时54分 ~ 07时42分]"
+        },
+        {
+          "title": "据The Information：Anthropic将Claude Enterprise改为按使用量计费，导致重度用户成本上升。",
+          "url": "https://flash.jin10.com/detail/20260415061241772800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时42分]"
+        },
+        {
           "title": "美国法官：OpenAI高管Assailant将因袭击CEO Altman而被继续羁押，对其提讯被推后至5月5日。（彭博法律BLAW）",
           "url": "https://wallstreetcn.com/livenews/3087988",
           "source": "华尔街见闻-快讯",
@@ -174,17 +191,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时54分 ~ 05时53分]"
-        },
-        {
-          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
-          "url": "https://wallstreetcn.com/articles/3769939",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时54分 ~ 06时45分]"
         },
         {
           "title": "美特种军斥资5000万引入“AI 副驾驶” 助力决策优化与减负",
@@ -252,7 +258,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         },
@@ -315,7 +321,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "赏花经济点亮乡村振兴新图景",
@@ -325,20 +331,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时01分 ~ 06时45分]"
-        },
-        {
-          "title": "加拿大财长：4月28日将发布首个春季经济更新。",
-          "url": "https://flash.jin10.com/detail/20260415053657664800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 06时45分]"
+          "appearance_count": 6,
+          "time_info": "[04时01分 ~ 07时42分]"
         },
         {
           "title": "辽宁省「砍掉」21 家省级经开区，对经济发展和产业结构优化有何影响？",
@@ -348,11 +342,25 @@
             17,
             15,
             11,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时42分]"
+        },
+        {
+          "title": "加拿大财长：4月28日将发布首个春季经济更新。",
+          "url": "https://flash.jin10.com/detail/20260415053657664800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 07时42分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：我们今年绝对可以实现4%的增长。",
@@ -373,11 +381,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            8
+            8,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 06时45分]"
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 07时42分]"
         },
         {
           "title": "美国财长贝森特：经济基本面依然强劲。",
@@ -385,11 +394,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            9
+            9,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 06时45分]"
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 07时42分]"
         },
         {
           "title": "美国国务卿鲁比奥：与埃及外长阿卜杜拉提进行了会面，讨论伊朗停火、推进加沙20点计划以及结束苏丹冲突的持续努力。我们还探讨了加强美埃经济和商业关系的方法。",
@@ -449,13 +459,24 @@
           "time_info": "04时54分"
         },
         {
+          "title": "美国副总统万斯：特朗普对伊朗表示，如果你们承诺不拥有核武器，我们将让伊朗实现经济繁荣。",
+          "url": "https://flash.jin10.com/detail/20260415063058322800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
           "title": "美国财长贝森特在华尔街日报一个活动上讲话：美国经济保持强劲状态，将在伊朗战争结束之后“追赶上来”。",
           "url": "https://wallstreetcn.com/livenews/3087989",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         },
@@ -510,23 +531,24 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "垃圾真的不够烧！广州一公司挖160万吨存量垃圾焚烧发电",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32965660",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时42分]"
+        },
+        {
           "title": "欧盟拟将钢铁关税翻倍至50%，寻求“遏制中国廉价进口”",
           "url": "https://news.ifeng.com/c/8sK3rkuYnHa",
           "source": "凤凰网",
           "ranks": [
             9,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 06时45分]"
-        },
-        {
-          "title": "垃圾真的不够烧！广州一公司挖160万吨存量垃圾焚烧发电",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32965660",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 6,
