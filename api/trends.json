@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-04-14T15:46:40.679601+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-04-14T17:18:32.930117+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
-        {
-          "title": "中国人形机器人在波兰街头驱赶野猪",
-          "url": "https://www.toutiao.com/trending/7628140019103006739/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            9,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 15时46分]"
-        },
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
           "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
@@ -36,6 +22,21 @@
           "time_info": "[00时13分 ~ 10时33分]"
         },
         {
+          "title": "中国人形机器人在波兰街头驱赶野猪",
+          "url": "https://www.toutiao.com/trending/7628140019103006739/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            9,
+            10,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 17时18分]"
+        },
+        {
           "title": "守护未成年,AI伴侣全禁售",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
           "source": "贴吧",
@@ -44,11 +45,12 @@
             6,
             15,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 15时46分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 17时18分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -59,11 +61,12 @@
             9,
             16,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 15时46分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 17时18分]"
         },
         {
           "title": "机器人短跑破纪录有什么用",
@@ -136,24 +139,13 @@
           "time_info": "[03时26分 ~ 07时43分]"
         },
         {
-          "title": "UP主揭秘AI短剧制作流程",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时46分"
-        },
-        {
           "title": "高德首款具身机器人将亮相",
           "url": "https://wallstreetcn.com/livenews/3087529",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -175,7 +167,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -203,6 +195,32 @@
           "time_info": "[00时13分 ~ 03时27分]"
         },
         {
+          "title": "具身智能开始分层：谁卖整机，谁做底座，谁定义机器人的大脑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32958985",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时33分 ~ 17时18分]"
+        },
+        {
+          "title": "UP主揭秘AI短剧制作流程",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 17时18分]"
+        },
+        {
           "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
           "url": "https://flash.jin10.com/detail/20260414043421131800",
           "source": "金十数据",
@@ -215,17 +233,16 @@
           "time_info": "[04时56分 ~ 05时51分]"
         },
         {
-          "title": "具身智能开始分层：谁卖整机，谁做底座，谁定义机器人的大脑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32958985",
-          "source": "澎湃新闻",
+          "title": "AI突袭短剧 “霸总爹”失业",
+          "url": "https://www.baidu.com/s?wd=AI%E7%AA%81%E8%A2%AD%E7%9F%AD%E5%89%A7+%E2%80%9C%E9%9C%B8%E6%80%BB%E7%88%B9%E2%80%9D%E5%A4%B1%E4%B8%9A",
+          "source": "百度热搜",
           "ranks": [
-            19,
-            17,
-            13
+            20,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时33分 ~ 15时46分]"
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 17时18分]"
         },
         {
           "title": "大一学编程，朋友说「别学古法编程」，还让我养小龙虾，可我连 GitHub 都不会用，我该怎么办？",
@@ -233,11 +250,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时46分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 17时18分]"
         },
         {
           "title": "真主党领导人Naim Qassem：呼吁黎巴嫩政府取消4月14日前往美国华盛顿会见以色列官员的打算。",
@@ -306,17 +324,6 @@
           "time_info": "00时13分"
         },
         {
-          "title": "AI突袭短剧 “霸总爹”失业",
-          "url": "https://www.baidu.com/s?wd=AI%E7%AA%81%E8%A2%AD%E7%9F%AD%E5%89%A7+%E2%80%9C%E9%9C%B8%E6%80%BB%E7%88%B9%E2%80%9D%E5%A4%B1%E4%B8%9A",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时46分"
-        },
-        {
           "title": "随着OpenAI战略转型，投资者对其8520亿美元的估值提出质疑，部分投资者称，这些变化可能使OpenAI容易受到Anthropic和谷歌的冲击。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3087405",
           "source": "华尔街见闻-快讯",
@@ -334,15 +341,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "被央视曝光的涉黄AI软件致歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%9A%84%E6%B6%89%E9%BB%84AI%E8%BD%AF%E4%BB%B6%E8%87%B4%E6%AD%89%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "春日里的中国花经济",
@@ -373,7 +391,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -387,6 +405,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
+        },
+        {
+          "title": "消息人士称，日本央行本月考虑大幅上调价格预期，可能因高油价考虑下调经济增长预期。日本央行内部对于中东局势谨慎和价格上行风险存在分歧，日本央行将持续关注风险，直到最后一刻才做出决策。",
+          "url": "https://wallstreetcn.com/livenews/3087599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "香港拟出台低空经济发展纲领 已对接内地推动跨境低空试飞尽快开展",
@@ -406,7 +435,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -466,6 +495,17 @@
           "time_info": "13时24分"
         },
         {
+          "title": "锅圈(02517.HK)：2026年一季度录得收入约人民币22亿元至人民币23亿元，较同比增长约31.3%至37.2%。",
+          "url": "https://flash.jin10.com/detail/20260414170307037800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "土耳其央行发布行长Karahan的报告：经济活动正在放缓。 外汇储备“比以往那些资金外流时期都更强大”。",
           "url": "https://wallstreetcn.com/livenews/3087055",
           "source": "华尔街见闻-快讯",
@@ -516,9 +556,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "欧洲央行管委Rehn：中东战争对通胀的影响并非直接明了。 从货币政策关注的中期来看，通胀走势可能会出现不同方向的发展。 货币政策不应仅仅基于某一单一价格（如石油），而应基于整体经济形势。 目前欧洲央行特别密切关注的是中东冲突的持续时间和强度，以及其对其他经济领域的溢出效应。 如果战争持续并导致价格和工资出现二轮效应，且通胀预期开始失锚，货币政策将按照策略大幅收紧。",
+          "url": "https://wallstreetcn.com/livenews/3087578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         }
       ]
     },
