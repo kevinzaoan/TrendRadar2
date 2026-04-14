@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-14T07:43:03.559880+08:00",
-  "total_titles_processed": 693,
+  "generated_at": "2026-04-14T10:33:30.556004+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "中国人形机器人在波兰街头驱赶野猪",
           "url": "https://www.toutiao.com/trending/7628140019103006739/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 07时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 10时33分]"
         },
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -27,8 +28,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 07时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 10时33分]"
+        },
+        {
+          "title": "马上评｜谁来斩断AI“造黄”产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 10时33分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -39,21 +54,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 07时43分]"
-        },
-        {
-          "title": "马上评｜谁来斩断AI“造黄”产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 07时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 10时33分]"
         },
         {
           "title": "机器人短跑破纪录有什么用",
@@ -63,11 +65,12 @@
             17,
             15,
             16,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 07时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 10时33分]"
         },
         {
           "title": "水军机器人走错片场露马脚",
@@ -78,8 +81,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 07时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 10时33分]"
         },
         {
           "title": "中国机器人在波兰街头驱赶野猪",
@@ -195,7 +198,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -209,13 +212,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "具身智能开始分层：谁卖整机，谁做底座，谁定义机器人的大脑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32958985",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "香港拟出台低空经济发展纲领 已对接内地推动跨境低空试飞尽快开展",
+          "url": "https://wallstreetcn.com/livenews/3087330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "香港拟出台低空经济发展纲领 已对接内地推动跨境低空试飞尽快开展",
+          "url": "https://flash.jin10.com/detail/20260414102435879800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
         {
           "title": "乌克兰央行行长：伊朗战争可能导致乌克兰通胀率上升1.8至2.5个百分点。因伊朗局势引发的油价上涨将对乌克兰的通胀和经济增长产生最大影响；化肥及生产成本的上升也将带来相当显著的影响。",
           "url": "https://flash.jin10.com/detail/20260414011243903800",
@@ -237,6 +273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "经济学家：日本央行落后于形势的步伐风险增大",
+          "url": "https://flash.jin10.com/detail/20260414102117515800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         },
         {
           "title": "美国众议院议长约翰逊：工薪家庭减税法案带来具有历史意义的减税。受加班免税和小费免税等条款影响，预计普通纳税人的银行账户收入将增加近11%。",
@@ -289,7 +336,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         }
