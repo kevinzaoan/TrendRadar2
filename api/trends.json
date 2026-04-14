@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T19:03:53.847503+08:00",
-  "total_titles_processed": 1475,
+  "generated_at": "2026-04-14T21:26:27.530920+08:00",
+  "total_titles_processed": 1632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 31,
+      "match_count": 45,
       "titles": [
         {
           "title": "春日里的中国花经济",
@@ -58,7 +58,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -80,9 +80,53 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "IMF首席经济学家古兰沙：各国央行需警惕工资-物价螺旋式上升的迹象。",
+          "url": "https://flash.jin10.com/detail/20260414211932734800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "IMF首席经济学家古兰沙：各国央行无需立即踩下刹车。",
+          "url": "https://flash.jin10.com/detail/20260414211924407800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "IMF首席经济学家古兰沙：20世纪70年代的教训是，不能让能源冲击演变成持续的通胀问题。",
+          "url": "https://flash.jin10.com/detail/20260414211905471800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "IMF首席经济学家古兰沙：在20世纪70年代，各国央行更关注支持经济活动，而非物价稳定。",
+          "url": "https://flash.jin10.com/detail/20260414211852229800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "法国财长Lescure：法国必须削减医疗和退休支出。 法国将把支出重点放在国防和气候方面。 法国短期内将出现经济下滑。",
@@ -91,9 +135,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "国际货币基金组织（IMF）：中东战争加剧了新兴市场经济前景的不确定性，风险偏向于出现更深度的衰退。 预计2026年新兴市场和发展中经济体的消费者价格将上涨5.5%，比1月预测高出0.7个百分点。 2026年新兴市场经济增长率为3.9%，低于1月的4.2%预测；预计2027年增长率为4.2%，高于1月预测的4.1%。 伊朗2026年GDP将萎缩6.1%，较1月预测低7.2个百分点；预计2027年产出增长为3.2%。",
+          "url": "https://wallstreetcn.com/livenews/3087747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "IMF下调2026年世界经济增长预期，认为中东战事显著影响当前增长势头",
+          "url": "https://wallstreetcn.com/livenews/3087746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "IMF首席经济学家古兰沙：全球经济对石油的依赖程度远低于20世纪70年代。",
+          "url": "https://flash.jin10.com/detail/20260414211814874800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "中顺洁柔：2025年实现营业收入87.8亿元，同比增长7.72%；归属于上市公司股东的净利润3.19亿元，同比增长312.80%。",
@@ -102,7 +179,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -146,7 +223,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -157,9 +234,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "IMF首席经济学家古兰沙：如果冲突今天就停止，从年产量来看，今年的石油短缺程度将与20世纪70年代的石油危机相当。",
+          "url": "https://flash.jin10.com/detail/20260414211652237800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "美国财长贝森特：国际货币基金组织正致力于使委内瑞拉经济恢复正常。",
+          "url": "https://flash.jin10.com/detail/20260414211616248800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "富国银行第一季度营收为214.5亿美元，预期217.6亿美元。 第一季度每股收益1.6美元。 第一季度净利息收入121亿美元，预期122.7亿美元。 富国银行美股盘前跌近3%。",
@@ -168,7 +267,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -182,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "IMF首席经济学家古兰沙：美元的升值正给新兴市场带来通胀压力。",
+          "url": "https://flash.jin10.com/detail/20260414211609570800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "经济学家：日本央行落后于形势的步伐风险增大",
@@ -217,6 +327,17 @@
           "time_info": "13时24分"
         },
         {
+          "title": "IMF首席经济学家古兰沙：能源价格和供应每多一天出现扰动，就意味着我们离不利情景又近了一步。",
+          "url": "https://flash.jin10.com/detail/20260414211520606800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
           "title": "锅圈(02517.HK)：2026年一季度录得收入约人民币22亿元至人民币23亿元，较同比增长约31.3%至37.2%。",
           "url": "https://flash.jin10.com/detail/20260414170307037800",
           "source": "金十数据",
@@ -228,13 +349,35 @@
           "time_info": "17时18分"
         },
         {
+          "title": "IMF首席经济学家古兰沙：我们处于基准情景和不利情景之间。",
+          "url": "https://flash.jin10.com/detail/20260414211406071800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "IMF首席经济学家古兰沙：IMF基准预测认为能源价格将在下半年趋于正常化。",
+          "url": "https://flash.jin10.com/detail/20260414211345686800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
           "title": "申通快递：预计一季度净利润3.8亿元-5亿元，同比增长60.99%-111.83%；报告期内公司单票快递服务收入2.33元，同比较大幅度上升。",
           "url": "https://wallstreetcn.com/livenews/3087642",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -245,9 +388,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "IMF首席经济学家古兰沙：中东局势正处于动荡之中。",
+          "url": "https://flash.jin10.com/detail/20260414211254123800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "土耳其央行发布行长Karahan的报告：经济活动正在放缓。 外汇储备“比以往那些资金外流时期都更强大”。",
@@ -311,7 +465,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -322,7 +476,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -344,7 +498,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         }
@@ -352,7 +506,7 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
@@ -397,8 +551,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时13分 ~ 19时03分]"
+          "appearance_count": 16,
+          "time_info": "[00时13分 ~ 21时26分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -414,8 +568,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时13分 ~ 19时03分]"
+          "appearance_count": 16,
+          "time_info": "[00时13分 ~ 21时26分]"
         },
         {
           "title": "机器人短跑破纪录有什么用",
@@ -499,8 +653,23 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时33分 ~ 21时26分]"
+        },
+        {
+          "title": "大一学编程，朋友说「别学古法编程」，还让我养小龙虾，可我连 GitHub 都不会用，我该怎么办？",
+          "url": "https://www.zhihu.com/question/2026653029177280167",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14,
+            17,
+            10,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时33分 ~ 19时03分]"
+          "time_info": "[13时23分 ~ 21时26分]"
         },
         {
           "title": "高德首款具身机器人将亮相",
@@ -547,6 +716,31 @@
           "time_info": "00时13分"
         },
         {
+          "title": "高德回应：已在具身智能领域布局，近期将有首款四足机器人发布",
+          "url": "https://wallstreetcn.com/livenews/3087750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "UP主揭秘AI短剧制作流程",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            10,
+            23,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时46分 ~ 21时26分]"
+        },
+        {
           "title": "AI辅助炒股哪家强",
           "url": "https://www.toutiao.com/trending/7627268703821840426/",
           "source": "今日头条",
@@ -557,33 +751,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时13分 ~ 03时27分]"
-        },
-        {
-          "title": "大一学编程，朋友说「别学古法编程」，还让我养小龙虾，可我连 GitHub 都不会用，我该怎么办？",
-          "url": "https://www.zhihu.com/question/2026653029177280167",
-          "source": "知乎",
-          "ranks": [
-            18,
-            14,
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时23分 ~ 19时03分]"
-        },
-        {
-          "title": "UP主揭秘AI短剧制作流程",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时46分 ~ 19时03分]"
         },
         {
           "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
@@ -610,6 +777,18 @@
           "time_info": "[15时46分 ~ 17时18分]"
         },
         {
+          "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
+          "url": "https://www.cls.cn/detail/2343603",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 21时26分]"
+        },
+        {
           "title": "真主党领导人Naim Qassem：呼吁黎巴嫩政府取消4月14日前往美国华盛顿会见以色列官员的打算。",
           "url": "https://wallstreetcn.com/livenews/3087118",
           "source": "华尔街见闻-快讯",
@@ -632,15 +811,15 @@
           "time_info": "00时13分"
         },
         {
-          "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
-          "url": "https://www.cls.cn/detail/2343603",
-          "source": "财联社热门",
+          "title": "康众医疗：拟现金收购AI医疗公司脉得智能控制权",
+          "url": "https://flash.jin10.com/detail/20260414211832209800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时03分"
+          "time_info": "21时26分"
         },
         {
           "title": "甲骨文同意，为了AI数据中心而从Bloom Energy Corp.购买电力供应。",
@@ -660,7 +839,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -685,6 +864,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "机器人跑马拉松也穿跑鞋了",
+          "url": "https://www.douyin.com/hot/2466169",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "北京最火饺子馆开始喂AI龙虾",
@@ -778,7 +968,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         }
