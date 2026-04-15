@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T19:00:34.099999+08:00",
-  "total_titles_processed": 1442,
+  "generated_at": "2026-04-15T22:45:11.200053+08:00",
+  "total_titles_processed": 1637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时24分 ~ 19时00分]"
+          "appearance_count": 8,
+          "time_info": "[13时24分 ~ 22时45分]"
         },
         {
           "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
@@ -46,11 +47,12 @@
             15,
             6,
             7,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时08分 ~ 19时00分]"
+          "appearance_count": 16,
+          "time_info": "[01时08分 ~ 22时45分]"
         },
         {
           "title": "对话蔚来创始人李斌：出海2.0、芯片外供、对人形机器人和Robotaxi保持观望",
@@ -81,6 +83,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时08分 ~ 13时24分]"
+        },
+        {
+          "title": "一图看懂 | AI产业链业绩大比拼，多只10倍股净利增速“狂飙”",
+          "url": "https://www.cls.cn/detail/2344890",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 22时45分]"
         },
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -228,21 +243,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时00分"
-        },
-        {
-          "title": "一图看懂 | AI产业链业绩大比拼，多只10倍股净利增速“狂飙”",
-          "url": "https://www.cls.cn/detail/2344890",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时00分]"
         },
         {
           "title": "据The Information：Anthropic将Claude Enterprise改为按使用量计费，导致重度用户成本上升。",
@@ -306,6 +309,29 @@
           "time_info": "[13时24分 ~ 17时20分]"
         },
         {
+          "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
+          "url": "https://www.zhihu.com/question/2027689506711630551",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时59分 ~ 22时45分]"
+        },
+        {
+          "title": "机器人切除肿瘤不彻底患者去世",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%87%E9%99%A4%E8%82%BF%E7%98%A4%E4%B8%8D%E5%BD%BB%E5%BA%95%E6%82%A3%E8%80%85%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时45分]"
+        },
+        {
           "title": "美特种军斥资5000万引入“AI 副驾驶” 助力决策优化与减负",
           "url": "https://flash.jin10.com/detail/20260415052923283800",
           "source": "金十数据",
@@ -328,6 +354,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时53分 ~ 06时45分]"
+        },
+        {
+          "title": "特斯拉AI5芯片流片",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89AI5%E8%8A%AF%E7%89%87%E6%B5%81%E7%89%87%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时45分]"
         },
         {
           "title": "白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。",
@@ -354,15 +391,15 @@
           "time_info": "[05时53分 ~ 06时45分]"
         },
         {
-          "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
-          "url": "https://www.zhihu.com/question/2027689506711630551",
-          "source": "知乎",
+          "title": "机器人切除肿瘤不彻底 医院担主责",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%87%E9%99%A4%E8%82%BF%E7%98%A4%E4%B8%8D%E5%BD%BB%E5%BA%95+%E5%8C%BB%E9%99%A2%E6%8B%85%E4%B8%BB%E8%B4%A3",
+          "source": "百度热搜",
           "ranks": [
-            17
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时59分 ~ 19时00分]"
+          "time_info": "[22时44分 ~ 22时45分]"
         },
         {
           "title": "AI让美联储主席紧急开会",
@@ -442,6 +479,17 @@
           "time_info": "17时20分"
         },
         {
+          "title": "快手可灵AI深入视听产业：大幅降低成本 缩短制作周期",
+          "url": "https://wallstreetcn.com/livenews/3088574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "纳斯达克网络安全ETF收跌0.63%，ETFMG网络安全ETF跌1.08%，整体高开低走，OpenAI发布网络AI模型后跌幅略微收窄。",
           "url": "https://wallstreetcn.com/livenews/3087968",
           "source": "华尔街见闻-快讯",
@@ -459,7 +507,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时00分"
         },
@@ -481,7 +529,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时00分"
         },
@@ -533,7 +581,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "赏花经济点亮乡村振兴新图景",
@@ -586,6 +634,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时53分 ~ 07时42分]"
+        },
+        {
+          "title": "根据新五年计划，沙特将9250亿美元基金重心转向国内经济",
+          "url": "https://wallstreetcn.com/livenews/3088592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "人社部等三部门：挖掘消费新业态就业机会 同步提升消费者生活品质与劳动者收入水平",
@@ -712,7 +771,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时00分"
         },
@@ -759,6 +818,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：关税备选方案已基本准备就绪。",
+          "url": "https://flash.jin10.com/detail/20260415220227506800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "韩国央行行长提名人申铉松：韩元过度走弱并不可取。 韩国面临滞胀的风险较低。 价格稳定是经济稳定增长的必要条件。 若伊朗战争引发持续的通胀压力，货币政策需要采取行动。",
@@ -816,6 +886,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：我们认为油价飙升将是暂时的。",
+          "url": "https://flash.jin10.com/detail/20260415215828399800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "G24主席Edun：如果加息过早或过高，可能会损害部分发展中经济体正在进行的转型。 产油国同样面临高能源价格的传导效应，包括从天然气到化肥以及食品价格的连锁反应。 在中东战争期间，对弱势群体的支持必须是“有针对性且临时性的”。 重要的是要避免重新采取普遍性的补贴措施，也要避免重蹈那些已被证明并不成功的政策覆辙。 鉴于流向发展中经济体的优惠融资（特许融资）呈现负增长，我们希望国际货币基金组织（IMF）和世界银行能够提供更多的流动性支持。 在谈到多边机构时，他表示：“我们希望他们能做得更多。”",
           "url": "https://wallstreetcn.com/livenews/3087869",
           "source": "华尔街见闻-快讯",
@@ -833,7 +914,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时00分"
         },
@@ -886,7 +967,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时00分"
         },
