@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-16T05:53:01.700179+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2026-04-16T06:42:22.423110+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "据AXIOS：OpenAI游说扩大人工智能在生命科学中的作用。",
-          "url": "https://flash.jin10.com/detail/20260416050117948800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
         {
           "title": "AI承诺赔10万,用户索赔败诉",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
@@ -26,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 06时42分]"
         },
         {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
@@ -39,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 06时42分]"
         },
         {
           "title": "机器人跑马拉松也穿跑鞋了",
@@ -50,11 +39,12 @@
             28,
             27,
             20,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 06时42分]"
         },
         {
           "title": "机器人切除肿瘤不彻底患者去世",
@@ -71,15 +61,51 @@
           "time_info": "[00时05分 ~ 05时53分]"
         },
         {
+          "title": "据AXIOS：OpenAI游说扩大人工智能在生命科学中的作用。",
+          "url": "https://flash.jin10.com/detail/20260416050117948800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时42分]"
+        },
+        {
           "title": "周三（4月15日），美股存储芯片与硬件供应链指数跌2.30%，报135.73点，呈现出V形走势。 成分股全线收跌，Sandisk跌5.58%，拉姆研究、希捷科技、美光科技跌2.66%-2.03%，Rambus跌1.40%，应用材料、西部数据、泰瑞达TER至多跌0.35%。 信息科技指数涨1.32%，报313.74点，北京时间00:56以来持续反弹。 人工智能（AI）赢家指数涨0.24%，报333.04点，00:56以来持续反弹。 AI软件先驱指数涨5.29%，报95.29点，美股盘初涨势陡峭、21:43以来持续平缓地走高。",
           "url": "https://wallstreetcn.com/livenews/3088776",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时42分]"
+        },
+        {
+          "title": "机器人切除肿瘤两年后患者去世",
+          "url": "https://www.toutiao.com/trending/7628813241162170431/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 06时42分]"
+        },
+        {
+          "title": "绩优基金一季报密集披露：多只基金规模大增，看多AI相关产业链",
+          "url": "https://wallstreetcn.com/livenews/3088801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时53分"
+          "time_info": "06时42分"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850507&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/to3CwevUBG-vaezhxQK_C.jpg/lite\" height=\"120\"/></a>",
@@ -91,17 +117,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
-        },
-        {
-          "title": "机器人切除肿瘤两年后患者去世",
-          "url": "https://www.toutiao.com/trending/7628813241162170431/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
         },
         {
           "title": "机器人切除肿瘤不彻底 医院担主责",
@@ -154,26 +169,40 @@
           "time_info": "02时05分"
         },
         {
-          "title": "英国央行行长贝利：通胀正在上升。 伊朗战争将对（经济）活动造成负面影响。 这是一个非常重大的能源冲击。 （伊朗战争产生的）增速和通胀影响难以权衡。 （美国和以色列发动）伊朗战争之前，我本来预计会降息1-2次。 当前，这不再是我们的中心预期。",
-          "url": "https://wallstreetcn.com/livenews/3088787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
           "title": "券商自营连续三年成第一收入，十年沉浮，如何看自营“统治时代”",
           "url": "https://www.cls.cn/detail/2345172",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 06时42分]"
+        },
+        {
+          "title": "英国央行行长贝利：通胀正在上升。 伊朗战争将对（经济）活动造成负面影响。 这是一个非常重大的能源冲击。 （伊朗战争产生的）增速和通胀影响难以权衡。 （美国和以色列发动）伊朗战争之前，我本来预计会降息1-2次。 当前，这不再是我们的中心预期。",
+          "url": "https://wallstreetcn.com/livenews/3088787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时42分]"
+        },
+        {
+          "title": "欧洲央行执委施纳贝尔：必须非常谨慎地权衡政策决定。我们不想给经济带来不必要的成本。",
+          "url": "https://flash.jin10.com/detail/20260416042934019800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时42分]"
         },
         {
           "title": "美国财长贝森特：昨天会见了阿联酋财政事务国务部长穆罕默德·本·哈迪·阿尔·侯赛尼，讨论美国与阿联酋之间持续推进的经济与金融合作。我们还讨论了在对伊朗问题上维持“最大压力”的重要性。",
@@ -207,17 +236,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
-        },
-        {
-          "title": "欧洲央行执委施纳贝尔：必须非常谨慎地权衡政策决定。我们不想给经济带来不必要的成本。",
-          "url": "https://flash.jin10.com/detail/20260416042934019800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
         },
         {
           "title": "美联储穆萨莱姆：随着经济增长放缓，失业率可能上升，但幅度或仅为一个百分点的十分之几。",
@@ -256,8 +274,19 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美国参议院成员Whitehouse发函环境保护署（EPA），就（天然气发电站）燃机问题质问马斯克旗下人工智能初创公司xAI。",
+          "url": "https://wallstreetcn.com/livenews/3088802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
         {
           "title": "PTA夜盘收涨2.03%，铁矿石涨1.65%，瓶片、LPG、纯苯、甲醇、合成橡胶涨超1%，焦炭涨0.72%。 棕榈油、白糖、PVC夜盘至多收跌0.22%，塑料跌0.37%",
           "url": "https://wallstreetcn.com/livenews/3088629",
