@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T18:10:01.701100+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-04-16T19:03:29.101581+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "【图解中国经济一季报】GDP同比增长5.0%，国民经济实现良好开局",
@@ -20,6 +20,17 @@
           "time_info": "[13时31分 ~ 18时10分]"
         },
         {
+          "title": "速览中国经济一季报亮点",
+          "url": "https://www.douyin.com/hot/2468225",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时46分 ~ 19时03分]"
+        },
+        {
           "title": "券商自营连续三年成第一收入，十年沉浮，如何看自营“统治时代”",
           "url": "https://www.cls.cn/detail/2345172",
           "source": "财联社热门",
@@ -32,15 +43,31 @@
           "time_info": "[00时05分 ~ 07时42分]"
         },
         {
-          "title": "速览中国经济一季报亮点",
-          "url": "https://www.douyin.com/hot/2468225",
-          "source": "抖音",
+          "title": "国务院国资委：国资央企要因地制宜、稳妥有序推动低空经济高质量发展，加快低空航空装备创新迭代",
+          "url": "https://www.cls.cn/detail/2345821",
+          "source": "财联社热门",
           "ranks": [
+            8,
+            6,
+            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时46分 ~ 18时10分]"
+          "appearance_count": 5,
+          "time_info": "[13时31分 ~ 19时03分]"
+        },
+        {
+          "title": "央企要打头阵！国资委召开低空经济产业推进会 提出基础设施要协同布局",
+          "url": "https://www.cls.cn/detail/2345957",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时46分 ~ 19时03分]"
         },
         {
           "title": "美联储将于十分钟后公布经济状况褐皮书；英国央行行长贝利将于十分钟后就全球经济失衡发表讲话。",
@@ -54,19 +81,6 @@
           "time_info": "02时05分"
         },
         {
-          "title": "国务院国资委：国资央企要因地制宜、稳妥有序推动低空经济高质量发展，加快低空航空装备创新迭代",
-          "url": "https://www.cls.cn/detail/2345821",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时31分 ~ 18时10分]"
-        },
-        {
           "title": "A股低空经济概念异动拉升，莱斯信息、深城交涨超10%，中信海直、万丰奥威、宗申动力、英搏尔等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3089017",
           "source": "华尔街见闻-快讯",
@@ -76,6 +90,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "国家发展改革委与西班牙经济、贸易和企业部签署经济发展领域交流合作谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3089252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "4月16日投资避雷针：1500亿白马股一季度亏损1.5亿 智能手机与电脑类收入减少",
@@ -99,18 +124,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
-        },
-        {
-          "title": "央企要打头阵！国资委召开低空经济产业推进会 提出基础设施要协同布局",
-          "url": "https://www.cls.cn/detail/2345957",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时46分 ~ 18时10分]"
         },
         {
           "title": "英国央行行长贝利：通胀正在上升。 伊朗战争将对（经济）活动造成负面影响。 这是一个非常重大的能源冲击。 （伊朗战争产生的）增速和通胀影响难以权衡。 （美国和以色列发动）伊朗战争之前，我本来预计会降息1-2次。 当前，这不再是我们的中心预期。",
@@ -144,8 +157,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
+          "appearance_count": 3,
+          "time_info": "[18时09分 ~ 19时03分]"
         },
         {
           "title": "欧洲央行执委施纳贝尔：必须非常谨慎地权衡政策决定。我们不想给经济带来不必要的成本。",
@@ -248,6 +261,17 @@
           "time_info": "13时31分"
         },
         {
+          "title": "【焦点复盘】创指再现长阳反包，Token经济概念持续火爆，“宁王”首次跻身A股总市值三甲",
+          "url": "https://www.cls.cn/detail/2346342",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "乌克兰副经济部长：预计美乌联合重建基金将在今年夏季批准第二个项目，可能涉及能源领域。第三个联合重建基金项目将在今年晚些时候公布。",
           "url": "https://flash.jin10.com/detail/20260416062606585800",
           "source": "金十数据",
@@ -259,6 +283,17 @@
           "time_info": "07时42分"
         },
         {
+          "title": "晶华新材：2025年营业收入21.7亿元，同比增长15.14%。净利润8932.49万元，同比增长33.25%。公司拟向全体股东每股派发现金红利0.1元(含税)。",
+          "url": "https://flash.jin10.com/detail/20260416183437912800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "国家统计局：一季度国民经济实现良好开局",
           "url": "https://wallstreetcn.com/livenews/3088935",
           "source": "华尔街见闻-快讯",
@@ -268,6 +303,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "投资老将Yardeni：投资者焦点从战争转向基本面 美国经济抗压能力凸显",
+          "url": "https://wallstreetcn.com/livenews/3089240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "国家统计局：一季度居民收入持续增长，农村居民收入增长快于城镇居民",
@@ -353,7 +399,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         },
@@ -386,7 +432,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         },
@@ -408,7 +454,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         }
@@ -416,7 +462,7 @@
     },
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -426,11 +472,12 @@
             7,
             8,
             13,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时05分 ~ 18时10分]"
+          "appearance_count": 14,
+          "time_info": "[00时05分 ~ 19时03分]"
         },
         {
           "title": "机器人跑马拉松也穿跑鞋了",
@@ -449,6 +496,21 @@
           "time_info": "[00时05分 ~ 13时31分]"
         },
         {
+          "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
+          "url": "https://wallstreetcn.com/articles/3770049",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时38分 ~ 19时03分]"
+        },
+        {
           "title": "番茄作者AI代笔,读者白追",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
           "source": "贴吧",
@@ -457,22 +519,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时46分 ~ 18时10分]"
-        },
-        {
-          "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
-          "url": "https://wallstreetcn.com/articles/3770049",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时38分 ~ 18时10分]"
+          "appearance_count": 4,
+          "time_info": "[15时46分 ~ 19时03分]"
         },
         {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
@@ -486,6 +534,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时05分 ~ 06时42分]"
+        },
+        {
+          "title": "玩家AI生图捧洛克,网友一秒戳穿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            15,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时38分 ~ 19时03分]"
         },
         {
           "title": "Anthropic 4 月 14 日宣布将启用 Claude 实名身份认证，会给用户带来什么影响？",
@@ -508,19 +570,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
-        },
-        {
-          "title": "玩家AI生图捧洛克,网友一秒戳穿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时38分 ~ 18时10分]"
         },
         {
           "title": "中国机器人火到波兰：街头撵野猪，登台讲笑话",
@@ -620,6 +669,17 @@
           "time_info": "[07时41分 ~ 07时42分]"
         },
         {
+          "title": "解读AI蒸馏攻防战",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBAI%E8%92%B8%E9%A6%8F%E6%94%BB%E9%98%B2%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "报道：美国航司Spirit Airlines最早可能在本周开始清算",
           "url": "https://wallstreetcn.com/livenews/3088814",
           "source": "华尔街见闻-快讯",
@@ -640,6 +700,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
+          "url": "https://www.cls.cn/detail/2346308",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "阿里巴巴发布可用于游戏开发的AI模型",
@@ -719,6 +790,17 @@
           "time_info": "07时42分"
         },
         {
+          "title": "特斯拉拟在上海生产人形机器人",
+          "url": "https://wallstreetcn.com/livenews/3089221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "台积电：对AI的超级趋势有强烈信心，未来三年的资本支出将显著高于过去三年。 我们正在准备产能以满足客户需求。 内存价格上涨对个人电脑和智能手机市场有一定影响。 努力加快美国亚利桑那州工厂建设进度，希望在亚利桑那州兴建更多晶圆厂。",
           "url": "https://wallstreetcn.com/livenews/3089070",
           "source": "华尔街见闻-快讯",
@@ -728,6 +810,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "OpenAI：加速网络防御生态系统（建设），保护我们所有人。 美国银行、贝莱德、纽约梅隆银行、花旗集团等公司纷纷签约。",
+          "url": "https://wallstreetcn.com/livenews/3089213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         }
       ]
     },
