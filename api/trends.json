@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-16T19:03:29.101581+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-04-16T21:44:25.612768+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "速览中国经济一季报亮点",
+          "url": "https://www.douyin.com/hot/2468225",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时46分 ~ 21时44分]"
+        },
         {
           "title": "【图解中国经济一季报】GDP同比增长5.0%，国民经济实现良好开局",
           "url": "https://www.cls.cn/detail/2344826",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时31分 ~ 18时10分]"
-        },
-        {
-          "title": "速览中国经济一季报亮点",
-          "url": "https://www.douyin.com/hot/2468225",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时46分 ~ 19时03分]"
         },
         {
           "title": "券商自营连续三年成第一收入，十年沉浮，如何看自营“统治时代”",
@@ -63,11 +63,12 @@
           "ranks": [
             11,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时46分 ~ 19时03分]"
+          "appearance_count": 5,
+          "time_info": "[15时46分 ~ 21时44分]"
         },
         {
           "title": "美联储将于十分钟后公布经济状况褐皮书；英国央行行长贝利将于十分钟后就全球经济失衡发表讲话。",
@@ -98,7 +99,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -161,6 +162,18 @@
           "time_info": "[18时09分 ~ 19时03分]"
         },
         {
+          "title": "【焦点复盘】创指再现长阳反包，Token经济概念持续火爆，“宁王”首次跻身A股总市值三甲",
+          "url": "https://www.cls.cn/detail/2346342",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 21时44分]"
+        },
+        {
           "title": "欧洲央行执委施纳贝尔：必须非常谨慎地权衡政策决定。我们不想给经济带来不必要的成本。",
           "url": "https://flash.jin10.com/detail/20260416042934019800",
           "source": "金十数据",
@@ -171,6 +184,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时53分 ~ 06时42分]"
+        },
+        {
+          "title": "美方对伊新行动：代号“经济狂怒”",
+          "url": "https://www.toutiao.com/trending/7629338387333271059/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "美国财长贝森特：昨天会见了阿联酋财政事务国务部长穆罕默德·本·哈迪·阿尔·侯赛尼，讨论美国与阿联酋之间持续推进的经济与金融合作。我们还讨论了在对伊朗问题上维持“最大压力”的重要性。",
@@ -261,15 +285,15 @@
           "time_info": "13时31分"
         },
         {
-          "title": "【焦点复盘】创指再现长阳反包，Token经济概念持续火爆，“宁王”首次跻身A股总市值三甲",
-          "url": "https://www.cls.cn/detail/2346342",
-          "source": "财联社热门",
+          "title": "美对伊朗启动经济狂怒行动",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%90%AF%E5%8A%A8%E7%BB%8F%E6%B5%8E%E7%8B%82%E6%80%92%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时03分"
+          "time_info": "21时44分"
         },
         {
           "title": "乌克兰副经济部长：预计美乌联合重建基金将在今年夏季批准第二个项目，可能涉及能源领域。第三个联合重建基金项目将在今年晚些时候公布。",
@@ -289,7 +313,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -311,9 +335,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "美方对伊朗启动“经济狂怒”行动",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B9%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%90%AF%E5%8A%A8%E2%80%9C%E7%BB%8F%E6%B5%8E%E7%8B%82%E6%80%92%E2%80%9D%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "国家统计局：一季度居民收入持续增长，农村居民收入增长快于城镇居民",
@@ -338,6 +373,17 @@
           "time_info": "15时46分"
         },
         {
+          "title": "美国纽约联储主席威廉姆斯：近期市场波动较大，投资者在解析信息。 市场运行“非常良好”。 在当前不确定性下，流动性好于预期。 美国国债市场运行极为顺畅。 良好的流动性有利于金融稳定和整体经济。 税期相关安排进展顺利。",
+          "url": "https://wallstreetcn.com/livenews/3089386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
           "title": "美联储穆萨莱姆：随着经济增长放缓，失业率可能上升，但幅度或仅为一个百分点的十分之几。",
           "url": "https://flash.jin10.com/detail/20260416030408488800",
           "source": "金十数据",
@@ -358,6 +404,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "美国纽约联储主席威廉姆斯：纽约地区经济展现出强劲的活力。 商业地产状况好于预期，风险有所下降。 人工智能可能会提升生产率，但增幅难以确定。 人工智能等技术对经济产生影响需要较长时间。 当前就业市场的疲软与人工智能无关。 雇主在招聘新员工方面持谨慎态度。",
+          "url": "https://wallstreetcn.com/livenews/3089385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "美国银行一季度大宗商品交易收入激增60%。",
@@ -473,11 +530,12 @@
             8,
             13,
             19,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时05分 ~ 19时03分]"
+          "appearance_count": 15,
+          "time_info": "[00时05分 ~ 21时44分]"
         },
         {
           "title": "机器人跑马拉松也穿跑鞋了",
@@ -496,6 +554,18 @@
           "time_info": "[00时05分 ~ 13时31分]"
         },
         {
+          "title": "番茄作者AI代笔,读者白追",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时46分 ~ 21时44分]"
+        },
+        {
           "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
           "url": "https://wallstreetcn.com/articles/3770049",
           "source": "华尔街见闻",
@@ -511,16 +581,19 @@
           "time_info": "[10时38分 ~ 19时03分]"
         },
         {
-          "title": "番茄作者AI代笔,读者白追",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
+          "title": "玩家AI生图捧洛克,网友一秒戳穿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
           "source": "贴吧",
           "ranks": [
-            1,
-            4
+            10,
+            15,
+            21,
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时46分 ~ 19时03分]"
+          "appearance_count": 7,
+          "time_info": "[10时38分 ~ 21时44分]"
         },
         {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
@@ -534,20 +607,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时05分 ~ 06时42分]"
-        },
-        {
-          "title": "玩家AI生图捧洛克,网友一秒戳穿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            15,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时38分 ~ 19时03分]"
         },
         {
           "title": "Anthropic 4 月 14 日宣布将启用 Claude 实名身份认证，会给用户带来什么影响？",
@@ -675,7 +734,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -708,7 +767,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -796,7 +855,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -818,7 +877,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         }
@@ -826,7 +885,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国参议院成员Whitehouse发函环境保护署（EPA），就（天然气发电站）燃机问题质问马斯克旗下人工智能初创公司xAI。",
@@ -849,6 +908,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "夜盘期货开盘，甲醇、瓶片、氧化铝、沥青、焦煤、焦炭、原油涨逾1%；沪铅、沪银等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3089375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         }
       ]
     }
