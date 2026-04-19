@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T03:42:20.125589+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-04-20T04:38:35.871454+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时38分]"
         },
         {
           "title": "今年机器人跑半马也太快了",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时38分]"
         },
         {
           "title": "50分26秒破人类纪录！直击北京亦庄机器人半马赛：荣耀“闪电”夺冠 宇树天工双双“累倒”终点",
@@ -39,20 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时42分]"
-        },
-        {
-          "title": "宇树机器人打破人类1500米世界纪录",
-          "url": "https://www.toutiao.com/trending/7630006008840601654/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时38分]"
         },
         {
           "title": "快过人类！荣耀、宇树刷屏2026机器人半马 冠军花落自主导航组",
@@ -62,8 +50,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时38分]"
+        },
+        {
+          "title": "宇树机器人打破人类1500米世界纪录",
+          "url": "https://www.toutiao.com/trending/7630006008840601654/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时38分]"
         },
         {
           "title": "如何评价 claude design 功能发布后 Figma 股价下跌 7%？",
@@ -71,11 +72,25 @@
           "source": "知乎",
           "ranks": [
             13,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时38分]"
+        },
+        {
+          "title": "在机器人身上居然看见了春风得意",
+          "url": "https://www.toutiao.com/trending/7630352926552100379/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            9,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时38分]"
         },
         {
           "title": "人形机器人半马跑进1小时 行业加速放量期上市公司卡位“供应链”",
@@ -85,20 +100,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时42分]"
-        },
-        {
-          "title": "在机器人身上居然看见了春风得意",
-          "url": "https://www.toutiao.com/trending/7630352926552100379/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时38分]"
         },
         {
           "title": "50分26秒！2026北京亦庄人形机器人半马冠军出炉",
@@ -110,8 +113,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时38分]"
         },
         {
           "title": "经纬度：从“养生跑”到破人类纪录，中国机器人成了！",
@@ -123,8 +126,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时38分]"
         },
         {
           "title": "小孩哥机器人跑一半打招呼被“抱走”",
@@ -134,19 +137,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时42分]"
-        },
-        {
-          "title": "up主转战AI动画遭手绘党声讨",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353424&amp;topic_name=up%E4%B8%BB%E8%BD%AC%E6%88%98AI%E5%8A%A8%E7%94%BB%E9%81%AD%E6%89%8B%E7%BB%98%E5%85%9A%E5%A3%B0%E8%AE%A8",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时38分]"
         },
         {
           "title": "机器人跑得比人类还快有啥用",
@@ -156,11 +148,23 @@
             29,
             26,
             25,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时38分]"
+        },
+        {
+          "title": "up主转战AI动画遭手绘党声讨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353424&amp;topic_name=up%E4%B8%BB%E8%BD%AC%E6%88%98AI%E5%8A%A8%E7%94%BB%E9%81%AD%E6%89%8B%E7%BB%98%E5%85%9A%E5%A3%B0%E8%AE%A8",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时38分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -170,8 +174,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时38分]"
         },
         {
           "title": "荣耀回应首次参加机器人马拉松夺冠",
@@ -182,8 +186,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时38分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -193,8 +197,22 @@
             29
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时38分]"
+        },
+        {
+          "title": "机器人半马显眼包大赏",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E9%A9%AC%E6%98%BE%E7%9C%BC%E5%8C%85%E5%A4%A7%E8%B5%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            24,
+            20,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时42分]"
+          "time_info": "[01时36分 ~ 04时38分]"
         },
         {
           "title": "2026，人形机器人半马有哪些名场面？",
@@ -223,17 +241,17 @@
           "time_info": "[00时40分 ~ 02时52分]"
         },
         {
-          "title": "机器人半马显眼包大赏",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E9%A9%AC%E6%98%BE%E7%9C%BC%E5%8C%85%E5%A4%A7%E8%B5%8F",
+          "title": "2026人形机器人半马全程回顾",
+          "url": "https://search.bilibili.com/all?keyword=2026%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E9%A9%AC%E5%85%A8%E7%A8%8B%E5%9B%9E%E9%A1%BE",
           "source": "bilibili 热搜",
           "ranks": [
-            21,
-            24,
-            20
+            30,
+            28,
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时36分 ~ 03时42分]"
+          "time_info": "[01时36分 ~ 04时38分]"
         },
         {
           "title": "谷歌公司与迈威尔科技洽谈打造新款AI芯片。（The Information）",
@@ -259,6 +277,17 @@
           "time_info": "[00时40分 ~ 01时36分]"
         },
         {
+          "title": "我们要不要向AI说谢谢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33005512",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时42分 ~ 04时38分]"
+        },
+        {
           "title": "宇树H1机器人被担架抬离赛道",
           "url": "https://www.toutiao.com/trending/7629577852819787300/",
           "source": "今日头条",
@@ -268,29 +297,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时52分 ~ 03时42分]"
-        },
-        {
-          "title": "2026人形机器人半马全程回顾",
-          "url": "https://search.bilibili.com/all?keyword=2026%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E9%A9%AC%E5%85%A8%E7%A8%8B%E5%9B%9E%E9%A1%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 02时52分]"
-        },
-        {
-          "title": "我们要不要向AI说谢谢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33005512",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时42分"
         },
         {
           "title": "当机器人开始跨越恐怖谷",
@@ -340,20 +346,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时42分]"
-        },
-        {
-          "title": "美国共和党参议员格雷厄姆：这场出色的（美国）封锁正在摧毁伊朗经济。伊斯兰革命卫队对国际航运的袭击是绝望的表现。",
-          "url": "https://flash.jin10.com/detail/20260420023258462800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时38分]"
         },
         {
           "title": "一季度经济增长5%的背后",
@@ -362,11 +356,25 @@
           "ranks": [
             20,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时38分]"
+        },
+        {
+          "title": "美国共和党参议员格雷厄姆：这场出色的（美国）封锁正在摧毁伊朗经济。伊斯兰革命卫队对国际航运的袭击是绝望的表现。",
+          "url": "https://flash.jin10.com/detail/20260420023258462800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 04时38分]"
         },
         {
           "title": "专家解读：房地产市场积极信号进一步增强",
@@ -380,6 +388,30 @@
           "time_info": "[00时40分 ~ 02时52分]"
         },
         {
+          "title": "美国财长会见韩国经济部长 一致认为韩元过度波动“不可取”",
+          "url": "https://flash.jin10.com/detail/20260420024624393800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时42分 ~ 04时38分]"
+        },
+        {
+          "title": "美国财长贝森特：上周五，我与巴林财政与国家经济部长沙伊赫·萨尔曼·本·哈利法·阿尔哈利法会面，讨论美国与巴林之间持续的经济和安全合作。",
+          "url": "https://flash.jin10.com/detail/20260420024447488800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时42分 ~ 04时38分]"
+        },
+        {
           "title": "阿布扎比国家石油公司首席执行官阿尔·贾伯：全球经济无法承受更多不确定性；霍尔木兹海峡在威胁下无法正常运作。",
           "url": "https://flash.jin10.com/detail/20260420014429976800",
           "source": "金十数据",
@@ -390,28 +422,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时52分 ~ 03时42分]"
-        },
-        {
-          "title": "美国财长会见韩国经济部长 一致认为韩元过度波动“不可取”",
-          "url": "https://flash.jin10.com/detail/20260420024624393800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "美国财长贝森特：上周五，我与巴林财政与国家经济部长沙伊赫·萨尔曼·本·哈利法·阿尔哈利法会面，讨论美国与巴林之间持续的经济和安全合作。",
-          "url": "https://flash.jin10.com/detail/20260420024447488800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时42分"
         }
       ]
     },
@@ -427,8 +437,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时38分]"
         }
       ]
     }
