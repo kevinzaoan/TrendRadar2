@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T06:43:35.787848+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-04-21T07:43:17.226578+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "机器人半马见证大国创造澎湃动能",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 07时43分]"
         },
         {
           "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 07时43分]"
         },
         {
           "title": "爱奇艺称AI艺人库仅是合作意愿",
@@ -38,11 +38,12 @@
           "ranks": [
             6,
             7,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 07时43分]"
         },
         {
           "title": "AI围剿影视圈,演员签卖身契",
@@ -53,8 +54,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 07时43分]"
         },
         {
           "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
@@ -64,8 +65,70 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 07时43分]"
+        },
+        {
+          "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
+          "url": "https://www.zhihu.com/question/2029565174948914400",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11,
+            9,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 07时43分]"
+        },
+        {
+          "title": "深度解读机器人马拉松跑向何方",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE%E8%B7%91%E5%90%91%E4%BD%95%E6%96%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            12,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 07时43分]"
+        },
+        {
+          "title": "女子酒窝超大被网友怀疑是AI",
+          "url": "https://www.toutiao.com/trending/7630464363427069993/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            17,
+            28,
+            13,
+            18,
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 07时43分]"
+        },
+        {
+          "title": "今年机器人马拉松发生了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8A%E5%B9%B4%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            17,
+            25,
+            21,
+            27,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 07时43分]"
         },
         {
           "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
@@ -82,63 +145,28 @@
           "time_info": "[00时09分 ~ 05时47分]"
         },
         {
-          "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
-          "url": "https://www.zhihu.com/question/2029565174948914400",
-          "source": "知乎",
+          "title": "污染数据、操控榜单 你信任的AI可能已被“投毒”",
+          "url": "https://flash.jin10.com/detail/20260421065051985800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            11,
-            9,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 06时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
-          "title": "深度解读机器人马拉松跑向何方",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE%E8%B7%91%E5%90%91%E4%BD%95%E6%96%B9",
-          "source": "bilibili 热搜",
+          "title": "华为发布首款鸿蒙AI眼镜 2499元起售",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E9%B8%BF%E8%92%99AI%E7%9C%BC%E9%95%9C+2499%E5%85%83%E8%B5%B7%E5%94%AE",
+          "source": "百度热搜",
           "ranks": [
-            18,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 06时43分]"
-        },
-        {
-          "title": "女子酒窝超大被网友怀疑是AI",
-          "url": "https://www.toutiao.com/trending/7630464363427069993/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            17,
-            28,
-            13,
-            18,
+            19,
+            21,
             30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 06时43分]"
-        },
-        {
-          "title": "今年机器人马拉松发生了什么",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8A%E5%B9%B4%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            17,
-            25,
-            21,
-            27,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 06时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 07时43分]"
         },
         {
           "title": "在招聘页面放AI聚餐照",
@@ -155,6 +183,17 @@
           "time_info": "[01时58分 ~ 05时47分]"
         },
         {
+          "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
+          "url": "https://wallstreetcn.com/articles/3770390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 07时43分]"
+        },
+        {
           "title": "华为首款AI眼镜来了",
           "url": "https://www.toutiao.com/trending/7630378679035101225/",
           "source": "今日头条",
@@ -168,40 +207,29 @@
           "time_info": "[00时09分 ~ 04时46分]"
         },
         {
-          "title": "华为发布首款鸿蒙AI眼镜 2499元起售",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E9%B8%BF%E8%92%99AI%E7%9C%BC%E9%95%9C+2499%E5%85%83%E8%B5%B7%E5%94%AE",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 03时14分]"
-        },
-        {
-          "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
-          "url": "https://wallstreetcn.com/articles/3770390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 01时58分]"
-        },
-        {
           "title": "马上评｜“AI艺人库”来了，爱奇艺到底在打什么算盘",
           "url": "https://m.thepaper.cn/newsDetail_forward_33011850",
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时43分]"
+        },
+        {
+          "title": "曝王楚然早就融了AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时43分]"
+          "time_info": "[00时09分 ~ 07时43分]"
         },
         {
           "title": "亚马逊(AMZN.O)：Anthropic的Claude平台现已在AWS上线。",
@@ -214,17 +242,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时47分 ~ 06时43分]"
-        },
-        {
-          "title": "曝王楚然早就融了AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
           "title": "AI核能开发商Fermi股价下跌，该公司CEO突然离职",
@@ -298,7 +315,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "体验经济全面升温",
@@ -308,8 +325,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 07时43分]"
         },
         {
           "title": "硬核数据看中国经济动力澎湃",
@@ -319,8 +336,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时47分 ~ 06时43分]"
+          "appearance_count": 3,
+          "time_info": "[05时47分 ~ 07时43分]"
+        },
+        {
+          "title": "北美贸易协定审查在即 各方紧磋商贸易与经济合作",
+          "url": "https://flash.jin10.com/detail/20260421065950948800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "标普500指数的11个板块中，涨跌各异，电信板块收跌1.41%，保健板块跌超0.9%，可选消费板块跌超0.6%，信息技术/科技板块大致收平，能源、房地产、金融板块至多涨超0.3%，原材料板块涨超0.5%。",
@@ -389,6 +417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "新西兰经济研究所（NZIER）：新西兰第一季度商业信心大幅下滑。 净43%的受访企业预计价格将在二季度上涨。 净4%的企业预计经济将恶化，而第四季度有48%的企业认为经济将改善。 经季节性调整后，净1%的企业预计经济将改善。 净0%的企业报告称第一季度自身经营活动有所改善。 净13%的企业预计第二季度自身活动将改善。 净10%的企业表示更难找到熟练工人。 净22%的企业在第一季度提高了价格。 净43%的企业预计将在第二季度提高价格。 净9%的企业在第一季度解雇了工人。 净5%的企业预计将在第二季度解雇工人。 调查回复收集时间为3月6日至4月10日。",
+          "url": "https://wallstreetcn.com/livenews/3091351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         }
       ]
     },
@@ -404,8 +443,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 07时43分]"
         },
         {
           "title": "内盘期货夜市涨跌各异，20号胶收涨1.48%，橡胶、焦炭至少涨1.28%，焦煤涨1.25%，低硫燃油涨1.09%。 瓶片夜盘则收跌0.27%，LPG跌0.68%，甲醇、苯乙烯、PTA、对二甲苯至少跌1.05%，丙烯、纯苯至多跌1.54%。",
