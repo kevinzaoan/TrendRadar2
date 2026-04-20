@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T05:47:19.816480+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-04-21T06:43:35.787848+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时43分]"
         },
         {
           "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
@@ -28,8 +28,44 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时43分]"
+        },
+        {
+          "title": "爱奇艺称AI艺人库仅是合作意愿",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E7%A7%B0AI%E8%89%BA%E4%BA%BA%E5%BA%93%E4%BB%85%E6%98%AF%E5%90%88%E4%BD%9C%E6%84%8F%E6%84%BF%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时43分]"
+        },
+        {
+          "title": "AI围剿影视圈,演员签卖身契",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时43分]"
+        },
+        {
+          "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
+          "url": "https://wallstreetcn.com/articles/3770370",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时43分]"
         },
         {
           "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
@@ -46,53 +82,18 @@
           "time_info": "[00时09分 ~ 05时47分]"
         },
         {
-          "title": "爱奇艺称AI艺人库仅是合作意愿",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E7%A7%B0AI%E8%89%BA%E4%BA%BA%E5%BA%93%E4%BB%85%E6%98%AF%E5%90%88%E4%BD%9C%E6%84%8F%E6%84%BF%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 05时47分]"
-        },
-        {
-          "title": "AI围剿影视圈,演员签卖身契",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 05时47分]"
-        },
-        {
-          "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
-          "url": "https://wallstreetcn.com/articles/3770370",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 05时47分]"
-        },
-        {
           "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
           "url": "https://www.zhihu.com/question/2029565174948914400",
           "source": "知乎",
           "ranks": [
             12,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时43分]"
         },
         {
           "title": "深度解读机器人马拉松跑向何方",
@@ -104,8 +105,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时43分]"
         },
         {
           "title": "女子酒窝超大被网友怀疑是AI",
@@ -116,11 +117,12 @@
             17,
             28,
             13,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时43分]"
         },
         {
           "title": "今年机器人马拉松发生了什么",
@@ -131,11 +133,12 @@
             17,
             25,
             21,
-            27
+            27,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时43分]"
         },
         {
           "title": "在招聘页面放AI聚餐照",
@@ -189,6 +192,30 @@
           "time_info": "[00时09分 ~ 01时58分]"
         },
         {
+          "title": "马上评｜“AI艺人库”来了，爱奇艺到底在打什么算盘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011850",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时46分 ~ 06时43分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：Anthropic的Claude平台现已在AWS上线。",
+          "url": "https://flash.jin10.com/detail/20260421043955367800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时43分]"
+        },
+        {
           "title": "曝王楚然早就融了AI",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -223,15 +250,16 @@
           "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "马上评｜“AI艺人库”来了，爱奇艺到底在打什么算盘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011850",
-          "source": "澎湃新闻",
+          "title": "观众为何对AI表演集体不买账",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A7%82%E4%BC%97%E4%B8%BA%E4%BD%95%E5%AF%B9AI%E8%A1%A8%E6%BC%94%E9%9B%86%E4%BD%93%E4%B8%8D%E4%B9%B0%E8%B4%A6%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
+            21,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时47分]"
+          "time_info": "[05时47分 ~ 06时43分]"
         },
         {
           "title": "苏醒说AI艺人这方向真的对么",
@@ -245,35 +273,13 @@
           "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "亚马逊(AMZN.O)：Anthropic的Claude平台现已在AWS上线。",
-          "url": "https://flash.jin10.com/detail/20260421043955367800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
-        },
-        {
           "title": "亚马逊(AMZN.O)： Anthropic将获得5吉瓦的亚马逊Trainium芯片。",
           "url": "https://flash.jin10.com/detail/20260421043339536800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
-        },
-        {
-          "title": "观众为何对AI表演集体不买账",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A7%82%E4%BC%97%E4%B8%BA%E4%BD%95%E5%AF%B9AI%E8%A1%A8%E6%BC%94%E9%9B%86%E4%BD%93%E4%B8%8D%E4%B9%B0%E8%B4%A6%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         },
@@ -302,8 +308,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时43分]"
         },
         {
           "title": "硬核数据看中国经济动力澎湃",
@@ -312,9 +318,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时43分]"
         },
         {
           "title": "标普500指数的11个板块中，涨跌各异，电信板块收跌1.41%，保健板块跌超0.9%，可选消费板块跌超0.6%，信息技术/科技板块大致收平，能源、房地产、金融板块至多涨超0.3%，原材料板块涨超0.5%。",
@@ -369,7 +375,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         },
@@ -398,8 +404,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时43分]"
         },
         {
           "title": "内盘期货夜市涨跌各异，20号胶收涨1.48%，橡胶、焦炭至少涨1.28%，焦煤涨1.25%，低硫燃油涨1.09%。 瓶片夜盘则收跌0.27%，LPG跌0.68%，甲醇、苯乙烯、PTA、对二甲苯至少跌1.05%，丙烯、纯苯至多跌1.54%。",
