@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T16:07:41.877085+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2026-04-20T18:48:51.197221+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 60,
+      "match_count": 69,
       "titles": [
         {
           "title": "荣耀夺冠、机器人半马跑赢人类，但最关键的比赛不在亦庄",
@@ -83,11 +83,12 @@
             14,
             16,
             13,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时42分 ~ 16时07分]"
+          "appearance_count": 11,
+          "time_info": "[03时42分 ~ 18时48分]"
         },
         {
           "title": "机器人半马显眼包大赏",
@@ -99,11 +100,12 @@
             20,
             23,
             25,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时36分 ~ 16时07分]"
+          "appearance_count": 13,
+          "time_info": "[01时36分 ~ 18时48分]"
         },
         {
           "title": "2026人形机器人半马全程回顾",
@@ -260,6 +262,20 @@
           "time_info": "[00时40分 ~ 07时37分]"
         },
         {
+          "title": "如何看待番茄平台上月稿费 80 万的金番作者使用 AI 写作，甚至在正文中没有删除 AI 提示词的现象？",
+          "url": "https://www.zhihu.com/question/2027490615500313080",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 18时48分]"
+        },
+        {
           "title": "宇树人形机器人打破人类 1500 米世界纪录，人形机器人疯狂竞速，实际落地价值在哪儿？",
           "url": "https://www.zhihu.com/question/2029148050057077679",
           "source": "知乎",
@@ -270,19 +286,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时39分 ~ 13时42分]"
-        },
-        {
-          "title": "如何看待番茄平台上月稿费 80 万的金番作者使用 AI 写作，甚至在正文中没有删除 AI 提示词的现象？",
-          "url": "https://www.zhihu.com/question/2027490615500313080",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 16时07分]"
         },
         {
           "title": "机器人跑得比人类还快有啥用",
@@ -301,15 +304,15 @@
           "time_info": "[00时40分 ~ 06时36分]"
         },
         {
-          "title": "全面解析机器人马拉松赛",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE%E8%B5%9B",
-          "source": "bilibili 热搜",
+          "title": "机器人半马打破人类纪录",
+          "url": "https://www.douyin.com/hot/2472785",
+          "source": "抖音",
           "ranks": [
-            1
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 18时48分]"
         },
         {
           "title": "今年机器人马拉松发生了什么",
@@ -318,22 +321,34 @@
           "ranks": [
             7,
             3,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 16时07分]"
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 18时48分]"
         },
         {
-          "title": "机器人半马打破人类纪录",
-          "url": "https://www.douyin.com/hot/2472785",
-          "source": "抖音",
+          "title": "全面解析机器人马拉松赛",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE%E8%B5%9B",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
+          "title": "深度解读机器人马拉松跑向何方",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE%E8%B7%91%E5%90%91%E4%BD%95%E6%96%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时07分"
+          "time_info": "18时48分"
         },
         {
           "title": "荣耀包揽亦庄机器人马拉松前三：对话齐天大圣冠军战队，技术与路线全揭秘",
@@ -358,6 +373,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "芯原股份：截至2026年4月20日新签订单45.16亿元，AI算力相关订单占比超85%",
+          "url": "https://wallstreetcn.com/livenews/3091034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "机器人马拉松爆火背后，商业银行都有哪些布局？多家银行正“花样百出”杀入赛道",
+          "url": "https://www.cls.cn/detail/2349172",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "2026，人形机器人半马有哪些名场面？",
@@ -410,6 +447,18 @@
           "time_info": "[00时40分 ~ 02时52分]"
         },
         {
+          "title": "女子酒窝超大被网友怀疑是AI",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%85%92%E7%AA%9D%E8%B6%85%E5%A4%A7%E8%A2%AB%E7%BD%91%E5%8F%8B%E6%80%80%E7%96%91%E6%98%AFAI",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 18时48分]"
+        },
+        {
           "title": "百只机器人概念股业绩横评：逾半数盈利下滑或亏损 谁已兑现预期？谁又在“画饼”？",
           "url": "https://www.cls.cn/detail/2348806",
           "source": "财联社热门",
@@ -420,6 +469,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时42分 ~ 16时07分]"
+        },
+        {
+          "title": "未授权AI艺人",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%AA%E6%8E%88%E6%9D%83AI%E8%89%BA%E4%BA%BA&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 18时48分]"
+        },
+        {
+          "title": "女子酒窝超大被网友怀疑是AI",
+          "url": "https://www.toutiao.com/trending/7630464363427069993/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 18时48分]"
+        },
+        {
+          "title": "张若昀工作室 没签过AI授权",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%8B%A5%E6%98%80%E5%B7%A5%E4%BD%9C%E5%AE%A4%20%E6%B2%A1%E7%AD%BE%E8%BF%87AI%E6%8E%88%E6%9D%83&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 18时48分]"
         },
         {
           "title": "陈哲远丞磊曾舜晞入驻爱奇艺AI艺人库",
@@ -514,6 +598,17 @@
           "time_info": "[07时36分 ~ 07时37分]"
         },
         {
+          "title": "AI养马能代替养虾吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%BB%E9%A9%AC%E8%83%BD%E4%BB%A3%E6%9B%BF%E5%85%BB%E8%99%BE%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "A股AI应用端概念股走高，吉宏股份涨停，蓝色光标涨近15%，中文在线、流金科技、易点天下、利欧股份等跟涨。",
           "url": "https://flash.jin10.com/detail/20260420102419074800",
           "source": "金十数据",
@@ -547,15 +642,15 @@
           "time_info": "13时42分"
         },
         {
-          "title": "女子酒窝超大被网友怀疑是AI",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%85%92%E7%AA%9D%E8%B6%85%E5%A4%A7%E8%A2%AB%E7%BD%91%E5%8F%8B%E6%80%80%E7%96%91%E6%98%AFAI",
-          "source": "百度热搜",
+          "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
+          "url": "https://wallstreetcn.com/articles/3770370",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时07分"
+          "time_info": "18时48分"
         },
         {
           "title": "特斯拉：目前并无在上海超级工厂量产机器人的具体计划",
@@ -569,6 +664,17 @@
           "time_info": "10时40分"
         },
         {
+          "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
+          "url": "https://wallstreetcn.com/articles/3770390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "AI李想",
           "url": "https://s.weibo.com/weibo?q=AI%E6%9D%8E%E6%83%B3&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -578,17 +684,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
-        },
-        {
-          "title": "未授权AI艺人",
-          "url": "https://s.weibo.com/weibo?q=%E6%9C%AA%E6%8E%88%E6%9D%83AI%E8%89%BA%E4%BA%BA&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时07分"
         },
         {
           "title": "直播丨50分26秒！2026北京亦庄人形机器人半程马拉松冠军出炉",
@@ -602,24 +697,13 @@
           "time_info": "06时36分"
         },
         {
-          "title": "女子酒窝超大被网友怀疑是AI",
-          "url": "https://www.toutiao.com/trending/7630464363427069993/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
           "title": "盘点机器人半马的技术进化",
           "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE",
           "source": "bilibili 热搜",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         },
@@ -633,17 +717,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
-        },
-        {
-          "title": "张若昀工作室 没签过AI授权",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%8B%A5%E6%98%80%E5%B7%A5%E4%BD%9C%E5%AE%A4%20%E6%B2%A1%E7%AD%BE%E8%BF%87AI%E6%8E%88%E6%9D%83&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时07分"
         },
         {
           "title": "IDC：预计2030年全球人形机器人出货量将突破51万台，年复合增长率近95%",
@@ -666,6 +739,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "曝王楚然早就融了AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "演员集体辟谣AI授权",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E9%9B%86%E4%BD%93%E8%BE%9F%E8%B0%A3AI%E6%8E%88%E6%9D%83%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "广电运通：广电五舟已与华为昇腾、百度昆仑芯等主流国产GPU厂商建立深度合作，全面覆盖AIGC、计算机视觉等应用场景。",
@@ -696,7 +791,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         },
@@ -734,6 +829,17 @@
           "time_info": "13时42分"
         },
         {
+          "title": "国际铝业协会（IAI）数据显示，3月份全球原铝产量为630.2万吨。",
+          "url": "https://flash.jin10.com/detail/20260420180312924800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "机器人届也有自己的显眼包",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B1%8A%E4%B9%9F%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E6%98%BE%E7%9C%BC%E5%8C%85%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -748,7 +854,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "人民日报：民营经济代表人士专题宣讲活动举行，“底气不是等出来的，是干出来的”",
@@ -791,26 +897,59 @@
           "time_info": "[10时39分 ~ 13时42分]"
         },
         {
-          "title": "伊朗外交部发言人巴加埃：指责伊朗对其他国家造成损害是错误的。这一局势的经济和安全后果直接由侵略者，即美国和以色列政权承担，他们的目标是破坏地区稳定。",
-          "url": "https://flash.jin10.com/detail/20260420160010525800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
           "title": "中国经济硬核数据再“上新”",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%A1%AC%E6%A0%B8%E6%95%B0%E6%8D%AE%E5%86%8D%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 18时48分]"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：指责伊朗对其他国家造成损害是错误的。这一局势的经济和安全后果直接由侵略者，即美国和以色列政权承担，他们的目标是破坏地区稳定。",
+          "url": "https://flash.jin10.com/detail/20260420160010525800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
+        },
+        {
+          "title": "【天齐锂业：预计2026年第一季度净利润同比增长1,530.31%～1,818.01%】天齐锂业公告，预计2026年第一季度净利润为17亿元～20亿元，同比增长1,530.31%～1,818.01%。预计本报告期营业收入较上年同期大幅上升，受益于新能源产业发展与下游需求增长等多重利好因素驱动，本报告期公司主要锂产品的销售均价较上年同期均明显增长。",
+          "url": "https://wallstreetcn.com/livenews/3091039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "沃格光电：公司关注到近期市场对玻璃基在半导体先进封装领域的应用高度关注。目前公司玻璃基半导体先进封装业务尚处于送样验证阶段，占公司营业收入比重极低，处于亏损状态。新业务的产业化进程、未来订单规模存在较大不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3091037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "优刻得：一季度营业收入为4.39亿元，同比增长16.77%",
+          "url": "https://flash.jin10.com/detail/20260420182414523800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "美国共和党参议员格雷厄姆：这场出色的（美国）封锁正在摧毁伊朗经济。伊斯兰革命卫队对国际航运的袭击是绝望的表现。",
@@ -886,6 +1025,28 @@
           "time_info": "[02时52分 ~ 03时42分]"
         },
         {
+          "title": "经济问题和美伊冲突重创选民信心 特朗普民调支持率创下新低",
+          "url": "https://www.cls.cn/detail/2349003",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "沃格光电：玻璃基半导体先进封装业务尚处于送样验证阶段 占公司营业收入比重极低",
+          "url": "https://flash.jin10.com/detail/20260420181543377800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "伊朗第一副总统阿雷夫：霍尔木兹海峡的安全并非免费。限制伊朗的石油出口时，不要期待他国获得免费的安全。选择很明确：要么实现对所有人而言都自由的石油市场，要么所有人承担重大成本的风险。全球燃料价格的稳定取决于有保证且永久地消除对伊朗及其盟友的经济和军事压力。",
           "url": "https://flash.jin10.com/detail/20260420065034255800",
           "source": "金十数据",
@@ -897,13 +1058,24 @@
           "time_info": "07时37分"
         },
         {
+          "title": "国家发改委召开民营企业座谈会 围绕准确把握当前经济形势、积极应对外部环境变化听取意见建议",
+          "url": "https://wallstreetcn.com/livenews/3091015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "国信证券去年净利增超34%至110亿元，资管业务收入下滑逾22%",
           "url": "https://m.thepaper.cn/newsDetail_forward_33005494",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         },
@@ -914,7 +1086,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         }
@@ -932,11 +1104,12 @@
             10,
             14,
             17,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 16时07分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 18时48分]"
         }
       ]
     }
