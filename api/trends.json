@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T10:35:04.270815+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-04-21T13:28:02.011217+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 32,
+      "match_count": 39,
       "titles": [
         {
           "title": "机器人半马见证大国创造澎湃动能",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 10时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 13时28分]"
         },
         {
           "title": "AI围剿影视圈,演员签卖身契",
@@ -39,11 +39,12 @@
           "ranks": [
             7,
             9,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 10时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 13时28分]"
         },
         {
           "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
@@ -51,11 +52,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 10时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 13时28分]"
         },
         {
           "title": "深度解读机器人马拉松跑向何方",
@@ -65,11 +67,12 @@
             18,
             12,
             13,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 10时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 13时28分]"
         },
         {
           "title": "女子酒窝超大被网友怀疑是AI",
@@ -103,8 +106,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 10时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 13时28分]"
+        },
+        {
+          "title": "减速机订单已排到明年！人形机器人“物种爆发” 2030年全球出货量将超50万？",
+          "url": "https://www.cls.cn/detail/2350092",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 13时28分]"
         },
         {
           "title": "爱奇艺称AI艺人库仅是合作意愿",
@@ -165,22 +179,57 @@
           "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E5%89%A7%E6%98%AF%E5%A6%82%E4%BD%95%E8%AF%9E%E7%94%9F%E7%9A%84",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 13时28分]"
         },
         {
-          "title": "减速机订单已排到明年！人形机器人“物种爆发” 2030年全球出货量将超50万？",
-          "url": "https://www.cls.cn/detail/2350092",
-          "source": "财联社热门",
+          "title": "拆解AI艺人库背后野心",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3AI%E8%89%BA%E4%BA%BA%E5%BA%93%E8%83%8C%E5%90%8E%E9%87%8E%E5%BF%83",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
+          "time_info": "[13时27分 ~ 13时28分]"
+        },
+        {
+          "title": "AI 投入猛增，字节跳动去年净利下滑超 70%，如何解读该业绩？是暂时战略牺牲还是经营基本面出问题了？",
+          "url": "https://www.zhihu.com/question/2029573487086362973",
+          "source": "知乎",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 13时28分]"
+        },
+        {
+          "title": "A股机器人概念短线拉升，日盈电子触及涨停，震裕科技、浙江荣泰、美湖股份、五洲新春、万向钱潮跟涨。",
+          "url": "https://flash.jin10.com/detail/20260421131923458800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "A股机器人概念短线拉升，日盈电子触及涨停，震裕科技、浙江荣泰、美湖股份、五洲新春、万向钱潮跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3091541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "马上评｜“AI艺人库”来了，爱奇艺到底在打什么算盘",
@@ -235,6 +284,18 @@
           "time_info": "[01时58分 ~ 05时47分]"
         },
         {
+          "title": "于和伟、张若昀等接连否认入驻爱奇艺 AI 艺人库，到底是怎么回事？AI 艺人库可能涉及哪些法律风险？",
+          "url": "https://www.zhihu.com/question/2029619054642557288",
+          "source": "知乎",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 13时28分]"
+        },
+        {
           "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
           "url": "https://wallstreetcn.com/articles/3770390",
           "source": "华尔街见闻",
@@ -271,28 +332,6 @@
           "time_info": "[00时09分 ~ 07时43分]"
         },
         {
-          "title": "于和伟、张若昀等接连否认入驻爱奇艺 AI 艺人库，到底是怎么回事？AI 艺人库可能涉及哪些法律风险？",
-          "url": "https://www.zhihu.com/question/2029619054642557288",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
-        },
-        {
-          "title": "AI 投入猛增，字节跳动去年净利下滑超 70%，如何解读该业绩？是暂时战略牺牲还是经营基本面出问题了？",
-          "url": "https://www.zhihu.com/question/2029573487086362973",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
-        },
-        {
           "title": "亚马逊(AMZN.O)：Anthropic的Claude平台现已在AWS上线。",
           "url": "https://flash.jin10.com/detail/20260421043955367800",
           "source": "金十数据",
@@ -317,6 +356,17 @@
           "time_info": "[01时58分 ~ 03时14分]"
         },
         {
+          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 13时28分]"
+        },
+        {
           "title": "爱奇艺 CEO 龚宇称 AI 影视化无法阻挡，真人实拍可能成为非物质文化遗产，你认同他的观点吗？",
           "url": "https://www.zhihu.com/question/2029557729014933493",
           "source": "知乎",
@@ -326,6 +376,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 00时10分]"
+        },
+        {
+          "title": "在 AI 生成内容泛滥的时代，审美教育是多余的吗？理想的审美教育应该是什么样？",
+          "url": "https://www.zhihu.com/question/2029487128267036372",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 13时28分]"
         },
         {
           "title": "观众为何对AI表演集体不买账",
@@ -357,9 +418,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "第二届世界人形机器人运动会将于8月在京举办",
+          "url": "https://wallstreetcn.com/livenews/3091526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "一季度工业机器人产量同比增长33.2%",
@@ -368,7 +440,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -379,7 +451,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -393,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
+        },
+        {
+          "title": "第二届世界人形机器人运动会将于8月在京举办",
+          "url": "https://flash.jin10.com/detail/20260421124449801800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "AI版成何体统逐玉",
@@ -409,7 +492,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "体验经济全面升温",
@@ -451,7 +534,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -530,7 +613,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -541,9 +624,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "南大光电：2025年ArF光刻胶收入突破2000万元 未达到满产状态",
+          "url": "https://flash.jin10.com/detail/20260421123341442800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "新西兰经济研究所（NZIER）：新西兰第一季度商业信心大幅下滑。 净43%的受访企业预计价格将在二季度上涨。 净4%的企业预计经济将恶化，而第四季度有48%的企业认为经济将改善。 经季节性调整后，净1%的企业预计经济将改善。 净0%的企业报告称第一季度自身经营活动有所改善。 净13%的企业预计第二季度自身活动将改善。 净10%的企业表示更难找到熟练工人。 净22%的企业在第一季度提高了价格。 净43%的企业预计将在第二季度提高价格。 净9%的企业在第一季度解雇了工人。 净5%的企业预计将在第二季度解雇工人。 调查回复收集时间为3月6日至4月10日。",
