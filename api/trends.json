@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T15:50:53.310087+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2026-04-21T17:27:09.060744+08:00",
+  "total_titles_processed": 1321,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "机器人半马见证大国创造澎湃动能",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时09分 ~ 15时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时09分 ~ 17时27分]"
         },
         {
           "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
@@ -54,11 +54,12 @@
             9,
             11,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时09分 ~ 15时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时09分 ~ 17时27分]"
         },
         {
           "title": "深度解读机器人马拉松跑向何方",
@@ -72,8 +73,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时09分 ~ 15时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时09分 ~ 17时27分]"
         },
         {
           "title": "女子酒窝超大被网友怀疑是AI",
@@ -104,11 +105,12 @@
             21,
             27,
             22,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时09分 ~ 13时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时09分 ~ 17时27分]"
         },
         {
           "title": "减速机订单已排到明年！人形机器人“物种爆发” 2030年全球出货量将超50万？",
@@ -136,6 +138,20 @@
           "time_info": "[00时09分 ~ 07时43分]"
         },
         {
+          "title": "AI短剧是如何诞生的",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E5%89%A7%E6%98%AF%E5%A6%82%E4%BD%95%E8%AF%9E%E7%94%9F%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            7,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时34分 ~ 17时27分]"
+        },
+        {
           "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
           "url": "https://www.zhihu.com/question/2029565174948914400",
           "source": "知乎",
@@ -149,6 +165,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时09分 ~ 07时43分]"
+        },
+        {
+          "title": "拆解AI艺人库背后野心",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3AI%E8%89%BA%E4%BA%BA%E5%BA%93%E8%83%8C%E5%90%8E%E9%87%8E%E5%BF%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时27分 ~ 17时27分]"
         },
         {
           "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
@@ -174,19 +202,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时34分 ~ 10时35分]"
-        },
-        {
-          "title": "AI短剧是如何诞生的",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E5%89%A7%E6%98%AF%E5%A6%82%E4%BD%95%E8%AF%9E%E7%94%9F%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时34分 ~ 15时50分]"
         },
         {
           "title": "AI 投入猛增，字节跳动去年净利下滑超 70%，如何解读该业绩？是暂时战略牺牲还是经营基本面出问题了？",
@@ -238,18 +253,6 @@
           "time_info": "[04时46分 ~ 10时35分]"
         },
         {
-          "title": "拆解AI艺人库背后野心",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3AI%E8%89%BA%E4%BA%BA%E5%BA%93%E8%83%8C%E5%90%8E%E9%87%8E%E5%BF%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时27分 ~ 15时50分]"
-        },
-        {
           "title": "污染数据、操控榜单 你信任的AI可能已被“投毒”",
           "url": "https://flash.jin10.com/detail/20260421065051985800",
           "source": "金十数据",
@@ -259,6 +262,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时27分 ~ 17时27分]"
         },
         {
           "title": "华为发布首款鸿蒙AI眼镜 2499元起售",
@@ -324,16 +340,16 @@
           "time_info": "[00时09分 ~ 04时46分]"
         },
         {
-          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
-          "source": "澎湃新闻",
+          "title": "机器人半马成绩从近 3 小时压缩到 50 分，打破了人类世界纪录，「跑赢」后，它们真正的战场在哪里？",
+          "url": "https://www.zhihu.com/question/2029516146806669538",
+          "source": "知乎",
           "ranks": [
-            16,
-            12
+            6,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时27分 ~ 15时50分]"
+          "time_info": "[15时50分 ~ 17时27分]"
         },
         {
           "title": "曝王楚然早就融了AI",
@@ -370,6 +386,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 03时14分]"
+        },
+        {
+          "title": "AI艺人库为何遭抵制",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%89%BA%E4%BA%BA%E5%BA%93%E4%B8%BA%E4%BD%95%E9%81%AD%E6%8A%B5%E5%88%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
         },
         {
           "title": "爱奇艺 CEO 龚宇称 AI 影视化无法阻挡，真人实拍可能成为非物质文化遗产，你认同他的观点吗？",
@@ -417,17 +444,6 @@
           "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "机器人半马成绩从近 3 小时压缩到 50 分，打破了人类世界纪录，「跑赢」后，它们真正的战场在哪里？",
-          "url": "https://www.zhihu.com/question/2029516146806669538",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时50分"
-        },
-        {
           "title": "工信部：一季度工业机器人产量同比增长33.2% 无人机、AI眼镜等日益丰富",
           "url": "https://flash.jin10.com/detail/20260421101838075800",
           "source": "金十数据",
@@ -437,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "据伊朗方面消息称，伊朗航空（Iran Air）宣布，在暂停50天后，其国内航班将自明日（周三）起恢复运营。",
+          "url": "https://flash.jin10.com/detail/20260421171511368800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "第二届世界人形机器人运动会将于8月在京举办",
@@ -472,6 +499,17 @@
           "time_info": "10时35分"
         },
         {
+          "title": "腾讯云宣布开源OpenAI、Manus同款Agent底座",
+          "url": "https://wallstreetcn.com/livenews/3091685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
           "title": "亚马逊(AMZN.O)： Anthropic将获得5吉瓦的亚马逊Trainium芯片。",
           "url": "https://flash.jin10.com/detail/20260421043339536800",
           "source": "金十数据",
@@ -500,7 +538,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -519,7 +557,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "体验经济全面升温",
@@ -607,7 +645,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -623,6 +661,17 @@
           "time_info": "01时58分"
         },
         {
+          "title": "德国4月ZEW经济现况指数 -73.7，预期 -70.5，前值 -62.9。",
+          "url": "https://wallstreetcn.com/livenews/3091688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
           "title": "墨西哥经济部长埃布拉德：预计正式的美墨加协定（USMCA）谈判将在5月25日当周开始。",
           "url": "https://flash.jin10.com/detail/20260421043737093800",
           "source": "金十数据",
@@ -634,15 +683,37 @@
           "time_info": "05时47分"
         },
         {
+          "title": "德国4月ZEW经济景气指数 -17.2，预期 -5.8，前值 -0.5。",
+          "url": "https://wallstreetcn.com/livenews/3091687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
           "title": "SpaceX总裁Shotwell去年收入8,500万美元。（路透）",
           "url": "https://wallstreetcn.com/livenews/3091618",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
+        },
+        {
+          "title": "欧元区4月ZEW经济景气指数 -20.4，前值 -8.5。",
+          "url": "https://wallstreetcn.com/livenews/3091686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "加拿大央行第一季度商业展望及消费者预期调查：约85%的家庭预计伊朗战争将对经济造成损害，并推高物价。",
@@ -676,6 +747,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "欧元区4月ZEW经济现况指数 -43，前值-29.9。",
+          "url": "https://flash.jin10.com/detail/20260421170542509800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "德国智库ZEW：经济预期正滑入负值区间。伊朗战争对德国经济的影响远不止价格上涨。企业担忧能源供应将出现长期短缺，这对投资构成抑制。",
+          "url": "https://flash.jin10.com/detail/20260421170206348800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "欧元区4月ZEW经济景气指数 -20.4，预期-14，前值-8.5。",
+          "url": "https://flash.jin10.com/detail/20260421170115326800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "南大光电：2025年ArF光刻胶收入突破2000万元 未达到满产状态",
@@ -723,7 +827,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
