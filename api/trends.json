@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T03:12:09.613331+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-04-22T04:53:44.228339+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
@@ -15,30 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时53分]"
         },
         {
           "title": "灵魂摆渡电影全AI生成",
           "url": "https://s.weibo.com/weibo?q=%23%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E7%94%B5%E5%BD%B1%E5%85%A8AI%E7%94%9F%E6%88%90%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时53分]"
         },
         {
           "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时53分]"
         },
         {
           "title": "尼日利亚总统任命泰沃·奥耶德莱（Taiwo Oyedele）为财政部长，接替瓦莱·埃敦（Wale Edun）。",
@@ -58,9 +60,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "《封神 3》正在后期制作，或用 AI 做特效，乌尔善能否逆风翻盘？",
+          "url": "https://www.zhihu.com/question/2027797621893244826",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时53分]"
         },
         {
           "title": "Meta将跟踪美国员工工作流程数据，从而进行AI训练。（路透）",
@@ -74,15 +88,15 @@
           "time_info": "01时02分"
         },
         {
-          "title": "《封神 3》正在后期制作，或用 AI 做特效，乌尔善能否逆风翻盘？",
-          "url": "https://www.zhihu.com/question/2027797621893244826",
-          "source": "知乎",
+          "title": "奥多比宣布250亿美元股票回购计划，此前AI颠覆担忧拖累股价",
+          "url": "https://wallstreetcn.com/livenews/3092092",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
         },
         {
           "title": "深度解读机器人马拉松跑向何方",
@@ -90,11 +104,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时53分]"
         },
         {
           "title": "机器人马拉松赛的回顾与展望",
@@ -105,8 +120,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时53分]"
         },
         {
           "title": "日本开发新脑洞:机器人拆开做",
@@ -116,8 +131,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时53分]"
         },
         {
           "title": "AI围剿影视圈,演员签卖身契",
@@ -127,8 +142,20 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时53分]"
+        },
+        {
+          "title": "中国机器人帮外国友人重新站立行走",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B8%AE%E5%A4%96%E5%9B%BD%E5%8F%8B%E4%BA%BA%E9%87%8D%E6%96%B0%E7%AB%99%E7%AB%8B%E8%A1%8C%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 04时53分]"
         },
         {
           "title": "如何评价 GitHub Copilot 在 4 月 20 日暂停 Pro 和 Pro+ 新用户注册，并修改使用限制算法？",
@@ -140,17 +167,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "中国机器人帮外国友人重新站立行走",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B8%AE%E5%A4%96%E5%9B%BD%E5%8F%8B%E4%BA%BA%E9%87%8D%E6%96%B0%E7%AB%99%E7%AB%8B%E8%A1%8C%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 03时12分]"
         },
         {
           "title": "美联储主席提名人沃什：美联储应该更加深入地挖掘人工智能（AI）的生产力意义。 数据中心产能将把需求提高几个百分点。",
@@ -170,15 +186,26 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "库克卸任：4万亿市值与AI失落的十年",
+          "url": "https://www.toutiao.com/trending/7631204301230050870/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "一季度服务业经济“开门红”",
@@ -188,8 +215,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时53分]"
         },
         {
           "title": "美联储主席提名人沃什：从经济改善到产出显现之间的时间差，以及人工智能对劳动力市场的影响，必须成为美联储思考的核心问题。",
@@ -201,6 +228,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "标普500指数的11个板块普遍收跌，房地产板块跌1.94%，公用事业、工业、电信、原材料、保健板块也至多跌1.75%，信息技术/科技板块跌0.23%表现顺数第二，能源板块则收涨1.31%。",
+          "url": "https://wallstreetcn.com/livenews/3092081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "美联航一季度运营收入146亿美元，分析师预期144.6亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3092077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
         },
         {
           "title": "美联储主席提名人沃什：如果获得任命，我将不得不表示，美元政策是美国财政部的职责范围。 美元是全球经济的支柱。 美国及美联储是美元强势的受益者。 美联储将与财长贝森特、国务卿鲁比奥合作，确保美国处于主动地位，保持强势位置。",
