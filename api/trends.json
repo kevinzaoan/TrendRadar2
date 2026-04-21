@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T17:27:09.060744+08:00",
-  "total_titles_processed": 1321,
+  "generated_at": "2026-04-21T19:07:14.748434+08:00",
+  "total_titles_processed": 1454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 44,
+      "match_count": 51,
       "titles": [
         {
           "title": "机器人半马见证大国创造澎湃动能",
@@ -55,11 +55,12 @@
             11,
             17,
             18,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时09分 ~ 17时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时09分 ~ 19时07分]"
         },
         {
           "title": "深度解读机器人马拉松跑向何方",
@@ -73,8 +74,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时09分 ~ 17时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时09分 ~ 19时07分]"
         },
         {
           "title": "女子酒窝超大被网友怀疑是AI",
@@ -193,6 +194,20 @@
           "time_info": "[00时09分 ~ 05时47分]"
         },
         {
+          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时27分 ~ 19时07分]"
+        },
+        {
           "title": "爱奇艺再回应AI艺人库",
           "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%86%8D%E5%9B%9E%E5%BA%94AI%E8%89%BA%E4%BA%BA%E5%BA%93%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -202,6 +217,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
+          "title": "你每天用的AI 可能被“投毒”了",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E6%AF%8F%E5%A4%A9%E7%94%A8%E7%9A%84AI+%E5%8F%AF%E8%83%BD%E8%A2%AB%E2%80%9C%E6%8A%95%E6%AF%92%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时07分]"
         },
         {
           "title": "AI 投入猛增，字节跳动去年净利下滑超 70%，如何解读该业绩？是暂时战略牺牲还是经营基本面出问题了？",
@@ -253,6 +279,19 @@
           "time_info": "[04时46分 ~ 10时35分]"
         },
         {
+          "title": "机器人半马成绩从近 3 小时压缩到 50 分，打破了人类世界纪录，「跑赢」后，它们真正的战场在哪里？",
+          "url": "https://www.zhihu.com/question/2029516146806669538",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时50分 ~ 19时07分]"
+        },
+        {
           "title": "污染数据、操控榜单 你信任的AI可能已被“投毒”",
           "url": "https://flash.jin10.com/detail/20260421065051985800",
           "source": "金十数据",
@@ -262,19 +301,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
-        },
-        {
-          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 17时27分]"
         },
         {
           "title": "华为发布首款鸿蒙AI眼镜 2499元起售",
@@ -340,18 +366,6 @@
           "time_info": "[00时09分 ~ 04时46分]"
         },
         {
-          "title": "机器人半马成绩从近 3 小时压缩到 50 分，打破了人类世界纪录，「跑赢」后，它们真正的战场在哪里？",
-          "url": "https://www.zhihu.com/question/2029516146806669538",
-          "source": "知乎",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时50分 ~ 17时27分]"
-        },
-        {
           "title": "曝王楚然早就融了AI",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -364,6 +378,17 @@
           "time_info": "[00时09分 ~ 07时43分]"
         },
         {
+          "title": "机器人马拉松赛的回顾与展望",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE%E8%B5%9B%E7%9A%84%E5%9B%9E%E9%A1%BE%E4%B8%8E%E5%B1%95%E6%9C%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时07分]"
+        },
+        {
           "title": "亚马逊(AMZN.O)：Anthropic的Claude平台现已在AWS上线。",
           "url": "https://flash.jin10.com/detail/20260421043955367800",
           "source": "金十数据",
@@ -374,6 +399,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时47分 ~ 06时43分]"
+        },
+        {
+          "title": "日本开发新脑洞:机器人拆开做",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353542&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%BC%80%E5%8F%91%E6%96%B0%E8%84%91%E6%B4%9E%3A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8B%86%E5%BC%80%E5%81%9A",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时07分]"
         },
         {
           "title": "AI核能开发商Fermi股价下跌，该公司CEO突然离职",
@@ -397,6 +433,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "机器人半马冠军出自做手机的荣耀",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E9%A9%AC%E5%86%A0%E5%86%9B%E5%87%BA%E8%87%AA%E5%81%9A%E6%89%8B%E6%9C%BA%E7%9A%84%E8%8D%A3%E8%80%80%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时07分]"
         },
         {
           "title": "爱奇艺 CEO 龚宇称 AI 影视化无法阻挡，真人实拍可能成为非物质文化遗产，你认同他的观点吗？",
@@ -461,7 +508,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -475,6 +522,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
+        },
+        {
+          "title": "远东股份：拟定增募资不超20亿元，用于AIDC用全合成光纤预制棒制造等项目",
+          "url": "https://flash.jin10.com/detail/20260421184919195800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "一季度工业机器人产量同比增长33.2%",
@@ -505,7 +563,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -543,6 +601,28 @@
           "time_info": "15时50分"
         },
         {
+          "title": "自变量机器人发布具身智能基础模型WALL-B",
+          "url": "https://flash.jin10.com/detail/20260421184226771800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "2026福布斯AI 50榜单发布",
+          "url": "https://wallstreetcn.com/livenews/3091749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "AI版成何体统逐玉",
           "url": "https://s.weibo.com/weibo?q=%23AI%E7%89%88%E6%88%90%E4%BD%95%E4%BD%93%E7%BB%9F%E9%80%90%E7%8E%89%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -557,7 +637,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "体验经济全面升温",
@@ -667,7 +747,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -689,7 +769,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -711,7 +791,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -755,7 +835,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -766,7 +846,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -777,9 +857,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "泰晶科技：近期光模块市场关注度较高，公司主营业务为石英晶体谐振器、振荡器，其中高频差分低抖动振荡器为光模块DSP提供高精度低抖动参考时钟，主要用于保障高速传输稳定可靠。但目前公司相关业务尚处于市场推广期，业务收入占比极少，对公司近期报表影响极小。",
+          "url": "https://wallstreetcn.com/livenews/3091743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "南大光电：2025年ArF光刻胶收入突破2000万元 未达到满产状态",
@@ -793,6 +884,17 @@
           "time_info": "13时28分"
         },
         {
+          "title": "神剑股份：公司商业航天相关业务收入占比仍较小，短期内不会有较大变化。",
+          "url": "https://wallstreetcn.com/livenews/3091741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "新西兰经济研究所（NZIER）：新西兰第一季度商业信心大幅下滑。 净43%的受访企业预计价格将在二季度上涨。 净4%的企业预计经济将恶化，而第四季度有48%的企业认为经济将改善。 经季节性调整后，净1%的企业预计经济将改善。 净0%的企业报告称第一季度自身经营活动有所改善。 净13%的企业预计第二季度自身活动将改善。 净10%的企业表示更难找到熟练工人。 净22%的企业在第一季度提高了价格。 净43%的企业预计将在第二季度提高价格。 净9%的企业在第一季度解雇了工人。 净5%的企业预计将在第二季度解雇工人。 调查回复收集时间为3月6日至4月10日。",
           "url": "https://wallstreetcn.com/livenews/3091351",
           "source": "华尔街见闻-快讯",
@@ -802,6 +904,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "【福耀玻璃：2026年第一季度净利润17.12亿元，同比下降15.68%】福耀玻璃公告，2026年第一季度营业收入104.13亿元，同比增长5.08%。净利润17.12亿元，同比下降15.68%。本季度利润总额人民币20.28亿元，比上年同期下降18.42%，主要由于汇兑损益的影响。",
+          "url": "https://wallstreetcn.com/livenews/3091738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         }
       ]
     },
