@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-04-23T02:08:31.409220+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-04-23T04:13:05.083424+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "芯片股创历史上最长连涨天数，费城半导体指数初步收涨约2.7%，连续第十六个交易日走高，创1994年有数据记录以来最长连涨天数。Arm控股初步收涨11.3%，闪迪Sandisk涨8.5%，美光涨8.4%，AMD涨6.9%。 标普500指数初步收涨1%，科技板块涨2.1%，电信、能源板块涨超1%，房地产板块跌0.8%。 纳斯达克100指数初步收涨1.7%，成分股中，Arm控股初步收涨11.3%，Strategy涨9.3%，闪迪Sandisk涨8.5%，美光涨8.4%，达芬奇手术机器人涨7%，AMD涨6.9%，谷歌A涨2.1%，Workday则收跌2.2%，T-Mobile跌3.3%，路透跌4.1%，Booking跌6.4%。",
+          "url": "https://wallstreetcn.com/livenews/3092822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "美国国务院批准向立陶宛潜在出售AIM-9X“响尾蛇”Block II导弹，金额为2.14亿美元。",
+          "url": "https://flash.jin10.com/detail/20260423033837315800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
         {
           "title": "OpenAI在ChatGPT引入Workspace Agents。",
           "url": "https://wallstreetcn.com/livenews/3092779",
@@ -14,9 +36,45 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
+          "url": "https://www.cls.cn/detail/2352317",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时13分]"
+        },
+        {
+          "title": "用AI办了场车展",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E8%BD%A6%E5%B1%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时13分]"
+        },
+        {
+          "title": "如果“AI艺人”真的来了，观众能接受吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时13分]"
         },
         {
           "title": "谷歌设立7.5亿美元基金，助力咨询公司应用AI",
@@ -31,49 +89,16 @@
           "time_info": "[01时01分 ~ 02时08分]"
         },
         {
-          "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
-          "url": "https://www.cls.cn/detail/2352317",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时08分]"
-        },
-        {
-          "title": "如果“AI艺人”真的来了，观众能接受吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时08分]"
-        },
-        {
-          "title": "用AI办了场车展",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E8%BD%A6%E5%B1%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时08分]"
-        },
-        {
           "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
           "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时08分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时13分]"
         },
         {
           "title": "核心拒绝AI,异环美术光速滑跪",
@@ -83,8 +108,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时08分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时13分]"
         },
         {
           "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
@@ -94,8 +119,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时08分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时13分]"
         },
         {
           "title": "微软：与Anthropic和行业合作伙伴们密切合作。 我们正在测试Anthropic旗下Claude AI模型Mythos的概览。 利用CTI-Realm评估Mythos。 将在安全开发生命周期内应用Mythos。",
@@ -104,7 +129,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         },
@@ -115,7 +140,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         },
@@ -134,7 +159,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "十五五规划里的智能经济新形态",
@@ -144,8 +169,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时08分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时13分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：全面停火只有在不被海上封锁和“挟持世界经济”的行为违反的情况下才有意义。",
@@ -170,13 +195,24 @@
           "time_info": "01时01分"
         },
         {
+          "title": "阿根廷经济活动创2023年以来最大降幅",
+          "url": "https://wallstreetcn.com/livenews/3092813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
           "title": "美国贸易代表格里尔：美方需要与加拿大化解乳品纠纷。 其途径就是美国墨西哥加拿大贸易协议（USMCA），或者一次（针对加拿大乳业的）执法行动。 如果墨西哥和加拿大希望获得对美国的优惠贸易准入，它们就需要管控好自己的经济边境。 愿意考虑动用贸易工具来保护美国的糖业生产商。",
           "url": "https://wallstreetcn.com/livenews/3092751",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         }
