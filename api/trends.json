@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T13:26:33.316218+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2026-04-22T15:47:53.211141+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
@@ -65,11 +65,12 @@
           "ranks": [
             16,
             18,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 13时26分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 15时47分]"
         },
         {
           "title": "AI围剿影视圈,演员签卖身契",
@@ -112,6 +113,19 @@
           "time_info": "[01时01分 ~ 07时36分]"
         },
         {
+          "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
+          "url": "https://www.cls.cn/detail/2351466",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 15时47分]"
+        },
+        {
           "title": "中国机器人帮外国友人重新站立行走",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B8%AE%E5%A4%96%E5%9B%BD%E5%8F%8B%E4%BA%BA%E9%87%8D%E6%96%B0%E7%AB%99%E7%AB%8B%E8%A1%8C%E8%B5%B0",
           "source": "百度热搜",
@@ -124,29 +138,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时11分 ~ 07时36分]"
-        },
-        {
-          "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
-          "url": "https://www.cls.cn/detail/2351466",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 13时26分]"
-        },
-        {
-          "title": "唐国强授权生成「数字版唐国强」，直言 AI 未来会比真人更完美，如何看待这种「主动拥抱替代」的态度？",
-          "url": "https://www.zhihu.com/question/2029861890638045761",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 13时26分]"
         },
         {
           "title": "AI创造营",
@@ -204,6 +195,18 @@
           "time_info": "10时33分"
         },
         {
+          "title": "唐国强授权生成「数字版唐国强」，直言 AI 未来会比真人更完美，如何看待这种「主动拥抱替代」的态度？",
+          "url": "https://www.zhihu.com/question/2029861890638045761",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 15时47分]"
+        },
+        {
           "title": "Meta将跟踪美国员工工作流程数据，从而进行AI训练。（路透）",
           "url": "https://wallstreetcn.com/livenews/3092003",
           "source": "华尔街见闻-快讯",
@@ -213,6 +216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "汇丰前海在报告中表示，恒生科技指数在经历自2025年四季度高点的明显回调后，当前估值已具吸引力，叠加AI在广告等领域扩大收入空间的潜力，维持对该指数整体积极看法。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3092403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
         },
         {
           "title": "若干未经授权的用户接入Anthropic的AI模型Mythos。",
@@ -227,6 +241,18 @@
           "time_info": "[05时45分 ~ 06时38分]"
         },
         {
+          "title": "核心拒绝AI,异环美术光速滑跪",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 15时47分]"
+        },
+        {
           "title": "奥多比宣布250亿美元股票回购计划，此前AI颠覆担忧拖累股价",
           "url": "https://wallstreetcn.com/livenews/3092092",
           "source": "华尔街见闻-快讯",
@@ -237,6 +263,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时45分]"
+        },
+        {
+          "title": "如果“AI艺人”真的来了，观众能接受吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 15时47分]"
         },
         {
           "title": "唐诡导演 真人能演为啥让AI演",
@@ -261,6 +300,18 @@
           "time_info": "[01时01分 ~ 01时02分]"
         },
         {
+          "title": "为什么说中国大厂的 AI 战，归根结底是阿里 VS 字节？",
+          "url": "https://www.zhihu.com/question/1984557341190873580",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 15时47分]"
+        },
+        {
           "title": "SpaceX在上市文件中警示：太空AI项目技术未经验证，商业前景存疑",
           "url": "https://wallstreetcn.com/livenews/3092108",
           "source": "华尔街见闻-快讯",
@@ -279,18 +330,6 @@
           "ranks": [
             13,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 13时26分]"
-        },
-        {
-          "title": "如果“AI艺人”真的来了，观众能接受吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -319,17 +358,6 @@
           "time_info": "10时33分"
         },
         {
-          "title": "核心拒绝AI,异环美术光速滑跪",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
           "title": "Anthropic发言人：调查报告声称Claude Mythos预览版遭未经授权访问，该访问是通过我们的第三方供应商环境进行的。",
           "url": "https://flash.jin10.com/detail/20260422063442056800",
           "source": "金十数据",
@@ -352,24 +380,13 @@
           "time_info": "10时33分"
         },
         {
-          "title": "为什么说中国大厂的 AI 战，归根结底是阿里 VS 字节？",
-          "url": "https://www.zhihu.com/question/1984557341190873580",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
           "title": "上海海关：一季度浦东新区工业机器人出口4.4亿 增长67.1%",
           "url": "https://flash.jin10.com/detail/20260422130525654800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -380,7 +397,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -424,7 +441,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -487,7 +504,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "一季度服务业经济“开门红”",
@@ -507,9 +524,20 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 15时47分]"
+        },
+        {
+          "title": "金十数据整理：每日房地产行业动态汇总（2026-04-22）",
+          "url": "https://flash.jin10.com/detail/20260422154412689800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时26分"
+          "time_info": "15时47分"
         },
         {
           "title": "新华时评：房地产市场回稳信号增强，进一步夯实房地产高质量发展根基",
@@ -518,9 +546,33 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        },
+        {
+          "title": "4月22日投资避雷针：算力租赁概念人气股提示风险 已确认的算力业务收入不足万元",
+          "url": "https://www.cls.cn/detail/2351491",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 15时47分]"
+        },
+        {
+          "title": "永辉超市称大规模闭店已结束，调改店一季度收入增长 16.57%，怎样看这一增速表现？后续增长能否持续？",
+          "url": "https://www.zhihu.com/question/2029595046190556261",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 15时47分]"
         },
         {
           "title": "“新美联储通讯社”Nick Timiraos点评：美联储主席提名人凯文·沃什对自己的改革议程是认真的，该议程涵盖从美联储如何进行经济分析到如何与公众沟通的方方面面。 他引用的通胀衡量指标比美联储用作主要基准的“粗略估计”（科学上的瞎猜）稍微好看一些。 沃什关于独立性的论点将在美联储内部引起不适，并且可能无助于他在民主党人中扩大吸引力。",
@@ -535,18 +587,6 @@
           "time_info": "[06时38分 ~ 07时36分]"
         },
         {
-          "title": "4月22日投资避雷针：算力租赁概念人气股提示风险 已确认的算力业务收入不足万元",
-          "url": "https://www.cls.cn/detail/2351491",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 13时26分]"
-        },
-        {
           "title": "加拿大首席对美贸易谈判代表：加拿大致力于续签《美墨加协定》。 我的任务是寻求免除美国关税。 在与美国的谈判中，我们必须确保获得最稳定、最优惠的市场准入。 墨西哥经济部长将于5月第一周访问加拿大。 不指望在7月1日前解决与美国墨西哥加拿大贸易协议（USMCA）相关的所有问题。",
           "url": "https://wallstreetcn.com/livenews/3092112",
           "source": "华尔街见闻-快讯",
@@ -557,17 +597,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 06时38分]"
-        },
-        {
-          "title": "永辉超市称大规模闭店已结束，调改店一季度收入增长 16.57%，怎样看这一增速表现？后续增长能否持续？",
-          "url": "https://www.zhihu.com/question/2029595046190556261",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 13时26分]"
         },
         {
           "title": "美联储主席提名人沃什：从经济改善到产出显现之间的时间差，以及人工智能对劳动力市场的影响，必须成为美联储思考的核心问题。",
@@ -609,7 +638,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -667,6 +696,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "印尼央行：中东冲突令全球经济前景恶化。 全球2026年经济展望由此前预期放缓至3%。 认为美联储利率可能在2026年全年保持稳定。 认为全球进一步放宽货币政策的空间正在收窄。 预测印尼2026年GDP增速为4.9%-5.7%。 预计印尼卢比将保持稳定，并有走强趋势。 提高外汇干预力度以维持印尼卢比稳定。 预计印尼2026年和2027年的通胀率为1.5%-3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3092380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
         },
         {
           "title": "美联储主席提名人沃什：通胀不会在经济增长太多时出现。 而回在政府印钱太多、开支太大时出现。",
