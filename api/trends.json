@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T06:48:30.429216+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-04-23T07:46:13.768946+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
@@ -16,8 +16,43 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时46分]"
+        },
+        {
+          "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时46分]"
+        },
+        {
+          "title": "核心拒绝AI,异环美术光速滑跪",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时46分]"
+        },
+        {
+          "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
+          "url": "https://www.cls.cn/detail/2352731",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时46分]"
         },
         {
           "title": "用AI办了场车展",
@@ -45,39 +80,15 @@
           "time_info": "[01时01分 ~ 06时48分]"
         },
         {
-          "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
-          "source": "澎湃新闻",
+          "title": "SK海力士：尽管第一季度通常是季节性淡季，但由于AI基础设施投资的扩大，需求依然强劲。",
+          "url": "https://wallstreetcn.com/livenews/3092904",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            11
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时48分]"
-        },
-        {
-          "title": "核心拒绝AI,异环美术光速滑跪",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时48分]"
-        },
-        {
-          "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
-          "url": "https://www.cls.cn/detail/2352731",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         },
         {
           "title": "芯片股创历史上最长连涨天数，费城半导体指数初步收涨约2.7%，连续第十六个交易日走高，创1994年有数据记录以来最长连涨天数。Arm控股初步收涨11.3%，闪迪Sandisk涨8.5%，美光涨8.4%，AMD涨6.9%。 标普500指数初步收涨1%，科技板块涨2.1%，电信、能源板块涨超1%，房地产板块跌0.8%。 纳斯达克100指数初步收涨1.7%，成分股中，Arm控股初步收涨11.3%，Strategy涨9.3%，闪迪Sandisk涨8.5%，美光涨8.4%，达芬奇手术机器人涨7%，AMD涨6.9%，谷歌A涨2.1%，Workday则收跌2.2%，T-Mobile跌3.3%，路透跌4.1%，Booking跌6.4%。",
@@ -141,11 +152,34 @@
           "url": "https://wallstreetcn.com/livenews/3092882",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时46分]"
+        },
+        {
+          "title": "当今AI音乐发展水平如何",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E4%BB%8AAI%E9%9F%B3%E4%B9%90%E5%8F%91%E5%B1%95%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 07时46分]"
+        },
+        {
+          "title": "英伟达供应商SK海力士Q1利润增长超五倍，受益于AI芯片销售与存储价格飙升",
+          "url": "https://wallstreetcn.com/livenews/3092896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时48分"
+          "time_info": "07时46分"
         },
         {
           "title": "特斯拉(TSLA.O)：正在为得州超级工厂准备第二代生产线，设计年产能为1000万台机器人。",
@@ -250,7 +284,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "十五五规划里的智能经济新形态",
@@ -260,8 +294,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时46分]"
+        },
+        {
+          "title": "近视神药爆火兴齐眼药滴眼剂收入19.5亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%91%E8%A7%86%E7%A5%9E%E8%8D%AF%E7%88%86%E7%81%AB%E5%85%B4%E9%BD%90%E7%9C%BC%E8%8D%AF%E6%BB%B4%E7%9C%BC%E5%89%82%E6%94%B6%E5%85%A519.5%E4%BA%BF%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 07时46分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：全面停火只有在不被海上封锁和“挟持世界经济”的行为违反的情况下才有意义。",
