@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T05:52:33.267995+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-04-23T06:48:30.429216+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
@@ -16,30 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时52分]"
-        },
-        {
-          "title": "马斯克：预计特斯拉在美国得州新的人形机器人Optimus工厂将于2027年投产。",
-          "url": "https://wallstreetcn.com/livenews/3092862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
-        },
-        {
-          "title": "芯片股创历史上最长连涨天数，费城半导体指数初步收涨约2.7%，连续第十六个交易日走高，创1994年有数据记录以来最长连涨天数。Arm控股初步收涨11.3%，闪迪Sandisk涨8.5%，美光涨8.4%，AMD涨6.9%。 标普500指数初步收涨1%，科技板块涨2.1%，电信、能源板块涨超1%，房地产板块跌0.8%。 纳斯达克100指数初步收涨1.7%，成分股中，Arm控股初步收涨11.3%，Strategy涨9.3%，闪迪Sandisk涨8.5%，美光涨8.4%，达芬奇手术机器人涨7%，AMD涨6.9%，谷歌A涨2.1%，Workday则收跌2.2%，T-Mobile跌3.3%，路透跌4.1%，Booking跌6.4%。",
-          "url": "https://wallstreetcn.com/livenews/3092822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时48分]"
         },
         {
           "title": "用AI办了场车展",
@@ -51,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时48分]"
         },
         {
           "title": "如果“AI艺人”真的来了，观众能接受吗",
@@ -63,8 +41,54 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时48分]"
+        },
+        {
+          "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时48分]"
+        },
+        {
+          "title": "核心拒绝AI,异环美术光速滑跪",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时48分]"
+        },
+        {
+          "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
+          "url": "https://www.cls.cn/detail/2352731",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时48分]"
+        },
+        {
+          "title": "芯片股创历史上最长连涨天数，费城半导体指数初步收涨约2.7%，连续第十六个交易日走高，创1994年有数据记录以来最长连涨天数。Arm控股初步收涨11.3%，闪迪Sandisk涨8.5%，美光涨8.4%，AMD涨6.9%。 标普500指数初步收涨1%，科技板块涨2.1%，电信、能源板块涨超1%，房地产板块跌0.8%。 纳斯达克100指数初步收涨1.7%，成分股中，Arm控股初步收涨11.3%，Strategy涨9.3%，闪迪Sandisk涨8.5%，美光涨8.4%，达芬奇手术机器人涨7%，AMD涨6.9%，谷歌A涨2.1%，Workday则收跌2.2%，T-Mobile跌3.3%，路透跌4.1%，Booking跌6.4%。",
+          "url": "https://wallstreetcn.com/livenews/3092822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "美国国务院批准向立陶宛潜在出售AIM-9X“响尾蛇”Block II导弹，金额为2.14亿美元。",
@@ -89,39 +113,16 @@
           "time_info": "02时08分"
         },
         {
-          "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
-          "source": "澎湃新闻",
+          "title": "马斯克：预计特斯拉在美国得州新的人形机器人Optimus工厂将于2027年投产。",
+          "url": "https://wallstreetcn.com/livenews/3092862",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            11
+            2,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时52分]"
-        },
-        {
-          "title": "核心拒绝AI,异环美术光速滑跪",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时52分]"
-        },
-        {
-          "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
-          "url": "https://www.cls.cn/detail/2352731",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时52分]"
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时48分]"
         },
         {
           "title": "谷歌设立7.5亿美元基金，助力咨询公司应用AI",
@@ -136,13 +137,24 @@
           "time_info": "[01时01分 ~ 02时08分]"
         },
         {
+          "title": "踏浪AI大潮，中际旭创蝉联公募头号重仓股",
+          "url": "https://wallstreetcn.com/livenews/3092882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
           "title": "特斯拉(TSLA.O)：正在为得州超级工厂准备第二代生产线，设计年产能为1000万台机器人。",
           "url": "https://flash.jin10.com/detail/20260423041028780800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -153,7 +165,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -175,7 +187,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -186,7 +198,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -208,7 +220,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -230,7 +242,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         }
@@ -248,8 +260,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时48分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：全面停火只有在不被海上封锁和“挟持世界经济”的行为违反的情况下才有意义。",
@@ -280,7 +292,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -291,7 +303,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -302,7 +314,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -324,7 +336,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -335,7 +347,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
