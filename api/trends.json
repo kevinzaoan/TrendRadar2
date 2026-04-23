@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T17:29:04.336533+08:00",
-  "total_titles_processed": 1332,
+  "generated_at": "2026-04-23T19:09:16.206589+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
@@ -20,6 +20,18 @@
           "time_info": "[01时01分 ~ 07时46分]"
         },
         {
+          "title": "AI出图太逼真,二游圈炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时53分 ~ 19时09分]"
+        },
+        {
           "title": "核心拒绝AI,异环美术光速滑跪",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
           "source": "贴吧",
@@ -28,11 +40,25 @@
             11,
             14,
             18,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时01分 ~ 17时29分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 19时09分]"
+        },
+        {
+          "title": "受AI冲击 短剧霸总回家种地",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%97AI%E5%86%B2%E5%87%BB+%E7%9F%AD%E5%89%A7%E9%9C%B8%E6%80%BB%E5%9B%9E%E5%AE%B6%E7%A7%8D%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时53分 ~ 19时09分]"
         },
         {
           "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
@@ -60,16 +86,31 @@
           "time_info": "[01时01分 ~ 10时36分]"
         },
         {
-          "title": "AI出图太逼真,二游圈炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
-          "source": "贴吧",
+          "title": "用AI办了场车展",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E8%BD%A6%E5%B1%95",
+          "source": "bilibili 热搜",
           "ranks": [
-            2,
-            1
+            6,
+            10,
+            7,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时53分 ~ 17时29分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 19时09分]"
+        },
+        {
+          "title": "年中亮相、今夏投产！特斯拉官宣第三代机器人时间表 硬件端有望全面升级",
+          "url": "https://www.cls.cn/detail/2353290",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时53分 ~ 19时09分]"
         },
         {
           "title": "上海为何能跑出千亿AI储能第一股？|聚焦",
@@ -85,18 +126,6 @@
           "time_info": "[10时36分 ~ 15时53分]"
         },
         {
-          "title": "受AI冲击 短剧霸总回家种地",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%97AI%E5%86%B2%E5%87%BB+%E7%9F%AD%E5%89%A7%E9%9C%B8%E6%80%BB%E5%9B%9E%E5%AE%B6%E7%A7%8D%E5%9C%B0",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时53分 ~ 17时29分]"
-        },
-        {
           "title": "神仙肉 AI配角",
           "url": "https://s.weibo.com/weibo?q=%E7%A5%9E%E4%BB%99%E8%82%89%20AI%E9%85%8D%E8%A7%92&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -106,19 +135,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时28分 ~ 17时29分]"
-        },
-        {
-          "title": "用AI办了场车展",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E8%BD%A6%E5%B1%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时48分]"
         },
         {
           "title": "如果“AI艺人”真的来了，观众能接受吗",
@@ -137,11 +153,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%B9%92%E4%B9%93%E7%90%83%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%93%E8%B4%A5%E6%97%A5%E6%9C%AC%E9%A1%B6%E5%B0%96%E9%80%89%E6%89%8B",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 19时09分]"
         },
         {
           "title": "小鹏汽车(XPEV.N)：将在第四季度前实现机器人的量产，计划明年与外部合作伙伴大幅扩张。",
@@ -153,6 +170,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时32分 ~ 19时09分]"
         },
         {
           "title": "SK海力士：尽管第一季度通常是季节性淡季，但由于AI基础设施投资的扩大，需求依然强劲。",
@@ -210,18 +241,6 @@
           "time_info": "02时08分"
         },
         {
-          "title": "年中亮相、今夏投产！特斯拉官宣第三代机器人时间表 硬件端有望全面升级",
-          "url": "https://www.cls.cn/detail/2353290",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时53分 ~ 17时29分]"
-        },
-        {
           "title": "马斯克：预计特斯拉在美国得州新的人形机器人Optimus工厂将于2027年投产。",
           "url": "https://wallstreetcn.com/livenews/3092862",
           "source": "华尔街见闻-快讯",
@@ -246,17 +265,40 @@
           "time_info": "[01时01分 ~ 02时08分]"
         },
         {
-          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
-          "source": "澎湃新闻",
+          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
+          "url": "https://wallstreetcn.com/articles/3770653",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            15,
-            13
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时32分 ~ 17时29分]"
+          "time_info": "[17时28分 ~ 19时09分]"
+        },
+        {
+          "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
+          "url": "https://www.zhihu.com/question/2027998176116777421",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 19时09分]"
+        },
+        {
+          "title": "AI再现黄海海战 福建舰北洋水师同框",
+          "url": "https://www.toutiao.com/trending/7630692654993227818/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 19时09分]"
         },
         {
           "title": "AI 写代码只要几秒，坚持「古法编程」还有意义吗？",
@@ -283,17 +325,6 @@
           "time_info": "[06时48分 ~ 07时46分]"
         },
         {
-          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
-          "url": "https://wallstreetcn.com/articles/3770653",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
-        },
-        {
           "title": "当今AI音乐发展水平如何",
           "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E4%BB%8AAI%E9%9F%B3%E4%B9%90%E5%8F%91%E5%B1%95%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
           "source": "bilibili 热搜",
@@ -316,33 +347,11 @@
           "time_info": "[17时28分 ~ 17时29分]"
         },
         {
-          "title": "AI再现黄海海战 福建舰北洋水师同框",
-          "url": "https://www.toutiao.com/trending/7630692654993227818/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
-        },
-        {
           "title": "特斯拉第三代人形机器人将投产",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E7%AC%AC%E4%B8%89%E4%BB%A3%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%86%E6%8A%95%E4%BA%A7",
           "source": "bilibili 热搜",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
-        },
-        {
-          "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
-          "url": "https://www.zhihu.com/question/2027998176116777421",
-          "source": "知乎",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -366,7 +375,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -503,6 +512,17 @@
           "time_info": "10时36分"
         },
         {
+          "title": "特斯拉于2026年4月同意以最高20亿美元的价格收购一家未具名的AI硬件公司。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3093235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
           "title": "能定位会判断，AI乒乓机器人击败人类高手",
           "url": "https://wallstreetcn.com/livenews/3092758",
           "source": "华尔街见闻-快讯",
@@ -542,7 +562,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -578,12 +598,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        },
+        {
+          "title": "腾讯汤道生：智能汽车真正比拼的，是规模化、系统化的AI落地能力",
+          "url": "https://wallstreetcn.com/livenews/3093216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "十五五规划里的智能经济新形态",
@@ -605,8 +636,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时32分 ~ 17时29分]"
+          "appearance_count": 6,
+          "time_info": "[13时32分 ~ 19时09分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：全面停火只有在不被海上封锁和“挟持世界经济”的行为违反的情况下才有意义。",
@@ -629,6 +660,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "黑石一季度每股可分配收入1.36美元，预估1.34美元。 一季度资金流入685.4亿美元，预估554.8亿美元。 一季度私募股权资产管理规模4299.1亿美元，预估4279.7亿美元。 一季度资产管理规模1.30万亿美元，预估1.3万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3093266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "白宫国家经济委员会主任哈塞特：我可以想象降息的同时减少资产负债表。",
@@ -659,11 +701,12 @@
           "source": "微博",
           "ranks": [
             23,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 19时09分]"
         },
         {
           "title": "白宫国家经济委员会主任哈塞特：在战争前，美国收到威胁称伊朗拥有11枚核弹。",
@@ -727,7 +770,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -785,6 +828,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华电辽能：公司主营火力发电，不涉及算电协同项目",
+          "url": "https://flash.jin10.com/detail/20260423184510580800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         }
       ]
     }
