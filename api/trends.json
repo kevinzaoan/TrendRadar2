@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T21:41:56.829353+08:00",
-  "total_titles_processed": 1618,
+  "generated_at": "2026-04-24T23:09:03.007260+08:00",
+  "total_titles_processed": 1749,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 54,
+      "match_count": 58,
       "titles": [
         {
           "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
@@ -32,11 +32,37 @@
             7,
             8,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时20分 ~ 21时41分]"
+          "appearance_count": 19,
+          "time_info": "[01时20分 ~ 23时09分]"
+        },
+        {
+          "title": "当机器人的脚变成轮子",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%84%9A%E5%8F%98%E6%88%90%E8%BD%AE%E5%AD%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            7,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时37分 ~ 23时09分]"
+        },
+        {
+          "title": "AI图以假乱真,恐怖谷效应拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时21分 ~ 23时09分]"
         },
         {
           "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
@@ -77,20 +103,6 @@
           "time_info": "[01时20分 ~ 10时37分]"
         },
         {
-          "title": "当机器人的脚变成轮子",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%84%9A%E5%8F%98%E6%88%90%E8%BD%AE%E5%AD%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            7,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时37分 ~ 21时41分]"
-        },
-        {
           "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
           "url": "https://wallstreetcn.com/articles/3770653",
           "source": "华尔街见闻",
@@ -104,17 +116,6 @@
           "time_info": "[01时20分 ~ 07时45分]"
         },
         {
-          "title": "AI图以假乱真,恐怖谷效应拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 21时41分]"
-        },
-        {
           "title": "宇树人形机器人解锁轮子形态",
           "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A7%A3%E9%94%81%E8%BD%AE%E5%AD%90%E5%BD%A2%E6%80%81",
           "source": "百度热搜",
@@ -124,6 +125,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时20分 ~ 07时45分]"
+        },
+        {
+          "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
+          "url": "https://www.cls.cn/detail/2355054",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时57分 ~ 23时09分]"
         },
         {
           "title": "claude 的参数都达到 25t 了，为何国产模型最多还只有 1t？",
@@ -183,6 +197,30 @@
           "time_info": "10时37分"
         },
         {
+          "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
+          "url": "https://wallstreetcn.com/articles/3770753",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时21分 ~ 23时09分]"
+        },
+        {
+          "title": "DeepSeek V4揭开AI内卷终局",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 23时09分]"
+        },
+        {
           "title": "机器人上岗劝阻挖婆婆丁",
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8A%E5%B2%97%E5%8A%9D%E9%98%BB%E6%8C%96%E5%A9%86%E5%A9%86%E4%B8%81",
           "source": "百度热搜",
@@ -232,18 +270,6 @@
           "time_info": "[05时45分 ~ 06时44分]"
         },
         {
-          "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
-          "url": "https://www.cls.cn/detail/2355054",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时57分 ~ 21时41分]"
-        },
-        {
           "title": "OpenAI深夜王炸！GPT-5.5正式发布：更会编程和使用计算机的最强模型",
           "url": "https://www.cls.cn/detail/2354272",
           "source": "财联社热门",
@@ -255,17 +281,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时37分 ~ 16时04分]"
-        },
-        {
-          "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
-          "url": "https://wallstreetcn.com/articles/3770753",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 21时41分]"
         },
         {
           "title": "SpaceX又一“IPO重磅炸弹”：未来靠企业AI“吃饭”，而非太空飞船！",
@@ -316,6 +331,17 @@
           "time_info": "[06时44分 ~ 07时45分]"
         },
         {
+          "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
+          "url": "https://www.cls.cn/detail/2355166",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
+        },
+        {
           "title": "美国总统特朗普：我正考虑收购航空公司Spirit Airlines。 有人希望经营Spirit Airlines。 如果经营得当，会是一笔不错的资产。",
           "url": "https://wallstreetcn.com/livenews/3093549",
           "source": "华尔街见闻-快讯",
@@ -348,6 +374,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时03分 ~ 16时04分]"
+        },
+        {
+          "title": "机器人跑马拉松难在哪",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E9%9A%BE%E5%9C%A8%E5%93%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
+        },
+        {
+          "title": "中国AI隐形王者股价一年翻10倍",
+          "url": "https://www.toutiao.com/trending/7632244941749489179/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
         },
         {
           "title": "如何评价 OpenAI 最新发布的 GPT-5.5 模型？",
@@ -411,7 +459,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -477,7 +525,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -526,6 +574,17 @@
           "time_info": "05时45分"
         },
         {
+          "title": "Spirit Aviation场外交易股票上涨36%，有报道称，美国已聘请柯克兰与埃利斯律师事务所（Kirkland & Ellis）就救助Spirit Airlines提供咨询。",
+          "url": "https://flash.jin10.com/detail/20260424223840578800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "小鹏飞行汽车和人形机器人将于今年量产",
           "url": "https://wallstreetcn.com/livenews/3093625",
           "source": "华尔街见闻-快讯",
@@ -535,17 +594,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
-        },
-        {
-          "title": "DeepSeek V4揭开AI内卷终局",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
         },
         {
           "title": "OpenAI：将很快把GPT‑5.5和GPT‑5.5 PRO引入 API。",
@@ -639,7 +687,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
@@ -712,6 +760,41 @@
           "time_info": "[01时20分 ~ 07时45分]"
         },
         {
+          "title": "开局之年我国经济运行起步有力",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E6%88%91%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E8%B5%B7%E6%AD%A5%E6%9C%89%E5%8A%9B%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
+        },
+        {
+          "title": "市场消息：美国量化交易公司和做市商Jane Street录得创纪录的396亿美元交易收入。",
+          "url": "https://flash.jin10.com/detail/20260424230311960800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
+          "title": "下一个霍尔木兹海峡？印尼财长暗示马六甲海峡收费站将收入可观",
+          "url": "https://www.cls.cn/detail/2354833",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时57分 ~ 23时09分]"
+        },
+        {
           "title": "普通人一生的收入",
           "url": "https://s.weibo.com/weibo?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B8%80%E7%94%9F%E7%9A%84%E6%94%B6%E5%85%A5&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -735,18 +818,6 @@
           "time_info": "[16时03分 ~ 16时04分]"
         },
         {
-          "title": "下一个霍尔木兹海峡？印尼财长暗示马六甲海峡收费站将收入可观",
-          "url": "https://www.cls.cn/detail/2354833",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时57分 ~ 21时41分]"
-        },
-        {
           "title": "日本经济产业省：受伊朗危机影响，将自5月1日起开始释放580万千升国家石油储备。",
           "url": "https://wallstreetcn.com/livenews/3093720",
           "source": "华尔街见闻-快讯",
@@ -767,6 +838,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "瑞士央行发言人：Martin Brown将出任央行下一任首席经济学家。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3094159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "若沃什执掌美联储，或成贝森特“地缘经济”盟友，美元互换额度将被武器化",
@@ -824,13 +906,24 @@
           "time_info": "16时04分"
         },
         {
+          "title": "Reliance第四财季EBITDA为4858.8亿印度卢比。 第四财季Jio订阅用户基数5.244亿。 第四财季Jio每用户平均收入（ARPU）为214卢比，分析师预期212.46卢比。",
+          "url": "https://wallstreetcn.com/livenews/3094148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "路透调查：巴西2026年通胀预期为4.5%，2027年为3.9%（1月调查为4.0%、3.8%）。巴西经济预计在2026年增长1.8%，2027年增长1.8%（1月调查为1.8%、1.9%）。35位受访经济学家中有31位预计，巴西央行将在4月29日将关键利率从14.75%下调至14.50%。",
           "url": "https://flash.jin10.com/detail/20260424210700134800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -844,6 +937,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
+        },
+        {
+          "title": "瑞士央行发言人：首席经济学家卡洛斯·伦茨（Carlos Lenz）将在2026年底退休。瑞士央行：马丁·布朗（Martin Brown）将成为下一任首席经济学家。",
+          "url": "https://flash.jin10.com/detail/20260424223959233800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "新易盛：一季度汇率产生变动对收入确认规模及利润产生了一定的影响",
