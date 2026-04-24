@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T13:35:53.475583+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-04-24T16:04:15.837981+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时20分 ~ 13时35分]"
+          "appearance_count": 13,
+          "time_info": "[01时20分 ~ 16时04分]"
         },
         {
           "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
@@ -84,6 +85,18 @@
           "time_info": "[01时20分 ~ 07时45分]"
         },
         {
+          "title": "“CPU重归AI核心地位”！英特尔财报会实录：半导体市场规模已近万亿美元",
+          "url": "https://www.cls.cn/detail/2354408",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时35分 ~ 16时04分]"
+        },
+        {
           "title": "年中亮相、今夏投产！特斯拉官宣第三代机器人时间表 硬件端有望全面升级",
           "url": "https://www.cls.cn/detail/2353290",
           "source": "财联社热门",
@@ -101,7 +114,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
         },
@@ -117,15 +130,29 @@
           "time_info": "10时37分"
         },
         {
-          "title": "“CPU重归AI核心地位”！英特尔财报会实录：半导体市场规模已近万亿美元",
-          "url": "https://www.cls.cn/detail/2354408",
-          "source": "财联社热门",
+          "title": "当机器人的脚变成轮子",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%84%9A%E5%8F%98%E6%88%90%E8%BD%AE%E5%AD%90",
+          "source": "bilibili 热搜",
           "ranks": [
+            3,
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 16时04分]"
+        },
+        {
+          "title": "机器人上岗劝阻挖婆婆丁",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8A%E5%B2%97%E5%8A%9D%E9%98%BB%E6%8C%96%E5%A9%86%E5%A9%86%E4%B8%81",
+          "source": "百度热搜",
+          "ranks": [
+            10,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时35分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时35分 ~ 16时04分]"
         },
         {
           "title": "对比实测3大AI生图模型",
@@ -142,18 +169,6 @@
           "time_info": "[01时20分 ~ 05时45分]"
         },
         {
-          "title": "当机器人的脚变成轮子",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%84%9A%E5%8F%98%E6%88%90%E8%BD%AE%E5%AD%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 13时35分]"
-        },
-        {
           "title": "周四（4月23日），美股存储芯片与硬件供应链指数跌0.20%，报144.48点，在震荡上行行情中，北京时间23:42刷新日高至148.53点，随后震荡下行，01:46刷新日低至142.59点。 信息科技指数跌1.24%，报329.36点。 人工智能（AI）赢家指数跌0.92%，报348.16点。 AI软件先驱指数跌6.81%，报95.68点，跳空低开后持续低位窄幅震荡，形成长尾L形走势。",
           "url": "https://wallstreetcn.com/livenews/3093542",
           "source": "华尔街见闻-快讯",
@@ -164,6 +179,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 06时44分]"
+        },
+        {
+          "title": "OpenAI深夜王炸！GPT-5.5正式发布：更会编程和使用计算机的最强模型",
+          "url": "https://www.cls.cn/detail/2354272",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 16时04分]"
+        },
+        {
+          "title": "中国电网开启近100亿具身智能设备采购与投资，机器人应用打开新空间",
+          "url": "https://www.cls.cn/detail/2354279",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时35分 ~ 16时04分]"
+        },
+        {
+          "title": "如何看待 MiroMind 被指要求在中国孵化的 AI 大模型核心技术和团队转移到国外，否则竞业限制？",
+          "url": "https://www.zhihu.com/question/2030235662557951222",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时35分 ~ 16时04分]"
         },
         {
           "title": "英特尔：AI产品的“脊柱”是CPU。 代工业务（Intel Foundry）将是一个漫长的旅程。",
@@ -178,18 +229,6 @@
           "time_info": "[05时45分 ~ 06时44分]"
         },
         {
-          "title": "OpenAI深夜王炸！GPT-5.5正式发布：更会编程和使用计算机的最强模型",
-          "url": "https://www.cls.cn/detail/2354272",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 13时35分]"
-        },
-        {
           "title": "在S-1文件中，SpaceX警告称，政府对Grok AI的调查可能导致公司失去部分市场准入。",
           "url": "https://flash.jin10.com/detail/20260424055631858800",
           "source": "金十数据",
@@ -200,6 +239,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时45分]"
+        },
+        {
+          "title": "SpaceX又一“IPO重磅炸弹”：未来靠企业AI“吃饭”，而非太空飞船！",
+          "url": "https://www.cls.cn/detail/2354474",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 16时04分]"
         },
         {
           "title": "美国总统特朗普：我正考虑收购航空公司Spirit Airlines。 有人希望经营Spirit Airlines。 如果经营得当，会是一笔不错的资产。",
@@ -223,6 +273,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 01时21分]"
+        },
+        {
+          "title": "戛纳电影宫的中国AI时刻",
+          "url": "https://www.douyin.com/hot/2476611",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 16时04分]"
+        },
+        {
+          "title": "高校演出机器人突然拥抱女生",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%BC%94%E5%87%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AA%81%E7%84%B6%E6%8B%A5%E6%8A%B1%E5%A5%B3%E7%94%9F",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 16时04分]"
         },
         {
           "title": "如何评价 OpenAI 最新发布的 GPT-5.5 模型？",
@@ -258,28 +330,6 @@
           "time_info": "10时37分"
         },
         {
-          "title": "机器人上岗劝阻挖婆婆丁",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8A%E5%B2%97%E5%8A%9D%E9%98%BB%E6%8C%96%E5%A9%86%E5%A9%86%E4%B8%81",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时35分"
-        },
-        {
-          "title": "如何看待 MiroMind 被指要求在中国孵化的 AI 大模型核心技术和团队转移到国外，否则竞业限制？",
-          "url": "https://www.zhihu.com/question/2030235662557951222",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时35分"
-        },
-        {
           "title": "荣耀申请注册闪电机器人商标",
           "url": "https://flash.jin10.com/detail/20260424102928417800",
           "source": "金十数据",
@@ -289,17 +339,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
-        },
-        {
-          "title": "中国电网开启近100亿具身智能设备采购与投资，机器人应用打开新空间",
-          "url": "https://www.cls.cn/detail/2354279",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时35分"
         },
         {
           "title": "英特尔一季度营收135.8亿美元，分析师预期123.6亿美元。 一季度数据中心、AI营收50.5亿美元，分析师预期44.1亿美元。 一季度客户计算营收77.3亿美元，分析师预期 一季度英特尔代工（Intel Foundry）营收54.2亿美元，分析师预期48.1亿美元。 一季度调整后每股收益（EPS）为0.29美元，分析师预期0.01美元。 预计二季度营收138亿-148亿美元，分析师预期130.4亿美元。 预计二季度调整后EPS为0.20美元，分析师预期0.086美元。 英特尔美股盘后狂飙17%。",
@@ -484,7 +523,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
         }
@@ -492,7 +531,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
@@ -554,6 +593,17 @@
           "time_info": "[01时20分 ~ 07时45分]"
         },
         {
+          "title": "看“十五五”首季农业农村经济成绩单",
+          "url": "https://www.toutiao.com/trending/7632217869392203290/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 16时04分]"
+        },
+        {
           "title": "普通人一生的收入",
           "url": "https://s.weibo.com/weibo?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B8%80%E7%94%9F%E7%9A%84%E6%94%B6%E5%85%A5&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -566,13 +616,24 @@
           "time_info": "[01时20分 ~ 03时08分]"
         },
         {
+          "title": "石油危机如何冲击世界经济",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9F%B3%E6%B2%B9%E5%8D%B1%E6%9C%BA%E5%A6%82%E4%BD%95%E5%86%B2%E5%87%BB%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 16时04分]"
+        },
+        {
           "title": "日本经济产业省：受伊朗危机影响，将自5月1日起开始释放580万千升国家石油储备。",
           "url": "https://wallstreetcn.com/livenews/3093720",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
         },
@@ -594,9 +655,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
+        },
+        {
+          "title": "财政部经济建设司副司长吴盖表示，有奖发票试点政策实施两个多月来，截至上周，50个试点城市已投放奖金36.8亿元，带动相关领域销售额约1600亿元，累计4.1亿人次参与活动，1.7亿人次中奖。",
+          "url": "https://flash.jin10.com/detail/20260424154459374800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         },
         {
           "title": "日本经济产业省：因伊朗危机，日本将释放580万千升国家石油储备，将于5月1日起开始释放部分石油储备。",
@@ -605,9 +677,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
+        },
+        {
+          "title": "杭钢股份：2026年第一季度营业收入76.93亿元，同比下降46.71%。净利润960.76万元。",
+          "url": "https://flash.jin10.com/detail/20260424154034292800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         },
         {
           "title": "新易盛低开超9%，公司第一季度实现营业收入83.38亿元，同比增长105.76%，第一季度归属于上市公司股东的净利润为27.80亿元，同比增长76.80%。",
@@ -619,6 +702,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "本田将重新评估在中国自主研发电动车的可行性。本田将以其品牌销售中国合作伙伴开发的电动车。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/3093838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         }
       ]
     }
