@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T02:53:16.438027+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-04-25T03:53:11.594913+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 02时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 03时53分]"
         },
         {
           "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 02时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 03时53分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -36,11 +36,12 @@
           "ranks": [
             5,
             12,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 02时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 03时53分]"
         },
         {
           "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
@@ -51,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 02时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 03时53分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -62,8 +63,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 02时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 03时53分]"
         },
         {
           "title": "当机器人的脚变成轮子",
@@ -71,11 +72,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 02时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 03时53分]"
         },
         {
           "title": "中方反对美方污蔑抹黑中国AI产业",
@@ -83,11 +85,23 @@
           "source": "抖音",
           "ranks": [
             11,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时51分 ~ 02时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时51分 ~ 03时53分]"
+        },
+        {
+          "title": "戛纳电影宫的中国AI时刻",
+          "url": "https://www.douyin.com/hot/2476611",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时52分 ~ 03时53分]"
         },
         {
           "title": "中国AI隐形王者股价一年翻10倍",
@@ -107,7 +121,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -123,13 +137,24 @@
           "time_info": "00时57分"
         },
         {
+          "title": "据知情人士透露，AI初创公司Human Intelligence洽谈融资1亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3094267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
           "title": "美国财长贝森特：特朗普政府高层每周都开会讨论AI模型。",
           "url": "https://wallstreetcn.com/livenews/3094244",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -169,8 +194,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 02时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 03时53分]"
         },
         {
           "title": "下一个霍尔木兹海峡？印尼财长暗示马六甲海峡收费站将收入可观",
@@ -181,8 +206,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 02时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 03时53分]"
         },
         {
           "title": "SLB（原斯伦贝谢Schlumberger）：国际市场的增长将抵消中东冲突对第二季度收入和收益造成的影响。 预计第二季度国际市场的收入将实现中高个位数的增长。 预计第二季度北美地区的收入环比将保持持平。 预计与第一季度相比，中东冲突将导致第二季度每股收益减少6-8美分。 目前在中东处于待命状态，并正与客户密切合作，以便在冲突平息后迅速调动设备。 一旦冲突平息，预计中东部分国家将扩大产能。",
