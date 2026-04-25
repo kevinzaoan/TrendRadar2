@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T02:53:46.512432+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-04-26T03:44:24.397220+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3770880",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时44分]"
         },
         {
           "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
           "url": "https://wallstreetcn.com/articles/3770859",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时44分]"
         },
         {
           "title": "Claude降智了吗",
@@ -39,8 +41,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时44分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -50,8 +52,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时44分]"
         },
         {
           "title": "人形机器人除了表演还能干什么？交管机器人已经走进路口",
@@ -62,8 +64,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时44分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -74,8 +76,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时44分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -85,8 +87,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时44分]"
         },
         {
           "title": "AI帮忙投资靠谱吗",
@@ -124,8 +126,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时44分]"
         },
         {
           "title": "四艘空载伊朗油轮试图返航伊朗，现已在巴基斯坦专属经济区内被发现。",
