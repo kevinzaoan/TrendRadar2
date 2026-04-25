@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T19:39:18.491979+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-04-25T21:04:30.339599+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
@@ -73,11 +73,42 @@
             1,
             8,
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时57分 ~ 19时39分]"
+          "appearance_count": 22,
+          "time_info": "[00时57分 ~ 21时04分]"
+        },
+        {
+          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
+          "url": "https://wallstreetcn.com/articles/3770859",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时12分 ~ 21时04分]"
+        },
+        {
+          "title": "Claude降智了吗",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E9%99%8D%E6%99%BA%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            7,
+            9,
+            11,
+            13,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时28分 ~ 21时04分]"
         },
         {
           "title": "第一次对AI感到恐惧",
@@ -130,11 +161,12 @@
             15,
             20,
             22,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时57分 ~ 19时39分]"
+          "appearance_count": 22,
+          "time_info": "[00时57分 ~ 21时04分]"
         },
         {
           "title": "当机器人的脚变成轮子",
@@ -152,35 +184,6 @@
           "time_info": "[00时57分 ~ 07时40分]"
         },
         {
-          "title": "Claude降智了吗",
-          "url": "https://search.bilibili.com/all?keyword=Claude%E9%99%8D%E6%99%BA%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            7,
-            9,
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时28分 ~ 19时39分]"
-        },
-        {
-          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
-          "url": "https://wallstreetcn.com/articles/3770859",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时12分 ~ 19时39分]"
-        },
-        {
           "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
           "url": "https://www.toutiao.com/trending/7632545381678878254/",
           "source": "今日头条",
@@ -188,8 +191,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时12分 ~ 19时39分]"
+          "appearance_count": 9,
+          "time_info": "[13时12分 ~ 21时04分]"
         },
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -200,8 +203,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时53分 ~ 19时39分]"
+          "appearance_count": 7,
+          "time_info": "[16时53分 ~ 21时04分]"
+        },
+        {
+          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
+          "url": "https://www.cls.cn/detail/2355592",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时53分 ~ 21时04分]"
         },
         {
           "title": "软银准备为AI数据中心制造电池",
@@ -232,18 +247,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时54分 ~ 19时39分]"
-        },
-        {
-          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
-          "url": "https://www.cls.cn/detail/2355592",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时53分 ~ 19时39分]"
         },
         {
           "title": "黄仁勋要求英伟达所有员工用OpenAI",
