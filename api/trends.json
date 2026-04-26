@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T21:06:57.723174+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-04-26T22:43:44.038269+08:00",
+  "total_titles_processed": 1384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -33,6 +33,20 @@
           "time_info": "[00时41分 ~ 07时38分]"
         },
         {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时29分 ~ 22时43分]"
+        },
+        {
           "title": "Claude降智了吗",
           "url": "https://search.bilibili.com/all?keyword=Claude%E9%99%8D%E6%99%BA%E4%BA%86%E5%90%97",
           "source": "bilibili 热搜",
@@ -44,8 +58,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时41分 ~ 21时06分]"
+          "appearance_count": 18,
+          "time_info": "[00时41分 ~ 22时43分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -61,8 +75,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时41分 ~ 21时06分]"
+          "appearance_count": 18,
+          "time_info": "[00时41分 ~ 22时43分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -75,20 +89,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时41分 ~ 10时42分]"
-        },
-        {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时29分 ~ 21时06分]"
         },
         {
           "title": "人形机器人除了表演还能干什么？交管机器人已经走进路口",
@@ -129,8 +129,20 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时40分 ~ 21时06分]"
+          "appearance_count": 8,
+          "time_info": "[13时40分 ~ 22时43分]"
+        },
+        {
+          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时01分 ~ 22时43分]"
         },
         {
           "title": "京东启动“Aidol创造营”计划 面向全球征集AI智能硬件项目",
@@ -145,18 +157,6 @@
           "time_info": "[15时29分 ~ 17时02分]"
         },
         {
-          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时01分 ~ 19时40分]"
-        },
-        {
           "title": "专家热议AI短剧以规范促发展",
           "url": "https://www.douyin.com/hot/2479735",
           "source": "抖音",
@@ -165,8 +165,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时44分 ~ 21时06分]"
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 22时43分]"
         },
         {
           "title": "AI帮忙投资靠谱吗",
@@ -197,11 +197,34 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 22时43分]"
+        },
+        {
+          "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
+          "url": "https://wallstreetcn.com/articles/3770919",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时06分"
+          "time_info": "22时43分"
+        },
+        {
+          "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2029541889469096343",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "玉渊谭天：中国AI要活在自己的节奏里",
@@ -262,11 +285,12 @@
             7,
             15,
             13,
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时29分 ~ 21时06分]"
+          "appearance_count": 7,
+          "time_info": "[15时29分 ~ 22时43分]"
         },
         {
           "title": "专家：中国最晚明年进高收入国家行列",
