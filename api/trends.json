@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T17:02:18.375076+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-04-26T18:44:36.169766+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -43,8 +43,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 17时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 18时44分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -58,8 +58,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 17时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 18时44分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -105,11 +105,26 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时29分 ~ 17时02分]"
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 18时44分]"
+        },
+        {
+          "title": "第一次被一台机器人美到",
+          "url": "https://www.douyin.com/hot/2478959",
+          "source": "抖音",
+          "ranks": [
+            25,
+            18,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时40分 ~ 18时44分]"
         },
         {
           "title": "京东启动“Aidol创造营”计划 面向全球征集AI智能硬件项目",
@@ -124,17 +139,16 @@
           "time_info": "[15时29分 ~ 17时02分]"
         },
         {
-          "title": "第一次被一台机器人美到",
-          "url": "https://www.douyin.com/hot/2478959",
-          "source": "抖音",
+          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
+          "source": "澎湃新闻",
           "ranks": [
-            25,
-            18,
-            17
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时40分 ~ 17时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 18时44分]"
         },
         {
           "title": "AI帮忙投资靠谱吗",
@@ -161,15 +175,15 @@
           "time_info": "[13时40分 ~ 15时29分]"
         },
         {
-          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
-          "source": "澎湃新闻",
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
           "ranks": [
-            20
+            21
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         },
         {
           "title": "玉渊谭天：中国AI要活在自己的节奏里",
@@ -216,11 +230,24 @@
           "source": "今日头条",
           "ranks": [
             2,
-            7
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 18时44分]"
+        },
+        {
+          "title": "专家：中国最晚明年进高收入国家行列",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%9C%80%E6%99%9A%E6%98%8E%E5%B9%B4%E8%BF%9B%E9%AB%98%E6%94%B6%E5%85%A5%E5%9B%BD%E5%AE%B6%E8%A1%8C%E5%88%97",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时29分 ~ 17时02分]"
+          "time_info": "[17时01分 ~ 18时44分]"
         },
         {
           "title": "四艘空载伊朗油轮试图返航伊朗，现已在巴基斯坦专属经济区内被发现。",
@@ -233,17 +260,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 02时53分]"
-        },
-        {
-          "title": "专家：中国最晚明年进高收入国家行列",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%9C%80%E6%99%9A%E6%98%8E%E5%B9%B4%E8%BF%9B%E9%AB%98%E6%94%B6%E5%85%A5%E5%9B%BD%E5%AE%B6%E8%A1%8C%E5%88%97",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
         },
         {
           "title": "经济学家：霍尔木兹海峡关闭带来的冲击即将压垮需求",
