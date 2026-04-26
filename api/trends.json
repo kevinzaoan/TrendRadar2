@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T02:55:31.639155+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2026-04-27T03:47:30.668893+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 03时47分]"
         },
         {
           "title": "加拿大曼尼托巴省拟禁止未成年人使用社交媒体及AI聊天机器人",
@@ -24,11 +24,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时55分]"
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 03时47分]"
         },
         {
           "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
@@ -39,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 03时47分]"
         },
         {
           "title": "专家热议AI短剧以规范促发展",
@@ -49,11 +50,12 @@
           "ranks": [
             9,
             14,
-            20
+            20,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 03时47分]"
         },
         {
           "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
@@ -63,8 +65,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 03时47分]"
         },
         {
           "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
@@ -72,11 +74,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 03时47分]"
         },
         {
           "title": "Claude降智了吗",
@@ -85,11 +88,12 @@
           "ranks": [
             16,
             19,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 03时47分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -99,8 +103,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 03时47分]"
         }
       ]
     },
@@ -115,11 +119,12 @@
           "ranks": [
             26,
             28,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 03时47分]"
         }
       ]
     }
