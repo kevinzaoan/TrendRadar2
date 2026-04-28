@@ -1,107 +1,33 @@
 {
-  "generated_at": "2026-04-28T19:45:35.796662+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-04-29T00:52:17.760234+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 42,
+      "match_count": 13,
       "titles": [
         {
-          "title": "AI海报杀疯,设计师饭碗被砸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            6,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时25分 ~ 19时45分]"
-        },
-        {
-          "title": "机器人当上钓鱼佬了",
-          "url": "https://www.toutiao.com/trending/7633322925969948713/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            10,
-            15,
-            5,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时25分 ~ 17时21分]"
-        },
-        {
-          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
-          "url": "https://wallstreetcn.com/articles/3770953",
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3771095",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            8,
-            9
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时25分 ~ 10时52分]"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时52分]"
         },
         {
-          "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖，奥特曼们沦为靶子",
-          "url": "https://wallstreetcn.com/articles/3770976",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时25分 ~ 14时07分]"
-        },
-        {
-          "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
-          "url": "https://www.cls.cn/detail/2357012",
+          "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2358592",
           "source": "财联社热门",
           "ranks": [
-            12,
-            11,
-            9,
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时25分 ~ 07时55分]"
-        },
-        {
-          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2357129",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时25分 ~ 07时55分]"
-        },
-        {
-          "title": "被AI骗去毒蛇窝徒步",
-          "url": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 06时53分]"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时52分]"
         },
         {
           "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
@@ -111,841 +37,168 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时07分 ~ 19时45分]"
-        },
-        {
-          "title": "广东发布十五五规划纲要，事关AI、商业航天、光伏等",
-          "url": "https://www.cls.cn/detail/2357658",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时07分 ~ 17时21分]"
+          "time_info": "[00时51分 ~ 00时52分]"
         },
         {
-          "title": "伊拉克什叶派联盟提名Ali al-Zaidi为总理。（伊拉克国家新闻机构）",
-          "url": "https://wallstreetcn.com/livenews/3095185",
+          "title": "马斯克律师：OpenAI“偷走了一个慈善机构”，针对AI公司及Altman的审判开启",
+          "url": "https://wallstreetcn.com/livenews/3095934",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "DeepSeek还是最强国产AI吗",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%BF%98%E6%98%AF%E6%9C%80%E5%BC%BA%E5%9B%BD%E4%BA%A7AI%E5%90%97%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "美依礼芽回应歌手AI海报",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E5%9B%9E%E5%BA%94%E6%AD%8C%E6%89%8BAI%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 06时53分]"
-        },
-        {
-          "title": "“AI光算力第一股”来了！上海曦智科技今登陆港交所 全球知名机构争做基石投资者",
-          "url": "https://www.cls.cn/detail/2357540",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 14时07分]"
-        },
-        {
-          "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
-          "url": "https://www.zhihu.com/question/2030297015276549260",
-          "source": "知乎",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 03时22分]"
+          "time_info": "00时52分"
         },
         {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
           "url": "https://wallstreetcn.com/articles/3771064",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 19时45分]"
-        },
-        {
-          "title": "大摩：中国AI芯片供应商，谁将胜出？",
-          "url": "https://wallstreetcn.com/articles/3771031",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时21分 ~ 19时45分]"
-        },
-        {
-          "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
-          "url": "https://flash.jin10.com/detail/20260428054512315800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 07时55分]"
-        },
-        {
-          "title": "AI初创公司Sereact获1.1亿美元融资，旨在提升机器人适应性",
-          "url": "https://wallstreetcn.com/livenews/3095146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "Bobby Jain的对冲基金将返还外部资金，独家为前雇主Millennium管理",
-          "url": "https://wallstreetcn.com/livenews/3095251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时53分"
+          "time_info": "[00时51分 ~ 00时52分]"
         },
         {
           "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
           "url": "https://wallstreetcn.com/articles/3771068",
           "source": "华尔街见闻",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "广东：推进RISC-V、端侧AI、光芯片、智能传感器、存算一体等前沿和关键芯片研发",
-          "url": "https://flash.jin10.com/detail/20260428103127959800",
-          "source": "金十数据",
-          "ranks": [
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时52分]"
         },
         {
-          "title": "昆仑万维：一季度净亏损8.87亿元，上年同期亏损7.69亿元；报告期公司短剧和AI短剧平台业务、Opera广告业务、AI业务等发展迅速，收入增加。",
-          "url": "https://wallstreetcn.com/livenews/3095732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "券商晨会精华：AI算力需求高增，半导体行业盈利有望高增长",
-          "url": "https://www.cls.cn/detail/2357453",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "谷歌公司（至少）数百名员工要求CEO Pichai拒绝涉足美国国防部机密的军事AI工作。 该公司员工们称，他们不希望接触Lethal AI。 （一名）研究员称，谷歌尚未讨论关于AI使用的红线。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3095139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "高盛：AI风险正加剧关于股票估值的争论",
-          "url": "https://wallstreetcn.com/livenews/3095273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "谷歌表示，欧盟毫无依据的干预将剥夺设备制造商定制AI服务的自主权，推高成本，并削弱隐私保护。",
-          "url": "https://flash.jin10.com/detail/20260428002123603800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "谷歌DeepMind将与韩国合作推进“登月”级AI项目",
-          "url": "https://wallstreetcn.com/livenews/3095168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "报道：谷歌员工敦促Pichai阻止美国军方使用其AI技术",
-          "url": "https://wallstreetcn.com/livenews/3095134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "美国财长贝森特对参议院Sanders的AI监管立场颇多微词。",
-          "url": "https://wallstreetcn.com/livenews/3095210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "广东：做大做强新能源、智能网联汽车、智能机器人、航空航天等新兴产业，锻造更多万亿元级、千亿元级新兴产业集群",
-          "url": "https://flash.jin10.com/detail/20260428102500096800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "腾讯云升级全栈企业级Agent能力 多款AI产品首发",
-          "url": "https://wallstreetcn.com/livenews/3095443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "“全球AI光算力第一股”曦智科技上市",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%A8%E7%90%83AI%E5%85%89%E7%AE%97%E5%8A%9B%E7%AC%AC%E4%B8%80%E8%82%A1%E2%80%9D%E6%9B%A6%E6%99%BA%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "谷歌与五角大楼签署机密AI协议。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3095442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "美媒：OpenAI近期未达成销售和用户获取目标",
-          "url": "https://flash.jin10.com/detail/20260428101414163800",
-          "source": "金十数据",
+          "title": "AI海报杀疯,设计师饭碗被砸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
+          "source": "贴吧",
           "ranks": [
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时52分]"
         },
         {
-          "title": "乒乓球机器人能否战胜人类",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%92%E4%B9%93%E7%90%83%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%83%BD%E5%90%A6%E6%88%98%E8%83%9C%E4%BA%BA%E7%B1%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "百亿级私募一季度调仓动作曝光：积极加码科技，认准AI产业链",
-          "url": "https://wallstreetcn.com/livenews/3095263",
+          "title": "英伟达推出NEMOTRON 3 NANO OMNI模型，实现视觉、音频和语言的统一，使AI智能体的效率提高至9倍。",
+          "url": "https://wallstreetcn.com/livenews/3095923",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "00时52分"
         },
         {
-          "title": "创业板指跌超1%，沪指跌0.22%，深成指跌0.74%，半导体、机器人、贵金属、旅游等板块跌幅居前，沪深京三市下跌个股超3300只。",
-          "url": "https://wallstreetcn.com/livenews/3095342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "日媒称美军AI计划深度参与对伊打击",
-          "url": "https://flash.jin10.com/detail/20260428001113808800",
+          "title": "亚马逊云服务(AWS)推出亚马逊快速桌面AI助手。亚马逊推出人工智能工具，旨在提升办公室员工的生产力。",
+          "url": "https://flash.jin10.com/detail/20260429000646143800",
           "source": "金十数据",
           "ranks": [
-            26
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时26分"
+          "time_info": "00时52分"
         },
         {
-          "title": "歌手2026回应ai海报",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2026%E5%9B%9E%E5%BA%94ai%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "欧盟要求谷歌向AI竞争对手开放安卓系统",
-          "url": "https://flash.jin10.com/detail/20260428013540130800",
+          "title": "英伟达推出NEMOTRON 3 NANO OMNI模型，实现视觉、音频和语言的统一，使AI智能体的效率提高至9倍。",
+          "url": "https://flash.jin10.com/detail/20260429000422238800",
           "source": "金十数据",
           "ranks": [
-            29
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "00时52分"
         },
         {
-          "title": "阿里发布第三个癌症AI模型DAMO COCA",
-          "url": "https://wallstreetcn.com/livenews/3095430",
-          "source": "华尔街见闻-快讯",
+          "title": "甲骨文：对与OpenAI的合作感到非常兴奋。",
+          "url": "https://flash.jin10.com/detail/20260429000106014800",
+          "source": "金十数据",
           "ranks": [
-            29
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时07分"
+          "time_info": "00时52分"
         },
         {
-          "title": "伊拉克议员们表示：总统Nizar Amedi任命Ali al-Zaidi为总理。",
-          "url": "https://wallstreetcn.com/livenews/3095194",
+          "title": "报告发现：全球监管机构在AI领域落后于银行，Mythos引发监管担忧",
+          "url": "https://wallstreetcn.com/livenews/3095914",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时02分"
+          "time_info": "00时52分"
+        },
+        {
+          "title": "据知情人士透露，Airtel Africa Plc.考虑将Mobile Money部门英国IPO，寻求按高达100亿美元估值融资至多20亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3095904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时52分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 33,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "中央政治局会议重磅定调！事关扩大内需、人工智能、房地产市场",
-          "url": "https://www.cls.cn/detail/2357874",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 19时45分]"
-        },
         {
           "title": "中共中央政治局召开会议 分析研究当前经济形势和经济工作 中共中央总书记习近平主持会议",
           "url": "https://wallstreetcn.com/articles/3771084",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 19时45分]"
-        },
-        {
-          "title": "日本经济财政大臣城内实：将出席今天的日本央行政策会议。",
-          "url": "https://flash.jin10.com/detail/20260428074326568800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "中共中央政治局召开会议 分析研究当前经济形势和经济工作 中共中央总书记习近平主持会议",
-          "url": "https://www.cls.cn/detail/2357832",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时07分 ~ 19时45分]"
-        },
-        {
-          "title": "日本经济财政大臣城内实：将出席今天的日本央行政策会议。",
-          "url": "https://wallstreetcn.com/livenews/3095290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "巴克莱第一季度固定收益、外汇及大宗商品收入17.2亿英镑，预估17.6亿英镑。 第一季度股票业务收入11.2亿英镑，预估10.4亿英镑。 第一季度投行业务手续费收入7.54亿英镑，预估6.824亿英镑。 第一季度利润总额81.6亿英镑，预估81.1亿英镑。 第一季度净利息收入37.4亿英镑，预估38.3亿英镑。 第一季度税前利润28.1亿英镑，预估28.5亿英镑。",
-          "url": "https://wallstreetcn.com/livenews/3095483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "【天际股份：第一季度净利润1.97亿元，同比增长1,001.93%】天际股份公告，2026年第一季度营业收入9.9亿元，同比增长91.15%。净利润1.97亿元，同比增长1,001.93%。",
-          "url": "https://wallstreetcn.com/livenews/3095626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "国家发改委经济研究所副所长郭丽岩：科学把握中国经济发展大势",
-          "url": "https://wallstreetcn.com/livenews/3095289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "桥水基金创始人达利欧当地时间4月27日称，通胀压力持续叠加经济增长放缓，政策制定者必须保持谨慎。达利欧周一表示，“我们无疑正处于滞胀时期”，警告称美国经济已陷入滞胀环境，并指出，倘若即将接任美联储主席的凯文·沃什选择降息，将酿成决策失误。",
-          "url": "https://flash.jin10.com/detail/20260428073412910800",
-          "source": "金十数据",
-          "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "美国国会预算办公室：伊朗战争对能源价格的影响正在抵消2025年减税政策对经济的提振作用",
-          "url": "https://wallstreetcn.com/livenews/3095230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时53分]"
+          "time_info": "[00时51分 ~ 00时52分]"
         },
         {
-          "title": "经济学家警告：伊朗战争对美国经济的冲击或贯穿整个2026年",
-          "url": "https://www.cls.cn/detail/2357269",
+          "title": "美国务卿鲁比奥：伊朗将霍尔木兹海峡当作\"经济核武器\"",
+          "url": "https://www.cls.cn/detail/2358468",
           "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时54分 ~ 10时52分]"
-        },
-        {
-          "title": "标普500指数的11个板块多数收跌，日用消费品板块跌1.18%，房地产板块跌0.84%，信息技术/科技板块则收涨0.46%，金融板块涨0.65%，电信板块涨0.94%。",
-          "url": "https://wallstreetcn.com/livenews/3095223",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时52分]"
         },
         {
-          "title": "经济学家：沃什的立场或比鲍威尔略微偏宽松",
-          "url": "https://flash.jin10.com/detail/20260428070608554800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "广东：大力发展第六代移动通信、具身智能、脑科学与脑机接口等重点产业，积极打造新的经济增长点",
-          "url": "https://wallstreetcn.com/livenews/3095367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "Rambus一季度调整后每股收益（EPS）为0.55美元，运营利润率34%。 预计二季度产品营收0.95亿-1.01亿美元，合同与其他收入0.19亿-0.25亿美元，许可订单0.76亿-0.82亿美元。 Rambus美股盘后涨4%。",
-          "url": "https://wallstreetcn.com/livenews/3095220",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "中共中央政治局召开会议 分析研究当前经济形势和经济工作",
-          "url": "https://wallstreetcn.com/livenews/3095457",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "印尼经济部长：印尼将部分塑料产品的进口关税降至0%，为期6个月。",
-          "url": "https://flash.jin10.com/detail/20260428133149929800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "A股建筑材料板块短线回升，扬子新材涨停，青龙管业涨超7%，国际复材、中国巨石、中旗新材、方大集团等个股跟涨。中共中央政治局会议提出，努力稳定房地产市场，扎实推进城市更新。",
-          "url": "https://flash.jin10.com/detail/20260428133108415800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "三元股份：北京鲜牛奶销售收入同比增长超30%",
-          "url": "https://wallstreetcn.com/livenews/3095730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "广东：大力发展第六代移动通信、具身智能、脑科学与脑机接口等重点产业，积极打造新的经济增长点",
-          "url": "https://flash.jin10.com/detail/20260428102741950800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "Kpler称伊朗储油能力最多再撑22天，出口收入冲击数月后才会显现",
-          "url": "https://wallstreetcn.com/livenews/3095361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "中央政治局开会 分析研究当前经济形势",
-          "url": "https://www.toutiao.com/trending/7633582126050918446/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "中共中央政治局：全面实施“人工智能+”行动，发展智能经济新形态",
-          "url": "https://flash.jin10.com/detail/20260428132901925800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "美国国务卿卢比奥：现任领导人之下，古巴不可能推进经济改革。",
-          "url": "https://wallstreetcn.com/livenews/3095272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "据福克斯新闻：美国国务卿鲁比奥表示，伊朗正借用霍尔木兹海峡作为“经济上的核武器”对全世界施加压力。政权更迭必须由伊朗内部来实现。",
-          "url": "https://flash.jin10.com/detail/20260428064422585800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "中共中央政治局：努力稳定房地产市场，扎实推进城市更新",
-          "url": "https://flash.jin10.com/detail/20260428132830591800",
-          "source": "金十数据",
+          "title": "政治局会议深读｜“努力稳定房地产市场，扎实推进城市更新”，释放哪些新信号？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33070412",
+          "source": "澎湃新闻",
           "ranks": [
             20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "中共中央政治局召开会议，分析研究当前经济形势和经济工作。",
-          "url": "https://flash.jin10.com/detail/20260428132733180800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "中指研究院：3月房地产债券融资总额环比增长48.4%",
-          "url": "https://wallstreetcn.com/livenews/3095348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "西班牙经济大臣：今年GDP增长预期为2.2%，与之前预测相同。",
-          "url": "https://flash.jin10.com/detail/20260428191507351800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "维科技术：公司钠离子电池营业收入占主营业务收入2.64% 毛利率为-43.36%",
-          "url": "https://flash.jin10.com/detail/20260428191306620800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "翔鹭钨业：一季度净利润2.5亿元，同比增长2,917.13%；钨价上涨导致收入增加。",
-          "url": "https://wallstreetcn.com/livenews/3095587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "西班牙经济大臣：预计到2026年底公共债务将达到GDP的100.1%。",
-          "url": "https://flash.jin10.com/detail/20260428190926870800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "西班牙经济大臣：预计今年预算赤字为GDP的1.6%，不包括一次性支出。",
-          "url": "https://flash.jin10.com/detail/20260428190719809800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "伊朗宣布暂停66类钢铁产品出口，此前70%钢铁产能被以色列摧毁",
-          "url": "https://wallstreetcn.com/articles/3770985",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时25分 ~ 17时21分]"
-        },
-        {
-          "title": "Nucor（纽柯钢铁）一季度净销售95亿美元，分析师预期88.7亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3095231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时53分]"
+          "time_info": "[00时51分 ~ 00时52分]"
         },
         {
-          "title": "中电联：预计全国发电装机在二季度超过40亿千瓦",
-          "url": "https://wallstreetcn.com/livenews/3095364",
+          "title": "格力电器2025年实现营业总收入1711.18亿元人民币，同比下降9.96%。 全年净利润290亿元人民币，同比下降 9.89%，分析师预估304.8亿元。 全年经营活动产生的现金流量净额463.83 亿元，同比增长57.93%。 一季度营收429.661亿元人民币，同比增长3.52%。 一季度归属于上市公司股东的净利润60.821亿元人民币，同比增长3.01%。",
+          "url": "https://wallstreetcn.com/livenews/3095921",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "广东：加快钢铁、船舶、化工、机械等产能结构调整",
-          "url": "https://flash.jin10.com/detail/20260428102352934800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "中电联：预计全国发电装机在二季度超过40亿千瓦",
-          "url": "https://flash.jin10.com/detail/20260428101416825800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "伊朗暂停出口部分钢铁产品",
-          "url": "https://wallstreetcn.com/livenews/3095124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "time_info": "00时52分"
         }
       ]
     }
