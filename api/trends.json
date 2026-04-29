@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T20:18:03.889031+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2026-04-29T23:14:00.427885+08:00",
+  "total_titles_processed": 1515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时02分 ~ 20时18分]"
+          "appearance_count": 10,
+          "time_info": "[08时02分 ~ 23时14分]"
         },
         {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
@@ -25,11 +25,12 @@
           "ranks": [
             10,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时00分 ~ 20时18分]"
+          "appearance_count": 12,
+          "time_info": "[07时00分 ~ 23时14分]"
         },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -121,6 +122,19 @@
           "time_info": "[00时51分 ~ 08时02分]"
         },
         {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时24分 ~ 23时14分]"
+        },
+        {
           "title": "美存储股盘后齐涨！希捷公布强劲财报 AI驱动需求持续火热",
           "url": "https://www.cls.cn/detail/2358910",
           "source": "财联社热门",
@@ -157,6 +171,29 @@
           "time_info": "[12时30分 ~ 20时18分]"
         },
         {
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
+          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
+          "url": "https://wallstreetcn.com/articles/3771194",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时05分 ~ 23时14分]"
+        },
+        {
           "title": "OpenAI的Codex登陆亚马逊Bedrock平台",
           "url": "https://flash.jin10.com/detail/20260429015838005800",
           "source": "金十数据",
@@ -179,16 +216,15 @@
           "time_info": "08时02分"
         },
         {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
+          "title": "玉渊谭天：禁止Manus并购案，不是禁止AI企业出海",
+          "url": "https://wallstreetcn.com/livenews/3096793",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时24分 ~ 20时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "据知情人士透露，黑石集团旗下QTS要求银行业提供20亿美元资金，用于保障（来自公用事业行业）AI电力供应。（彭博）",
@@ -214,17 +250,6 @@
           "time_info": "[00时52分 ~ 02时18分]"
         },
         {
-          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
-          "url": "https://wallstreetcn.com/articles/3771194",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时05分 ~ 20时18分]"
-        },
-        {
           "title": "在异环中演奏See you again",
           "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%BC%82%E7%8E%AF%E4%B8%AD%E6%BC%94%E5%A5%8FSee%20you%20again",
           "source": "bilibili 热搜",
@@ -237,6 +262,18 @@
           "time_info": "[18时05分 ~ 20时18分]"
         },
         {
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时17分 ~ 23时14分]"
+        },
+        {
           "title": "澎湃AI晚新闻丨2026年4月28日",
           "url": "https://m.thepaper.cn/newsDetail_forward_33072106",
           "source": "澎湃新闻",
@@ -246,6 +283,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时05分 ~ 20时18分]"
+        },
+        {
+          "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2360001",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
         },
         {
           "title": "马斯克称奥尔特曼是“小偷”，OpenAI反驳",
@@ -317,17 +365,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时02分]"
-        },
-        {
-          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032593268840600541",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时17分 ~ 20时18分]"
         },
         {
           "title": "马斯克控诉“慈善被掠夺”，OpenAI反驳其想要“王国的钥匙”",
@@ -537,12 +574,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "蔚来李斌：不急于入局具身智能机器人，先观望再入场",
+          "url": "https://wallstreetcn.com/livenews/3096767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "中共中央政治局召开会议 分析研究当前经济形势和经济工作 中共中央总书记习近平主持会议",
@@ -608,6 +656,17 @@
           "time_info": "12时31分"
         },
         {
+          "title": "加拿大央行高级副行长Rogers：与美国的贸易紧张局势对加拿大经济构成更大的长期威胁。",
+          "url": "https://wallstreetcn.com/livenews/3096791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "标普500指数的11个板块多数收涨，能源板块涨1.65%，房地产、日用消费品板块涨0.99%，电信、可选消费、工业板块则至多收跌0.88%，原材料板块跌0.17%，信息技术/科技跌1.29%。",
           "url": "https://wallstreetcn.com/livenews/3095997",
           "source": "华尔街见闻-快讯",
@@ -667,6 +726,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 02时18分]"
+        },
+        {
+          "title": "经济日报：把取消键还给消费者，数字消费不能成平台的算法游戏",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33075663",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
         },
         {
           "title": "中共中央政治局召开会议，分析研究当前经济形势和经济工作，中共中央总书记习近平主持会议",
@@ -790,6 +860,28 @@
           "time_info": "15时24分"
         },
         {
+          "title": "加拿大央行行长麦克勒姆：目前经济中存在一定的闲置产能，因此我们不认为能源价格上涨会迅速传导至商品和服务领域。",
+          "url": "https://flash.jin10.com/detail/20260429225514798800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：如果我们现在加息，而随后油价下跌，那么等到加息对经济产生影响时，我们会后悔当初加了息。",
+          "url": "https://flash.jin10.com/detail/20260429225429524800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "上汽集团：公司2026年第一季度实现营业收入1404.18亿元，实现净利润30.26亿元。",
           "url": "https://flash.jin10.com/detail/20260429172621992800",
           "source": "金十数据",
@@ -799,6 +891,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
+        },
+        {
+          "title": "加拿大央行高级副行长罗杰斯：从长期来看，贸易紧张局势对经济的威胁大于油价上涨。",
+          "url": "https://flash.jin10.com/detail/20260429225307503800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "泰国央行：当前政策利率是适合的，将支持放缓的经济。",
@@ -862,7 +965,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
