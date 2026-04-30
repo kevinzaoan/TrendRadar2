@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-30T07:57:22.533282+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2026-04-30T10:58:46.613169+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
-        {
-          "title": "AI魔改黑袍,星光姐被玩坏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 07时57分]"
-        },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
           "url": "https://wallstreetcn.com/articles/3771095",
@@ -28,6 +17,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时29分 ~ 06时57分]"
+        },
+        {
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时29分 ~ 10时58分]"
         },
         {
           "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
@@ -79,15 +80,40 @@
           "time_info": "[01时29分 ~ 07时57分]"
         },
         {
+          "title": "AI驱动多项业务增长！Alphabet创四年最强季度营收增速，云业务飙升63%",
+          "url": "https://www.cls.cn/detail/2360312",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
           "title": "软银计划让旗下一家新的人工智能与机器人公司在美上市，软银正寻求为该AI公司（名为Roze）争取高达1000亿美元的估值。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3097003",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也开始犹豫了？",
+          "url": "https://www.zhihu.com/question/2031783702569726072",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14,
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时06分 ~ 10时58分]"
         },
         {
           "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
@@ -125,17 +151,17 @@
           "time_info": "[06时57分 ~ 07时57分]"
         },
         {
-          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也开始犹豫了？",
-          "url": "https://www.zhihu.com/question/2031783702569726072",
-          "source": "知乎",
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "source": "澎湃新闻",
           "ranks": [
-            19,
             14,
-            7
+            15,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[05时06分 ~ 07时57分]"
+          "time_info": "[06时57分 ~ 10时58分]"
         },
         {
           "title": "中美AI竞争的本质差距在哪",
@@ -162,18 +188,6 @@
           "time_info": "[06时57分 ~ 07时57分]"
         },
         {
-          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时57分 ~ 07时57分]"
-        },
-        {
           "title": "苹果公司计划在iOS 27提供一款Siri摄像头模型和升级款视觉AI。",
           "url": "https://wallstreetcn.com/livenews/3096826",
           "source": "华尔街见闻-快讯",
@@ -183,6 +197,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "大猩猩狠拽女游客头发视频系AI",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%8C%A9%E7%8C%A9%E7%8B%A0%E6%8B%BD%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%A4%B4%E5%8F%91%E8%A7%86%E9%A2%91%E7%B3%BBAI",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
           "title": "OpenAI：开发者大会9月29日在旧金山举行。",
@@ -243,7 +279,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "经济日报：把取消键还给消费者，数字消费不能成平台的算法游戏",
@@ -351,6 +387,17 @@
           "time_info": "05时06分"
         },
         {
+          "title": "微软上季营收超预期增长，Azure云收入增40%，资本支出意外放缓 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771312",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
           "title": "美联储主席鲍威尔：对点阵图或经济预测报告进行大幅调整在委员会中并未获得广泛支持。",
           "url": "https://flash.jin10.com/detail/20260430025939094800",
           "source": "金十数据",
@@ -368,7 +415,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -426,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "国家统计局：4月份，制造业采购经理指数为50.3%，略低于上月0.1个百分点，继续位于扩张区间； 非制造业商务活动指数为49.4%，比上月下降0.7个百分点； 综合PMI产出指数为50.1%，比上月下降0.4个百分点，仍高于临界点，我国经济总体产出保持扩张。",
+          "url": "https://wallstreetcn.com/livenews/3097072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         }
       ]
     }
