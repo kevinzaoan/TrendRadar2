@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T18:52:45.898570+08:00",
-  "total_titles_processed": 1141,
+  "generated_at": "2026-05-02T19:45:55.488861+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "假设 AI 蒸馏出了「李白的所有创作规律」，然后生成了十万首新诗，那么真正的李白，底牌是什么？",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时34分 ~ 15时45分]"
+        },
+        {
+          "title": "赛道挤爆,AI短剧收益不够电费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时37分 ~ 19时45分]"
         },
         {
           "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
@@ -52,15 +63,19 @@
           "time_info": "[01时01分 ~ 18时52分]"
         },
         {
-          "title": "赛道挤爆,AI短剧收益不够电费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
-          "source": "贴吧",
+          "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
+          "url": "https://www.cls.cn/detail/2362027",
+          "source": "财联社热门",
           "ranks": [
-            5
+            11,
+            10,
+            6,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时37分 ~ 18时52分]"
+          "appearance_count": 6,
+          "time_info": "[13时37分 ~ 19时45分]"
         },
         {
           "title": "女子被AI误导闯入毒蛇窝，AI道歉承认“和送死没有区别”",
@@ -75,18 +90,50 @@
           "time_info": "[08时34分 ~ 18时52分]"
         },
         {
-          "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
-          "url": "https://www.cls.cn/detail/2362027",
-          "source": "财联社热门",
+          "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+          "url": "https://wallstreetcn.com/articles/3771463",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            10,
+            9,
             6,
-            4
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时37分 ~ 19时45分]"
+        },
+        {
+          "title": "网警提醒：警惕AI伪造骗局",
+          "url": "https://www.toutiao.com/trending/7634928581718294547/",
+          "source": "今日头条",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时37分 ~ 18时52分]"
+          "time_info": "[15时44分 ~ 19时45分]"
+        },
+        {
+          "title": "五一假期收好这份AI伪造防范指南",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E6%94%B6%E5%A5%BD%E8%BF%99%E4%BB%BDAI%E4%BC%AA%E9%80%A0%E9%98%B2%E8%8C%83%E6%8C%87%E5%8D%97",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时44分 ~ 19时45分]"
+        },
+        {
+          "title": "网警发布五一AI防骗指南",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E4%BA%94%E4%B8%80AI%E9%98%B2%E9%AA%97%E6%8C%87%E5%8D%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时44分 ~ 19时45分]"
         },
         {
           "title": "网警发布五一AI防骗指南",
@@ -100,16 +147,15 @@
           "time_info": "13时37分"
         },
         {
-          "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-          "url": "https://wallstreetcn.com/articles/3771463",
-          "source": "华尔街见闻",
+          "title": "ai情头",
+          "url": "https://s.weibo.com/weibo?q=ai%E6%83%85%E5%A4%B4&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            9,
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时37分 ~ 18时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
@@ -124,37 +170,18 @@
           "time_info": "[13时37分 ~ 18时52分]"
         },
         {
-          "title": "网警提醒：警惕AI伪造骗局",
-          "url": "https://www.toutiao.com/trending/7634928581718294547/",
-          "source": "今日头条",
+          "title": "专访｜赵又廷：别让AI取代我就行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33091903",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            15,
+            14,
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时44分 ~ 18时52分]"
-        },
-        {
-          "title": "五一假期收好这份AI伪造防范指南",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E6%94%B6%E5%A5%BD%E8%BF%99%E4%BB%BDAI%E4%BC%AA%E9%80%A0%E9%98%B2%E8%8C%83%E6%8C%87%E5%8D%97",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时44分 ~ 18时52分]"
-        },
-        {
-          "title": "网警发布五一AI防骗指南",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E4%BA%94%E4%B8%80AI%E9%98%B2%E9%AA%97%E6%8C%87%E5%8D%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时44分 ~ 18时52分]"
+          "appearance_count": 5,
+          "time_info": "[15时44分 ~ 19时45分]"
         },
         {
           "title": "日本首相高市早苗：旨在与越南及其他国家合作开展AI技术研发。 致力于推动印太地区的数字化基础设施建设。",
@@ -162,11 +189,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 18时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时06分 ~ 19时45分]"
         },
         {
           "title": "AI热潮导致供应短缺 苹果公司将Mac Mini的起售价提高至799美元",
@@ -180,19 +208,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时40分 ~ 15时45分]"
-        },
-        {
-          "title": "专访｜赵又廷：别让AI取代我就行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33091903",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时44分 ~ 18时52分]"
         },
         {
           "title": "时隔五年我用AI复活了父亲",
@@ -352,6 +367,18 @@
           "time_info": "[13时37分 ~ 15时45分]"
         },
         {
+          "title": "OpenAI：人工智能在一个月内从编写20%的代码提升至80%。",
+          "url": "https://flash.jin10.com/detail/20260502172401507800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 19时45分]"
+        },
+        {
           "title": "美军使用AI技术在霍尔木兹海峡扫雷",
           "url": "https://flash.jin10.com/detail/20260502085918272800",
           "source": "金十数据",
@@ -411,15 +438,26 @@
           "time_info": "[05时54分 ~ 06时51分]"
         },
         {
-          "title": "OpenAI：人工智能在一个月内从编写20%的代码提升至80%。",
-          "url": "https://flash.jin10.com/detail/20260502172401507800",
-          "source": "金十数据",
+          "title": "AI CPU推高DDR5内存需求，存储芯片“超级周期”或延续至2027年",
+          "url": "https://wallstreetcn.com/articles/3771481",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
+          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
+          "source": "凤凰网",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时52分"
+          "time_info": "19时45分"
         },
         {
           "title": "赵又廷：别让AI取代我就行",
@@ -539,8 +577,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时34分 ~ 18时52分]"
+          "appearance_count": 9,
+          "time_info": "[08时34分 ~ 19时45分]"
         },
         {
           "title": "汇聚发展要素资源 激活民营经济新活力",
@@ -550,8 +588,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 18时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时06分 ~ 19时45分]"
         },
         {
           "title": "标普：预计2026年卡塔尔经济将实际萎缩5%。",
@@ -592,6 +630,18 @@
           "time_info": "[17时06分 ~ 18时52分]"
         },
         {
+          "title": "“飞行器先行，数据滞后”：低空经济万亿赛道如何打破“数据孤岛”",
+          "url": "https://www.cls.cn/detail/2361696",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时06分 ~ 19时45分]"
+        },
+        {
           "title": "惠誉：确认阿布扎比评级为“AA”；展望稳定。 稳定的展望反映了石油出口收入在伊朗战争期间的韧性，这显著抵消了战争带来的负面影响。 伊朗战争结束后，我们预计政府将推出旨在振兴非石油经济的支持计划。",
           "url": "https://wallstreetcn.com/livenews/3098063",
           "source": "华尔街见闻-快讯",
@@ -602,18 +652,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时54分 ~ 08时35分]"
-        },
-        {
-          "title": "“飞行器先行，数据滞后”：低空经济万亿赛道如何打破“数据孤岛”",
-          "url": "https://www.cls.cn/detail/2361696",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 18时52分]"
         },
         {
           "title": "61815人现场观战背后的“经济账”",
