@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T03:57:46.822220+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2026-05-04T04:47:48.123495+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2034241896516510290",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时47分]"
         },
         {
           "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
@@ -24,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时47分]"
         },
         {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
@@ -39,8 +41,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时47分]"
+        },
+        {
+          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
+          "url": "https://wallstreetcn.com/articles/3771503",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时47分]"
         },
         {
           "title": "和AI玩猜历史人物游戏",
@@ -52,20 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 03时57分]"
-        },
-        {
-          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
-          "url": "https://wallstreetcn.com/articles/3771503",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时57分]"
+          "time_info": "[01时47分 ~ 04时47分]"
         },
         {
           "title": "云南的水果像极了AI生成的",
@@ -76,8 +79,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时47分]"
         },
         {
           "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
@@ -88,8 +91,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时47分]"
         },
         {
           "title": "湖南广电 AI播新闻",
@@ -99,8 +102,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时47分]"
         },
         {
           "title": "博主：美军早就开始用AI进行实战了",
@@ -113,8 +116,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时47分]"
         },
         {
           "title": "赛道挤爆,AI短剧收益不够电费",
@@ -124,8 +127,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时47分]"
         },
         {
           "title": "湖南经视启用 AI 主播播新闻，这会成为一种趋势吗？你觉得 AI 主播怎么样？",
@@ -133,11 +136,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时57分]"
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时47分]"
         },
         {
           "title": "央视披露公司用AI替岗35岁主管详情",
@@ -145,11 +149,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            29
+            29,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时57分]"
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时47分]"
         },
         {
           "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
@@ -158,15 +163,15 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 04时47分]"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“体验经济”拓展假日消费新场景",
@@ -176,8 +181,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时47分]"
         },
         {
           "title": "伊朗第一副总统：石油部门的持续运作确保了经济稳定，帮助国家克服困难局面。",
@@ -190,6 +195,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 01时47分]"
+        },
+        {
+          "title": "着眼经济转型，阿联酋石油巨头布局550亿美元项目",
+          "url": "https://wallstreetcn.com/livenews/3098306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "德国经济部：我们注意到特朗普关于提高汽车关税的声明，将在欧盟内部密切协调下一步行动。",
