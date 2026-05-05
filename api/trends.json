@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T13:44:12.277175+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2026-05-05T16:10:08.761227+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 13时44分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 16时10分]"
         },
         {
           "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
@@ -36,18 +36,33 @@
           "time_info": "[00时07分 ~ 13时44分]"
         },
         {
-          "title": "美国豪赌AI,取代人类科学家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
-          "source": "贴吧",
+          "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
+          "url": "https://wallstreetcn.com/articles/3771542",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            8,
-            11,
-            18
+            10,
+            9,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 13时44分]"
+          "appearance_count": 11,
+          "time_info": "[02时14分 ~ 16时10分]"
+        },
+        {
+          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
+          "url": "https://www.cls.cn/detail/2362279",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 16时10分]"
         },
         {
           "title": "马上评｜AI替岗，还是“科技向善”吗",
@@ -58,25 +73,27 @@
             10,
             12,
             11,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 13时44分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 16时10分]"
         },
         {
-          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
-          "url": "https://www.cls.cn/detail/2362279",
-          "source": "财联社热门",
+          "title": "美国豪赌AI,取代人类科学家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
+          "source": "贴吧",
           "ranks": [
+            7,
+            8,
             11,
-            10,
-            9,
-            8
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 13时44分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 16时10分]"
         },
         {
           "title": "AI主播上电视,虚拟人抢饭碗?",
@@ -86,24 +103,12 @@
             8,
             9,
             12,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 13时44分]"
-        },
-        {
-          "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
-          "url": "https://wallstreetcn.com/articles/3771542",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时14分 ~ 13时44分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 16时10分]"
         },
         {
           "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
@@ -116,6 +121,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时07分 ~ 10时42分]"
+        },
+        {
+          "title": "挪威主权财富基金首席执行官：即将有三次重要的首次公开募股——SpaceX、Anthropic和OpenAI。我们会买入这些公司的股份。",
+          "url": "https://flash.jin10.com/detail/20260505154538750800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
+          "title": "挪威主权财富基金首席执行官：即将有3个重要IPO——SpaceX、Anthropic和OpenAI，我们通常会投资这些公司。",
+          "url": "https://wallstreetcn.com/livenews/3098735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
         },
         {
           "title": "中国移动将推出AI-eSIM产品",
@@ -142,6 +169,18 @@
           "time_info": "[00时07分 ~ 13时44分]"
         },
         {
+          "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 16时10分]"
+        },
+        {
           "title": "宇树机器人在美买票坐飞机",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E7%BE%8E%E4%B9%B0%E7%A5%A8%E5%9D%90%E9%A3%9E%E6%9C%BA%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -153,15 +192,27 @@
           "time_info": "[00时07分 ~ 02时15分]"
         },
         {
-          "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771556",
-          "source": "华尔街见闻",
+          "title": "贝莱德5000万美元领衔18家基石认购，AI药物递送第一股剂泰科技启动公开招股",
+          "url": "https://wallstreetcn.com/livenews/3098714",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            6,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时43分 ~ 13时44分]"
+          "time_info": "[13时44分 ~ 16时10分]"
+        },
+        {
+          "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
+          "url": "https://wallstreetcn.com/articles/3771568",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时09分 ~ 16时10分]"
         },
         {
           "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
@@ -176,15 +227,15 @@
           "time_info": "[06时01分 ~ 07时05分]"
         },
         {
-          "title": "贝莱德5000万美元领衔18家基石认购，AI药物递送第一股剂泰科技启动公开招股",
-          "url": "https://wallstreetcn.com/livenews/3098714",
+          "title": "鸿海：4月营收同比增长29.74%。 第二季度是ICT行业的传统淡季，主要产品正处于新旧机型交替期。 不过，AI服务器预计将保持持续增长趋势。 根据目前的可见性，预计第二季度营收将实现环比和同比增长。 但仍需关注全球政治与经济局势波动的影响。",
+          "url": "https://wallstreetcn.com/livenews/3098730",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时44分"
+          "time_info": "16时10分"
         },
         {
           "title": "Fujairah：阿联酋政府正设法控制石油设施的火情。",
@@ -278,7 +329,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "青年在上海｜免租金助创业，“巨富长”街区有个青春经济试验场",
@@ -299,9 +350,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "鹿哈自曝每天平均收入500块",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E5%93%88%E8%87%AA%E6%9B%9D%E6%AF%8F%E5%A4%A9%E5%B9%B3%E5%9D%87%E6%94%B6%E5%85%A5500%E5%9D%97%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 16时10分]"
         },
         {
           "title": "预测市场：Kalshi交易员认为美国4月就业报告将优于经济学家预期",
@@ -316,15 +379,28 @@
           "time_info": "[10时42分 ~ 13时44分]"
         },
         {
-          "title": "鹿哈自曝每天平均收入500块",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E5%93%88%E8%87%AA%E6%9B%9D%E6%AF%8F%E5%A4%A9%E5%B9%B3%E5%9D%87%E6%94%B6%E5%85%A5500%E5%9D%97%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "澳洲联储：消费者和商业信心调查的下降与实际活动仅弱相关。海湾冲突是加剧通胀和经济增长前景的冲击。 预计第二季度CPI为4.8%，第四季度为4.0%，2027年第二季度为2.4%，2028年第二季度为2.5%。 基本预测假设进一步加息60个基点至4.7%，布伦特原油年底跌至82.3美元，2027年底为75.7美元。 目前尚无明显证据表明国内经济和消费者需求会因冲突而显著变化。 未来两年经济增长预期低于潜在水平。",
+          "url": "https://wallstreetcn.com/livenews/3098711",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            9,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时43分 ~ 13时44分]"
+          "time_info": "[13时44分 ~ 16时10分]"
+        },
+        {
+          "title": "汇丰控股：第一季税前利润为94亿美元，净利息收入为89亿美元；预计2026年银行业务净利息收入约460亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3098707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 16时10分]"
         },
         {
           "title": "惠誉评级：加拿大依赖增长驱动的收入以保持财政赤字稳定。",
@@ -355,29 +431,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "澳洲联储：消费者和商业信心调查的下降与实际活动仅弱相关。海湾冲突是加剧通胀和经济增长前景的冲击。 预计第二季度CPI为4.8%，第四季度为4.0%，2027年第二季度为2.4%，2028年第二季度为2.5%。 基本预测假设进一步加息60个基点至4.7%，布伦特原油年底跌至82.3美元，2027年底为75.7美元。 目前尚无明显证据表明国内经济和消费者需求会因冲突而显著变化。 未来两年经济增长预期低于潜在水平。",
-          "url": "https://wallstreetcn.com/livenews/3098711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "汇丰控股：第一季税前利润为94亿美元，净利息收入为89亿美元；预计2026年银行业务净利息收入约460亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3098707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -391,6 +445,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "澳洲联储主席布洛克：如果经济形势发生变化，我们将作出调整。 此次石油冲击使通胀与增长之间的权衡更加恶化。即使冲突迅速解决，成本全年仍将上升。 今天的加息决策经过了激烈的讨论。 希望失业率的攀升速度不超过必要水平。",
+          "url": "https://wallstreetcn.com/livenews/3098720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
+          "title": "鸿海：基于当前可见度，第二季度运营前景预计将实现环比和同比增长，但仍需关注全球政治经济局势动荡所带来的影响。",
+          "url": "https://flash.jin10.com/detail/20260505153246817800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
         },
         {
           "title": "世界上最顶尖的那批科学家，年轻时也是「拿着最微薄的收入，思考着世界最前沿的课题吗」？",
