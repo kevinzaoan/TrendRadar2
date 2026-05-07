@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T07:53:04.392220+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-05-07T10:49:46.707541+08:00",
+  "total_titles_processed": 810,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -38,11 +38,12 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 07时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 10时49分]"
         },
         {
           "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
@@ -51,11 +52,12 @@
           "ranks": [
             17,
             18,
-            16
+            16,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 07时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 10时49分]"
         },
         {
           "title": "从0开始了解Claude Code",
@@ -69,8 +71,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 07时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 10时49分]"
         },
         {
           "title": "10后小孩哥用AI帮妈妈管店",
@@ -80,11 +82,12 @@
             27,
             18,
             23,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时17分 ~ 07时53分]"
+          "appearance_count": 7,
+          "time_info": "[02时17分 ~ 10时49分]"
         },
         {
           "title": "如何看待蔡浩宇的硅谷 AI 公司战略转向，LLM 团队整体回流国内？",
@@ -92,11 +95,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            8
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时59分 ~ 07时53分]"
+          "appearance_count": 5,
+          "time_info": "[05时59分 ~ 10时49分]"
         },
         {
           "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
@@ -148,6 +152,28 @@
           "time_info": "04时22分"
         },
         {
+          "title": "黄仁勋：美国应保持AI领先地位",
+          "url": "https://www.douyin.com/hot/2489930",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "“湖北惊现人造毒大米”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B9%96%E5%8C%97%E6%83%8A%E7%8E%B0%E4%BA%BA%E9%80%A0%E6%AF%92%E5%A4%A7%E7%B1%B3%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
           "title": "Scale AI获美国防部价值5亿美元的合同",
           "url": "https://flash.jin10.com/detail/20260507050033181800",
           "source": "金十数据",
@@ -165,7 +191,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -181,13 +207,35 @@
           "time_info": "04时22分"
         },
         {
+          "title": "EXO ai篡改记忆",
+          "url": "https://s.weibo.com/weibo?q=EXO%20ai%E7%AF%A1%E6%94%B9%E8%AE%B0%E5%BF%86&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "机器人概念股集体拉升，宇环数控、巨轮智能双双涨停，华中数控大涨近18%，斯菱智驱、肇民科技、信质集团、浙江荣泰、力星股份、五洲新春等涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3099685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
           "title": "马斯克详解“Terafab”AI芯片项目：建设自主算力帝国",
           "url": "https://wallstreetcn.com/livenews/3099619",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -212,6 +260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "A股人形机器人概念板块震荡上升，盛视科技、泰晶科技封板涨停，信质集团、凯龙高科、斯菱智驱、高测股份、天准科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260507094759038800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "AI记账软件怼用户买的衣服像寿衣",
@@ -261,7 +320,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "平陆运河如何影响南方经济",
@@ -277,6 +336,17 @@
           "time_info": "[00时28分 ~ 07时53分]"
         },
         {
+          "title": "菲律宾经济部长：尽管中东冲突今天结束，但其持续影响将在未来几个月内存在。",
+          "url": "https://flash.jin10.com/detail/20260507102048144800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
           "title": "据日经新闻：美国财长贝森特将于下周二分别与日本首相高市早苗、日本财务大臣片山皋月和日本央行行长植田和男进行会谈。贝森特下周将讨论日元疲软问题，除了货币问题，议程还将涵盖经济安全主题，如稀土和能源采购。",
           "url": "https://flash.jin10.com/detail/20260507040712574800",
           "source": "金十数据",
@@ -286,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "菲律宾经济部长：政府支出将在未来几个月加速。",
+          "url": "https://flash.jin10.com/detail/20260507101525843800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "伊朗议长：“敌人”施经济压力 官民要团结应对",
@@ -323,6 +404,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "Anthropic自夸Q1年化收入暴涨80倍 日本疑似连续干预汇市 | 环球市场",
+          "url": "https://www.cls.cn/detail/2364390",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
           "title": "伊朗议长卡利巴夫：军事袭击的可能性并不低。 “敌人”寄希望于施加经济压力。",
           "url": "https://wallstreetcn.com/livenews/3099479",
           "source": "华尔街见闻-快讯",
@@ -340,7 +432,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -365,6 +457,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "A股房地产板块反复活跃，衢州发展封板涨停，万通发展、合肥城建、黑牡丹、招商蛇口、首开股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260507095715961800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "美联储古尔斯比：美联储需要警惕当前那些看似基于未来“丰厚回报”的经济行为，例如受财富效应驱动的消费，或是基于数据中心投资而过热的本地市场。",
