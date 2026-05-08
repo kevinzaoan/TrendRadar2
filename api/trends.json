@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T15:42:48.225980+08:00",
-  "total_titles_processed": 1053,
+  "generated_at": "2026-05-08T17:22:48.970051+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时24分 ~ 15时42分]"
+          "appearance_count": 12,
+          "time_info": "[02时24分 ~ 17时22分]"
         },
         {
           "title": "三角洲如何忽悠AI送礼",
@@ -57,8 +57,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 15时42分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 17时22分]"
         },
         {
           "title": "OpenAI发布三款实时音频模型",
@@ -70,6 +70,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时52分 ~ 10时53分]"
+        },
+        {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时52分 ~ 17时22分]"
         },
         {
           "title": "加码科技金融，中小银行盼AIC试点扩容",
@@ -93,19 +106,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时31分 ~ 15时42分]"
-        },
-        {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时52分 ~ 15时42分]"
         },
         {
           "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
@@ -161,7 +161,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -175,6 +175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
+          "url": "https://wallstreetcn.com/articles/3771771",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "A股机器人概念股反复活跃，五洲新春触及涨停，巨轮智能此前封板，乔锋智能涨超10%，祥鑫科技、绿的谐波、飞龙股份涨幅居前。",
@@ -194,9 +205,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
+        },
+        {
+          "title": "券商All in AI要多大财力？IT投入实力较量最新排行榜",
+          "url": "https://www.cls.cn/detail/2365785",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
+          "url": "https://www.zhihu.com/question/2035827414475993469",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "OpenAI：扩展安全警报选项，让所有18岁以上的用户都能选择将自己信任的人设为可信联系人。",
@@ -260,7 +293,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -296,12 +329,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "宇树机器人在韩国当和尚了",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%BD%93%E5%92%8C%E5%B0%9A%E4%BA%86&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -379,6 +423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
+        },
+        {
+          "title": "F1一季度收入增长53%",
+          "url": "https://search.bilibili.com/all?keyword=F1%E4%B8%80%E5%AD%A3%E5%BA%A6%E6%94%B6%E5%85%A5%E5%A2%9E%E9%95%BF53%25",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "Arm控股跌超10.7%，报211.51美元。 高盛看空该公司股价，称将ARM Holdings的评级维持为卖出，目标价125美元，较当前股价隐含逾40%下行空间。高盛称此举的理由是智能手机市场的疲软程度令人震惊，且ARM核心版权费收入已连续两个季度不及预期。",
@@ -472,7 +527,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "绿电概念反复活跃，大唐发电3连板，甘肃能源逼近涨停，华电辽能、粤电力A、赣能股份、深南电A等纷纷走高。",
@@ -484,6 +539,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
+        },
+        {
+          "title": "太阳能：1-4月发电量28.7亿千瓦时，同比增加10.02%",
+          "url": "https://flash.jin10.com/detail/20260508170045166800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         }
       ]
     }
