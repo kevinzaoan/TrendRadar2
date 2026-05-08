@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T13:32:03.132342+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2026-05-08T15:42:48.225980+08:00",
+  "total_titles_processed": 1053,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时24分 ~ 13时32分]"
+          "appearance_count": 11,
+          "time_info": "[02时24分 ~ 15时42分]"
         },
         {
           "title": "三角洲如何忽悠AI送礼",
@@ -29,11 +30,12 @@
             26,
             28,
             22,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时24分 ~ 13时32分]"
+          "appearance_count": 10,
+          "time_info": "[02时24分 ~ 15时42分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
@@ -47,15 +49,16 @@
           "time_info": "[10时52分 ~ 13时32分]"
         },
         {
-          "title": "AI四小龙估值破万亿",
-          "url": "https://www.toutiao.com/trending/7637337803117825590/",
-          "source": "今日头条",
+          "title": "宇树机器人以佛弟子身份在韩国寺庙受戒，「五戒」要求「不过度充电、不顶撞人类」等，如何看待机器人皈依？",
+          "url": "https://www.zhihu.com/question/2035738175893714497",
+          "source": "知乎",
           "ranks": [
-            4
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时42分]"
         },
         {
           "title": "OpenAI发布三款实时音频模型",
@@ -69,17 +72,6 @@
           "time_info": "[10时52分 ~ 10时53分]"
         },
         {
-          "title": "宇树机器人以佛弟子身份在韩国寺庙受戒，「五戒」要求「不过度充电、不顶撞人类」等，如何看待机器人皈依？",
-          "url": "https://www.zhihu.com/question/2035738175893714497",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
           "title": "加码科技金融，中小银行盼AIC试点扩容",
           "url": "https://wallstreetcn.com/livenews/3100243",
           "source": "华尔街见闻-快讯",
@@ -91,16 +83,16 @@
           "time_info": "07时04分"
         },
         {
-          "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
-          "url": "https://www.cls.cn/detail/2365476",
-          "source": "财联社热门",
+          "title": "AI四小龙估值破万亿",
+          "url": "https://www.toutiao.com/trending/7637337803117825590/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            8
+            4,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时52分 ~ 13时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时42分]"
         },
         {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
@@ -108,7 +100,20 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            15
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时52分 ~ 15时42分]"
+        },
+        {
+          "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
+          "url": "https://www.cls.cn/detail/2365476",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -131,11 +136,12 @@
           "url": "https://www.cls.cn/detail/2365554",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时42分]"
         },
         {
           "title": "GAI专辑先行曲星梦",
@@ -147,6 +153,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时52分 ~ 10时53分]"
+        },
+        {
+          "title": "索尼：还将与台积电(TSM.N)合作，探索在汽车和机器人领域的物理人工智能应用。",
+          "url": "https://flash.jin10.com/detail/20260508152346022800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "Anthropic与SpaceX签署300兆瓦算力协议，旨在满足AI需求增长",
@@ -169,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
+        },
+        {
+          "title": "软银将OpenAI保证金贷款目标削减40%，至60亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3100476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "OpenAI：扩展安全警报选项，让所有18岁以上的用户都能选择将自己信任的人设为可信联系人。",
@@ -226,6 +254,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "创业板指缩量跌近1%，商业航天、机器人概念逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3100471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "Anthropic 与 SpaceX 达成算力与太空开发合作，AI 巨头开始抱团，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2035645446962549472",
           "source": "知乎",
@@ -254,7 +293,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         }
@@ -403,7 +442,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
