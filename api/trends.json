@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T10:48:49.723766+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2026-05-09T13:49:33.347578+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
@@ -69,6 +69,18 @@
           "time_info": "[07时56分 ~ 10时48分]"
         },
         {
+          "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
+          "url": "https://www.cls.cn/detail/2366653",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 13时49分]"
+        },
+        {
           "title": "报道：xAI上周裁员约10人，近期离职人员包括Mistral AI创始成员",
           "url": "https://wallstreetcn.com/livenews/3100934",
           "source": "华尔街见闻-快讯",
@@ -98,11 +110,36 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 10时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 13时49分]"
+        },
+        {
+          "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
+          "url": "https://wallstreetcn.com/articles/3771864",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 13时49分]"
+        },
+        {
+          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 13时49分]"
         },
         {
           "title": "Forward Air Corp.（FWRD）收跌43%，创1999年以来最差单日表现。",
@@ -129,26 +166,16 @@
           "time_info": "[05时01分 ~ 06时07分]"
         },
         {
-          "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
-          "url": "https://wallstreetcn.com/articles/3771864",
-          "source": "华尔街见闻",
+          "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120610",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            20,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
-          "url": "https://www.cls.cn/detail/2366653",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 13时49分]"
         },
         {
           "title": "宇树机器人以佛弟子身份在韩国寺庙受戒，「五戒」要求「不过度充电、不顶撞人类」等，如何看待机器人皈依？",
@@ -162,6 +189,28 @@
           "time_info": "01时17分"
         },
         {
+          "title": "创业板跌近1%，芯片半导体集体调整，机器人逆势爆发，恒指跌近1%，科网股多跌，快手涨超9%",
+          "url": "https://wallstreetcn.com/articles/3771807",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
+          "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
+          "url": "https://www.cls.cn/detail/2366780",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
           "title": "Anthropic PBC与Akamai签署18亿美元计算协议。Akamai涨幅迅速扩大至28%。",
           "url": "https://wallstreetcn.com/livenews/3100869",
           "source": "华尔街见闻-快讯",
@@ -173,15 +222,15 @@
           "time_info": "03时18分"
         },
         {
-          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
-          "source": "澎湃新闻",
+          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
+          "url": "https://www.cls.cn/detail/2366733",
+          "source": "财联社热门",
           "ranks": [
-            14
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "13时49分"
         },
         {
           "title": "AI算力的下一个瓶颈：涨价的CPU、抢不到的货",
@@ -206,15 +255,15 @@
           "time_info": "05时01分"
         },
         {
-          "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33120610",
-          "source": "澎湃新闻",
+          "title": "中信建投：AI算力与商业航天迎来产业加速期",
+          "url": "https://flash.jin10.com/detail/20260509122338306800",
+          "source": "金十数据",
           "ranks": [
-            20
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "13时49分"
         },
         {
           "title": "Anthropic与Akamai达成价值18亿美元的计算协议。",
@@ -237,6 +286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "小鹏否认被约谈立案 称相关信息系通过AI恶意炒作",
+          "url": "https://flash.jin10.com/detail/20260509114530626800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         }
       ]
     },
@@ -252,8 +312,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 10时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 13时49分]"
         },
         {
           "title": "3亿农民工收入涨了 释放什么信号",
@@ -290,6 +350,18 @@
           "time_info": "[05时01分 ~ 06时07分]"
         },
         {
+          "title": "达利欧：美国经济正积累“致命斑块”，未来五年将迎历史性大变局",
+          "url": "https://wallstreetcn.com/articles/3771816",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 13时49分]"
+        },
+        {
           "title": "标普500指数的11个板块涨跌各异，信息技术/科技板块收涨2.74%，刷新收盘历史高位至6573.22点；可选消费、原材料、房地产、日用消费品板块至多涨0.5%，工业、能源、金融、保健、公用事业板块至多跌0.91%。",
           "url": "https://wallstreetcn.com/livenews/3100914",
           "source": "华尔街见闻-快讯",
@@ -300,17 +372,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时07分]"
-        },
-        {
-          "title": "达利欧：美国经济正积累“致命斑块”，未来五年将迎历史性大变局",
-          "url": "https://wallstreetcn.com/articles/3771816",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
         },
         {
           "title": "Jane Street季度交易收入161亿美元，创历史新高",
@@ -369,7 +430,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -380,7 +441,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         }
