@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T21:18:35.024071+08:00",
-  "total_titles_processed": 1203,
+  "generated_at": "2026-05-10T22:53:35.524921+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "报道：字节跳动计划将AI基础设施支出增加25%",
@@ -58,6 +58,19 @@
           "time_info": "[01时52分 ~ 14时29分]"
         },
         {
+          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
+          "url": "https://www.cls.cn/detail/2367077",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时50分 ~ 22时53分]"
+        },
+        {
           "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
           "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
           "source": "澎湃新闻",
@@ -81,24 +94,12 @@
             8,
             11,
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时55分 ~ 21时18分]"
-        },
-        {
-          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
-          "url": "https://www.cls.cn/detail/2367077",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时50分 ~ 21时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时55分 ~ 22时53分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -125,6 +126,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 07时50分]"
+        },
+        {
+          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
+          "url": "https://wallstreetcn.com/articles/3771913",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时29分 ~ 22时53分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -165,19 +179,6 @@
           "time_info": "[00时55分 ~ 06时43分]"
         },
         {
-          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
-          "url": "https://wallstreetcn.com/articles/3771913",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时29分 ~ 21时18分]"
-        },
-        {
           "title": "妈妈的AI在岁月里具象",
           "url": "https://www.douyin.com/hot/2494006",
           "source": "抖音",
@@ -188,8 +189,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时29分 ~ 21时18分]"
+          "appearance_count": 6,
+          "time_info": "[14时29分 ~ 22时53分]"
         },
         {
           "title": "德国AI动力无人机初创公司Helsing正计划以约180亿美元的估值筹集新一轮资金。（英国金融时报）",
@@ -273,6 +274,20 @@
           "time_info": "10时54分"
         },
         {
+          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
+          "url": "https://www.cls.cn/detail/2367107",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时54分 ~ 22时53分]"
+        },
+        {
           "title": "【社论】一本正经胡说八道，谁为AI幻觉担责？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33138759",
           "source": "澎湃新闻",
@@ -285,19 +300,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时50分 ~ 16时54分]"
-        },
-        {
-          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
-          "url": "https://www.cls.cn/detail/2367107",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时54分 ~ 21时18分]"
         },
         {
           "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
@@ -336,6 +338,17 @@
           "time_info": "[10时54分 ~ 14时29分]"
         },
         {
+          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
+          "url": "https://wallstreetcn.com/articles/3771914",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 22时53分]"
+        },
+        {
           "title": "机器人有没有体面一点的打包方式",
           "url": "https://s.weibo.com/weibo?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9C%89%E6%B2%A1%E6%9C%89%E4%BD%93%E9%9D%A2%E4%B8%80%E7%82%B9%E7%9A%84%E6%89%93%E5%8C%85%E6%96%B9%E5%BC%8F&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -371,17 +384,6 @@
           "time_info": "07时50分"
         },
         {
-          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
-          "url": "https://wallstreetcn.com/articles/3771914",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
           "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
           "url": "https://www.zhihu.com/question/2035400318624733173",
           "source": "知乎",
@@ -402,12 +404,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149635",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "4月经济发展“成绩单”公布",
@@ -491,6 +504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "米莱能拯救阿根廷经济吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E8%8E%B1%E8%83%BD%E6%8B%AF%E6%95%91%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%BB%8F%E6%B5%8E%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "日本经济产业省：日本考虑最快5月底向俄罗斯派遣官员",
