@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T04:48:02.365238+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-05-11T05:48:25.676382+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 05时48分]"
         },
         {
           "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 05时48分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -37,11 +37,12 @@
           "ranks": [
             6,
             9,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 05时48分]"
         },
         {
           "title": "妈妈的AI在岁月里具象",
@@ -50,11 +51,12 @@
           "ranks": [
             11,
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 05时48分]"
         },
         {
           "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
@@ -64,8 +66,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 05时48分]"
         },
         {
           "title": "GAI新歌太费口红",
@@ -75,11 +77,12 @@
             24,
             20,
             14,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 05时48分]"
         },
         {
           "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
@@ -90,8 +93,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 05时48分]"
         },
         {
           "title": "韩国机器人出家,皈依佛门受戒",
@@ -102,8 +105,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 05时48分]"
         },
         {
           "title": "AI正在污染我们的判断力",
