@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T18:15:22.076614+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-05-10T19:52:40.671980+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "报道：字节跳动计划将AI基础设施支出增加25%",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时55分 ~ 18时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 19时52分]"
         },
         {
           "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
@@ -80,11 +80,12 @@
             6,
             8,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时55分 ~ 18时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 19时52分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -111,6 +112,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 07时50分]"
+        },
+        {
+          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
+          "url": "https://www.cls.cn/detail/2367077",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时50分 ~ 19时52分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -151,17 +165,17 @@
           "time_info": "[00时55分 ~ 06时43分]"
         },
         {
-          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
-          "url": "https://www.cls.cn/detail/2367077",
-          "source": "财联社热门",
+          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
+          "url": "https://wallstreetcn.com/articles/3771913",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
+            6,
             3,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时50分 ~ 18时15分]"
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 19时52分]"
         },
         {
           "title": "德国AI动力无人机初创公司Helsing正计划以约180亿美元的估值筹集新一轮资金。（英国金融时报）",
@@ -176,6 +190,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时55分 ~ 07时50分]"
+        },
+        {
+          "title": "妈妈的AI在岁月里具象",
+          "url": "https://www.douyin.com/hot/2494006",
+          "source": "抖音",
+          "ranks": [
+            5,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 19时52分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -219,29 +246,19 @@
           "time_info": "[00时55分 ~ 06时43分]"
         },
         {
-          "title": "妈妈的AI在岁月里具象",
-          "url": "https://www.douyin.com/hot/2494006",
-          "source": "抖音",
+          "title": "报道：阿里巴巴整合千问AI与淘宝，推出智能对话购物服务",
+          "url": "https://wallstreetcn.com/livenews/3101101",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
+            2,
             10,
-            4
+            17,
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 18时15分]"
-        },
-        {
-          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
-          "url": "https://wallstreetcn.com/articles/3771913",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 18时15分]"
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 19时52分]"
         },
         {
           "title": "消息人士：阿里巴巴将把千问AI与淘宝整合，推出智能购物服务",
@@ -253,20 +270,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
-        },
-        {
-          "title": "报道：阿里巴巴整合千问AI与淘宝，推出智能对话购物服务",
-          "url": "https://wallstreetcn.com/livenews/3101101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 18时15分]"
         },
         {
           "title": "【社论】一本正经胡说八道，谁为AI幻觉担责？",
@@ -281,6 +284,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时50分 ~ 16时54分]"
+        },
+        {
+          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
+          "url": "https://www.cls.cn/detail/2367107",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 19时52分]"
         },
         {
           "title": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
@@ -318,18 +333,6 @@
           "time_info": "[10时54分 ~ 14时29分]"
         },
         {
-          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
-          "url": "https://www.cls.cn/detail/2367107",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 18时15分]"
-        },
-        {
           "title": "机器人有没有体面一点的打包方式",
           "url": "https://s.weibo.com/weibo?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9C%89%E6%B2%A1%E6%9C%89%E4%BD%93%E9%9D%A2%E4%B8%80%E7%82%B9%E7%9A%84%E6%89%93%E5%8C%85%E6%96%B9%E5%BC%8F&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -365,6 +368,17 @@
           "time_info": "07时50分"
         },
         {
+          "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2035400318624733173",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "用AI花3个月完成百名程序员7年工作",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8AI%E8%8A%B13%E4%B8%AA%E6%9C%88%E5%AE%8C%E6%88%90%E7%99%BE%E5%90%8D%E7%A8%8B%E5%BA%8F%E5%91%987%E5%B9%B4%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -393,6 +407,20 @@
           "time_info": "[10时54分 ~ 14时29分]"
         },
         {
+          "title": "巴拿马运河管理方表示，受中东冲突引发的航运扰动影响，巴拿马运河的收入增长达15%。自中东冲突爆发以来，巴拿马运河每日通航班次已增加20%。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3101107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 19时52分]"
+        },
+        {
           "title": "汉邦高科：子公司签署27.83亿元高性能GPU设备采购及集成维保服务合同 占公司2025年经审计营业收入的1515.13%",
           "url": "https://flash.jin10.com/detail/20260510163535948800",
           "source": "金十数据",
@@ -403,19 +431,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时54分 ~ 18时15分]"
-        },
-        {
-          "title": "巴拿马运河管理方表示，受中东冲突引发的航运扰动影响，巴拿马运河的收入增长达15%。自中东冲突爆发以来，巴拿马运河每日通航班次已增加20%。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3101107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 18时15分]"
         },
         {
           "title": "中国商务部长王文涛与德国联邦经济和能源部部长赖歇举行视频会谈",
