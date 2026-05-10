@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T19:52:40.671980+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-05-10T21:18:35.024071+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "报道：字节跳动计划将AI基础设施支出增加25%",
@@ -84,8 +84,21 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 19时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 21时18分]"
+        },
+        {
+          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
+          "url": "https://www.cls.cn/detail/2367077",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时50分 ~ 21时18分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -112,19 +125,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 07时50分]"
-        },
-        {
-          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
-          "url": "https://www.cls.cn/detail/2367077",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时50分 ~ 19时52分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -174,8 +174,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时29分 ~ 19时52分]"
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 21时18分]"
+        },
+        {
+          "title": "妈妈的AI在岁月里具象",
+          "url": "https://www.douyin.com/hot/2494006",
+          "source": "抖音",
+          "ranks": [
+            5,
+            10,
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 21时18分]"
         },
         {
           "title": "德国AI动力无人机初创公司Helsing正计划以约180亿美元的估值筹集新一轮资金。（英国金融时报）",
@@ -190,19 +204,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时55分 ~ 07时50分]"
-        },
-        {
-          "title": "妈妈的AI在岁月里具象",
-          "url": "https://www.douyin.com/hot/2494006",
-          "source": "抖音",
-          "ranks": [
-            5,
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时29分 ~ 19时52分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -291,11 +292,25 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 19时52分]"
+          "appearance_count": 4,
+          "time_info": "[16时54分 ~ 21时18分]"
+        },
+        {
+          "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33143971",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 21时18分]"
         },
         {
           "title": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
@@ -308,18 +323,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时50分 ~ 14时29分]"
-        },
-        {
-          "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33143971",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 18时15分]"
         },
         {
           "title": "AI基础设施投资风向转变：AMD、英特尔与美光飙涨，英伟达光环渐褪",
@@ -368,13 +371,24 @@
           "time_info": "07时50分"
         },
         {
+          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
+          "url": "https://wallstreetcn.com/articles/3771914",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
           "url": "https://www.zhihu.com/question/2035400318624733173",
           "source": "知乎",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -414,11 +428,12 @@
             5,
             12,
             17,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时29分 ~ 19时52分]"
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 21时18分]"
         },
         {
           "title": "汉邦高科：子公司签署27.83亿元高性能GPU设备采购及集成维保服务合同 占公司2025年经审计营业收入的1515.13%",
