@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T07:59:13.369450+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-05-14T11:57:47.170200+08:00",
+  "total_titles_processed": 771,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 20,
+      "match_count": 27,
       "titles": [
         {
           "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时23分 ~ 07时59分]"
+          "appearance_count": 7,
+          "time_info": "[02时23分 ~ 11时57分]"
         },
         {
           "title": "马化腾回应AI掉队",
@@ -43,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时23分 ~ 07时59分]"
+          "appearance_count": 7,
+          "time_info": "[02时23分 ~ 11时57分]"
         },
         {
           "title": "马化腾：一年前以为上了AI的船结果发现漏水了，现在站上去但还坐不下去",
@@ -57,19 +57,46 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时23分 ~ 07时59分]"
+          "appearance_count": 7,
+          "time_info": "[02时23分 ~ 11时57分]"
         },
         {
           "title": "高校硬查AI率,复旦教授怒了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
           "source": "贴吧",
           "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时23分 ~ 11时57分]"
+        },
+        {
+          "title": "富国银行：AI就是泡沫，但在破裂前投资者应顺势而为",
+          "url": "https://www.cls.cn/detail/2370586",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时23分 ~ 07时59分]"
+          "appearance_count": 7,
+          "time_info": "[02时23分 ~ 11时57分]"
+        },
+        {
+          "title": "AI续写轻音少女第三季",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%E7%AC%AC%E4%B8%89%E5%AD%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时23分 ~ 11时57分]"
         },
         {
           "title": "市场消息：马斯克的xAI正加紧推动华尔街公司使用Grok聊天机器人，阿波罗与摩根士丹利已开始在内部使用Grok，并与其他人工智能模型制造商的软件一起使用。",
@@ -83,31 +110,6 @@
           "time_info": "04时06分"
         },
         {
-          "title": "富国银行：AI就是泡沫，但在破裂前投资者应顺势而为",
-          "url": "https://www.cls.cn/detail/2370586",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时23分 ~ 07时59分]"
-        },
-        {
-          "title": "AI续写轻音少女第三季",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%E7%AC%AC%E4%B8%89%E5%AD%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时23分 ~ 07时59分]"
-        },
-        {
           "title": "美国国会山两党议员们就AI网络威胁发函白宫，要求就此问题采取行动。 信函中提及Anthropic的大模型Mythos。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3103241",
           "source": "华尔街见闻-快讯",
@@ -117,6 +119,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772181",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时12分 ~ 11时57分]"
         },
         {
           "title": "保姆级Claude Code速成攻略",
@@ -129,17 +143,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时23分 ~ 07时59分]"
-        },
-        {
-          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3772181",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时12分 ~ 07时59分]"
         },
         {
           "title": "马化腾：1年前以为上了AI的船结果发现漏水，现在站上去但坐不下",
@@ -157,11 +160,45 @@
           "url": "https://www.cls.cn/detail/2370695",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 07时59分]"
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 11时57分]"
+        },
+        {
+          "title": "马化腾回应腾讯 AI 是否落后，「AI 的船现在站上去但还坐不下去」，怎样看待这一言论？",
+          "url": "https://www.zhihu.com/question/2037950969506428373",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "“没有一张卡是空的”！大厂AI资本开支再提速 腾讯、阿里同日上调预期",
+          "url": "https://www.cls.cn/detail/2370802",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "专家：AI引爆的内存热潮不会永远持续",
+          "url": "https://www.toutiao.com/trending/7638561442682355758/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         },
         {
           "title": "微软寻求收购AI公司以摆脱对OpenAI依赖",
@@ -173,6 +210,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "如何看待前阿里通义千问（Qwen）负责人林俊旸新成立 AI 实验室融资，预计估值 20 亿美元？",
+          "url": "https://www.zhihu.com/question/2037920346959868531",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "花旗：维持腾讯“买入”评级 看好公司AI战略的逐步落地",
+          "url": "https://flash.jin10.com/detail/20260514112913294800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "日本批量生成AI视频抹黑中国",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%89%B9%E9%87%8F%E7%94%9F%E6%88%90AI%E8%A7%86%E9%A2%91%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         },
         {
           "title": "记者起诉英伟达、谷歌、微软，指控其AI语音模型侵权",
@@ -239,12 +309,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "港股芯片股多数下跌，ASMPT(00522.HK)、华虹半导体(01347.HK)跌超5%，地平线机器人(09660.HK)、芯智控股(02166.HK)、壁仞科技(06082.HK)跌超4%。",
+          "url": "https://flash.jin10.com/detail/20260514111730007800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "Modal预计年化收入大约3亿美元。（The Information）",
@@ -265,7 +346,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -298,7 +379,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -325,6 +406,17 @@
           "time_info": "04时06分"
         },
         {
+          "title": "马来西亚经济部长：国家经济行动理事会未讨论削减BUDI95汽油配额的问题。",
+          "url": "https://flash.jin10.com/detail/20260514112520965800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
           "title": "欧洲央行首席经济学家连恩：销售价格预期的上升表明，未来几个月的生产成本压力将转化为更高的输出价格。",
           "url": "https://flash.jin10.com/detail/20260514030023617800",
           "source": "金十数据",
@@ -347,13 +439,24 @@
           "time_info": "04时06分"
         },
         {
+          "title": "马来西亚经济部长：对第一季度GDP增长保持信心，预计将符合或超过预期。",
+          "url": "https://flash.jin10.com/detail/20260514112147793800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
           "title": "RICS市场研究与分析主管塔兰特·帕森斯：英国房地产市场正受到中东冲突带来的宏观不利因素的影响。英国央行近期发出警告，称可能需要提高利率以应对由油价高企和供应链中断引发的新一轮通胀，这凸显了买家面临的严峻环境。",
           "url": "https://flash.jin10.com/detail/20260514070421455800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         }
@@ -361,18 +464,30 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "钢铁侠成真!宇树发布载人机甲",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354208&amp;topic_name=%E9%92%A2%E9%93%81%E4%BE%A0%E6%88%90%E7%9C%9F%21%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E6%9C%BA%E7%94%B2",
           "source": "贴吧",
           "ranks": [
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时23分 ~ 07时59分]"
+          "appearance_count": 7,
+          "time_info": "[02时23分 ~ 11时57分]"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少。沪银涨超1%，焦炭涨近1%；跌幅方面，集运欧线跌超4%，乙二醇（EG）、液化石油气（LPG）跌超3%，SC原油、瓶片、碳酸锂、苯乙烯（EB）、PX跌超2%，短纤、低硫燃料油（LU）、20号胶、PTA跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260514113056558800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         }
       ]
     }
