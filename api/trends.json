@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T11:57:47.170200+08:00",
-  "total_titles_processed": 771,
+  "generated_at": "2026-05-14T14:48:56.277914+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 27,
+      "match_count": 36,
       "titles": [
         {
           "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
@@ -13,11 +13,25 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时23分 ~ 11时57分]"
+          "appearance_count": 8,
+          "time_info": "[02时23分 ~ 14时48分]"
+        },
+        {
+          "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772187",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时23分 ~ 14时48分]"
         },
         {
           "title": "马化腾回应AI掉队",
@@ -34,19 +48,6 @@
           "time_info": "[02时23分 ~ 07时59分]"
         },
         {
-          "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3772187",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时23分 ~ 11时57分]"
-        },
-        {
           "title": "马化腾：一年前以为上了AI的船结果发现漏水了，现在站上去但还坐不下去",
           "url": "https://wallstreetcn.com/articles/3772184",
           "source": "华尔街见闻",
@@ -57,8 +58,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时23分 ~ 11时57分]"
+          "appearance_count": 8,
+          "time_info": "[02时23分 ~ 14时48分]"
         },
         {
           "title": "高校硬查AI率,复旦教授怒了",
@@ -66,11 +67,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时23分 ~ 11时57分]"
+          "appearance_count": 8,
+          "time_info": "[02时23分 ~ 14时48分]"
         },
         {
           "title": "富国银行：AI就是泡沫，但在破裂前投资者应顺势而为",
@@ -110,6 +112,18 @@
           "time_info": "04时06分"
         },
         {
+          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772181",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时12分 ~ 14时48分]"
+        },
+        {
           "title": "美国国会山两党议员们就AI网络威胁发函白宫，要求就此问题采取行动。 信函中提及Anthropic的大模型Mythos。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3103241",
           "source": "华尔街见闻-快讯",
@@ -121,16 +135,15 @@
           "time_info": "06时13分"
         },
         {
-          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3772181",
-          "source": "华尔街见闻",
+          "title": "福克斯主持人在北京跟机器人下单香肠",
+          "url": "https://www.toutiao.com/trending/7639251220514996230/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            9
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时12分 ~ 11时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         },
         {
           "title": "保姆级Claude Code速成攻略",
@@ -168,26 +181,51 @@
           "time_info": "[07时58分 ~ 11时57分]"
         },
         {
+          "title": "“没有一张卡是空的”！大厂AI资本开支再提速 腾讯、阿里同日上调预期",
+          "url": "https://www.cls.cn/detail/2370802",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 14时48分]"
+        },
+        {
           "title": "马化腾回应腾讯 AI 是否落后，「AI 的船现在站上去但还坐不下去」，怎样看待这一言论？",
           "url": "https://www.zhihu.com/question/2037950969506428373",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 14时48分]"
         },
         {
-          "title": "“没有一张卡是空的”！大厂AI资本开支再提速 腾讯、阿里同日上调预期",
-          "url": "https://www.cls.cn/detail/2370802",
-          "source": "财联社热门",
+          "title": "日本批量生成AI视频抹黑中国",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%89%B9%E9%87%8F%E7%94%9F%E6%88%90AI%E8%A7%86%E9%A2%91%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 14时48分]"
+        },
+        {
+          "title": "鸿海：AI服务器需求强劲。",
+          "url": "https://wallstreetcn.com/livenews/3103497",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时57分"
+          "time_info": "14时48分"
         },
         {
           "title": "专家：AI引爆的内存热潮不会永远持续",
@@ -196,9 +234,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
+        },
+        {
+          "title": "尽管受伊朗战事影响，Wizz Air仍预计夏季营收将实现增长",
+          "url": "https://flash.jin10.com/detail/20260514142144596800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         },
         {
           "title": "微软寻求收购AI公司以摆脱对OpenAI依赖",
@@ -212,15 +261,48 @@
           "time_info": "06时13分"
         },
         {
+          "title": "阿里云发布万小智2.0：打通AI建站、域名备案到上线运营全流程",
+          "url": "https://wallstreetcn.com/livenews/3103490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
           "title": "如何看待前阿里通义千问（Qwen）负责人林俊旸新成立 AI 实验室融资，预计估值 20 亿美元？",
           "url": "https://www.zhihu.com/question/2037920346959868531",
           "source": "知乎",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
+        },
+        {
+          "title": "AI引爆全球芯片市场？台积电重磅预测：2030年市场规模将达1.5万亿美元！",
+          "url": "https://www.cls.cn/detail/2370937",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "OpenAI回应TanStack供应链攻击：未发现用户数据泄露",
+          "url": "https://wallstreetcn.com/livenews/3103488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         },
         {
           "title": "花旗：维持腾讯“买入”评级 看好公司AI战略的逐步落地",
@@ -229,20 +311,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
         {
-          "title": "日本批量生成AI视频抹黑中国",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%89%B9%E9%87%8F%E7%94%9F%E6%88%90AI%E8%A7%86%E9%A2%91%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
+          "title": "马化腾谈AI：一年前以为上了船后来发现船漏水，现在站上去了还坐不下去",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33174800",
+          "source": "澎湃新闻",
           "ranks": [
-            16
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时57分"
+          "time_info": "14时48分"
         },
         {
           "title": "记者起诉英伟达、谷歌、微软，指控其AI语音模型侵权",
@@ -254,6 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "【社论】中国AI企业背后的创新密码",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33172507",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         },
         {
           "title": "苹果公司探索在应用商店APP Store纳入AI智能体。（The Information）",
@@ -317,15 +410,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
+        },
+        {
+          "title": "阿里云发布万小智2.0：打通AI建站、域名备案到上线运营全流程",
+          "url": "https://flash.jin10.com/detail/20260514140756998800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 12,
+      "match_count": 22,
       "titles": [
         {
           "title": "Modal预计年化收入大约3亿美元。（The Information）",
@@ -351,6 +455,28 @@
           "time_info": "07时59分"
         },
         {
+          "title": "报道：阿里云日均Token收入较4月初已增长五倍",
+          "url": "https://wallstreetcn.com/livenews/3103492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "鸿海：预计2026年计算产品收入将同比小幅下降。",
+          "url": "https://flash.jin10.com/detail/20260514141925024800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
           "title": "欧洲央行首席经济学家连恩：工资谈判尚未对能源价格的上涨作出反应。",
           "url": "https://flash.jin10.com/detail/20260514030043348800",
           "source": "金十数据",
@@ -362,6 +488,17 @@
           "time_info": "04时06分"
         },
         {
+          "title": "鸿海：预计2026年智能消费电子收入将同比显著增长。",
+          "url": "https://flash.jin10.com/detail/20260514141856460800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
           "title": "欧洲央行首席经济学家连恩：需求破坏渠道限制了货币政策所需的调整，财政扩张则相反。",
           "url": "https://flash.jin10.com/detail/20260514030037171800",
           "source": "金十数据",
@@ -371,6 +508,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "鸿海：预计第二季度组件及其他产品收入将同比大幅增长。",
+          "url": "https://flash.jin10.com/detail/20260514141821852800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         },
         {
           "title": "韩国总统李在明向美国财长贝森特提议，两国有必要达成货币互换协议。（韩国《每日经济新闻》）",
@@ -412,9 +560,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
+        },
+        {
+          "title": "鸿海：预计第二季度云计算和网络产品收入将同比大幅增长。",
+          "url": "https://flash.jin10.com/detail/20260514141805012800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         },
         {
           "title": "欧洲央行首席经济学家连恩：销售价格预期的上升表明，未来几个月的生产成本压力将转化为更高的输出价格。",
@@ -428,6 +587,17 @@
           "time_info": "04时06分"
         },
         {
+          "title": "鸿海：预计2026年收入将实现强劲的同比增长。",
+          "url": "https://flash.jin10.com/detail/20260514141754120800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
           "title": "欧洲央行首席经济学家连恩：对于外生供应中断，最佳反应可能小于对需求冲击的反应。",
           "url": "https://flash.jin10.com/detail/20260514030019328800",
           "source": "金十数据",
@@ -439,13 +609,24 @@
           "time_info": "04时06分"
         },
         {
+          "title": "美参议院批准凯文·沃什出任美联储主席，他有哪些重要经济政策主张？他的出任将对市场产生怎样的影响？",
+          "url": "https://www.zhihu.com/question/2038165441009251362",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
           "title": "马来西亚经济部长：对第一季度GDP增长保持信心，预计将符合或超过预期。",
           "url": "https://flash.jin10.com/detail/20260514112147793800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -459,6 +640,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "印度外长：安全、畅通的海上航运对全球经济福祉至关重要",
+          "url": "https://flash.jin10.com/detail/20260514141306256800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "英国经济增长势头强劲，但受伊朗战争和政治动荡威胁",
+          "url": "https://flash.jin10.com/detail/20260514141036438800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "英国经济3月意外增长0.3%",
+          "url": "https://flash.jin10.com/detail/20260514140710672800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         }
       ]
     },
@@ -485,7 +699,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         }
