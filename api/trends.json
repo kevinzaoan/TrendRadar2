@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T12:01:05.049117+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-05-15T15:32:06.488294+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 37,
+      "match_count": 44,
       "titles": [
         {
           "title": "国家反诈中心APP 检测AI图",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时02分 ~ 07时59分]"
+        },
+        {
+          "title": "有没有人试过把全世界已有的佛经喂给 AI 看看最后能不能生成一个赛博在世佛祖?",
+          "url": "https://www.zhihu.com/question/2018783635805860978",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 15时32分]"
         },
         {
           "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
@@ -36,17 +47,6 @@
           "time_info": "[01时02分 ~ 07时59分]"
         },
         {
-          "title": "有没有人试过把全世界已有的佛经喂给 AI 看看最后能不能生成一个赛博在世佛祖?",
-          "url": "https://www.zhihu.com/question/2018783635805860978",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时01分]"
-        },
-        {
           "title": "苹果与OpenAI合作关系紧张 潜在法律纠纷一触即发",
           "url": "https://flash.jin10.com/detail/20260515004813773800",
           "source": "金十数据",
@@ -56,6 +56,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "收评：沪指跌1.02% 机器人概念股逆势走强",
+          "url": "https://flash.jin10.com/detail/20260515150808865800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "【沪指、深成指均跌超1%，机器人概念股逆势走强】市场全天宽幅震荡，三大指数集体下挫。机器人概念股逆势走强，三丰智能、方正电机、奇精机械等多股涨停。氟化工板块大涨，多氟多、中欣氟材、金石资源等涨停。体育概念股活跃，双象股份、共创草坪、粤传媒涨停。下跌方面，贵金属板块下挫，兴业银锡跌超8%。个股跌多涨少，沪深京三市超3500股飘绿，成交连续第8个交易日突破3万亿。截止收盘沪指跌1.02%，深成指跌1.17%，创业板指跌0.56%。",
+          "url": "https://wallstreetcn.com/livenews/3104195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
@@ -99,7 +121,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -113,6 +135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
+        },
+        {
+          "title": "日本存储巨头铠侠在AI热潮推动下利润创新高，准备赴美上市",
+          "url": "https://wallstreetcn.com/livenews/3104174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "黄仁勋谈中国AI发展",
@@ -140,6 +173,17 @@
           "time_info": "[01时02分 ~ 05时10分]"
         },
         {
+          "title": "腾讯辟谣“AI一号位即将离职”",
+          "url": "https://www.toutiao.com/trending/7639594791072628786/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 15时32分]"
+        },
+        {
           "title": "AI还原烂梗有多毒",
           "url": "https://s.weibo.com/weibo?q=AI%E8%BF%98%E5%8E%9F%E7%83%82%E6%A2%97%E6%9C%89%E5%A4%9A%E6%AF%92&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -153,6 +197,17 @@
           "time_info": "[01时02分 ~ 07时59分]"
         },
         {
+          "title": "AI涨价风吹到利基型存储：原厂停产引发结构性缺货 SLC NAND年内预计再涨120%",
+          "url": "https://www.cls.cn/detail/2372257",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 15时32分]"
+        },
+        {
           "title": "马化腾称一年前以为上了 AI 的船，结果发现漏水了，腾讯的 AI 哪里「漏水」了？还有机会补救吗？",
           "url": "https://www.zhihu.com/question/2038001830735655715",
           "source": "知乎",
@@ -164,15 +219,15 @@
           "time_info": "[11时59分 ~ 12时01分]"
         },
         {
-          "title": "腾讯辟谣“AI一号位即将离职”",
-          "url": "https://www.toutiao.com/trending/7639594791072628786/",
-          "source": "今日头条",
+          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
+          "url": "https://wallstreetcn.com/articles/3772300",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时01分]"
+          "time_info": "[15时31分 ~ 15时32分]"
         },
         {
           "title": "AI芯片公司Cerebras纳斯达克首秀暴涨近一倍 市值一度突破800亿美元",
@@ -255,15 +310,37 @@
           "time_info": "[05时09分 ~ 05时10分]"
         },
         {
+          "title": "美加墨世界杯主题曲《Dai Dai》上线",
+          "url": "https://www.toutiao.com/trending/7639611392128401449/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 15时32分]"
+        },
+        {
           "title": "5月15日午间收评：创业板指探底回升涨0.57%，机器人概念股集体爆发",
           "url": "https://wallstreetcn.com/livenews/3104087",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
+        },
+        {
+          "title": "铠侠：来自AI服务器客户的订单愈发强劲。 以美元计价的NAND价格在三月季度翻倍上涨。 预计2027财年NAND存储器供应将持续紧张。",
+          "url": "https://wallstreetcn.com/livenews/3104184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "法拉第未来(FFIE.O)公布2026年第一季度财务业绩。公司升级为一家“实体人工智能公司”，其EAI机器人已实现生态系统收入及毛利转正；公司将2026年机器人出货目标上调至1500台，并计划于6月初推出新款机器人。",
@@ -338,7 +415,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -360,7 +437,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -382,7 +459,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -404,7 +481,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -434,7 +511,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "美联储威廉姆斯：理解市场对经济未来的乐观情绪。",
@@ -459,6 +536,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "《求是》杂志发表习近平总书记重要文章《做强做优做大实体经济》",
+          "url": "https://wallstreetcn.com/livenews/3104192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "英国央行首席经济学家Pill：企业和家庭比以往对价格更加敏感。",
           "url": "https://wallstreetcn.com/livenews/3103822",
           "source": "华尔街见闻-快讯",
@@ -468,6 +556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "澳新银行：金价预计迈向6,000美元 能源危机将打击经济增长",
+          "url": "https://wallstreetcn.com/livenews/3104170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "英国央行首席经济学家：呼吁采取“及时但适度”的加息措施，从而缓解通胀压力",
@@ -525,6 +624,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "《求是》杂志发表习近平总书记重要文章《做强做优做大实体经济》",
+          "url": "https://flash.jin10.com/detail/20260515150040700800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "美联储威廉姆斯：美联储独立性带来更好的经济结果。",
           "url": "https://flash.jin10.com/detail/20260515055357609800",
           "source": "金十数据",
@@ -548,7 +658,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
