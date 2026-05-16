@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T05:49:40.979550+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-05-17T06:44:26.790419+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 05时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 06时44分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 05时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 06时44分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 05时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 06时44分]"
         },
         {
           "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
@@ -47,11 +47,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 05时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 06时44分]"
         },
         {
           "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
@@ -61,8 +62,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 05时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 06时44分]"
         },
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -72,8 +73,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 05时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 06时44分]"
         },
         {
           "title": "基地启用 机器人有了国家级职业技能训练场",
@@ -85,8 +86,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 06时44分]"
         },
         {
           "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
@@ -98,8 +99,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 06时44分]"
         },
         {
           "title": "分析师：债市抛售潮来袭，AI股票狂热或遭冲击",
@@ -151,8 +152,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 06时44分]"
         },
         {
           "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
@@ -162,8 +163,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 05时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 06时44分]"
         },
         {
           "title": "伊拉克新总理承诺推动全面经济改革与反腐",
@@ -171,11 +172,23 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时46分 ~ 06时44分]"
+        },
+        {
+          "title": "韩红基金会去年收入7.8亿支出2.9亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BA%A2%E5%9F%BA%E9%87%91%E4%BC%9A%E5%8E%BB%E5%B9%B4%E6%94%B6%E5%85%A57.8%E4%BA%BF%E6%94%AF%E5%87%BA2.9%E4%BA%BF%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时49分]"
+          "time_info": "[03时04分 ~ 06时44分]"
         },
         {
           "title": "欧洲央行管委斯图纳拉斯：小幅加息可减轻经济痛苦",
@@ -187,17 +200,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
-        },
-        {
-          "title": "韩红基金会去年收入7.8亿支出2.9亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BA%A2%E5%9F%BA%E9%87%91%E4%BC%9A%E5%8E%BB%E5%B9%B4%E6%94%B6%E5%85%A57.8%E4%BA%BF%E6%94%AF%E5%87%BA2.9%E4%BA%BF%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
         }
       ]
     }
