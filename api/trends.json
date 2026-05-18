@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T02:51:52.153381+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-05-19T04:25:19.101343+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI恶意P图白嫖,卖家哭晕",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时25分]"
         },
         {
           "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时25分]"
         },
         {
           "title": "【每日收评】三大指数缩量整理小幅收跌，科技股有所回暖，存储芯片、机器人概念反复活跃",
@@ -37,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时25分]"
         },
         {
           "title": "【焦点复盘】科创50冲高回落涨0.81%，近端次新股获资金持续抱团，物理AI概念异军突起",
@@ -48,8 +48,31 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时25分]"
+        },
+        {
+          "title": "用AI记录早餐奶奶的一生",
+          "url": "https://www.douyin.com/hot/2503064",
+          "source": "抖音",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 04时25分]"
+        },
+        {
+          "title": "Gradiant宣布完成E轮融资，公司估值达20亿美元，助力加快AI、半导体以及工业水务基建领域布局。 随着Gradiant依托AI基建和先进制造业务实现业绩大幅增长，新资金将用于支持战略性并购、新一代技术研发以及上市筹备工作。",
+          "url": "https://wallstreetcn.com/livenews/3105584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "OpenAI 律师：（关于OpenAI与埃隆·马斯克的诉讼判决）即使有上诉，对我们的立场也非常有信心。",
@@ -58,7 +81,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
         },
@@ -69,7 +92,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
         },
@@ -80,7 +103,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
         },
@@ -91,7 +114,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
         },
@@ -102,7 +125,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
         },
@@ -113,7 +136,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
         }
@@ -121,7 +144,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "李强：推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
@@ -131,8 +154,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时25分]"
         },
         {
           "title": "国民经济保持向新向优发展态势",
@@ -142,8 +165,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时25分]"
         },
         {
           "title": "巴基斯坦总理办公室：会议还讨论了地区和国际形势，特别关注促进更广泛地区的和平、稳定和经济合作。",
@@ -157,6 +180,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "前4个月国民经济稳中有进",
+          "url": "https://search.bilibili.com/all?keyword=%E5%89%8D4%E4%B8%AA%E6%9C%88%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E7%A8%B3%E4%B8%AD%E6%9C%89%E8%BF%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时25分]"
+        },
+        {
           "title": "巴基斯坦总理办公室：会议期间，大使向巴基斯坦总理简要介绍了双边关系的现状、各自国家的新机遇和挑战，讨论了加强经济外交、提升贸易和投资关系、汇款以及巴基斯坦侨民等问题。",
           "url": "https://flash.jin10.com/detail/20260519001124084800",
           "source": "金十数据",
@@ -168,15 +202,15 @@
           "time_info": "00时23分"
         },
         {
-          "title": "前4个月国民经济稳中有进",
-          "url": "https://search.bilibili.com/all?keyword=%E5%89%8D4%E4%B8%AA%E6%9C%88%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E7%A8%B3%E4%B8%AD%E6%9C%89%E8%BF%9B",
-          "source": "bilibili 热搜",
+          "title": "标普500指数初步收跌0.1%，科技板块跌约1%，工业板块跌0.4%，房地产、金融、日用消费品板块至多涨超1.3%，能源板块涨超1.4%。 纳斯达克100指数初步收跌0.4%，成分股中，再生元制药初步收跌9.6%，希捷科技、Strategy、美光、闪迪至多跌7.1%，汤森路透则涨8.5%，Zscaler涨9%，特许通讯涨9.9%。 3M初步收涨4.2%，Salesforce涨3.2%，雪佛龙涨2.6%，领跑道指成分股，苹果则跌0.8%，英伟达跌1.4%，卡特彼勒跌2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3105587",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "普京即将启程访华，俄罗斯远东地区要真正融入「大远东」经济圈，最紧迫的突破口在哪里？",
@@ -184,11 +218,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时25分]"
         },
         {
           "title": "打车零抽成,昆明司机收入暴涨",
@@ -198,8 +233,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时25分]"
         },
         {
           "title": "IMF上调英国经济增长预期",
@@ -236,7 +271,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
         }
