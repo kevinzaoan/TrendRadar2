@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T06:03:04.848808+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-05-19T08:06:28.484661+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI恶意P图白嫖,卖家哭晕",
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 08时06分]"
         },
         {
           "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
           "url": "https://wallstreetcn.com/articles/3772508",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 08时06分]"
         },
         {
           "title": "【每日收评】三大指数缩量整理小幅收跌，科技股有所回暖，存储芯片、机器人概念反复活跃",
@@ -60,11 +61,12 @@
           "ranks": [
             28,
             27,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时24分 ~ 06时03分]"
+          "appearance_count": 5,
+          "time_info": "[04时24分 ~ 08时06分]"
         },
         {
           "title": "AI自动驾驶赛车有搞头吗",
@@ -74,8 +76,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 06时03分]"
+          "appearance_count": 3,
+          "time_info": "[06时02分 ~ 08时06分]"
         },
         {
           "title": "报道：AI芯片初创公司Tenstorrent吸引英特尔与高通早期收购兴趣，估值或超50亿美元",
@@ -84,7 +86,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -100,6 +102,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "感觉AI治好了我多年的老花眼",
+          "url": "https://s.weibo.com/weibo?q=%E6%84%9F%E8%A7%89AI%E6%B2%BB%E5%A5%BD%E4%BA%86%E6%88%91%E5%A4%9A%E5%B9%B4%E7%9A%84%E8%80%81%E8%8A%B1%E7%9C%BC&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
           "title": "OpenAI 律师：（关于OpenAI与埃隆·马斯克的诉讼判决）即使有上诉，对我们的立场也非常有信心。",
           "url": "https://flash.jin10.com/detail/20260519021820181800",
           "source": "金十数据",
@@ -109,6 +122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "调查：大多数英国劳动者预计AI将引发大规模失业",
+          "url": "https://flash.jin10.com/detail/20260519070417624800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         },
         {
           "title": "马斯克起诉Altman案败诉，强制OpenAI重组的企图落空",
@@ -139,7 +163,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -150,7 +174,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -161,9 +185,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "马斯克对OpenAI诉讼被驳回",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AF%B9OpenAI%E8%AF%89%E8%AE%BC%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         },
         {
           "title": "周一（5月18日），美股AI软件先驱指数涨1.76%，报107.43点。 15只成分股普遍收涨，ServiceNOW涨8.78%，ESTC涨6.54%，GitLab涨6.04%，MongoDB、HubSpot、ServiceNOW、Salesforce、Adobe、C3.ai至少涨1.16%，铿腾电子、新思科技则至多收跌0.79%，甲骨文跌3.29%。",
@@ -172,7 +207,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -183,7 +218,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -205,7 +240,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -230,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "Vera来了：英伟达首款专为Agent打造的CPU交付一批顶级AI实验室",
+          "url": "https://wallstreetcn.com/livenews/3105632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         }
       ]
     },
@@ -245,8 +291,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 08时06分]"
         },
         {
           "title": "国民经济保持向新向优发展态势",
@@ -256,8 +302,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 08时06分]"
         },
         {
           "title": "前4个月国民经济稳中有进",
@@ -265,11 +311,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 08时06分]"
         },
         {
           "title": "普京即将启程访华，俄罗斯远东地区要真正融入「大远东」经济圈，最紧迫的突破口在哪里？",
@@ -279,11 +326,12 @@
             20,
             12,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 08时06分]"
         },
         {
           "title": "打车零抽成,昆明司机收入暴涨",
@@ -293,8 +341,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 08时06分]"
         },
         {
           "title": "巴基斯坦总理办公室：会议还讨论了地区和国际形势，特别关注促进更广泛地区的和平、稳定和经济合作。",
@@ -358,7 +406,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         }
@@ -366,7 +414,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "国际原子能机构（IAEA）：已收到阿联酋方面的通知，巴拉卡核电站3号机组的外部电力已恢复，此前由于无人机袭击导致现场附近的发电机起火。",
@@ -378,6 +426,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "高温触发电网紧急警报，美国东海岸电价暴涨",
+          "url": "https://wallstreetcn.com/livenews/3105647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         }
       ]
     }
