@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T16:36:38.364797+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2026-05-19T20:11:39.730437+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
         {
           "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
@@ -26,11 +26,12 @@
           "ranks": [
             2,
             12,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 16时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 20时11分]"
         },
         {
           "title": "【每日收评】三大指数缩量整理小幅收跌，科技股有所回暖，存储芯片、机器人概念反复活跃",
@@ -57,16 +58,28 @@
           "time_info": "[00时22分 ~ 06时03分]"
         },
         {
+          "title": "AI抢爆CPU产能！英特尔被传敦促PC厂商转用18A高端芯片",
+          "url": "https://www.cls.cn/detail/2375439",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
+        {
           "title": "赢!米哈游携千亿进军AI行业",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354404&amp;topic_name=%E8%B5%A2%21%E7%B1%B3%E5%93%88%E6%B8%B8%E6%90%BA%E5%8D%83%E4%BA%BF%E8%BF%9B%E5%86%9BAI%E8%A1%8C%E4%B8%9A",
           "source": "贴吧",
           "ranks": [
             4,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 16时36分]"
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 20时11分]"
         },
         {
           "title": "用AI记录早餐奶奶的一生",
@@ -83,16 +96,41 @@
           "time_info": "[04时24分 ~ 08时06分]"
         },
         {
+          "title": "九大看点梳理！谷歌I/O大会前瞻：“AI全栈霸主”能否再度惊艳华尔街？",
+          "url": "https://www.cls.cn/detail/2374982",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 20时11分]"
+        },
+        {
           "title": "莫奈钓出嘉豪哥,真迹变AI",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354399&amp;topic_name=%E8%8E%AB%E5%A5%88%E9%92%93%E5%87%BA%E5%98%89%E8%B1%AA%E5%93%A5%2C%E7%9C%9F%E8%BF%B9%E5%8F%98AI",
           "source": "贴吧",
           "ranks": [
             7,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 16时36分]"
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 20时11分]"
+        },
+        {
+          "title": "中专生花10天手搓AI短片火遍全网",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%93%E7%94%9F%E8%8A%B110%E5%A4%A9%E6%89%8B%E6%90%93AI%E7%9F%AD%E7%89%87%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 20时11分]"
         },
         {
           "title": "AI自动驾驶赛车有搞头吗",
@@ -104,6 +142,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时02分 ~ 08时06分]"
+        },
+        {
+          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
+          "url": "https://wallstreetcn.com/articles/3772582",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 20时11分]"
+        },
+        {
+          "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
+          "url": "https://www.zhihu.com/question/2039715538398663059",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 20时11分]"
         },
         {
           "title": "马斯克败诉：美AI权力格局更加清晰",
@@ -139,17 +200,6 @@
           "time_info": "06时03分"
         },
         {
-          "title": "九大看点梳理！谷歌I/O大会前瞻：“AI全栈霸主”能否再度惊艳华尔街？",
-          "url": "https://www.cls.cn/detail/2374982",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
           "title": "Gradiant宣布完成E轮融资，公司估值达20亿美元，助力加快AI、半导体以及工业水务基建领域布局。 随着Gradiant依托AI基建和先进制造业务实现业绩大幅增长，新资金将用于支持战略性并购、新一代技术研发以及上市筹备工作。",
           "url": "https://wallstreetcn.com/livenews/3105584",
           "source": "华尔街见闻-快讯",
@@ -172,15 +222,15 @@
           "time_info": "08时06分"
         },
         {
-          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
-          "url": "https://wallstreetcn.com/articles/3772582",
-          "source": "华尔街见闻",
+          "title": "宝鼎科技：公司无AI覆铜板，未发现在AI服务器及算力领域的应用",
+          "url": "https://flash.jin10.com/detail/20260519194456882800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时36分"
+          "time_info": "20时11分"
         },
         {
           "title": "OpenAI 律师：（关于OpenAI与埃隆·马斯克的诉讼判决）即使有上诉，对我们的立场也非常有信心。",
@@ -205,6 +255,17 @@
           "time_info": "08时06分"
         },
         {
+          "title": "【焦点复盘】沪指企稳反弹涨近1%，物理AI概念活跃不减，Token经济产业链热度扩散",
+          "url": "https://www.cls.cn/detail/2375531",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
+        {
           "title": "麦格理：芯片行业2026年料受益于稳健的AI需求",
           "url": "https://flash.jin10.com/detail/20260519122940706800",
           "source": "金十数据",
@@ -225,17 +286,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
-        },
-        {
-          "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
-          "url": "https://www.zhihu.com/question/2039715538398663059",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
         },
         {
           "title": "报道：苹果计划为iOS 27推出AI写作助手、快捷指令及壁纸功能",
@@ -266,7 +316,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -282,15 +332,15 @@
           "time_info": "06时03分"
         },
         {
-          "title": "中专生花10天手搓AI短片火遍全网",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%93%E7%94%9F%E8%8A%B110%E5%A4%A9%E6%89%8B%E6%90%93AI%E7%9F%AD%E7%89%87%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91",
-          "source": "百度热搜",
+          "title": "方正电机：公司关注到近期资本市场对机器人概念关注度较高，相关板块市场表现活跃。公司的机器人关节电机产品目前尚未大规模批量量产，对公司目前营业收入不产生影响。",
+          "url": "https://wallstreetcn.com/livenews/3105998",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时36分"
+          "time_info": "20时11分"
         },
         {
           "title": "马斯克：（关于OpenAI 裁决）我将向第九巡回法院提出上诉。",
@@ -321,7 +371,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -376,7 +426,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -401,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "AI服务涉黄第一案本周再开庭",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E6%9C%8D%E5%8A%A1%E6%B6%89%E9%BB%84%E7%AC%AC%E4%B8%80%E6%A1%88%E6%9C%AC%E5%91%A8%E5%86%8D%E5%BC%80%E5%BA%AD%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
         },
         {
           "title": "苹果iOS 27将引入AI写作与新的快捷功能",
@@ -439,7 +500,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 19,
+      "match_count": 27,
       "titles": [
         {
           "title": "李强：推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
@@ -506,6 +567,17 @@
           "time_info": "[00时22分 ~ 08时06分]"
         },
         {
+          "title": "法国财长Lescure：持续的冲突暴露了我们的弱点。 七国集团一致认为经济失衡不可持续。 我们需要终止扭曲市场的政策。",
+          "url": "https://wallstreetcn.com/livenews/3106027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
+        {
           "title": "巴基斯坦总理办公室：会议还讨论了地区和国际形势，特别关注促进更广泛地区的和平、稳定和经济合作。",
           "url": "https://flash.jin10.com/detail/20260519001129577800",
           "source": "金十数据",
@@ -526,6 +598,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "川润股份：公司液冷业务有序开展，2025年度液冷系统及产品销售收入占营业收入比重为12.87%",
+          "url": "https://wallstreetcn.com/livenews/3106024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
+        {
+          "title": "美国财长贝森特：与七国集团的对口官员进行了建设性讨论。 讨论了全球经济、失衡和关键矿产。",
+          "url": "https://wallstreetcn.com/livenews/3106021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
         },
         {
           "title": "标普500指数初步收跌0.1%，科技板块跌约1%，工业板块跌0.4%，房地产、金融、日用消费品板块至多涨超1.3%，能源板块涨超1.4%。 纳斯达克100指数初步收跌0.4%，成分股中，再生元制药初步收跌9.6%，希捷科技、Strategy、美光、闪迪至多跌7.1%，汤森路透则涨8.5%，Zscaler涨9%，特许通讯涨9.9%。 3M初步收涨4.2%，Salesforce涨3.2%，雪佛龙涨2.6%，领跑道指成分股，苹果则跌0.8%，英伟达跌1.4%，卡特彼勒跌2.8%。",
@@ -556,9 +650,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "申通快递：4月快递服务业务收入53.79亿元，同比增长30.62%",
+          "url": "https://flash.jin10.com/detail/20260519194524193800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
         },
         {
           "title": "市场监管总局：“四新经济”个体工商户超4000万户",
@@ -567,9 +672,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "国家发展改革委印发“法治护航民营经济”行动方案",
+          "url": "https://wallstreetcn.com/livenews/3106003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
         },
         {
           "title": "日本首相高市早苗：日本与韩国将在人工智能和经济安全领域展开合作。",
@@ -578,9 +694,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "川润股份：公司液冷业务有序开展，2025年度液冷系统及产品销售收入占营业收入比重为12.87%",
+          "url": "https://flash.jin10.com/detail/20260519194118878800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
         },
         {
           "title": "IMF上调英国经济增长预期",
@@ -594,13 +721,24 @@
           "time_info": "00时23分"
         },
         {
+          "title": "美国财长贝森特：与G7同行讨论了全球经济、不平衡、关键矿产。",
+          "url": "https://flash.jin10.com/detail/20260519194042378800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
+        {
           "title": "OECD称全球经济前景面临进一步恶化风险",
           "url": "https://wallstreetcn.com/livenews/3105897",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -616,13 +754,24 @@
           "time_info": "13时02分"
         },
         {
+          "title": "贝壳在港交所公布，一季度实现经调整净利润16.1亿元人民币，上年同期为13.9亿元，经测算同比增15.7%；净收入（营收）189亿元，同比减少19%。",
+          "url": "https://wallstreetcn.com/livenews/3105991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
+        {
           "title": "市场监管总局：已完成民营经济促进法配套任务38项",
           "url": "https://flash.jin10.com/detail/20260519160216356800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -633,7 +782,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
