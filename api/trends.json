@@ -1,22 +1,49 @@
 {
-  "generated_at": "2026-05-21T19:25:16.462083+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-05-21T23:25:12.761011+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
           "url": "https://wallstreetcn.com/articles/3772765",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时52分 ~ 23时25分]"
+        },
+        {
+          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            11,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时38分 ~ 23时25分]"
+        },
+        {
+          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
+          "url": "https://www.zhihu.com/question/2040738759281473391",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时52分 ~ 19时25分]"
+          "time_info": "[19时24分 ~ 23时25分]"
         },
         {
           "title": "智能体重塑AI算力秩序 CPU或成英伟达下一个增长引擎",
@@ -41,41 +68,52 @@
           "time_info": "[00时26分 ~ 07时13分]"
         },
         {
-          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
-          "url": "https://www.zhihu.com/question/2040738759281473391",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 19时25分]"
-        },
-        {
           "title": "AI还原祖国人注射V1后的战斗力",
           "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时52分 ~ 19时25分]"
-        },
-        {
-          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            11,
-            7
+            12,
+            16
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时38分 ~ 19时25分]"
+          "time_info": "[15时52分 ~ 23时25分]"
+        },
+        {
+          "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
+          "url": "https://www.cls.cn/detail/2377977",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 23时25分]"
+        },
+        {
+          "title": "涨停封单最高超百亿元！京东方A签约康宁搅动AI封装产业链",
+          "url": "https://www.cls.cn/detail/2378186",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时24分 ~ 23时25分]"
+        },
+        {
+          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
+          "url": "https://wallstreetcn.com/articles/3772780",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时52分 ~ 23时25分]"
         },
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
@@ -133,6 +171,19 @@
           "time_info": "05时53分"
         },
         {
+          "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204487",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时52分 ~ 23时25分]"
+        },
+        {
           "title": "周三（5月20日），美股人工智能（AI）赢家指数涨2.95%，报386.53点。 成分股Astera Labs收涨17.69%，Arm控股涨15.05%，核电股Oklo涨11.99%表现第三、CEG涨7.90%，闪迪涨0.67%表现第九，谷歌A涨0.32%涨幅最小，Lumentum跌2.47%Nebius集团跌2.99%。",
           "url": "https://wallstreetcn.com/livenews/3106951",
           "source": "华尔街见闻-快讯",
@@ -150,7 +201,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -202,17 +253,6 @@
           "time_info": "[00时26分 ~ 07时13分]"
         },
         {
-          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
-          "url": "https://wallstreetcn.com/articles/3772780",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时52分 ~ 19时25分]"
-        },
-        {
           "title": "5月21日投资避雷针：4连板人气股公告 不涉及液冷及机器人相关元器件的生产",
           "url": "https://www.cls.cn/detail/2377385",
           "source": "财联社热门",
@@ -237,6 +277,30 @@
           "time_info": "[11时38分 ~ 15时53分]"
         },
         {
+          "title": "逆转裁判但网文AI对决",
+          "url": "https://search.bilibili.com/all?keyword=%E9%80%86%E8%BD%AC%E8%A3%81%E5%88%A4%E4%BD%86%E7%BD%91%E6%96%87AI%E5%AF%B9%E5%86%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 23时25分]"
+        },
+        {
+          "title": "特斯拉最后一批Model S/X车型下线 工厂将转为人型机器人生产线",
+          "url": "https://www.cls.cn/detail/2377717",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 23时25分]"
+        },
+        {
           "title": "Meta 或将裁员 10% 约 7800 人，另 7000 人转岗奔赴 AI 新主场，如何解读？",
           "url": "https://www.zhihu.com/question/2040425345606578251",
           "source": "知乎",
@@ -247,18 +311,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时38分 ~ 15时53分]"
-        },
-        {
-          "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204487",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时52分 ~ 19时25分]"
         },
         {
           "title": "机器人穿上皮肤 正处在爆发前夜",
@@ -274,28 +326,6 @@
           "time_info": "[03时25分 ~ 07时13分]"
         },
         {
-          "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
-          "url": "https://www.cls.cn/detail/2377977",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 19时25分]"
-        },
-        {
-          "title": "逆转裁判但网文AI对决",
-          "url": "https://search.bilibili.com/all?keyword=%E9%80%86%E8%BD%AC%E8%A3%81%E5%88%A4%E4%BD%86%E7%BD%91%E6%96%87AI%E5%AF%B9%E5%86%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 19时25分]"
-        },
-        {
           "title": "贝索斯：太空数据中心短期难落地 无需担心AI泡沫",
           "url": "https://www.cls.cn/detail/2377170",
           "source": "财联社热门",
@@ -305,17 +335,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时38分 ~ 11时39分]"
-        },
-        {
-          "title": "特斯拉最后一批Model S/X车型下线 工厂将转为人型机器人生产线",
-          "url": "https://www.cls.cn/detail/2377717",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 19时25分]"
         },
         {
           "title": "这波AI短片的梦幻联动给到夯",
@@ -346,7 +365,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -478,7 +497,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -552,7 +571,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "景区大门越建越远，游客得换乘多次摆渡车，景区抛弃「门票经济」后，为什么总喜欢在「摆渡车」上动心思？",
@@ -567,6 +586,19 @@
           "time_info": "[11时38分 ~ 15时53分]"
         },
         {
+          "title": "司法部：重点纠治乱罚款、趋利性执法，对罚没收入增20%以上地方重点关注",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204720",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时52分 ~ 23时25分]"
+        },
+        {
           "title": "德国PMI连续两月低于荣枯线，经济或于Q2陷入萎缩",
           "url": "https://flash.jin10.com/detail/20260521153500985800",
           "source": "金十数据",
@@ -578,16 +610,15 @@
           "time_info": "15时53分"
         },
         {
-          "title": "司法部：重点纠治乱罚款、趋利性执法，对罚没收入增20%以上地方重点关注",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204720",
-          "source": "澎湃新闻",
+          "title": "《经济日报》发文称当下黄金已变成风险资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2040526913467327783",
+          "source": "知乎",
           "ranks": [
-            20,
-            14
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时52分 ~ 19时25分]"
+          "appearance_count": 2,
+          "time_info": "[23时24分 ~ 23时25分]"
         },
         {
           "title": "英伟达(NVDA.O)CFO：公司对Blackwell和Rubin芯片在2025年至2027年期间实现1万亿美元收入的预测充满信心。",
@@ -612,6 +643,17 @@
           "time_info": "05时53分"
         },
         {
+          "title": "同程旅行：第一季度实现营业收入50.06亿元，同比增长14.4%；归属母公司净利润为7.79亿元，同比增长16.5%；经调整EBITDA（息税折旧及摊销前利润）为13.89亿元，同比增长19.8%。",
+          "url": "https://wallstreetcn.com/livenews/3107510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "英伟达(NVDA.O)CFO：预计今年CPU收入将达到200亿美元。Vera CPU使公司能够进入价值2000亿美元的CPU潜在市场。",
           "url": "https://flash.jin10.com/detail/20260521052025920800",
           "source": "金十数据",
@@ -629,7 +671,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -678,13 +720,35 @@
           "time_info": "15时53分"
         },
         {
+          "title": "黎巴嫩财政部长贾比尔：预计由于以色列与黎巴嫩真主党的战争，黎巴嫩经济今年将收缩7%-10%。战争损失估计高达200亿美元。",
+          "url": "https://flash.jin10.com/detail/20260521224945415800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "受中东冲突拖累 欧盟预计今年经济增长将放缓",
+          "url": "https://wallstreetcn.com/livenews/3107495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "战争与能源冲击压顶 欧元区经济难承其重",
           "url": "https://wallstreetcn.com/livenews/3107385",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -698,6 +762,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "大连市委书记熊茂平会见世界经济论坛代理总裁兼首席执行官阿洛伊斯·茨温吉",
+          "url": "https://flash.jin10.com/detail/20260521224717889800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "Anthropic PBC在融资过程中披露的数据显示，第二季度收入料增逾一倍，至109亿美元。 预计6月当季实现营收利润。（华尔街日报）",
@@ -725,7 +800,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "女子酒后钻进锅炉房身亡物业赔28.6万",
@@ -749,6 +824,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
+          "title": "焦煤夜盘收跌约2.8%，合成橡胶、棕榈油、焦炭至多跌约2.7%，铁矿石跌约0.2%，低硫燃油涨约2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3107511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "截至23:00收盘，国内期货主力合约跌多涨少，焦煤、丁二烯橡胶、瓶片跌超2%，棕榈油、焦炭、20号胶、PX、橡胶、PVC、纸浆跌超1%。涨幅方面，低硫燃料油（LU）涨超2%，燃料油涨近1%。",
+          "url": "https://flash.jin10.com/detail/20260521230055173800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "内盘期货夜市多数收跌，低硫燃油夜盘收跌3.87%，燃油跌3.07%，LPG跌2.46%，PVC跌1.28%，对二甲苯、豆一、塑料、乙二醇、甲醇、聚丙烯至少跌1%，铁矿石跌0.56%。 焦炭、焦煤则至多收涨0.12%，20号胶涨0.47%。",
