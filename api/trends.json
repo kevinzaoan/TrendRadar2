@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T07:13:41.854023+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-05-21T11:39:05.873028+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 25,
+      "match_count": 33,
       "titles": [
         {
           "title": "机器人穿上皮肤 正处在爆发前夜",
@@ -47,9 +47,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "OpenAI最快本周秘密递表，不想让华尔街的钱全流向马斯克？",
+          "url": "https://flash.jin10.com/detail/20260521113142876800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "周三（5月20日），美股AI软件先驱指数涨0.69%，报108.06点，成分股C3.ai涨5.10%领跑。",
@@ -96,6 +107,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "摩根大通CEO戴蒙：将招聘更多人AI人才，减少银行家人数。",
+          "url": "https://wallstreetcn.com/livenews/3107123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
           "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
           "url": "https://www.zhihu.com/question/2040450519303288568",
           "source": "知乎",
@@ -123,13 +145,68 @@
           "time_info": "[03时25分 ~ 07时13分]"
         },
         {
+          "title": "5月21日投资避雷针：4连板人气股公告 不涉及液冷及机器人相关元器件的生产",
+          "url": "https://www.cls.cn/detail/2377385",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
+          "title": "贝索斯：太空数据中心短期难落地 无需担心AI泡沫",
+          "url": "https://www.cls.cn/detail/2377170",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
+          "title": "全国首个面向家庭场景的通用机器人在武汉发布：会做饭、洗衣服、叠衣服，武汉家庭可免费申请",
+          "url": "https://www.cls.cn/detail/2377373",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
+          "title": "Meta 或将裁员 10% 约 7800 人，另 7000 人转岗奔赴 AI 新主场，如何解读？",
+          "url": "https://www.zhihu.com/question/2040425345606578251",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
+          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
           "title": "双向赋能，“光＋AI”融合拓宽产业发展方向",
           "url": "https://wallstreetcn.com/livenews/3106974",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -140,7 +217,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -173,9 +250,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "高盛：百度AI云业务持续强劲 料AI业务年底占比过半",
+          "url": "https://flash.jin10.com/detail/20260521111134104800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "英伟达：（CFO在分析师电话会议上表示）需求正在加速。 预计到这个十年（2021-2030年）末尾，年度AI开支将达到3万亿-4万亿美元。 今年的CPU收入有望达到200亿美元。 相信公司能获得供应来支持增长。 AI行业将研发、投资列为优先事项。",
@@ -250,7 +338,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -272,7 +360,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -283,7 +371,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         }
@@ -291,8 +379,19 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "景区大门越建越远，游客得换乘多次摆渡车，景区抛弃「门票经济」后，为什么总喜欢在「摆渡车」上动心思？",
+          "url": "https://www.zhihu.com/question/2037482290226401856",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
         {
           "title": "英伟达(NVDA.O)CFO：公司对Blackwell和Rubin芯片在2025年至2027年期间实现1万亿美元收入的预测充满信心。",
           "url": "https://flash.jin10.com/detail/20260521052624543800",
@@ -327,13 +426,24 @@
           "time_info": "05时53分"
         },
         {
+          "title": "国务院国资委主任张玉卓会见世界经济论坛代理总裁兼首席执行官茨温吉",
+          "url": "https://wallstreetcn.com/livenews/3107114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
           "title": "国际货币基金组织：IMF工作人员结束对巴基斯坦的访问。工作人员访问聚焦于该国近期经济发展、改革实施及2027财年的预算战略。关于巴基斯坦2027财年预算的讨论将在未来几天继续进行。",
           "url": "https://flash.jin10.com/detail/20260521063131667800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -355,7 +465,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -369,13 +479,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        },
+        {
+          "title": "规范涉企行政执法专项行动已为企业挽回经济损失307亿元",
+          "url": "https://wallstreetcn.com/livenews/3107086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         }
       ]
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "女子酒后钻进锅炉房身亡物业赔28.6万",
+          "url": "https://www.toutiao.com/trending/7641887653932695602/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
+          "title": "女子酒后钻进锅炉房身亡物业赔28.6万",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%8E%E9%92%BB%E8%BF%9B%E9%94%85%E7%82%89%E6%88%BF%E8%BA%AB%E4%BA%A1%E7%89%A9%E4%B8%9A%E8%B5%9428.6%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
         {
           "title": "内盘期货夜市多数收跌，低硫燃油夜盘收跌3.87%，燃油跌3.07%，LPG跌2.46%，PVC跌1.28%，对二甲苯、豆一、塑料、乙二醇、甲醇、聚丙烯至少跌1%，铁矿石跌0.56%。 焦炭、焦煤则至多收涨0.12%，20号胶涨0.47%。",
           "url": "https://wallstreetcn.com/livenews/3106822",
@@ -388,13 +531,24 @@
           "time_info": "00时26分"
         },
         {
+          "title": "分析师指出，受伊朗战争导致石油出口受阻的影响，沙特被迫关闭了部分油田，进而导致天然气供应中断，预计今年夏季，沙特将因此燃烧更多进口燃料油用于发电。",
+          "url": "https://flash.jin10.com/detail/20260521110018707800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
           "title": "醉酒女钻进锅炉房重度烧伤后中毒身亡",
           "url": "https://s.weibo.com/weibo?q=%23%E9%86%89%E9%85%92%E5%A5%B3%E9%92%BB%E8%BF%9B%E9%94%85%E7%82%89%E6%88%BF%E9%87%8D%E5%BA%A6%E7%83%A7%E4%BC%A4%E5%90%8E%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         }
