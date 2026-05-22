@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T02:55:36.344438+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-05-23T04:44:09.819041+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时44分]"
         },
         {
           "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时44分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
@@ -38,8 +39,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时44分]"
         },
         {
           "title": "郝哥李广奇回应AI买瓜",
@@ -47,11 +48,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时44分]"
         },
         {
           "title": "AI还原祖国人注射V1后的战斗力",
@@ -59,11 +61,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            14
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时44分]"
+        },
+        {
+          "title": "夏奇拉来批daidai作业啦",
+          "url": "https://www.douyin.com/hot/2508674",
+          "source": "抖音",
+          "ranks": [
+            30,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时55分]"
+          "time_info": "[02时55分 ~ 04时44分]"
         },
         {
           "title": "马斯克重建xAI组织图曝光",
@@ -86,23 +101,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "夏奇拉来批daidai作业啦",
-          "url": "https://www.douyin.com/hot/2508674",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时55分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国总统特朗普：当我们想关注的时候，会有一些债务。 我们会按自己的方式实现增长，摆脱债务问题。 不希望阻碍经济增长，增长并不意味着通胀。",
@@ -133,9 +137,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "市场消息：消息人士称，Anthropic将于下周尽快完成最新一轮融资，规模将超过300亿美元。Anthropic预计下个月收入年化将超过500亿美元。",
+          "url": "https://flash.jin10.com/detail/20260523034722842800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         }
       ]
     }
