@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T02:02:20.177686+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-05-24T04:06:11.862683+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 04时06分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -27,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 04时06分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -38,8 +39,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 04时06分]"
         },
         {
           "title": "四足机器人领域再迎新锐，杭州云深处山猫S10亮相",
@@ -107,11 +108,12 @@
           "url": "https://www.cls.cn/detail/2379850",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 04时06分]"
         }
       ]
     }
