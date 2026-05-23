@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T04:06:11.862683+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-05-24T05:55:24.461492+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时55分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时55分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -39,8 +40,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时55分]"
+        },
+        {
+          "title": "机器人行业资本化加速：一二级市场同步活跃 头部公司量产节奏渐清晰",
+          "url": "https://www.cls.cn/detail/2378982",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 05时55分]"
         },
         {
           "title": "四足机器人领域再迎新锐，杭州云深处山猫S10亮相",
@@ -52,17 +64,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 02时02分]"
-        },
-        {
-          "title": "机器人行业资本化加速：一二级市场同步活跃 头部公司量产节奏渐清晰",
-          "url": "https://www.cls.cn/detail/2378982",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
         },
         {
           "title": "你觉得 ai 会完全替代人类吗？",
@@ -109,11 +110,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 05时55分]"
         }
       ]
     }
