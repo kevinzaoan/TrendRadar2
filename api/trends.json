@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T12:40:56.648558+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-05-23T15:32:27.151117+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI浪潮提振全球股市，道指新高，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
@@ -86,6 +86,17 @@
           "time_info": "[02时55分 ~ 08时08分]"
         },
         {
+          "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
+          "url": "https://www.zhihu.com/question/2041154123677126717",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "美国批准向多个间谍部门的90亿美元拨款，用于利用人工智能（AI）技术。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3108254",
           "source": "华尔街见闻-快讯",
@@ -96,6 +107,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时08分 ~ 08时08分]"
+        },
+        {
+          "title": "OpenAI称攻克80年数学难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 15时32分]"
         },
         {
           "title": "ai漫剧硬通货 泡面火腿纯净水",
@@ -121,24 +144,13 @@
           "time_info": "[00时26分 ~ 00时27分]"
         },
         {
-          "title": "OpenAI称攻克80年数学难题",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
           "title": "美银乐观预测：AI十年内每年将拉动增长约1个百分点",
           "url": "https://flash.jin10.com/detail/20260523110713640800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -160,7 +172,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         }
@@ -232,7 +244,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         }
