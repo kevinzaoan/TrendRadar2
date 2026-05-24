@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T15:21:22.773662+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2026-05-24T17:54:28.692867+08:00",
+  "total_titles_processed": 1003,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
@@ -37,6 +37,20 @@
           "time_info": "[00时09分 ~ 07时57分]"
         },
         {
+          "title": "摩根大通一线调研：中国AI“赚钱时刻”来了，工作流层的价值开始超越基础模型",
+          "url": "https://wallstreetcn.com/articles/3772976",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 17时54分]"
+        },
+        {
           "title": "记者直击：凌晨3点救援机器人下井探测",
           "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E7%9B%B4%E5%87%BB%EF%BC%9A%E5%87%8C%E6%99%A83%E7%82%B9%E6%95%91%E6%8F%B4%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8B%E4%BA%95%E6%8E%A2%E6%B5%8B",
           "source": "百度热搜",
@@ -46,6 +60,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "机器人行业资本化加速：一二级市场同步活跃 头部公司量产节奏渐清晰",
+          "url": "https://www.cls.cn/detail/2378982",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 17时54分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -59,41 +85,41 @@
           "time_info": "[00时09分 ~ 06时54分]"
         },
         {
-          "title": "机器人行业资本化加速：一二级市场同步活跃 头部公司量产节奏渐清晰",
-          "url": "https://www.cls.cn/detail/2378982",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 15时21分]"
-        },
-        {
-          "title": "摩根大通一线调研：中国AI“赚钱时刻”来了，工作流层的价值开始超越基础模型",
-          "url": "https://wallstreetcn.com/articles/3772976",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 15时21分]"
-        },
-        {
           "title": "世界杯主题曲Dai Dai MV正式上线",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            16
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 17时54分]"
+        },
+        {
+          "title": "如何评价微信读书上线的 AI Skill ？使用后你的阅读习惯和体验发生了哪些变化？",
+          "url": "https://www.zhihu.com/question/2040070496926922044",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 17时54分]"
+        },
+        {
+          "title": "供不应求却拒绝涨价，日东纺\"市占率保卫战\"背后，豪赌AI玻纤长期景气",
+          "url": "https://wallstreetcn.com/articles/3772986",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时53分 ~ 15时21分]"
+          "time_info": "[15时21分 ~ 17时54分]"
         },
         {
           "title": "当AI有一副人的身体",
@@ -120,16 +146,16 @@
           "time_info": "[11时53分 ~ 15时21分]"
         },
         {
-          "title": "如何评价微信读书上线的 AI Skill ？使用后你的阅读习惯和体验发生了哪些变化？",
-          "url": "https://www.zhihu.com/question/2040070496926922044",
-          "source": "知乎",
+          "title": "直击山西留神峪煤矿救援：凌晨三点巡检机器人下井探测",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33221870",
+          "source": "澎湃新闻",
           "ranks": [
-            15,
-            13
+            18,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时53分 ~ 15时21分]"
+          "time_info": "[15时21分 ~ 17时54分]"
         },
         {
           "title": "四足机器人领域再迎新锐，杭州云深处山猫S10亮相",
@@ -154,15 +180,15 @@
           "time_info": "11时53分"
         },
         {
-          "title": "供不应求却拒绝涨价，日东纺\"市占率保卫战\"背后，豪赌AI玻纤长期景气",
-          "url": "https://wallstreetcn.com/articles/3772986",
-          "source": "华尔街见闻",
+          "title": "一季度AI领域融资超1100亿元 国产大模型融资金额暴增",
+          "url": "https://flash.jin10.com/detail/20260524165346994800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时21分"
+          "time_info": "17时54分"
         },
         {
           "title": "芬兰大学：新型AI聊天机器人有助抵抗错误健康信息",
@@ -193,18 +219,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "直击山西留神峪煤矿救援：凌晨三点巡检机器人下井探测",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33221870",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -229,6 +244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "科远智慧：燃气轮机、工业机器人相关业务占公司营业收入比例较小",
+          "url": "https://flash.jin10.com/detail/20260524162132277800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "SpaceX抢跑 OpenAI追击",
@@ -258,8 +284,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时02分 ~ 15时21分]"
+          "appearance_count": 9,
+          "time_info": "[02时02分 ~ 17时54分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -270,8 +296,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 15时21分]"
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 17时54分]"
         },
         {
           "title": "低空经济的中国心来了",
@@ -280,9 +306,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 17时54分]"
         }
       ]
     },
@@ -297,7 +323,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         }
