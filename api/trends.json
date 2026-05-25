@@ -1,113 +1,11 @@
 {
-  "generated_at": "2026-05-25T08:09:07.237205+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-05-25T13:20:52.007174+08:00",
+  "total_titles_processed": 793,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "github AI 机器人 Claude",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "什么情况下，本轮AI大行情会结束？",
-          "url": "https://wallstreetcn.com/articles/3773004",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 08时09分]"
-        },
-        {
-          "title": "直击山西留神峪煤矿救援：凌晨三点巡检机器人下井探测",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33221870",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 08时09分]"
-        },
-        {
-          "title": "世界杯主题曲Dai Dai MV正式上线",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            29,
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时07分 ~ 08时09分]"
-        },
-        {
-          "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
-          "url": "https://flash.jin10.com/detail/20260525012651977800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3108534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时06分 ~ 06时59分]"
-        },
-        {
-          "title": "训练AI取代自己？纺织工和外卖骑手正收集“第一人称视角数据”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33219435",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时59分 ~ 08时09分]"
-        },
-        {
-          "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
-          "url": "https://wallstreetcn.com/livenews/3108500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时07分]"
-        },
-        {
-          "title": "中信建投：看好AI产业链与算力网建设",
-          "url": "https://flash.jin10.com/detail/20260525073213379800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -181,6 +79,61 @@
           "time_info": "[08时08分 ~ 08时09分]"
         },
         {
+          "title": "马来西亚经济部长：电力需求与供应状况未出现突发的失衡。",
+          "url": "https://flash.jin10.com/detail/20260525122432231800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "马来西亚经济部长：2026年4月，每日客运航班数量下降31.5%，原因是中东地区的航班取消以及航班改道所致。",
+          "url": "https://flash.jin10.com/detail/20260525122103526800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "马来西亚经济部长：现有电力储备足以满足当前需求增长。",
+          "url": "https://flash.jin10.com/detail/20260525121944316800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "马来西亚经济部长：马来西亚国家石油公司表示能源供应可保障至7月底。",
+          "url": "https://flash.jin10.com/detail/20260525121443145800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "据英国金融时报：由于经济增长乏力以及针对贷款机构的监管收紧，银行对英国企业的贷款已降至近30年来的最低水平，这尤其削弱了小企业的信贷供应。",
+          "url": "https://flash.jin10.com/detail/20260525120744072800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "欧洲央行行长拉加德：当前形势不确定性过高，尚无法就利率做出承诺；6月可能会修订通胀预测，届时欧洲央行将综合所有数据来评估经济状况。",
           "url": "https://flash.jin10.com/detail/20260525034518499800",
           "source": "金十数据",
@@ -190,6 +143,132 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "github AI 机器人 Claude",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "什么情况下，本轮AI大行情会结束？",
+          "url": "https://wallstreetcn.com/articles/3773004",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 13时20分]"
+        },
+        {
+          "title": "直击山西留神峪煤矿救援：凌晨三点巡检机器人下井探测",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33221870",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 08时09分]"
+        },
+        {
+          "title": "世界杯主题曲Dai Dai MV正式上线",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            29,
+            22,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时07分 ~ 13时20分]"
+        },
+        {
+          "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
+          "url": "https://flash.jin10.com/detail/20260525012651977800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3108534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时06分 ~ 06时59分]"
+        },
+        {
+          "title": "训练AI取代自己？纺织工和外卖骑手正收集“第一人称视角数据”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33219435",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时59分 ~ 08时09分]"
+        },
+        {
+          "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
+          "url": "https://wallstreetcn.com/livenews/3108500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时07分]"
+        },
+        {
+          "title": "券商晨会精华：看好AI产业链与算力网建设",
+          "url": "https://www.cls.cn/detail/2380227",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "多家巨头密集押注 “百镜大战”催热供应链！AI眼镜有望加速进入千万台级别市场？",
+          "url": "https://www.cls.cn/detail/2380061",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "中信建投：看好AI产业链与算力网建设",
+          "url": "https://flash.jin10.com/detail/20260525073213379800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         }
       ]
     }
