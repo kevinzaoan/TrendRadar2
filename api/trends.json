@@ -1,53 +1,12 @@
 {
-  "generated_at": "2026-05-25T22:08:16.076738+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2026-05-26T01:07:22.706149+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 24,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "什么情况下，本轮AI大行情会结束？",
-          "url": "https://wallstreetcn.com/articles/3773004",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 18时06分]"
-        },
-        {
-          "title": "直击山西留神峪煤矿救援：凌晨三点巡检机器人下井探测",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33221870",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 08时09分]"
-        },
-        {
-          "title": "世界杯主题曲Dai Dai MV正式上线",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            29,
-            22,
-            19,
-            30,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时07分 ~ 22时08分]"
-        },
         {
           "title": "AI吸附挂泛滥,力度碾压端游",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
@@ -56,125 +15,41 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        },
-        {
-          "title": "智能机器人加速走进日常生活",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8A%A0%E9%80%9F%E8%B5%B0%E8%BF%9B%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时05分 ~ 18时06分]"
+          "appearance_count": 1,
+          "time_info": "01时07分"
         },
         {
           "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
           "url": "https://wallstreetcn.com/articles/3773014",
           "source": "华尔街见闻",
           "ranks": [
-            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时05分 ~ 22时08分]"
-        },
-        {
-          "title": "上海：布局市级“AI+微短剧”中试基地 支持“AI+微短剧”应用创新",
-          "url": "https://wallstreetcn.com/livenews/3108809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "01时07分"
         },
         {
-          "title": "券商晨会精华：看好AI产业链与算力网建设",
-          "url": "https://www.cls.cn/detail/2380227",
+          "title": "宇树科技6月1日上会迎考 冲击A股“人形机器人第一股”",
+          "url": "https://www.cls.cn/detail/2381067",
           "source": "财联社热门",
           "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 18时06分]"
-        },
-        {
-          "title": "上海：布局市级“AI+微短剧”中试基地 支持“AI+微短剧”应用创新",
-          "url": "https://flash.jin10.com/detail/20260525173449877800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
-          "url": "https://flash.jin10.com/detail/20260525012651977800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "为什么具身智能、智能机器人、智能矿山这些概念已经炙手可热，而煤矿工人仍在人力下井采矿？",
-          "url": "https://www.zhihu.com/question/2041546699521225998",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时05分 ~ 22时08分]"
+          "time_info": "01时07分"
         },
         {
           "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
           "url": "https://www.cls.cn/detail/2380739",
           "source": "财联社热门",
           "ranks": [
-            13,
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时05分 ~ 22时08分]"
-        },
-        {
-          "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3108534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时06分 ~ 06时59分]"
-        },
-        {
-          "title": "训练AI取代自己？纺织工和外卖骑手正收集“第一人称视角数据”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33219435",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时59分 ~ 08时09分]"
+          "appearance_count": 1,
+          "time_info": "01时07分"
         },
         {
           "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
@@ -184,300 +59,97 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        },
-        {
-          "title": "对话中邮资管张戬：基于账户负债属性平衡票息与波段，哑铃策略锚定“六张网”、AI及高安全三大方向",
-          "url": "https://www.cls.cn/detail/2380627",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        },
-        {
-          "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
-          "url": "https://wallstreetcn.com/livenews/3108500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时07分]"
-        },
-        {
-          "title": "原华为云AI算法创新Lab主任朱森华创业，押注类脑智能与具身模型",
-          "url": "https://wallstreetcn.com/livenews/3108804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "01时07分"
         },
         {
-          "title": "多家巨头密集押注 “百镜大战”催热供应链！AI眼镜有望加速进入千万台级别市场？",
-          "url": "https://www.cls.cn/detail/2380061",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "中信建投：看好AI产业链与算力网建设",
-          "url": "https://flash.jin10.com/detail/20260525073213379800",
-          "source": "金十数据",
+          "title": "戛纳电影节「抵制 AI」、毕业典礼嘘声四起，海外「反 AI」浪潮反映了何种社会心态？",
+          "url": "https://www.zhihu.com/question/2040478565859381749",
+          "source": "知乎",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时09分"
+          "time_info": "01时07分"
         },
         {
-          "title": "九安医疗：不涉及AI业务单独收费，糖尿病照护业务收入占比低",
-          "url": "https://wallstreetcn.com/livenews/3108907",
-          "source": "华尔街见闻-快讯",
+          "title": "超六成游戏工作室采用 AI 进行开发，AI 将会如何改变游戏行业？",
+          "url": "https://www.zhihu.com/question/649375328",
+          "source": "知乎",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "腾讯ima宣布AI助手Copilot功能全面开放",
-          "url": "https://flash.jin10.com/detail/20260525172240380800",
-          "source": "金十数据",
-          "ranks": [
-            18
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "伊朗外交部发言人Esmail Baghaei：伊朗外长阿拉格齐访美之行因签证问题取消。 阿拉格齐原计划出席联合国会议。",
-          "url": "https://wallstreetcn.com/livenews/3108774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "软银集团股价创历史新高 受OpenAI的IPO预期提振",
-          "url": "https://wallstreetcn.com/livenews/3108773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "01时07分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 14,
+      "match_count": 4,
       "titles": [
         {
-          "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
-          "url": "https://www.cls.cn/detail/2379922",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 08时09分]"
-        },
-        {
-          "title": "国家数据局：将把推动词元经济发展纳入工作体系",
-          "url": "https://www.cls.cn/detail/2379850",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 08时09分]"
-        },
-        {
-          "title": "经济学家：即使美伊达成协议，今年油价也难回冲突前水平",
-          "url": "https://flash.jin10.com/detail/20260525063914410800",
+          "title": "墨西哥经济部长埃布拉德：墨西哥将与美国讨论汽车原产地规则。",
+          "url": "https://flash.jin10.com/detail/20260525235610471800",
           "source": "金十数据",
           "ranks": [
-            1
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时59分"
+          "time_info": "01时07分"
         },
         {
-          "title": "美国白宫国家经济委员会主任哈塞特：美伊若达成潜在协议可能导致能源价格大幅下跌，并为美联储降息创造空间。他还指出，近期的通胀压力主要是由高能源成本推动的。",
-          "url": "https://flash.jin10.com/detail/20260525031603713800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时06分 ~ 05时57分]"
-        },
-        {
-          "title": "中巴政党论坛暨中巴经济走廊政党共商机制会议举行",
-          "url": "https://wallstreetcn.com/livenews/3108542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时06分 ~ 06时59分]"
-        },
-        {
-          "title": "殷世航曝童锦程收入",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AE%B7%E4%B8%96%E8%88%AA%E6%9B%9D%E7%AB%A5%E9%94%A6%E7%A8%8B%E6%94%B6%E5%85%A5%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 08时09分]"
-        },
-        {
-          "title": "【李强同巴基斯坦总理夏巴兹会谈】5月25日上午，国务院总理李强在北京人民大会堂同来华进行正式访问的巴基斯坦总理夏巴兹举行会谈。李强指出，中方愿同巴方深入推进中巴经济走廊建设，继续抓好两国重大联通项目，加强产业、矿业、农业、民生、金融等领域合作。中方愿进口巴方更多优质产品，同巴方积极打造双边自贸协定升级版，促进两国贸易不断扩容提质。双方还可以探讨开展人工智能、数字经济、绿色能源等领域合作，共同培育发展新动能。中方也愿同巴方深化人力资源开发合作，欢迎更多巴基斯坦青年学生来华学习深造。希望巴方继续采取必要措施，保护在巴中国人员、项目和机构安全，营造安全稳定的合作环境。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3108917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "马来西亚经济部长：电力需求与供应状况未出现突发的失衡。",
-          "url": "https://flash.jin10.com/detail/20260525122432231800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "马来西亚经济部长：2026年4月，每日客运航班数量下降31.5%，原因是中东地区的航班取消以及航班改道所致。",
-          "url": "https://flash.jin10.com/detail/20260525122103526800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "马来西亚经济部长：现有电力储备足以满足当前需求增长。",
-          "url": "https://flash.jin10.com/detail/20260525121944316800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "马来西亚经济部长：马来西亚国家石油公司表示能源供应可保障至7月底。",
-          "url": "https://flash.jin10.com/detail/20260525121443145800",
+          "title": "墨西哥经济部长埃布拉德：墨西哥与美国将于5月27日至29日在墨西哥城举行贸易谈判。",
+          "url": "https://flash.jin10.com/detail/20260525235430038800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "01时07分"
         },
         {
-          "title": "据英国金融时报：由于经济增长乏力以及针对贷款机构的监管收紧，银行对英国企业的贷款已降至近30年来的最低水平，这尤其削弱了小企业的信贷供应。",
-          "url": "https://flash.jin10.com/detail/20260525120744072800",
-          "source": "金十数据",
+          "title": "德国拟为自愿离境的叙利亚难民统一发「8000 欧元」回乡补贴，当下德国的难民经济包袱有多重？",
+          "url": "https://www.zhihu.com/question/2041936789276022530",
+          "source": "知乎",
           "ranks": [
-            16
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "01时07分"
         },
         {
-          "title": "欧洲央行行长拉加德：当前形势不确定性过高，尚无法就利率做出承诺；6月可能会修订通胀预测，届时欧洲央行将综合所有数据来评估经济状况。",
-          "url": "https://flash.jin10.com/detail/20260525034518499800",
-          "source": "金十数据",
+          "title": "亚美尼亚外交部长Ararat Mirzoyan澄清，亚美尼亚并无意断绝与俄罗斯的政治和经济纽带。 我们希望并且也将努力维护并深化我们之间的正常关系。（俄罗斯国际文传电讯社Interfax）",
+          "url": "https://wallstreetcn.com/livenews/3108947",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "凯投宏观：即使中东冲突结束 2026年多数主要经济体仍无望降息",
-          "url": "https://flash.jin10.com/detail/20260525205732293800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "01时07分"
         }
       ]
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "夜盘期货开盘，焦煤涨停，焦炭涨近9%，氧化铝、沪银、纯碱涨逾1%；低硫燃油跌逾3%，燃油、原油跌逾2%，沥青、甲醇、液化石油气、苯乙烯等跌逾1%。",
-          "url": "https://wallstreetcn.com/livenews/3108914",
+          "title": "焦煤夜盘收涨9%，焦炭涨超5%，纯苯、苯乙烯、燃油跌超2%",
+          "url": "https://wallstreetcn.com/livenews/3108957",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "夜盘开盘，国内期货主力合约涨跌不一，焦煤触及涨停，焦炭涨超8%，氧化铝、沪银、纯碱涨超1%。跌幅方面，低硫燃料油（LU）跌超3%，燃料油、原油跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260525210004101800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "01时07分"
         }
       ]
     }
