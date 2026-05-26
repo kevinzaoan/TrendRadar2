@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-05-26T15:44:51.391635+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-05-26T23:26:09.106477+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "AI吸附挂泛滥,力度碾压端游",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            7,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 23时26分]"
+        },
         {
           "title": "宇树科技6月1日上会迎考 冲击A股“人形机器人第一股”",
           "url": "https://www.cls.cn/detail/2381067",
@@ -34,19 +48,6 @@
           "time_info": "[01时07分 ~ 07时02分]"
         },
         {
-          "title": "AI吸附挂泛滥,力度碾压端游",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 15时44分]"
-        },
-        {
           "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
           "url": "https://wallstreetcn.com/articles/3773034",
           "source": "华尔街见闻",
@@ -56,6 +57,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时07分 ~ 11时31分]"
+        },
+        {
+          "title": "中国机器人正在创造下一个奇迹",
+          "url": "https://www.douyin.com/hot/2513350",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
+        },
+        {
+          "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
+          "url": "https://www.cls.cn/detail/2382007",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
         },
         {
           "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
@@ -90,7 +113,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -101,9 +124,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "美光跻身万亿美元俱乐部，AI竞赛推动存储芯片热潮",
+          "url": "https://flash.jin10.com/detail/20260526231815030800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "全球人形机器人约90%来自中国",
@@ -123,9 +157,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "一人之下被指用AI作画",
+          "url": "https://www.douyin.com/hot/2512287",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 23时26分]"
         },
         {
           "title": "对话中邮资管张戬：基于账户负债属性平衡票息与波段，哑铃策略锚定“六张网”、AI及高安全三大方向",
@@ -139,16 +185,15 @@
           "time_info": "[03时39分 ~ 05时06分]"
         },
         {
-          "title": "一人之下被指用AI作画",
-          "url": "https://www.douyin.com/hot/2512287",
-          "source": "抖音",
+          "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
+          "url": "https://www.cls.cn/detail/2381769",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时31分 ~ 15时44分]"
+          "time_info": "[23时25分 ~ 23时26分]"
         },
         {
           "title": "xAI：Grok Build预测版本现在向所有SuperGrok用户和X Premium+用户开放。",
@@ -163,13 +208,35 @@
           "time_info": "[03时40分 ~ 05时06分]"
         },
         {
+          "title": "美国公司用AI辅助设计高超音速发动机",
+          "url": "https://www.toutiao.com/trending/7644167363171978778/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
+        },
+        {
+          "title": "如何看待媒体报道《毕业论文将检测 AIGC 率，检测标准科学吗》， 该文章在知网检测 AIGC 率接近 30%？",
+          "url": "https://www.zhihu.com/question/2041915902292217866",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
+        },
+        {
           "title": "AI繁荣的隐秘真相：数万亿云收入背后的“循环计账游戏”",
           "url": "https://wallstreetcn.com/articles/3773084",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -180,7 +247,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -232,7 +299,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "德国拟为自愿离境的叙利亚难民统一发「8000 欧元」回乡补贴，当下德国的难民经济包袱有多重？",
@@ -265,11 +332,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 15时44分]"
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 23时26分]"
         },
         {
           "title": "对华合作意愿强烈，德国经济部长将访问中国",
@@ -358,13 +426,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "特朗普周三将在戴维营召开内阁会议。特朗普与内阁将讨论经济及外交政策最新进展。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3109517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         }
       ]
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "燃油夜盘收涨约1.6%，低硫燃油涨1.5%，PTA、LPG至少涨约0.7%，PVC跌0.1%，铁矿石跌0.4%，焦煤、焦炭跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3109548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "截至23:00收盘，国内期货主力合约涨多跌少，燃料油、低硫燃料油（LU）、沥青、丙烯涨超1%，PTA、对二甲苯、液化石油气（LPG）、短纤涨近1%。跌幅方面，焦炭跌超2%，焦煤跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260526230106289800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
         {
           "title": "焦煤夜盘收涨9%，焦炭涨超5%，纯苯、苯乙烯、燃油跌超2%",
           "url": "https://wallstreetcn.com/livenews/3108957",
