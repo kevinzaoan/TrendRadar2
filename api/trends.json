@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T04:53:40.004480+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-05-27T06:19:41.820206+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 06时19分]"
         },
         {
           "title": "中国机器人正在创造下一个奇迹",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 06时19分]"
         },
         {
           "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
@@ -37,8 +37,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 06时19分]"
+        },
+        {
+          "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
+          "url": "https://wallstreetcn.com/articles/3773116",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "一人之下被指用AI作画",
@@ -49,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 06时19分]"
         },
         {
           "title": "AI吸附挂泛滥,力度碾压端游",
@@ -60,8 +71,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 06时19分]"
         },
         {
           "title": "如何评价 comma.ai 创始人 George Hotz 断言 AI 编程 Agent 无法真正编程？",
@@ -87,13 +98,24 @@
           "time_info": "02时25分"
         },
         {
+          "title": "从周期股到AI新王者！美光科技跻身万亿美元俱乐部",
+          "url": "https://www.cls.cn/detail/2382213",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
           "title": "Figure AI Inc.与Catalyst Brands围绕扫描人形机器人运行情况达成协议。 这次合作在Catalyst旗下Reno分发物流中心启动。",
           "url": "https://wallstreetcn.com/livenews/3109624",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -112,7 +134,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美以伊战争启示录｜5万 vs 200万：无人机的经济消耗战重塑军事逻辑",
@@ -122,19 +144,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 06时19分]"
         },
         {
           "title": "Zscaler第三财季营收8.505亿美元，分析师预期8.353亿美元。 第三财季年化持续经营收入35.3亿美元，分析师预期35.1亿美元。 第三财季调整后EPS为1.08美元，分析师预期1.01美元。 预计第四财季营收8.75亿-8.78亿美元，分析师预期8.791亿美元。 Zscaler美股盘后跌9%。",
           "url": "https://wallstreetcn.com/livenews/3109642",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 06时19分]"
+        },
+        {
+          "title": "美国贸易代表格里尔：美国有意改善《非洲增长与机会法案》，以更好地惠及美国，并使非洲经济与美国更加紧密联系。",
+          "url": "https://flash.jin10.com/detail/20260527044804413800",
+          "source": "金十数据",
+          "ranks": [
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时53分"
+          "time_info": "06时19分"
         }
       ]
     }
