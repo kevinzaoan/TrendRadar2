@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T03:25:42.604746+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-05-28T05:54:48.571284+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 05时54分]"
         },
         {
           "title": "AI大行其道,古法PS吧没落",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 05时54分]"
         },
         {
           "title": "【焦点复盘】科创50冲高回落跌2.8%，机器人概念遭重挫，夏季用电高峰引爆电力股",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 05时54分]"
         },
         {
           "title": "Meta推出AI聊天机器人订阅服务，以试图抵消相关支出",
@@ -48,7 +48,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         },
@@ -60,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 05时54分]"
         },
         {
           "title": "武契奇观看机器人跳塞尔维亚舞蹈：跳得比我还好",
@@ -71,8 +71,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 05时54分]"
         },
         {
           "title": "野生vs养殖,AI大战鲤鱼图",
@@ -82,8 +82,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 05时54分]"
         },
         {
           "title": "AI坑爹,棒球名帅丢饭碗",
@@ -93,8 +93,20 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 05时54分]"
+        },
+        {
+          "title": "微软被曝将弃用 Claude，是因成本过高还是已掌握核心技术？",
+          "url": "https://www.zhihu.com/question/2042293920017691036",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时37分 ~ 03时25分]"
+          "time_info": "[03时25分 ~ 05时54分]"
         },
         {
           "title": "Meta将推出AI聊天机器人订阅服务，月费最低7.99美元",
@@ -103,20 +115,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         },
         {
-          "title": "微软被曝将弃用 Claude，是因成本过高还是已掌握核心技术？",
-          "url": "https://www.zhihu.com/question/2042293920017691036",
-          "source": "知乎",
+          "title": "美联储理事库克：可能需要长时间地观察AI对经济的结构性改变。",
+          "url": "https://wallstreetcn.com/livenews/3110262",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时25分"
+          "time_info": "05时54分"
+        },
+        {
+          "title": "如何评价刘强东称不会开除被机器人取代的员工，已启动项目帮助蓝领工人白领化？真能做到吗？能在业内推广吗？",
+          "url": "https://www.zhihu.com/question/2043061551347622195",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
           "title": "AI编程公司Cognition按260亿美元估值融资10亿美元",
@@ -128,12 +151,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "Salesforce发布温和指引，加剧市场对AI颠覆软件业的担忧",
+          "url": "https://wallstreetcn.com/livenews/3110247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "墨西哥央行行长Rodriguez：预计经济将在二季度重拾增长趋势。",
@@ -142,7 +176,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         },
@@ -153,7 +187,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         },
@@ -164,9 +198,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "美联储理事库克：要看到经济中因人工智能带来的结构性变化可能需要很长时间。",
+          "url": "https://flash.jin10.com/detail/20260528043829957800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
           "title": "戴蒙预计摩根大通二季度市场业务收入增长11%或更高",
@@ -178,6 +223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "新西兰联储主席Anna Breman：正在密切关注“高成本与通胀导致的更疲软的需求”将在多大程度上抑制其他商品的价格上涨。 新西兰经济的某些部分表现依然良好，其中包括农业以及制造业的部分领域。 听说以出口为导向的企业目前经营状况良好，但它们对充满不确定性的外部环境感到担忧。",
+          "url": "https://wallstreetcn.com/livenews/3110254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
           "title": "美国银行CEO Moynihan：预计二季度交易收入同比将增长15%。 二季度财富增速将处于10%-20%区间的低端。",
