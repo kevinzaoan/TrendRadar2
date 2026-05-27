@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-05-28T05:54:48.571284+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-05-28T07:17:35.558487+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3773196",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 05时54分]"
-        },
         {
           "title": "AI大行其道,古法PS吧没落",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354633&amp;topic_name=AI%E5%A4%A7%E8%A1%8C%E5%85%B6%E9%81%93%2C%E5%8F%A4%E6%B3%95PS%E5%90%A7%E6%B2%A1%E8%90%BD",
@@ -27,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 05时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 07时17分]"
         },
         {
           "title": "【焦点复盘】科创50冲高回落跌2.8%，机器人概念遭重挫，夏季用电高峰引爆电力股",
@@ -36,6 +24,18 @@
           "source": "财联社热门",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 07时17分]"
+        },
+        {
+          "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -60,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 05时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 07时17分]"
         },
         {
           "title": "武契奇观看机器人跳塞尔维亚舞蹈：跳得比我还好",
@@ -71,8 +71,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 05时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 07时17分]"
         },
         {
           "title": "野生vs养殖,AI大战鲤鱼图",
@@ -82,8 +82,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 05时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 07时17分]"
         },
         {
           "title": "AI坑爹,棒球名帅丢饭碗",
@@ -93,8 +93,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 05时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 07时17分]"
         },
         {
           "title": "微软被曝将弃用 Claude，是因成本过高还是已掌握核心技术？",
@@ -102,11 +102,35 @@
           "source": "知乎",
           "ranks": [
             18,
-            12
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 07时17分]"
+        },
+        {
+          "title": "如何评价刘强东称不会开除被机器人取代的员工，已启动项目帮助蓝领工人白领化？真能做到吗？能在业内推广吗？",
+          "url": "https://www.zhihu.com/question/2043061551347622195",
+          "source": "知乎",
+          "ranks": [
+            16,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时25分 ~ 05时54分]"
+          "time_info": "[05时54分 ~ 07时17分]"
+        },
+        {
+          "title": "美国“散户大本营”开闸：股民可接入第三方智能体 让AI替自己炒股",
+          "url": "https://www.cls.cn/detail/2383460",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "Meta将推出AI聊天机器人订阅服务，月费最低7.99美元",
@@ -120,26 +144,48 @@
           "time_info": "03时25分"
         },
         {
+          "title": "中信证券：“AI+能化”构成今年杠铃配置结构",
+          "url": "https://wallstreetcn.com/livenews/3110288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
           "title": "美联储理事库克：可能需要长时间地观察AI对经济的结构性改变。",
           "url": "https://wallstreetcn.com/livenews/3110262",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         },
         {
-          "title": "如何评价刘强东称不会开除被机器人取代的员工，已启动项目帮助蓝领工人白领化？真能做到吗？能在业内推广吗？",
-          "url": "https://www.zhihu.com/question/2043061551347622195",
-          "source": "知乎",
+          "title": "报道：Meta拟成立新部门 为企业客户定制AI服务",
+          "url": "https://wallstreetcn.com/livenews/3110284",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时54分"
+          "time_info": "07时17分"
+        },
+        {
+          "title": "Asahi Kasei等将投资日本软银集团AI风投公司。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3110280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "AI编程公司Cognition按260亿美元估值融资10亿美元",
@@ -159,7 +205,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         }
@@ -167,7 +213,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "墨西哥央行行长Rodriguez：预计经济将在二季度重拾增长趋势。",
@@ -179,6 +225,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "多地发力票根经济，推动“流量”转化为“留量”",
+          "url": "https://wallstreetcn.com/livenews/3110298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "墨西哥央行下调今年经济增速预期",
@@ -209,7 +266,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         },
@@ -231,7 +288,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         },
