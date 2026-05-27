@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T17:44:57.980823+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-05-27T20:52:29.578109+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 29,
+      "match_count": 37,
       "titles": [
         {
           "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时19分 ~ 17时44分]"
+          "appearance_count": 5,
+          "time_info": "[06时19分 ~ 20时52分]"
         },
         {
           "title": "中国机器人正在创造下一个奇迹",
@@ -55,6 +56,19 @@
           "time_info": "[02时25分 ~ 06时19分]"
         },
         {
+          "title": "AI吸附挂泛滥,力度碾压端游",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时25分 ~ 20时52分]"
+        },
+        {
           "title": "野村上调日本东证指数和日经指数目标位，看好业绩和AI板块增长",
           "url": "https://wallstreetcn.com/livenews/3109696",
           "source": "华尔街见闻-快讯",
@@ -66,19 +80,6 @@
           "time_info": "08时04分"
         },
         {
-          "title": "AI吸附挂泛滥,力度碾压端游",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时25分 ~ 17时44分]"
-        },
-        {
           "title": "中信建投：机器人是AI最好的物理载体之一，看好板块行情演绎",
           "url": "https://wallstreetcn.com/livenews/3109694",
           "source": "华尔街见闻-快讯",
@@ -88,6 +89,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "AI大行其道,古法PS吧没落",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354633&amp;topic_name=AI%E5%A4%A7%E8%A1%8C%E5%85%B6%E9%81%93%2C%E5%8F%A4%E6%B3%95PS%E5%90%A7%E6%B2%A1%E8%90%BD",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "全球人形机器人约90%来自中国",
@@ -119,11 +131,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 20时52分]"
         },
         {
           "title": "一人之下被指用AI作画",
@@ -138,6 +151,18 @@
           "time_info": "[02时25分 ~ 06时19分]"
         },
         {
+          "title": "野生vs养殖,AI大战鲤鱼图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 20时52分]"
+        },
+        {
           "title": "如何评价 comma.ai 创始人 George Hotz 断言 AI 编程 Agent 无法真正编程？",
           "url": "https://www.zhihu.com/question/2042336304244019752",
           "source": "知乎",
@@ -148,6 +173,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 04时53分]"
+        },
+        {
+          "title": "AI热潮推动下，美股期指涨幅扩大，盘前美光涨近10%，石油股下跌，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "【焦点复盘】科创50冲高回落跌2.8%，机器人概念遭重挫，夏季用电高峰引爆电力股",
+          "url": "https://www.cls.cn/detail/2383049",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "消息人士：软银聘请高盛、摩根大通、瑞穗银行和摩根士丹利协助进行机器人公司ROZE的IPO。",
@@ -161,17 +208,6 @@
           "time_info": "02时25分"
         },
         {
-          "title": "野生vs养殖,AI大战鲤鱼图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
           "title": "多家AI回应高考期间是否禁用解题",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6AI%E5%9B%9E%E5%BA%94%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E6%98%AF%E5%90%A6%E7%A6%81%E7%94%A8%E8%A7%A3%E9%A2%98%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -181,6 +217,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        },
+        {
+          "title": "武契奇观看机器人跳塞尔维亚舞蹈：跳得比我还好",
+          "url": "https://v.ifeng.com/c/8tSk6lTs1YR",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "中信建投：机器人是AI最好的物理载体之一，看好板块行情演绎",
@@ -200,9 +247,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
+        },
+        {
+          "title": "快手程一笑：一季度快手AI漫剧营销消耗同比增长超100倍",
+          "url": "https://wallstreetcn.com/livenews/3110080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "“港版纳指”掉队，恒生科技指数迎来“AI化”重估",
@@ -222,7 +280,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -244,9 +302,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
+        },
+        {
+          "title": "速腾聚创Q1营收同比增近四成，机器人激光雷达销量首超ADAS",
+          "url": "https://wallstreetcn.com/livenews/3110073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "AI热潮重塑华尔街预期！高盛看高标普500指数至8000点",
@@ -255,7 +324,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -288,9 +357,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
+        },
+        {
+          "title": "快手创始人兼CEO程一笑：可灵AI 3月ARR近5亿美元 较去年同期增长4倍",
+          "url": "https://flash.jin10.com/detail/20260527200727558800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "交易员寻猎AI赢家，目光投向日本调味品巨头",
@@ -310,7 +390,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -321,7 +401,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -335,12 +415,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        },
+        {
+          "title": "快手创始人兼CEO程一笑：一季度快手AI漫剧营销消耗同比增长超100倍",
+          "url": "https://flash.jin10.com/detail/20260527200333613800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美以伊战争启示录｜5万 vs 200万：无人机的经济消耗战重塑军事逻辑",
@@ -361,7 +452,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -374,8 +465,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 20时52分]"
         },
         {
           "title": "Zscaler第三财季营收8.505亿美元，分析师预期8.353亿美元。 第三财季年化持续经营收入35.3亿美元，分析师预期35.1亿美元。 第三财季调整后EPS为1.08美元，分析师预期1.01美元。 预计第四财季营收8.75亿-8.78亿美元，分析师预期8.791亿美元。 Zscaler美股盘后跌9%。",
@@ -390,6 +481,17 @@
           "time_info": "[04时53分 ~ 06时19分]"
         },
         {
+          "title": "欧洲央行副行长金多斯：6月会议必须考虑伊朗战争对经济增长的影响",
+          "url": "https://wallstreetcn.com/livenews/3110077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "伊朗寻求经济纾困，但避免让特朗普宣告胜利",
           "url": "https://flash.jin10.com/detail/20260527072115517800",
           "source": "金十数据",
@@ -399,6 +501,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "国家发展改革委与巴基斯坦计划发展部签署深化经济发展领域交流合作谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3110071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "美国贸易代表格里尔：美国有意改善《非洲增长与机会法案》，以更好地惠及美国，并使非洲经济与美国更加紧密联系。",
@@ -418,7 +531,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         }
