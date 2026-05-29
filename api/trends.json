@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T15:56:02.938299+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2026-05-29T19:31:02.700563+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
         {
           "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
@@ -23,11 +23,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354688&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A1%97%E5%A4%B4%E6%9A%B4%E6%8F%8D%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 15时56分]"
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 19时31分]"
         },
         {
           "title": "一起来天津看工业机器人“天团”",
@@ -37,8 +38,44 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 19时31分]"
+        },
+        {
+          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
+          "url": "https://wallstreetcn.com/articles/3773407",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时33分 ~ 19时31分]"
+        },
+        {
+          "title": "存储三巨头参投 全球AI公司估值天花板触达万亿美金 纯烧钱项目正遭资本摒弃",
+          "url": "https://www.cls.cn/detail/2385245",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 19时31分]"
+        },
+        {
+          "title": "如何看待 5 月 29 日发布的 Claude4.8Opus 疑似大量蒸馏国内开源模型？",
+          "url": "https://www.zhihu.com/question/2043515093007303790",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时55分 ~ 15时56分]"
+          "time_info": "[19时29分 ~ 19时31分]"
         },
         {
           "title": "高盛重磅预测：AI下半场将从芯片转向人形机器人",
@@ -53,6 +90,30 @@
           "time_info": "[02时36分 ~ 11时34分]"
         },
         {
+          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773393",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时33分 ~ 19时31分]"
+        },
+        {
+          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
+          "url": "https://wallstreetcn.com/articles/3773387",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时33分 ~ 19时31分]"
+        },
+        {
           "title": "AI会带来怎样的社会变革",
           "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%B8%A6%E6%9D%A5%E6%80%8E%E6%A0%B7%E7%9A%84%E7%A4%BE%E4%BC%9A%E5%8F%98%E9%9D%A9",
           "source": "bilibili 热搜",
@@ -64,18 +125,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时36分 ~ 11时34分]"
-        },
-        {
-          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
-          "url": "https://wallstreetcn.com/articles/3773407",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时33分 ~ 15时56分]"
         },
         {
           "title": "claude opus 4.8 发布了，相较于 opus4.7，有什么提升的地方？",
@@ -160,27 +209,17 @@
           "time_info": "07时17分"
         },
         {
-          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773393",
-          "source": "华尔街见闻",
+          "title": "AI眼镜的“iPhone时刻”快来了吗",
+          "url": "https://www.cls.cn/detail/2385164",
+          "source": "财联社热门",
           "ranks": [
+            11,
             8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时33分 ~ 15时56分]"
-        },
-        {
-          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
-          "url": "https://wallstreetcn.com/articles/3773387",
-          "source": "华尔街见闻",
-          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时33分 ~ 15时56分]"
+          "time_info": "[15时55分 ~ 19时31分]"
         },
         {
           "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
@@ -205,6 +244,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时33分 ~ 15时56分]"
+        },
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 19时31分]"
         },
         {
           "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
@@ -308,26 +358,15 @@
           "time_info": "[11时33分 ~ 11时34分]"
         },
         {
-          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
-          "url": "https://wallstreetcn.com/articles/3773389",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 15时56分]"
-        },
-        {
-          "title": "AI眼镜的“iPhone时刻”快来了吗",
-          "url": "https://www.cls.cn/detail/2385164",
-          "source": "财联社热门",
+          "title": "“广东高考将用AI批卷”不实",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%B0%86%E7%94%A8AI%E6%89%B9%E5%8D%B7%E2%80%9D%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时55分 ~ 15时56分]"
+          "time_info": "[19时29分 ~ 19时31分]"
         },
         {
           "title": "目前超级电容器、MLPC的规模、营收占比及其在AI服务器电源上的应用都较小！2连板PCB概念股发布异动公告|盘后公告集锦",
@@ -352,15 +391,15 @@
           "time_info": "[15时55分 ~ 15时56分]"
         },
         {
-          "title": "存储三巨头参投 全球AI公司估值天花板触达万亿美金 纯烧钱项目正遭资本摒弃",
-          "url": "https://www.cls.cn/detail/2385245",
-          "source": "财联社热门",
+          "title": "官方出手,AI吸附遭刑事打击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "贴吧",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时55分 ~ 15时56分]"
+          "time_info": "[19时29分 ~ 19时31分]"
         },
         {
           "title": "OpenAI的Codex怎么玩",
@@ -446,7 +485,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         },
@@ -504,6 +543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "字节跳动AI4S团队调整，由杨震原负责管理",
+          "url": "https://wallstreetcn.com/livenews/3111381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "闪迪CTO：新型AI内存HBF将在年底送样，配备控制器的完整产品预计于明年正式推出。",
@@ -575,8 +625,19 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 9,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "工信部：前四个月我国软件业务收入同比增长10.9%",
+          "url": "https://wallstreetcn.com/livenews/3111405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
         {
           "title": "T1经济落后5000翻盘",
           "url": "https://search.bilibili.com/all?keyword=T1%E7%BB%8F%E6%B5%8E%E8%90%BD%E5%90%8E5000%E7%BF%BB%E7%9B%98",
@@ -596,9 +657,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
+        },
+        {
+          "title": "意大利一季度经济数据意外上修",
+          "url": "https://flash.jin10.com/detail/20260529190727402800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "Anthropic：本月初我们的年化收入超过了470亿美元。",
@@ -612,13 +684,24 @@
           "time_info": "02时36分"
         },
         {
+          "title": "美联储施密德：还有时间观察战争对经济的影响。",
+          "url": "https://flash.jin10.com/detail/20260529190514036800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "商务部副部长兼国际贸易谈判副代表凌激出席中德经济界圆桌会并致辞",
           "url": "https://wallstreetcn.com/livenews/3111234",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         },
@@ -640,7 +723,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         },
@@ -656,13 +739,24 @@
           "time_info": "02时36分"
         },
         {
+          "title": "捷克中央银行：预计今年经济增长2.5%；第一季度表现略弱，能源价格高企的负面影响风险增加，最终GDP增长可能会低于预期。",
+          "url": "https://flash.jin10.com/detail/20260529190034980800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "瑞士5月KOF经济领先指标 98，预期 98，前值 97.9。",
           "url": "https://wallstreetcn.com/livenews/3111218",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         },
@@ -676,6 +770,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "英国央行行长贝利：英国央行可容许通胀短暂超标 以支持疲弱经济",
+          "url": "https://wallstreetcn.com/livenews/3111374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "工信部：1-4月我国规上互联网企业完成互联网业务收入6874亿元，同比增长9.9%",
+          "url": "https://wallstreetcn.com/livenews/3111369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "工信部：前4个月我国软件业务收入46686亿元，同比增长10.9%",
+          "url": "https://wallstreetcn.com/livenews/3111368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         }
       ]
     },
