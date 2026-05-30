@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T01:05:01.956760+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-31T03:15:22.893084+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时15分]"
         },
         {
           "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
           "url": "https://wallstreetcn.com/articles/3773482",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时15分]"
         },
         {
           "title": "美国人形机器人被曝已投入俄乌战场 军事专家：基本不能打仗",
@@ -36,20 +37,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时15分]"
         },
         {
           "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
           "url": "https://wallstreetcn.com/articles/3773496",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时15分]"
         },
         {
           "title": "中信证券：坚定看好特斯拉机器人以及供应链企业",
@@ -59,19 +61,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时15分]"
         },
         {
           "title": "美军人形机器人已实战部署",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%B2%E5%AE%9E%E6%88%98%E9%83%A8%E7%BD%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时15分]"
         },
         {
           "title": "美国年轻人街头暴揍机器人",
@@ -81,8 +84,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时15分]"
         },
         {
           "title": "一个月烧掉5亿美元！科技巨头“AI Token消耗赛”踩下急刹",
@@ -92,8 +95,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时15分]"
         },
         {
           "title": "官方出手,AI吸附遭刑事打击",
@@ -103,19 +106,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时15分]"
         },
         {
           "title": "用AI整理会议记录导致泄密",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8AI%E6%95%B4%E7%90%86%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95%E5%AF%BC%E8%87%B4%E6%B3%84%E5%AF%86%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时15分]"
         },
         {
           "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
@@ -124,9 +128,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时15分]"
         }
       ]
     },
@@ -142,8 +146,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时15分]"
         },
         {
           "title": "《广东省低空经济发展条例（征求意见稿）》公开征求意见",
@@ -152,7 +156,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
         }
