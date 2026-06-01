@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T04:20:33.651359+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-02T07:02:09.676537+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 17,
+      "match_count": 25,
       "titles": [
         {
           "title": "英伟达GTC ：Vera Rubin全面量产，杀入PC芯片市场，携宇树布局机器人",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 07时02分]"
         },
         {
           "title": "73天！宇树科技科创板IPO过会 A股人形机器人第一股将至",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 07时02分]"
         },
         {
           "title": "黄仁勋联手宇树打造1.8米机器人",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 07时02分]"
         },
         {
           "title": "AI芯片出口被卡死，美国“堵漏洞”盯上中企海外子公司",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 07时02分]"
         },
         {
           "title": "黄仁勋联手宇树打造1.8米机器人",
@@ -59,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 07时02分]"
         },
         {
           "title": "【每日收评】科创50指数再跌5%，AI硬件、半导体延续调整，AI应用逆势爆发",
@@ -70,30 +70,76 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 07时02分]"
+        },
+        {
+          "title": "中东局势与AI热潮交织，标普八连涨再新高，英伟达大涨",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 07时02分]"
         },
         {
           "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
           "url": "https://wallstreetcn.com/articles/3773561",
           "source": "华尔街见闻",
           "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 07时02分]"
+        },
+        {
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
+          "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 07时02分]"
         },
         {
           "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2387523",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 07时02分]"
+        },
+        {
+          "title": "黄仁勋官宣联手宇树造参考人形机器人",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%AE%98%E5%AE%A3%E8%81%94%E6%89%8B%E5%AE%87%E6%A0%91%E9%80%A0%E5%8F%82%E8%80%83%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 07时02分]"
+        },
+        {
+          "title": "端侧AI驱动下一轮增长，国产存储芯片迎新机遇",
+          "url": "https://wallstreetcn.com/livenews/3112670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时20分"
+          "time_info": "07时02分"
         },
         {
           "title": "Anthropic已提交IPO申请 OpenAI创始人称不争首家“头衔”",
@@ -107,15 +153,26 @@
           "time_info": "04时20分"
         },
         {
-          "title": "AI坑健身小白买20kg哑铃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
-          "source": "贴吧",
+          "title": "Anthropic抢跑IPO的先发优势将扩大其对OpenAI的领先地位",
+          "url": "https://wallstreetcn.com/livenews/3112665",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时20分"
+          "time_info": "07时02分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：OpenAI的GPT-5.5、GPT-5.4及Codex现已登陆Amazon Bedrock。",
+          "url": "https://flash.jin10.com/detail/20260602053510657800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "OpenAI：BARN项目预计在租赁期内产生10亿美元的税收收入。",
@@ -162,6 +219,17 @@
           "time_info": "04时20分"
         },
         {
+          "title": "Alphabet(GOOG.O)：AI需求已超出公司现有供应能力。公司正面临来自企业和消费者对人工智能解决方案的强劲需求。",
+          "url": "https://flash.jin10.com/detail/20260602050120532800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "Altman：人们对AI感到焦虑是正确的。",
           "url": "https://wallstreetcn.com/livenews/3112614",
           "source": "华尔街见闻-快讯",
@@ -193,12 +261,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "伯克希尔对谷歌母公司投资100亿美元，加大对AI的押注",
+          "url": "https://wallstreetcn.com/livenews/3112644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)募资以扩建AI基础设施及算力。",
+          "url": "https://flash.jin10.com/detail/20260602044358873800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "经济日报：华为韬定律为何出道即顶流",
@@ -208,30 +298,43 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 07时02分]"
         },
         {
           "title": "深圳网约车市场饱和，官方发布风险提示，从经济学角度如何理解？有没有跑网约车的朋友聊聊现在还能赚到钱吗？",
           "url": "https://www.zhihu.com/question/2044417529158882132",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 07时02分]"
         },
         {
           "title": "5 月份我国制造业 PMI 恰好位于 50.0% 临界点，反映出当前经济形势的哪些特点？",
           "url": "https://www.zhihu.com/question/2044467654786798701",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 07时02分]"
+        },
+        {
+          "title": "澳大利亚农业资源经济科学局：预计2025/26年度棉花产量为100万吨，较2024/25年度下降16%。预计2026/27年度大麦产量将达1410万吨，较2025/26年度下降15%。预计2026/27年度油菜籽产量将达620万吨，较2025/26年度下降20%。预计2026/27年度小麦产量为2670万吨，较2025/26年度下降26%。",
+          "url": "https://flash.jin10.com/detail/20260602060218835800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时20分"
+          "time_info": "07时02分"
         }
       ]
     }
