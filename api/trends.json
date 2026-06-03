@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T12:03:49.095217+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2026-06-03T17:25:18.411994+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 28,
+      "match_count": 37,
       "titles": [
         {
           "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
@@ -42,6 +42,17 @@
           "time_info": "[01时23分 ~ 07时02分]"
         },
         {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 17时25分]"
+        },
+        {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
           "url": "https://www.cls.cn/detail/2388968",
           "source": "财联社热门",
@@ -59,22 +70,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 12时03分]"
-        },
-        {
-          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 17时25分]"
         },
         {
           "title": "美国众议院推出跨党派立法草案，建议在AI繁荣期保护作者，Adobe支持这样的建议。（Axios）",
@@ -110,6 +111,28 @@
           "time_info": "01时23分"
         },
         {
+          "title": "英特尔美股盘前涨超4%，新处理器Xeon 6 Plus亮相，进军AI整机柜市场。",
+          "url": "https://wallstreetcn.com/livenews/3113678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "AI脸泛滥成灾,建模师没活了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "AI坑健身小白买20kg哑铃",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
           "source": "贴吧",
@@ -122,6 +145,18 @@
           "time_info": "[01时23分 ~ 12时03分]"
         },
         {
+          "title": "网传一些公司因为 token 太贵开始限额了，会重返「古法编程」吗？AI 全栈可行性如何，只适合大公司吗？",
+          "url": "https://www.zhihu.com/question/2045210107105862467",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 17时25分]"
+        },
+        {
           "title": "我用AI做了祖国人胜利结局",
           "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E7%A5%96%E5%9B%BD%E4%BA%BA%E8%83%9C%E5%88%A9%E7%BB%93%E5%B1%80",
           "source": "bilibili 热搜",
@@ -132,6 +167,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 04时48分]"
+        },
+        {
+          "title": "“订单处于历史较高水平”！数据中心、AI开辟新应用场景 超级电容进入高景气周期",
+          "url": "https://www.cls.cn/detail/2389349",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "周二（6月2日），美股AI软件先驱指数跌3.37%，报128.60点。",
@@ -154,6 +200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "AI脸 生理性厌恶",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%84%B8%20%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫",
@@ -195,7 +252,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -228,20 +285,53 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
         {
-          "title": "网传一些公司因为 token 太贵开始限额了，会重返「古法编程」吗？AI 全栈可行性如何，只适合大公司吗？",
-          "url": "https://www.zhihu.com/question/2045210107105862467",
-          "source": "知乎",
+          "title": "男童被机器人踢中腹部痛苦倒地",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B8%A2%E4%B8%AD%E8%85%B9%E9%83%A8%E7%97%9B%E8%8B%A6%E5%80%92%E5%9C%B0%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            14
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "17时25分"
+        },
+        {
+          "title": "网民利用AI造谣“女子搭乘地铁遭掀裙摆”，被长沙警方行政拘留7日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33291195",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "三大科技明星企业扎堆IPO：SpaceX之后，Anthropic要领先OpenAI了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33292456",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "英飞凌推出经认证TPM解决方案，携手英伟达Jetson Thor平台，提升物理AI系统应对量子时代威胁的安全防护能力。",
+          "url": "https://flash.jin10.com/detail/20260603170605520800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "OpenAI的CEO Altman将于周三会见美国白宫高级官员。（Politico）",
@@ -261,7 +351,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -272,7 +362,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -288,13 +378,24 @@
           "time_info": "04时48分"
         },
         {
+          "title": "男童被机器人踢中腹部倒地 母亲报警",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B8%A2%E4%B8%AD%E8%85%B9%E9%83%A8%E5%80%92%E5%9C%B0+%E6%AF%8D%E4%BA%B2%E6%8A%A5%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "腾讯：目前无法确定微信AI智能体何时推出",
           "url": "https://wallstreetcn.com/livenews/3113439",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -316,7 +417,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         }
@@ -324,19 +425,8 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 4,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "印度高温会否影响经济发展",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9%E4%BC%9A%E5%90%A6%E5%BD%B1%E5%93%8D%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：（谈汽油价格）价格正在下降。",
           "url": "https://flash.jin10.com/detail/20260603043859573800",
@@ -349,15 +439,137 @@
           "time_info": "04时48分"
         },
         {
+          "title": "日本央行行长植田和男：很难确定中性利率的确切水平，我们将仔细观察日本经济对短期利率变化的反应。",
+          "url": "https://flash.jin10.com/detail/20260603171849056800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "俄罗斯财政部：俄罗斯政府5月来自石油和天然气销售的预算收入为6,789亿卢布，4月为8,556亿卢布。",
+          "url": "https://flash.jin10.com/detail/20260603171743850800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "印度高温会否影响经济发展",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9%E4%BC%9A%E5%90%A6%E5%BD%B1%E5%93%8D%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 17时25分]"
+        },
+        {
+          "title": "第29届圣彼得堡国际经济论坛开幕",
+          "url": "https://wallstreetcn.com/livenews/3113675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "日本央行行长植田和男：我们将通过仔细审视经济、价格实现我们预测的可能性以及风险，来决定未来加息的步伐，同时关注中东冲突的影响。",
+          "url": "https://flash.jin10.com/detail/20260603171634553800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "日本央行行长植田和男：（被问及6月加息的可能性）如果我们判断通胀风险大于经济下行风险，我们将探讨加息的利弊。",
+          "url": "https://flash.jin10.com/detail/20260603171431674800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "日本央行行长植田和男：许多企业指出，劳动力短缺、原材料等价格飙升，而非融资利率上升，是制约增长性投资的潜在障碍。 尽管迄今为止已经加息，日本的金融和经济活动并未受到抑制。 宽松的金融环境为经济活动提供了有力支撑。 中东局势对企业融资状况的影响似乎有限。",
+          "url": "https://wallstreetcn.com/livenews/3113667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "日本央行行长植田和男：需要特别关注实际物价上涨是否会推高公众的通胀预期，导致基础CPI通胀率偏离2%的目标并上行。 近期长期利率的上升反映了市场通胀预期的超调。 虽然需关注经济下行风险，但日本央行更需关注通胀上行风险的实现及其对经济造成的负面影响。",
+          "url": "https://wallstreetcn.com/livenews/3113666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "惠誉：新西兰提前恢复盈余仍取决于经济增长。",
           "url": "https://flash.jin10.com/detail/20260603111435508800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "瑞士央行行长：全球经济增长可能会暂时放缓，不确定性明显加大。",
+          "url": "https://flash.jin10.com/detail/20260603171230183800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "知乎：第一季度总收入6.52亿元 上年同期7.3亿元",
+          "url": "https://wallstreetcn.com/livenews/3113659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "日本央行行长植田和男：如果中东动荡持续，可能会加大供应冲击影响潜在通胀的可能性。 价格传导的速度相比过去可能有所加快。 日本的实际利率仍然较低。 与其他主要经济体相比，日本的状况更容易让二次效应导致潜在通胀超预期。 根据目前的数据和相关信息，整体来看价格上行风险更大，并且可能更早出现。 目前的价格上涨可能并非暂时现象，可能导致潜在通胀超预期。 通胀超预期可能会损害经济，因为这会削弱家庭的购买力。",
+          "url": "https://wallstreetcn.com/livenews/3113654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "中美低空经济将在塞尔维亚打擂台吗",
@@ -369,6 +581,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "日本央行行长植田和男：私人消费有望继续受到工资增长和政府措施的支撑。 没有迹象显示过去的加息正在抑制企业资金需求。 宽松的金融环境正在支持经济活动。 不仅大型企业，较小企业也同意了大约5%的工资增长率。",
+          "url": "https://wallstreetcn.com/livenews/3113651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "日本央行行长植田和男：不能排除供应链出现大规模中断的可能性，这将对日本企业的生产活动产生重大影响。 将仔细审视日本经济是否有能力抵御来自中东冲突的负面冲击，避免经济急剧恶化。 日本的出口和产出总体持平，但电子零部件和芯片的产出表现出较强韧性，这对于避免严重风险情景来说非常重要。",
+          "url": "https://wallstreetcn.com/livenews/3113650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "日本央行行长植田和男：随着日本央行逐步减少国债购买规模，日本国债市场的流动性正在稳步改善。 预计经济将继续温和增长，尽管增速有所放缓，但仍有望受到企业高利润、各类经济政策措施以及宽松金融环境的支撑。 CPI同比涨幅预计将大幅上升，尤其是在2026财年。 日本央行必须关注国债市场的稳定，银行的资产组合调整及个人投资者的反应预计还需一段时间。 经济和物价前景本身可能会因未来中东局势及其他因素的发展而发生重大变化，这值得关注。",
+          "url": "https://wallstreetcn.com/livenews/3113647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     }
