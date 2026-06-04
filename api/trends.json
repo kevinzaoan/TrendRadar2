@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T01:49:48.542513+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-05T04:06:17.253710+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
-        },
-        {
-          "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
-          "url": "https://www.zhihu.com/question/2045546609027408734",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 04时06分]"
         },
         {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：随着时间的推移，AI可以压低通胀。 还没有看到AI大规模提升生产力。",
@@ -41,6 +30,18 @@
           "time_info": "01时49分"
         },
         {
+          "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
+          "url": "https://www.zhihu.com/question/2045546609027408734",
+          "source": "知乎",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 04时06分]"
+        },
+        {
           "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
           "url": "https://wallstreetcn.com/articles/3773812",
           "source": "华尔街见闻",
@@ -48,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 04时06分]"
         },
         {
           "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
@@ -59,19 +60,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 04时06分]"
         },
         {
-          "title": "巴克莱调查：固定收益投资者中使用AI最多的是对冲基金",
-          "url": "https://wallstreetcn.com/livenews/3114564",
-          "source": "华尔街见闻-快讯",
+          "title": "AI交易降温，纳指跌超1%，博通大跌14%，金涨油跌，比特币承压",
+          "url": "https://wallstreetcn.com/articles/3773843",
+          "source": "华尔街见闻",
           "ranks": [
+            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 04时06分]"
         },
         {
           "title": "人形机器人集体降价",
@@ -81,19 +83,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
-        },
-        {
-          "title": "AI交易降温，纳指跌超1%，博通大跌14%，金涨油跌，比特币承压",
-          "url": "https://wallstreetcn.com/articles/3773843",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 04时06分]"
         },
         {
           "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
@@ -103,8 +94,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 04时06分]"
         },
         {
           "title": "英伟达又“带飞”一股：纳微半导体收涨19%，押注800V AI电源革命",
@@ -114,30 +105,44 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 04时06分]"
         },
         {
           "title": "AI 动画公司能否在一年内替代大部分传统动画公司？",
           "url": "https://www.zhihu.com/question/13090511317",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 04时06分]"
+        },
+        {
+          "title": "好怕现实中也有人长AI这样",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E6%80%95%E7%8E%B0%E5%AE%9E%E4%B8%AD%E4%B9%9F%E6%9C%89%E4%BA%BA%E9%95%BFAI%E8%BF%99%E6%A0%B7&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 04时06分]"
         },
         {
           "title": "中国机器人亮相美国达人秀",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 04时06分]"
         },
         {
           "title": "男子AI写歌月收入十几万",
@@ -147,19 +152,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
-        },
-        {
-          "title": "好怕现实中也有人长AI这样",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E6%80%95%E7%8E%B0%E5%AE%9E%E4%B8%AD%E4%B9%9F%E6%9C%89%E4%BA%BA%E9%95%BFAI%E8%BF%99%E6%A0%B7&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 04时06分]"
         },
         {
           "title": "AI脸泛滥成灾,建模师没活了",
@@ -167,6 +161,17 @@
           "source": "贴吧",
           "ranks": [
             19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 04时06分]"
+        },
+        {
+          "title": "巴克莱调查：固定收益投资者中使用AI最多的是对冲基金",
+          "url": "https://wallstreetcn.com/livenews/3114564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -198,7 +203,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美联储Schmid：美国经济形势良好。",
@@ -212,22 +217,34 @@
           "time_info": "01时49分"
         },
         {
-          "title": "美联储施密德：数据显示经济运行状况良好。",
-          "url": "https://flash.jin10.com/detail/20260605013239878800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
-        },
-        {
           "title": "美方拟对 60 个经济体加征关税，对中国征收 12.5% 的额外关税，该提案会被通过吗？影响有多大？",
           "url": "https://www.zhihu.com/question/2045806304581480535",
           "source": "知乎",
           "ranks": [
             11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 04时06分]"
+        },
+        {
+          "title": "高盛发布世界杯预测报告，模型显示西班牙以 26% 概率成为最大夺冠热门，用经济模型预测足球比赛可靠吗？",
+          "url": "https://www.zhihu.com/question/2045154297281827321",
+          "source": "知乎",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 04时06分]"
+        },
+        {
+          "title": "美联储施密德：数据显示经济运行状况良好。",
+          "url": "https://flash.jin10.com/detail/20260605013239878800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -245,15 +262,15 @@
           "time_info": "01时49分"
         },
         {
-          "title": "高盛发布世界杯预测报告，模型显示西班牙以 26% 概率成为最大夺冠热门，用经济模型预测足球比赛可靠吗？",
-          "url": "https://www.zhihu.com/question/2045154297281827321",
-          "source": "知乎",
+          "title": "阿根廷经济部长Luis Caputo：阿根廷批准RIGI投资方案中的两个项目，价值大约15.1亿美元。 San Matias天然气管道涉及13亿美元投资，将从Neuquen向Rio Negro输送2700万立方米/日的天然气。 Posco在Sal de Oro Lithium项目的第二阶段涉及0.2亿美元投资。",
+          "url": "https://wallstreetcn.com/livenews/3114581",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时49分"
+          "time_info": "04时06分"
         }
       ]
     },
