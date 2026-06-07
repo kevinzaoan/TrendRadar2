@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T02:05:00.041091+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-06-08T04:12:29.595784+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时12分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
@@ -27,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时12分]"
         },
         {
           "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
@@ -39,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时12分]"
         },
         {
           "title": "债券巨头买入债券，为AI泡沫破裂做准备",
@@ -48,11 +49,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时12分]"
         },
         {
           "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
@@ -62,8 +64,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时12分]"
         },
         {
           "title": "Anthropic警告AI失控",
@@ -113,8 +115,19 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "印度或将成全球第四大经济体",
+          "url": "https://www.douyin.com/hot/2525914",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
         {
           "title": "特朗普：经济好转不应导致加息 美国存在债务问题、还有很多其他问题需要处理",
           "url": "https://flash.jin10.com/detail/20260607220749081800",
