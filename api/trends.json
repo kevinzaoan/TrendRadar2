@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T13:51:04.937029+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-06-08T18:54:41.394062+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 19,
+      "match_count": 28,
       "titles": [
         {
           "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
@@ -83,6 +83,29 @@
           "time_info": "[08时07分 ~ 13时51分]"
         },
         {
+          "title": "北京高考英语作文：帮李华写信谈AI",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD%E4%BD%9C%E6%96%87%EF%BC%9A%E5%B8%AE%E6%9D%8E%E5%8D%8E%E5%86%99%E4%BF%A1%E8%B0%88AI",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "事关物理AI、机器人及AI工厂！英伟达与韩国斗山扩大合作",
+          "url": "https://www.cls.cn/detail/2393263",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 18时54分]"
+        },
+        {
           "title": "AI如何写全国I卷高考作文",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
           "source": "bilibili 热搜",
@@ -95,22 +118,23 @@
           "time_info": "[00时15分 ~ 08时08分]"
         },
         {
+          "title": "9款国内外主流AI大模型当“考生”写上海卷作文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329131",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 18时54分]"
+        },
+        {
           "title": "中外六大AI出战上海高考作文！《科创板日报》实测DeepSeek与谷歌Gemini夺魁",
           "url": "https://www.cls.cn/detail/2392919",
           "source": "财联社热门",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 13时51分]"
-        },
-        {
-          "title": "事关物理AI、机器人及AI工厂！英伟达与韩国斗山扩大合作",
-          "url": "https://www.cls.cn/detail/2393263",
-          "source": "财联社热门",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -139,15 +163,70 @@
           "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "9款国内外主流AI大模型当“考生”写上海卷作文",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33329131",
-          "source": "澎湃新闻",
+          "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
+          "url": "https://wallstreetcn.com/articles/3774087",
+          "source": "华尔街见闻",
           "ranks": [
-            18
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 13时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "SpaceX“世纪IPO”估值再引质疑！专家：实际低得多 AI业务离盈利还很远",
+          "url": "https://www.cls.cn/detail/2393282",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "创业板重挫超3%，芯片半导体集体下跌，机器人逆势拉升，恒科指跌超2%，沪银狂泻10%",
+          "url": "https://wallstreetcn.com/articles/3774065",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "【每日收评】沪指跌1.7%失守4000点，全市场超4500股收绿，物理AI概念逆势爆发",
+          "url": "https://www.cls.cn/detail/2393646",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "不少程序员为完成工作自费购买 AI Token 、变相付费上班，这算不算职场隐形降薪？",
+          "url": "https://www.zhihu.com/question/2047267736485631665",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "银行股和机器人板块为何逆市上涨",
+          "url": "https://www.toutiao.com/trending/7648941901596347923/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "字节Seed相关人士回应顾全全离职传闻：并非AI制药及预训练负责人",
@@ -156,9 +235,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
+        },
+        {
+          "title": "黄仁勋访韩第三日：首尔网吧会晤游戏巨头负责人，聚焦实体AI合作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329627",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "Doosan与英伟达将在AI工厂领域展开合作，其将与英伟达全面扩大在能源、电子材料及机器人业务领域的合作。（韩国News1）",
@@ -225,12 +315,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "中国人形机器人赢在哪",
+          "url": "https://www.toutiao.com/trending/7648898400540167722/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "印度或将成全球第四大经济体",
@@ -273,7 +374,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -300,6 +401,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "英国国防部：瑞典正牵头一项向乌克兰提供“鹰狮”战斗机的新协议。由于每架飞机超过30%的部件在英国制造，预计这将支持超过5000个就业岗位，并为经济带来5亿英镑的增长。",
+          "url": "https://flash.jin10.com/detail/20260608182229361800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "经济日报金观平：补短板强弱项建设海洋强国",
           "url": "https://wallstreetcn.com/livenews/3115661",
           "source": "华尔街见闻-快讯",
@@ -309,6 +421,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        },
+        {
+          "title": "【国家数据局：到2028年底 建成一批覆盖重点领域、经过应用验证的行业高质量数据集】国家数据局发布《关于推进行业高质量数据集建设行动的实施方案》，其中提到，到2028年底，建成一批覆盖重点领域、经过应用验证的行业高质量数据集，打造一批数据驱动人工智能创新发展的典型应用场景，培育一批具备领先优势的创新型数据企业和专业人才，形成一批行业高质量数据集建设工具和标准。数据从供给到价值释放的良性循环基本形成，数据赋能人工智能创新发展的作用更加凸显，数据产业与人工智能深度融合，持续催生智能经济新增长点。",
+          "url": "https://wallstreetcn.com/livenews/3116064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         }
       ]
     }
