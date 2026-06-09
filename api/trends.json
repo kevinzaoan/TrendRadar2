@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T13:06:26.239529+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-06-09T17:42:46.758397+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 47,
+      "match_count": 55,
       "titles": [
         {
           "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
@@ -66,6 +66,17 @@
           "time_info": "[01时53分 ~ 04时14分]"
         },
         {
+          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
+          "url": "https://wallstreetcn.com/articles/3774148",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 17时42分]"
+        },
+        {
           "title": "苹果公司：Siri AI将登陆iPadOS。 为watchOS打造专属Siri AI。 将Visual Intelligence（视觉智能）拓展至Mac。",
           "url": "https://wallstreetcn.com/livenews/3116305",
           "source": "华尔街见闻-快讯",
@@ -75,17 +86,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
-        },
-        {
-          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
-          "url": "https://wallstreetcn.com/articles/3774148",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
         },
         {
           "title": "苹果软件主管克雷格·费德里吉：苹果(AAPL.O)不会根据新版Siri AI系统的屏幕感知功能来投放广告。",
@@ -99,15 +99,37 @@
           "time_info": "04时14分"
         },
         {
+          "title": "2连20CM板格灵深瞳：公司不直接从事物理AI的产品及业务",
+          "url": "https://flash.jin10.com/detail/20260609172212616800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "怎么看诺奖得主联手 Claude，40 轮对话证出 12 年物理猜想?",
           "url": "https://www.zhihu.com/question/2047276929548604568",
           "source": "知乎",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
+        },
+        {
+          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
+          "url": "https://wallstreetcn.com/articles/3774181",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "苹果：我们利用谷歌Gemini来开发下一代基础人工智能模型。 推出由苹果智能技术驱动的全新Siri AI。 新的AI架构支持应用操作和屏幕感知功能。",
@@ -222,6 +244,29 @@
           "time_info": "[01时53分 ~ 08时06分]"
         },
         {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 17时42分]"
+        },
+        {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 17时42分]"
+        },
+        {
           "title": "创业板重挫超3%，芯片半导体集体下跌，机器人逆势拉升，恒科指跌超2%，沪银狂泻10%",
           "url": "https://wallstreetcn.com/articles/3774065",
           "source": "华尔街见闻",
@@ -277,37 +322,37 @@
           "time_info": "08时06分"
         },
         {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
-        },
-        {
           "title": "两部门：到2026年底人形机器人等重点产品在一批代表性场景中率先完成应用验证和常态部署 开启“作业模式”",
           "url": "https://www.cls.cn/detail/2394324",
           "source": "财联社热门",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
         {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
+          "title": "Siri AI补课两年终交卷 市场等待折叠iPhone“上桌”",
+          "url": "https://www.cls.cn/detail/2394424",
+          "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时06分"
+          "time_info": "17时42分"
+        },
+        {
+          "title": "美团发布AI浏览器Tabbit 1.0",
+          "url": "https://wallstreetcn.com/livenews/3116689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "6月9日投资避雷针：天娱数科、中望软件等公司密集澄清 没有物理AI业务",
@@ -316,7 +361,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -327,9 +372,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
+        },
+        {
+          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
+          "url": "https://www.cls.cn/detail/2394903",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
@@ -338,7 +394,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -349,7 +405,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -404,9 +460,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
+        },
+        {
+          "title": "优必选：优世界超仿生人形机器人首发预订单量累计超3000台",
+          "url": "https://flash.jin10.com/detail/20260609170450093800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "IDC：第一季度全球家用清洁机器人市场出货893.6万台，同比增长36.7%",
@@ -415,7 +482,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -475,6 +542,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "实景实训行动启动 人形机器人加速开启“作业模式”",
+          "url": "https://wallstreetcn.com/livenews/3116673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "苹果软件主管克雷格·费德里吉：苹果的私有云将使用三款由苹果自主研发的AI模型，这些模型是基于其与谷歌的合作开发的。",
           "url": "https://flash.jin10.com/detail/20260609031803675800",
           "source": "金十数据",
@@ -484,6 +562,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "中证协启动证券行业AI应用案例征集 涵盖六大类场景",
+          "url": "https://wallstreetcn.com/livenews/3116672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "库克最后一场WWDC：AI Siri登场",
@@ -503,7 +592,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -525,7 +614,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -564,7 +653,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -575,7 +664,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -605,8 +694,30 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "伊朗电力协会表示，他们正面临运营发电厂所需燃料短缺的问题。",
+          "url": "https://flash.jin10.com/detail/20260609172320129800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "印度钢铁厂1600摄氏度铁水泄露引发火灾，致8人被活活烧死",
+          "url": "https://v.ifeng.com/c/8tofl9UCp0F",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
         {
           "title": "据日经新闻：日本制铁将向美国钢铁(X.N)公司位于宾夕法尼亚州的综合设施投资至多25亿美元。",
           "url": "https://flash.jin10.com/detail/20260609033724034800",
