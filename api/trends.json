@@ -1,330 +1,99 @@
 {
-  "generated_at": "2026-06-11T22:36:40.801554+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2026-06-12T02:13:09.651935+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 36,
+      "match_count": 9,
       "titles": [
         {
-          "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33350280",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 18时23分]"
-        },
-        {
-          "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
-          "url": "https://www.cls.cn/detail/2396017",
+          "title": "一份研报引爆AI硬件“惊魂时刻”，CPO和800VDC故事要改写？",
+          "url": "https://www.cls.cn/detail/2397553",
           "source": "财联社热门",
           "ranks": [
-            3,
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 08时15分]"
-        },
-        {
-          "title": "于娜看到已故老公AI形象崩溃大哭",
-          "url": "https://www.toutiao.com/trending/7649760127175904777/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 13时29分]"
-        },
-        {
-          "title": "埃夫特：决定对旗下喷涂机器人全系列产品等实施价格调整 整体价格上调5%—8%",
-          "url": "https://flash.jin10.com/detail/20260611221323724800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "Crusoe Energy Systems LLC.：谷歌公司出现顾虑之后，公司位于美国怀俄明州的AI项目被搁置。 谷歌公司正与现存合作伙伴们讨论怀俄明州数据中心的使用事宜。 公司与潜在客户独家洽谈。 公司无法为怀俄明州设施锁定客户。",
-          "url": "https://wallstreetcn.com/livenews/3118246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "抖音AI创作大赛来了",
-          "url": "https://www.douyin.com/hot/2529851",
-          "source": "抖音",
-          "ranks": [
-            4,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时28分 ~ 22时36分]"
-        },
-        {
-          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
-          "url": "https://wallstreetcn.com/articles/3774282",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 08时15分]"
-        },
-        {
-          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
-          "url": "https://www.cls.cn/detail/2396831",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 18时23分]"
-        },
-        {
-          "title": "于娜看到已故丈夫AI形象崩溃大哭",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%A8%9C%E7%9C%8B%E5%88%B0%E5%B7%B2%E6%95%85%E4%B8%88%E5%A4%ABAI%E5%BD%A2%E8%B1%A1%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 08时15分]"
-        },
-        {
-          "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
-          "url": "https://www.cls.cn/detail/2397230",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时23分 ~ 22时36分]"
-        },
-        {
-          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时28分 ~ 22时36分]"
-        },
-        {
-          "title": "AI大神做漫剧真有一套",
-          "url": "https://www.douyin.com/hot/2530023",
-          "source": "抖音",
-          "ranks": [
-            25,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时28分 ~ 22时36分]"
-        },
-        {
-          "title": "英伟达、亚马逊等巨头参投 德国机器人公司Neura获最高14亿美元融资",
-          "url": "https://www.cls.cn/detail/2396520",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时15分 ~ 13时29分]"
-        },
-        {
-          "title": "夏奇拉邀请你来跳Dai Dai",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3Dai%20Dai",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时38分]"
-        },
-        {
-          "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
-          "url": "https://wallstreetcn.com/articles/3774376",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 22时36分]"
-        },
-        {
-          "title": "AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33352580",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 22时36分]"
-        },
-        {
-          "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
-          "url": "https://www.zhihu.com/question/2047598353421170561",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 08时15分]"
-        },
-        {
-          "title": "AI泡沫要破裂了吗",
-          "url": "https://www.toutiao.com/trending/7649712841921924614/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 13时29分]"
+          "time_info": "[02时12分 ~ 02时13分]"
         },
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
           "url": "https://wallstreetcn.com/articles/3774400",
           "source": "华尔街见闻",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "阿波罗：过多AI支出被用于“低智商”任务",
-          "url": "https://wallstreetcn.com/livenews/3117625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[02时12分 ~ 02时13分]"
         },
         {
-          "title": "UP主做了个AI谢苗",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%81%9A%E4%BA%86%E4%B8%AAAI%E8%B0%A2%E8%8B%97",
-          "source": "bilibili 热搜",
+          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时12分 ~ 02时13分]"
         },
         {
-          "title": "加拿大隐私事务专员：xAI违反了加拿大隐私法。X公司和xAI推出了Grok AI驱动的图像生成工具，但未实施适当的安全措施。",
-          "url": "https://flash.jin10.com/detail/20260611220823890800",
-          "source": "金十数据",
+          "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
+          "url": "https://www.cls.cn/detail/2397230",
+          "source": "财联社热门",
           "ranks": [
-            9
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时12分 ~ 02时13分]"
         },
         {
-          "title": "京东MALL引入首批实习机器人员工",
-          "url": "https://wallstreetcn.com/livenews/3118072",
-          "source": "华尔街见闻-快讯",
+          "title": "AI短片效果看到起鸡皮疙瘩了",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E7%89%87%E6%95%88%E6%9E%9C%E7%9C%8B%E5%88%B0%E8%B5%B7%E9%B8%A1%E7%9A%AE%E7%96%99%E7%98%A9%E4%BA%86&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时12分 ~ 02时13分]"
+        },
+        {
+          "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
+          "url": "https://wallstreetcn.com/articles/3774376",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
+          "appearance_count": 2,
+          "time_info": "[02时12分 ~ 02时13分]"
         },
         {
-          "title": "Anthropic的CEO：政府应当有权封杀、阻断高风险新AI模型的部署",
-          "url": "https://wallstreetcn.com/livenews/3117664",
-          "source": "华尔街见闻-快讯",
+          "title": "抖音AI创作大赛来了",
+          "url": "https://www.douyin.com/hot/2529851",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时12分 ~ 02时13分]"
+        },
+        {
+          "title": "AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352580",
+          "source": "澎湃新闻",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
-          "title": "没有物理AI业务且与2026年世界杯不存在业务合作关系！四连板AI应用概念股发布异动公告|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2396351",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "马斯克旗下xAI联合创始人Babuschkin自立门户，宣布与特斯拉旧部成立新公司River AI，主攻颠覆性“全个性化AI智能体”。",
-          "url": "https://wallstreetcn.com/livenews/3117706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "特朗普称将与AI公司高管讨论回馈公众",
-          "url": "https://wallstreetcn.com/livenews/3117617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[02时12分 ~ 02时13分]"
         },
         {
           "title": "超模女球迷爆火后出镜 自证不是AI",
@@ -333,214 +102,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "京东发布国内首个智能体自主支付协议 为AI“花钱”定规则",
-          "url": "https://flash.jin10.com/detail/20260611175146785800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "中国科学院院士陈十一：CAE是物理AI进入工业世界的关键底座",
-          "url": "https://wallstreetcn.com/livenews/3118227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "报道：Altman预计OpenAI将于未来一年内IPO",
-          "url": "https://wallstreetcn.com/livenews/3117610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
-          "url": "https://wallstreetcn.com/livenews/3117653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
-          "title": "UP主做了个AI预测世界杯赛果",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%81%9A%E4%BA%86%E4%B8%AAAI%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "腾讯混元AI Infra新开源：HPC-Ops推理核心算子全面升级",
-          "url": "https://wallstreetcn.com/livenews/3118048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "阿波罗全球管理示警：律所和咨询公司等专业服务行业将面临AI颠覆",
-          "url": "https://wallstreetcn.com/livenews/3117649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
-          "title": "Anthropic CEO：不知道Claude是否被（特朗普）用于袭击伊朗学校。",
-          "url": "https://wallstreetcn.com/livenews/3117603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济 房地产 收入",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "孟羽童自媒体收入不稳定再次求职",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%BD%E7%AB%A5%E8%87%AA%E5%AA%92%E4%BD%93%E6%94%B6%E5%85%A5%E4%B8%8D%E7%A8%B3%E5%AE%9A%E5%86%8D%E6%AC%A1%E6%B1%82%E8%81%8C%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时37分 ~ 06时02分]"
-        },
-        {
-          "title": "欧洲理事会主席科斯塔：欧盟与韩国正在加强战略伙伴关系，进一步在安全、贸易、经济和产业政策方面展开合作。",
-          "url": "https://flash.jin10.com/detail/20260611004357591800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "凯雷集团CFO：考虑到2026年以来发生的所有事件，全球经济展现出的韧性实际上令人感到意外。",
-          "url": "https://flash.jin10.com/detail/20260611023528684800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
-          "title": "雅克科技：公司关注到近期网络上有关于公司特种气体业务的相关讨论，公司的含氟类特种气体产品主要为四氟化碳和六氟化硫，目前没有六氟化钨相关业务。2025年度，公司含氟类特种气体的营业收入占公司总体营业收入的5.79%。",
-          "url": "https://wallstreetcn.com/livenews/3118060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "世界银行：三分之二经济体因伊朗战争受到冲击",
-          "url": "https://wallstreetcn.com/livenews/3118230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "经济日报：中国5月份物价“剪刀差”扩大，专家称促消费政策有加力空间",
-          "url": "https://wallstreetcn.com/livenews/3117765",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        },
-        {
-          "title": "国务院新闻办公室将于2026年6月16日（星期二）上午10时举行新闻发布会，请国家统计局新闻发言人、总经济师、国民经济综合统计司司长付凌晖介绍2026年5月份国民经济运行情况，并答记者问。",
-          "url": "https://wallstreetcn.com/livenews/3118053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：我们开始看到通胀范围的扩大。 工人的净收入将为正，这使我们认为消费将成为经济增长的驱动力。 通胀将在2027年秋季回归目标水平。",
-          "url": "https://wallstreetcn.com/livenews/3118224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "美国5月关税收入与退款几乎持平",
-          "url": "https://flash.jin10.com/detail/20260611021357202800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
-          "title": "马来西亚经济部长：厄尔尼诺现象可能导致作物产量整体减少8%至10%。",
-          "url": "https://flash.jin10.com/detail/20260611173754666800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
+          "appearance_count": 2,
+          "time_info": "[02时12分 ~ 02时13分]"
         }
       ]
     },
@@ -553,12 +117,28 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355081&amp;topic_name=%E5%A5%87%E8%91%A9%E8%84%91%E5%9B%9E%E8%B7%AF%21%E5%8D%B0%E5%BA%A6%E8%87%AA%E5%88%B6%E5%8F%91%E7%94%B5%E5%9B%BE",
           "source": "贴吧",
           "ranks": [
-            5,
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时23分 ~ 22时36分]"
+          "time_info": "[02时12分 ~ 02时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济 房地产 收入",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "世界银行警告：伊朗战争冲击下 全球经济增速将降至疫情以来最低水平",
+          "url": "https://www.cls.cn/detail/2397642",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时12分 ~ 02时13分]"
         }
       ]
     }
