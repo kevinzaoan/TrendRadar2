@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T03:05:17.446502+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-06-13T05:44:10.149996+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "抖音AI创作大赛首个爆款出现",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 03时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 05时44分]"
         },
         {
           "title": "猛男舞团翻跳Dai Dai",
@@ -27,19 +27,42 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 03时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 05时44分]"
         },
         {
           "title": "全抖音都在DaiDai",
           "url": "https://www.douyin.com/hot/2531421",
           "source": "抖音",
           "ranks": [
-            28
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 05时44分]"
+        },
+        {
+          "title": "抖音AI反网暴行动来了",
+          "url": "https://www.douyin.com/hot/2531858",
+          "source": "抖音",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "time_info": "[05时43分 ~ 05时44分]"
+        },
+        {
+          "title": "用AI打开七时吉祥原著",
+          "url": "https://www.douyin.com/hot/2532352",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 05时44分]"
         },
         {
           "title": "软件股迈向二十年来最长连跌，AI扰动之忧再度来袭",
@@ -59,7 +82,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
         }
@@ -75,11 +98,12 @@
           "source": "贴吧",
           "ranks": [
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 03时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 05时44分]"
         },
         {
           "title": "内盘期货夜市涨跌各异，焦炭收涨超2.7%，燃油跌2.9%",
@@ -116,7 +140,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
         }
