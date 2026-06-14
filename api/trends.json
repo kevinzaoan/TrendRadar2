@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T06:04:37.244799+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-06-14T08:07:25.488793+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "走出实验室 机器人如何“上岗”",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 08时07分]"
         },
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 08时07分]"
         },
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
@@ -37,11 +37,12 @@
             8,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 08时07分]"
         },
         {
           "title": "如何评价 Claude Fable 5 全球暂停访问？",
@@ -61,11 +62,12 @@
           "ranks": [
             13,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 08时07分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -78,8 +80,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 08时07分]"
         },
         {
           "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
@@ -89,8 +91,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 08时07分]"
         },
         {
           "title": "全猿 AI Coding 会不会导致研发 Leader 或 PM 这种管理大量失业，因为不需要了？",
@@ -103,6 +105,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时08分 ~ 06时04分]"
+        },
+        {
+          "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
+          "url": "https://wallstreetcn.com/articles/3774595",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "AI版次贷危机的味道？1.8万亿美元表外敞口，正成为这轮狂欢的定时炸弹",
+          "url": "https://wallstreetcn.com/articles/3774579",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "“机器人伴侣”来了 10天预售3800台",
@@ -173,7 +197,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         }
