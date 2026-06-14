@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T04:17:59.398208+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-06-15T06:10:03.210687+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 06时10分]"
         },
         {
           "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 06时10分]"
         },
         {
           "title": "机器人伴侣开售,人机恋成真",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 06时10分]"
         },
         {
           "title": "“白菜价”的人形机器人，没法进厂“打螺丝”",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 06时10分]"
         },
         {
           "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
@@ -63,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 06时10分]"
         },
         {
           "title": "剑指微信！报道：支付宝酝酿重大改版，将引入AI助手\"阿宝\"，叫车点餐买基金一口气搞定",
@@ -75,8 +75,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 06时10分]"
         },
         {
           "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
@@ -86,8 +86,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 06时10分]"
         },
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
@@ -97,8 +97,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 06时10分]"
         },
         {
           "title": "经济日报：人形机器人为何热衷秀才艺",
@@ -108,8 +108,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 06时10分]"
         },
         {
           "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
@@ -119,8 +119,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 06时10分]"
+        },
+        {
+          "title": "AI热潮来袭，别被“错失恐惧症”裹挟",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33376684",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 06时10分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -132,24 +144,12 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时21分 ~ 04时17分]"
-        },
-        {
-          "title": "AI热潮来袭，别被“错失恐惧症”裹挟",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33376684",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时17分]"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "下周“超级央行周”：美联储利率决议沃什首秀、日本央行或加息、中国5月经济数据",
@@ -160,8 +160,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 06时10分]"
         },
         {
           "title": "“美军如果强抢伊朗浓缩铀，全球经济或遭灾难性打击”",
@@ -171,8 +171,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 06时10分]"
         },
         {
           "title": "织密六张网锻造中国经济硬核底座",
@@ -182,19 +182,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 06时10分]"
         },
         {
           "title": "中华人民共和国和蒙古国外交部长会谈联合新闻公报：双方同意，加强发展战略对接，推进高质量共建“一带一路”和“草原之路”倡议框架内项目，扩大矿业、能源、工业、基础设施、互联互通、绿色发展、数字经济、农牧业等领域互利合作，携手走好符合各自国情的现代化之路。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3119267",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时13分 ~ 04时17分]"
+          "appearance_count": 3,
+          "time_info": "[02时13分 ~ 06时10分]"
+        },
+        {
+          "title": "伊朗最高领袖顾问：如果以色列在黎巴嫩的恶行不停止，霍尔木兹海峡和曼德海峡将压迫你们的经济动脉，直至战略窒息。",
+          "url": "https://flash.jin10.com/detail/20260615040828808800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "据沙特媒体哈达斯（alhadath）援引消息人士：美国驻伊拉克特使汤姆·巴拉克将于明天在巴格达讨论政治、安全和经济等议题。",
@@ -214,7 +226,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
@@ -244,8 +256,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时13分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时13分 ~ 06时10分]"
         }
       ]
     }
