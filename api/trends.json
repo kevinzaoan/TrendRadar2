@@ -1,344 +1,116 @@
 {
-  "generated_at": "2026-06-15T21:14:00.295906+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2026-06-16T02:25:55.732217+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 24,
+      "match_count": 8,
       "titles": [
         {
-          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
-          "url": "https://www.cls.cn/detail/2399163",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 08时09分]"
-        },
-        {
-          "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
-          "url": "https://wallstreetcn.com/articles/3774601",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 08时09分]"
-        },
-        {
-          "title": "“白菜价”的人形机器人，没法进厂“打螺丝”",
-          "url": "https://www.cls.cn/detail/2399188",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 08时09分]"
-        },
-        {
-          "title": "机器人伴侣开售,人机恋成真",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355151&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E5%BC%80%E5%94%AE%2C%E4%BA%BA%E6%9C%BA%E6%81%8B%E6%88%90%E7%9C%9F",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            4,
-            5,
-            7,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 21时14分]"
-        },
-        {
-          "title": "剑指微信！报道：支付宝酝酿重大改版，将引入AI助手\"阿宝\"，叫车点餐买基金一口气搞定",
-          "url": "https://wallstreetcn.com/articles/3774621",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 14时24分]"
-        },
-        {
-          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
-          "url": "https://wallstreetcn.com/articles/3774610",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 14时24分]"
-        },
-        {
-          "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
-          "url": "https://wallstreetcn.com/articles/3774608",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 08时09分]"
-        },
-        {
-          "title": "优必选「机器人伴侣」10 天预售 3800 台，限成年人购买，不做家务只做陪伴，你看好这款产品市场前景吗？",
-          "url": "https://www.zhihu.com/question/2049162105648051147",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时24分 ~ 21时14分]"
-        },
-        {
-          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
-          "url": "https://www.cls.cn/detail/2398996",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 08时09分]"
-        },
-        {
-          "title": "AI热潮来袭，别被“错失恐惧症”裹挟",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33376684",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 08时09分]"
-        },
-        {
-          "title": "经济日报：人形机器人为何热衷秀才艺",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33376361",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时10分]"
-        },
-        {
-          "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
-          "url": "https://www.cls.cn/detail/2399104",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时10分]"
-        },
-        {
-          "title": "全国首个冶金领域国家级AI中试基地启动",
-          "url": "https://flash.jin10.com/detail/20260615204524856800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时14分"
-        },
-        {
-          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
-          "url": "https://www.cls.cn/detail/2399065",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时17分]"
-        },
-        {
-          "title": "摩根士丹利：电力短缺正成为AI的核心瓶颈",
-          "url": "https://wallstreetcn.com/articles/3774655",
-          "source": "华尔街见闻",
+          "title": "伊朗用AI让球员牵遇难儿童入场",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%94%A8AI%E8%AE%A9%E7%90%83%E5%91%98%E7%89%B5%E9%81%87%E9%9A%BE%E5%84%BF%E7%AB%A5%E5%85%A5%E5%9C%BA",
+          "source": "百度热搜",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 21时14分]"
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "雨果奖科幻作者郝景芳称最新小说一半由 AI 完成，如何看待她这一做法？你会支持含 AI 创作小说吗？",
+          "url": "https://www.zhihu.com/question/2049845138457719674",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
         },
         {
           "title": "【每日收评】全市场超百股涨停！创业板指涨超5%，PCB等AI硬件概念股集体爆发",
           "url": "https://www.cls.cn/detail/2400118",
           "source": "财联社热门",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 21时14分]"
+          "appearance_count": 1,
+          "time_info": "02时25分"
         },
         {
-          "title": "【午报】创业板指半日涨超3.5%，科技股全线回暖，PCB、MLCC等AI硬件细分领涨",
-          "url": "https://www.cls.cn/detail/2399807",
-          "source": "财联社热门",
+          "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
+          "url": "https://wallstreetcn.com/articles/3774700",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 21时14分]"
+          "appearance_count": 1,
+          "time_info": "02时25分"
         },
         {
           "title": "AI为何成为能源之战",
           "url": "https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E8%83%BD%E6%BA%90%E4%B9%8B%E6%88%98",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 21时14分]"
+          "appearance_count": 1,
+          "time_info": "02时25分"
         },
         {
-          "title": "王俊凯董子健合照被判AI了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%91%A3%E5%AD%90%E5%81%A5%E5%90%88%E7%85%A7%E8%A2%AB%E5%88%A4AI%E4%BA%86%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "批量撰写不实信息一年牟利15元，四川射洪一AI写手被处罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33378154",
+          "source": "澎湃新闻",
           "ranks": [
-            19
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 21时14分]"
+          "appearance_count": 1,
+          "time_info": "02时25分"
         },
         {
-          "title": "AI革命和进口替代为国产芯片带来前景",
-          "url": "https://www.toutiao.com/trending/7651565836057972243/",
+          "title": "机器人伴侣开售,人机恋成真",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355151&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E5%BC%80%E5%94%AE%2C%E4%BA%BA%E6%9C%BA%E6%81%8B%E6%88%90%E7%9C%9F",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "伊朗用AI让球员牵遇难儿童入场",
+          "url": "https://www.toutiao.com/trending/7651542350414037011/",
           "source": "今日头条",
           "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 21时14分]"
-        },
-        {
-          "title": "80年前就有的AI，为什么现在才爆发？半导体老兵：算力便宜了！",
-          "url": "https://finance.ifeng.com/c/8tyVXqs6ntv",
-          "source": "凤凰网",
-          "ranks": [
-            12
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
-          "title": "外资巨头下半年展望：AI超级周期未结束，重新审视避险资产",
-          "url": "https://wallstreetcn.com/livenews/3119301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时09分"
-        },
-        {
-          "title": "创业板指午后涨幅扩大至4%，沪指涨1.0%，深证成指涨2.7%。算力硬件、半导体芯片、机器人、航运等方向涨幅居前，全市场超3200只个股上涨。",
-          "url": "https://wallstreetcn.com/livenews/3119460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
-          "title": "郝景芳承认用AI写作",
-          "url": "https://s.weibo.com/weibo?q=%E9%83%9D%E6%99%AF%E8%8A%B3%E6%89%BF%E8%AE%A4%E7%94%A8AI%E5%86%99%E4%BD%9C&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时24分"
+          "time_info": "02时25分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 11,
+      "match_count": 3,
       "titles": [
         {
-          "title": "“美军如果强抢伊朗浓缩铀，全球经济或遭灾难性打击”",
-          "url": "https://news.ifeng.com/c/8twsuCs6tU9",
-          "source": "凤凰网",
+          "title": "老破小成抢手货，租售比超 2% 跑赢存款利率，反映了房地产市场的哪些变化？投资老破小需注意哪些风险？",
+          "url": "https://www.zhihu.com/question/2049563481884701466",
+          "source": "知乎",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 08时09分]"
-        },
-        {
-          "title": "织密六张网锻造中国经济硬核底座",
-          "url": "https://www.douyin.com/hot/2534543",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 08时09分]"
-        },
-        {
-          "title": "下周“超级央行周”：美联储利率决议沃什首秀、日本央行或加息、中国5月经济数据",
-          "url": "https://wallstreetcn.com/articles/3774492",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时10分]"
-        },
-        {
-          "title": "本周“超级央行周”：美联储利率决议沃什首秀、日本央行或加息、中国5月经济数据",
-          "url": "https://wallstreetcn.com/articles/3774492",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时08分 ~ 14时24分]"
+          "appearance_count": 1,
+          "time_info": "02时25分"
         },
         {
           "title": "端午经济热度攀升",
@@ -348,97 +120,26 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 21时14分]"
-        },
-        {
-          "title": "中华人民共和国和蒙古国外交部长会谈联合新闻公报：双方同意，加强发展战略对接，推进高质量共建“一带一路”和“草原之路”倡议框架内项目，扩大矿业、能源、工业、基础设施、互联互通、绿色发展、数字经济、农牧业等领域互利合作，携手走好符合各自国情的现代化之路。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3119267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 06时10分]"
-        },
-        {
-          "title": "是鹰还是鸽？沃什“首秀”本周来袭，经济学家聚焦“三大关键点”！",
-          "url": "https://www.cls.cn/detail/2399504",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时24分"
+          "time_info": "02时25分"
         },
         {
-          "title": "伊朗最高领袖顾问：如果以色列在黎巴嫩的恶行不停止，霍尔木兹海峡和曼德海峡将压迫你们的经济动脉，直至战略窒息。",
-          "url": "https://flash.jin10.com/detail/20260615040828808800",
+          "title": "以色列总理内塔尼亚胡：我们对伊朗经济造成了巨大损失，有人估计高达一万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260616020559445800",
           "source": "金十数据",
           "ranks": [
-            21
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "据沙特媒体哈达斯（alhadath）援引消息人士：美国驻伊拉克特使汤姆·巴拉克将于明天在巴格达讨论政治、安全和经济等议题。",
-          "url": "https://flash.jin10.com/detail/20260615012317256800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "据以色列第12频道报道，美国正向伊朗提供经济利益，以换取对方不对以色列在贝鲁特的袭击作出回应。",
-          "url": "https://flash.jin10.com/detail/20260615020402568800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "日本公司请求阻止LNG罢工、宣称将危害澳洲经济，被澳大利亚法庭驳回",
-          "url": "https://wallstreetcn.com/livenews/3119232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "02时25分"
         }
       ]
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "纯为爱发电,汉化组被查后无恙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355155&amp;topic_name=%E7%BA%AF%E4%B8%BA%E7%88%B1%E5%8F%91%E7%94%B5%2C%E6%B1%89%E5%8C%96%E7%BB%84%E8%A2%AB%E6%9F%A5%E5%90%8E%E6%97%A0%E6%81%99",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            6,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时13分 ~ 21时14分]"
-        },
         {
           "title": "“十五五”中国光热发电前景可期",
           "url": "https://www.toutiao.com/trending/7651595676949876250/",
@@ -447,19 +148,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 21时14分]"
+          "appearance_count": 1,
+          "time_info": "02时25分"
         },
         {
-          "title": "A股电力板块局部走高，京能电力触及涨停，广西能源、豫能控股、协鑫能科、大唐发电、长源电力跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3119472",
-          "source": "华尔街见闻-快讯",
+          "title": "纯为爱发电,汉化组被查后无恙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355155&amp;topic_name=%E7%BA%AF%E4%B8%BA%E7%88%B1%E5%8F%91%E7%94%B5%2C%E6%B1%89%E5%8C%96%E7%BB%84%E8%A2%AB%E6%9F%A5%E5%90%8E%E6%97%A0%E6%81%99",
+          "source": "贴吧",
           "ranks": [
-            10
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时24分"
+          "time_info": "02时25分"
         }
       ]
     }
