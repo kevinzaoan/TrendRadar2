@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T13:06:04.149754+08:00",
-  "total_titles_processed": 946,
+  "generated_at": "2026-06-25T17:24:07.947973+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 49,
+      "match_count": 57,
       "titles": [
         {
           "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
@@ -20,6 +20,20 @@
           "time_info": "[00时22分 ~ 08时13分]"
         },
         {
+          "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
+          "url": "https://wallstreetcn.com/articles/3775422",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时51分 ~ 17时24分]"
+        },
+        {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
           "url": "https://www.zhihu.com/question/2052869201178652833",
           "source": "知乎",
@@ -31,6 +45,33 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时22分 ~ 08时13分]"
+        },
+        {
+          "title": "霓虹AI超美?实则组队打工仔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 17时24分]"
+        },
+        {
+          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3775443",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时13分 ~ 17时24分]"
         },
         {
           "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
@@ -60,19 +101,6 @@
           "time_info": "[00时22分 ~ 08时13分]"
         },
         {
-          "title": "霓虹AI超美?实则组队打工仔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 13时06分]"
-        },
-        {
           "title": "用AI制作一部玄幻短片",
           "url": "https://www.douyin.com/hot/2545425",
           "source": "抖音",
@@ -83,20 +111,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时22分 ~ 13时06分]"
-        },
-        {
-          "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
-          "url": "https://wallstreetcn.com/articles/3775422",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时51分 ~ 13时06分]"
         },
         {
           "title": "中国人形机器人商业化部署提速！大摩年内第二次翻倍上调出货量预测",
@@ -114,16 +128,16 @@
           "time_info": "[00时22分 ~ 08时13分]"
         },
         {
-          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3775443",
-          "source": "华尔街见闻",
+          "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
+          "source": "澎湃新闻",
           "ranks": [
-            3,
-            2
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时13分 ~ 13时06分]"
+          "appearance_count": 5,
+          "time_info": "[08时13分 ~ 17时24分]"
         },
         {
           "title": "米游AI女友上线,玩家有福了",
@@ -136,6 +150,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时22分 ~ 08时13分]"
+        },
+        {
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
+        },
+        {
+          "title": "建议大家不要和AI太好了",
+          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E5%92%8CAI%E5%A4%AA%E5%A5%BD%E4%BA%86&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "美财长大放厥词：AI的最大风险是中国超越美国",
@@ -206,18 +242,6 @@
           "time_info": "[08时13分 ~ 13时06分]"
         },
         {
-          "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时13分 ~ 13时06分]"
-        },
-        {
           "title": "AI 对制造业的影响预计何时显现？",
           "url": "https://www.zhihu.com/question/2019843435763353551",
           "source": "知乎",
@@ -229,6 +253,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时51分 ~ 06时18分]"
+        },
+        {
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时05分 ~ 17时24分]"
         },
         {
           "title": "美光强劲财报引爆芯片股盘后行情 高通AI前景助推股价飙升",
@@ -268,6 +303,29 @@
           "time_info": "[00时22分 ~ 08时13分]"
         },
         {
+          "title": "AI时代计算机专业怎么选",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E6%80%8E%E4%B9%88%E9%80%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时05分 ~ 17时24分]"
+        },
+        {
+          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
+          "url": "https://wallstreetcn.com/articles/3775441",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时05分 ~ 17时24分]"
+        },
+        {
           "title": "用AI小卡应援世界杯",
           "url": "https://www.douyin.com/hot/2544441",
           "source": "抖音",
@@ -293,26 +351,48 @@
           "time_info": "[08时13分 ~ 13时06分]"
         },
         {
-          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
-          "url": "https://wallstreetcn.com/articles/3775448",
-          "source": "华尔街见闻",
+          "title": "美光“定心丸”带动芯片股反攻 人形机器人或接棒算力成存储应用下一站",
+          "url": "https://www.cls.cn/detail/2408999",
+          "source": "财联社热门",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
+          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
-          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
-          "url": "https://wallstreetcn.com/articles/3775441",
-          "source": "华尔街见闻",
+          "title": "“下一个英伟达”？高通剑指AI算力赛道 发布全新CPU并收购AI软件企业",
+          "url": "https://www.cls.cn/detail/2408607",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
+          "time_info": "[17时23分 ~ 17时24分]"
+        },
+        {
+          "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
+        },
+        {
+          "title": "谷歌前CEO批中国AI开源",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E6%89%B9%E4%B8%AD%E5%9B%BDAI%E5%BC%80%E6%BA%90&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "张泉灵说选志愿吵架可以找AI",
@@ -320,17 +400,6 @@
           "source": "微博",
           "ranks": [
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "AI时代计算机专业怎么选",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E6%80%8E%E4%B9%88%E9%80%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -398,9 +467,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
+        },
+        {
+          "title": "商汤科技正研发新图像模型：代号U1 Pro，内部称将对标OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3124540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "获英特尔支持的AI芯片公司SambaNova估值将翻五倍，达到100亿美元。SambaNova计划筹集8亿-10亿美元。 General Atlantic正洽谈领投SambaNova的一轮融资，该轮融资规模将超过10亿美元，并有望最早于下周完成。（The Information）",
@@ -436,6 +516,17 @@
           "time_info": "02时52分"
         },
         {
+          "title": "亚马逊拟于2030年前在印度新增130亿美元投资 用于AI领域",
+          "url": "https://wallstreetcn.com/livenews/3124535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "OpenAI：推出新版GPT-5.5 Instant，今日面向付费用户开放，明日面向免费用户开放。",
           "url": "https://flash.jin10.com/detail/20260625020749576800",
           "source": "金十数据",
@@ -464,7 +555,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -519,7 +610,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -582,7 +673,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "高通数据中心业务主管：高通预计从2027年第一季度开始，其“定制芯片业务”将在当年年底前开始带来可观的收入。",
@@ -605,6 +696,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "中方回应近期日本经济界人士接连访华",
+          "url": "https://www.toutiao.com/trending/7654865004040405035/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "美联储理事库克并未置评美国经济前景或FOMC货币政策。",
@@ -720,8 +822,63 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 2,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "我国发电装机突破40亿千瓦",
+          "url": "https://www.toutiao.com/trending/7654504116544241690/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
+        },
+        {
+          "title": "国家发改委等两部门：建立完善新能源消纳综合评价指标体系 2030年新能源发电量占比达到30%",
+          "url": "https://flash.jin10.com/detail/20260625170530062800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "国家发改委等两部门：到2030年，风电和太阳能发电装机比重超过50%、成为电力装机主体，非化石能源发电量比重达到50%、成为电量主体",
+          "url": "https://flash.jin10.com/detail/20260625170315687800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "英国政府：公布自7月1日起生效的新钢铁贸易措施细节，以限制免税钢铁进口配额总量。 将限制免税钢铁进口，较现行钢铁保障措施将总体配额总量减少51%。 任何超过上述水平的进口将面临50%的关税。 该措施将适用于同样可在英国生产的钢铁产品的进口。",
+          "url": "https://wallstreetcn.com/livenews/3124549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "英国钢铁进口免税配额将削减51% 新规7月1日生效",
+          "url": "https://flash.jin10.com/detail/20260625165410200800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
         {
           "title": "内盘期货夜市多数收跌，20号胶跌超5.7%，瓶片、PTA跌超4.8%，焦炭涨1%",
           "url": "https://wallstreetcn.com/livenews/3124121",
@@ -734,13 +891,24 @@
           "time_info": "00时22分"
         },
         {
+          "title": "英国政府针对钢铁进口的新贸易措施将于2026年7月1日正式生效。",
+          "url": "https://flash.jin10.com/detail/20260625164439186800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "我国发电装机突破40亿千瓦",
           "url": "https://wallstreetcn.com/livenews/3124404",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         }
