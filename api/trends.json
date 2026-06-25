@@ -1,283 +1,33 @@
 {
-  "generated_at": "2026-06-25T23:40:25.490995+08:00",
-  "total_titles_processed": 1488,
+  "generated_at": "2026-06-26T02:11:01.816592+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 62,
+      "match_count": 14,
       "titles": [
         {
           "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3775443",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时13分 ~ 23时40分]"
-        },
-        {
-          "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
-          "url": "https://www.cls.cn/detail/2408054",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 08时13分]"
-        },
-        {
-          "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
-          "url": "https://wallstreetcn.com/articles/3775422",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时51分 ~ 20时21分]"
-        },
-        {
-          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
-          "url": "https://www.zhihu.com/question/2052869201178652833",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 08时13分]"
-        },
-        {
-          "title": "霓虹AI超美?实则组队打工仔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10,
-            15,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 23时40分]"
-        },
-        {
-          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
-          "url": "https://www.cls.cn/detail/2408510",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时17分 ~ 13时06分]"
-        },
-        {
-          "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
-          "url": "https://www.cls.cn/detail/2408036",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 08时13分]"
-        },
-        {
-          "title": "用AI制作一部玄幻短片",
-          "url": "https://www.douyin.com/hot/2545425",
-          "source": "抖音",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 13时06分]"
-        },
-        {
-          "title": "AI机器女友发布,仿真拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 23时40分]"
-        },
-        {
-          "title": "中国人形机器人商业化部署提速！大摩年内第二次翻倍上调出货量预测",
-          "url": "https://www.cls.cn/detail/2407968",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            6,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 08时13分]"
-        },
-        {
-          "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时13分 ~ 17时24分]"
-        },
-        {
-          "title": "米游AI女友上线,玩家有福了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 08时13分]"
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 02时11分]"
         },
         {
           "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
           "url": "https://www.cls.cn/detail/2409082",
           "source": "财联社热门",
           "ranks": [
-            4,
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时21分 ~ 23时40分]"
-        },
-        {
-          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
-          "url": "https://wallstreetcn.com/articles/3775448",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时05分 ~ 23时40分]"
-        },
-        {
-          "title": "建议大家不要和AI太好了",
-          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E5%92%8CAI%E5%A4%AA%E5%A5%BD%E4%BA%86&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
-        },
-        {
-          "title": "美财长大放厥词：AI的最大风险是中国超越美国",
-          "url": "https://news.ifeng.com/c/8uDioiTwhfp",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 06时18分]"
-        },
-        {
-          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
-          "url": "https://wallstreetcn.com/articles/3775441",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时05分 ~ 23时40分]"
-        },
-        {
-          "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
-          "url": "https://wallstreetcn.com/livenews/3124193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "Hugging Face CEO：来自Hugging Face生态系统的AI模型计划将被集成并部署到高通平台上。",
-          "url": "https://flash.jin10.com/detail/20260625044048197800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "低估了AI全球泡沫，宁泉杨东发声“不敢再参与”，私募圈AI分歧推到前台",
-          "url": "https://www.cls.cn/detail/2407855",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "清华UP主让机器人炒麻婆豆腐",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8EUP%E4%B8%BB%E8%AE%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%82%92%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时17分 ~ 08时13分]"
-        },
-        {
-          "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案”",
-          "url": "https://www.cls.cn/detail/2408477",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时13分 ~ 13时06分]"
+          "time_info": "[02时10分 ~ 02时11分]"
         },
         {
           "title": "你对AI脸产生生理性厌恶了吗",
@@ -286,220 +36,75 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "AI 对制造业的影响预计何时显现？",
-          "url": "https://www.zhihu.com/question/2019843435763353551",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18,
-            16
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时51分 ~ 06时18分]"
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 02时11分]"
         },
         {
           "title": "美光“定心丸”带动芯片股反攻 人形机器人或接棒算力成存储应用下一站",
           "url": "https://www.cls.cn/detail/2408999",
           "source": "财联社热门",
           "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 23时40分]"
-        },
-        {
-          "title": "美光强劲财报引爆芯片股盘后行情 高通AI前景助推股价飙升",
-          "url": "https://flash.jin10.com/detail/20260625061135675800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            29
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时18分 ~ 08时13分]"
-        },
-        {
-          "title": "AI驱动债务狂潮创纪录 6月美国高评级债券发行飙至1750亿美元",
-          "url": "https://flash.jin10.com/detail/20260625060708840800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 08时13分]"
+          "time_info": "[02时10分 ~ 02时11分]"
         },
         {
           "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
           "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            8,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 23时40分]"
-        },
-        {
-          "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
-          "url": "https://wallstreetcn.com/articles/3775365",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 08时13分]"
-        },
-        {
-          "title": "AI时代计算机专业怎么选",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E6%80%8E%E4%B9%88%E9%80%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 17时24分]"
-        },
-        {
-          "title": "用AI小卡应援世界杯",
-          "url": "https://www.douyin.com/hot/2544441",
-          "source": "抖音",
-          "ranks": [
-            13,
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时49分 ~ 08时13分]"
-        },
-        {
-          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
-          "url": "https://www.cls.cn/detail/2408544",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时13分 ~ 13时06分]"
-        },
-        {
-          "title": "“下一个英伟达”？高通剑指AI算力赛道 发布全新CPU并收购AI软件企业",
-          "url": "https://www.cls.cn/detail/2408607",
-          "source": "财联社热门",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
+          "time_info": "[02时10分 ~ 02时11分]"
+        },
+        {
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 02时11分]"
+        },
+        {
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 02时11分]"
+        },
+        {
+          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
+          "url": "https://wallstreetcn.com/articles/3775441",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 02时11分]"
         },
         {
           "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
           "url": "https://www.cls.cn/detail/2409159",
           "source": "财联社热门",
           "ranks": [
-            13
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时21分 ~ 23时40分]"
-        },
-        {
-          "title": "谷歌前CEO批中国AI开源",
-          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E6%89%B9%E4%B8%AD%E5%9B%BDAI%E5%BC%80%E6%BA%90&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
-        },
-        {
-          "title": "张泉灵说选志愿吵架可以找AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B3%89%E7%81%B5%E8%AF%B4%E9%80%89%E5%BF%97%E6%84%BF%E5%90%B5%E6%9E%B6%E5%8F%AF%E4%BB%A5%E6%89%BEAI%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
-        },
-        {
-          "title": "谷歌又有两名重量级AI人才即将转投Anthropic",
-          "url": "https://flash.jin10.com/detail/20260625022949974800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "Scale AI与Circadence构建合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3124185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "AI初创公司Mirendil按10亿美元估值融资2亿美元，英伟达、A16Z、Kleiner Perkins参与投资。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3124223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "黄仁勋：本轮AI基建周期长达数十年",
-          "url": "https://flash.jin10.com/detail/20260625071208706800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "台积电预计，全球半导体市场将在今年突破1万亿美元，并在2030年达到1.5万亿美元。业内人士认为，台积电本次闭门会再度坚定了业界的AI信仰，其晶圆制造和先进封装扩产，具有产业发展趋势风向标意义。随着晶圆厂和封装厂次第加入到扩产序列，半导体设备和材料商，将率先受益于AI带来的本轮扩产大潮。（上证报）",
-          "url": "https://wallstreetcn.com/livenews/3124752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
+          "time_info": "[02时10分 ~ 02时11分]"
         },
         {
           "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
@@ -508,494 +113,70 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 02时11分]"
         },
         {
-          "title": "美国参议员沃伦将呼吁对AI进行反垄断审查和改革并购审查机制",
-          "url": "https://flash.jin10.com/detail/20260625022136260800",
-          "source": "金十数据",
+          "title": "美光业绩提振AI板块 纳指期货涨超2% PCE数据缓解加息担忧 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2409443",
+          "source": "财联社热门",
           "ranks": [
-            15
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 02时11分]"
         },
         {
-          "title": "精工科技6月25日在互动平台表示，截至目前，公司碳纤维材料尚未向AI眼镜企业供货。",
-          "url": "https://flash.jin10.com/detail/20260625121537860800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时06分"
-        },
-        {
-          "title": "商汤科技正研发新图像模型：代号U1 Pro，内部称将对标OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3124540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "获英特尔支持的AI芯片公司SambaNova估值将翻五倍，达到100亿美元。SambaNova计划筹集8亿-10亿美元。 General Atlantic正洽谈领投SambaNova的一轮融资，该轮融资规模将超过10亿美元，并有望最早于下周完成。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3124214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "黄仁勋股东大会放言：本轮AI基建周期长达数十年",
-          "url": "https://wallstreetcn.com/livenews/3124282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "SpaceX投资者Andreessen：“星舰”为太空AI发展铺平了道路",
-          "url": "https://flash.jin10.com/detail/20260625021429927800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "亚马逊拟于2030年前在印度新增130亿美元投资 用于AI领域",
-          "url": "https://wallstreetcn.com/livenews/3124535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "OpenAI：推出新版GPT-5.5 Instant，今日面向付费用户开放，明日面向免费用户开放。",
-          "url": "https://flash.jin10.com/detail/20260625020749576800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "高通(QCOM.O)：公司目标是在2029财年实现Personal AI 与计算业务收入约60亿美元。",
-          "url": "https://flash.jin10.com/detail/20260625045426358800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "英力股份：公司暂未取得戴尔AIPC结构件订单",
-          "url": "https://flash.jin10.com/detail/20260625120704496800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时06分"
-        },
-        {
-          "title": "高通(QCOM.O)：目标是在2029财年实现工业、网络与机器人业务收入约80亿美元。",
-          "url": "https://flash.jin10.com/detail/20260625045402856800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "高通：面向数据中心推出DragonFly（飞龙） C1000 CPU。 发布全新 Dragonfly（飞龙）产品组合，揭晓面向智能体AI时代的全面数据中心路线图。 推出Pam4电信号与光信号传输服务及相关解决方案服务。 与一家超大规模云服务商（Hyperscaler）在新款通信芯片上合作。 预计数据中心将在2027年带来（至少）数十亿美元收入。 汽车业务2026财年年化营收将达到60亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3124206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "黄仁勋：本轮AI基建周期长达数十年",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E6%9C%AC%E8%BD%AEAI%E5%9F%BA%E5%BB%BA%E5%91%A8%E6%9C%9F%E9%95%BF%E8%BE%BE%E6%95%B0%E5%8D%81%E5%B9%B4",
-          "source": "百度热搜",
+          "title": "霓虹AI超美?实则组队打工仔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
+          "source": "贴吧",
           "ranks": [
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 02时11分]"
         },
         {
-          "title": "宁泉资产：AI泡沫被严重低估",
-          "url": "https://www.toutiao.com/trending/7654598648899010614/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "瑞银：有迹象表明中国AI科技上行周期逐步接近顶部 但撤离还为时过早",
-          "url": "https://wallstreetcn.com/livenews/3124407",
+          "title": "苹果罕见地变更战略：将跳过高端M6 Mac芯片，青睐侧重于AI的M7",
+          "url": "https://wallstreetcn.com/livenews/3124788",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时06分"
+          "time_info": "02时11分"
         },
         {
-          "title": "高通投资者日活动开始，数据中心主管表示：将于2028年年中推出数据中心CPU。 从2027年第一季度（即2026年底）开始，高通的定制芯片（Custom Silicon）业务将开始贡献实质性收入。 微软将在其Azure数据中心部署高通的高带宽计算（HBC）芯片。 配备AI250的高通第一代高带宽计算（HBC Gen 1）芯片预计将于2027年年中开启商业采样。 高通将于2028年推出第二代高带宽计算（HBC）芯片。 Meta计划在其数据中心使用C1000 CPU。 计划2027年推出第三代AI芯片。",
-          "url": "https://wallstreetcn.com/livenews/3124200",
+          "title": "欧盟就Anthropic的AI模型访问权限与白宫进行讨论",
+          "url": "https://wallstreetcn.com/livenews/3124779",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "宇树R1人形机器人降价至2.99万元起",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91R1%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%99%8D%E4%BB%B7%E8%87%B32.99%E4%B8%87%E5%85%83%E8%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "Prosus将在法国AI公司Alan投资4亿欧元。",
-          "url": "https://wallstreetcn.com/livenews/3124164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "宇树R1机器人降价",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91R1%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%99%8D%E4%BB%B7%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "小伙用折叠屏AI两分钟写歌",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%94%A8%E6%8A%98%E5%8F%A0%E5%B1%8FAI%E4%B8%A4%E5%88%86%E9%92%9F%E5%86%99%E6%AD%8C",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "02时11分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 15,
+      "match_count": 1,
       "titles": [
         {
-          "title": "高通数据中心业务主管：高通预计从2027年第一季度开始，其“定制芯片业务”将在当年年底前开始带来可观的收入。",
-          "url": "https://flash.jin10.com/detail/20260625024208357800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "渣打：美国经济的“例外论”可能会支撑美元走强",
-          "url": "https://wallstreetcn.com/livenews/3124258",
+          "title": "IMF：美国经济增长稳健，通胀率将于2027年回落至2%",
+          "url": "https://wallstreetcn.com/livenews/3124771",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "欧洲央行管委、法国央行行长Moulin：近期事态发展对法国经济有利。",
-          "url": "https://wallstreetcn.com/livenews/3124666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "中方回应近期日本经济界人士接连访华",
-          "url": "https://www.toutiao.com/trending/7654865004040405035/",
-          "source": "今日头条",
           "ranks": [
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
-        },
-        {
-          "title": "美联储理事库克并未置评美国经济前景或FOMC货币政策。",
-          "url": "https://wallstreetcn.com/livenews/3124184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "报道：伊朗预计每年将从霍尔木兹海峡获得400亿美元收入",
-          "url": "https://wallstreetcn.com/livenews/3124750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "特朗普回应拒签住房法案：比任何人都懂房地产 降息才是关键",
-          "url": "https://flash.jin10.com/detail/20260625051323883800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "加拿大央行会议纪要：不利的美国墨西哥加拿大贸易协议（USMCA）评审结果可能会加重经济困境，其对就业和投资的影响可能会更广泛地波及加拿大整体经济。 USMCA谈判若能取得有利结果，将有助于恢复部分确定性，并有望提振投资。 一季度GDP数据中，最大的意外是政府开支。 经济表现疲软，处于供大于求的状态，劳动力市场存在闲置产能，但经济并未陷入衰退。 重申央行将看淡油价对通胀的短期影响。 委员们一致同意，如果通胀数据开始显示通胀压力正在蔓延的证据，这将表明有必要收紧货币政策。 管理委员会成员一致认为，货币政策需要保持灵活性，当前的经济形势给货币政策制定带来了两难困境。",
-          "url": "https://wallstreetcn.com/livenews/3124175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "特朗普回应拒签住房法案：比任何人都懂房地产，降息才是关键",
-          "url": "https://wallstreetcn.com/livenews/3124235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "高通：预计安卓系统硬件设备营收将增长大约5%。 在2029财年，预计硬件将在收入占比大约三分之一。",
-          "url": "https://wallstreetcn.com/livenews/3124234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "高通(QCOM.O)：到2029财年，手机业务预计将占其核心半导体业务部门收入的约三分之一。",
-          "url": "https://flash.jin10.com/detail/20260625045153805800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "高通数据中心主管：已经赢得两份重大的超大规模云服务商（Hyperscaler）协议，将给本公司带来实质性的收入。",
-          "url": "https://wallstreetcn.com/livenews/3124203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "美联储理事库克在小企业研讨会开幕式上的讲话中未对货币政策或经济前景发表评论。",
-          "url": "https://flash.jin10.com/detail/20260625020018719800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "高通(QCOM.O)：公司目标是在2029财年实现物联网（IoT）收入超过140亿美元。",
-          "url": "https://flash.jin10.com/detail/20260625044917220800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "瑞穗经济学家：若要有效利用外储，意味着日本要抛售美债",
-          "url": "https://wallstreetcn.com/livenews/3124111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "我国发电装机突破40亿千瓦",
-          "url": "https://www.toutiao.com/trending/7654504116544241690/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 20时21分]"
-        },
-        {
-          "title": "国家发改委等两部门：建立完善新能源消纳综合评价指标体系 2030年新能源发电量占比达到30%",
-          "url": "https://flash.jin10.com/detail/20260625170530062800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "国家发改委等两部门：到2030年，风电和太阳能发电装机比重超过50%、成为电力装机主体，非化石能源发电量比重达到50%、成为电量主体",
-          "url": "https://flash.jin10.com/detail/20260625170315687800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "英国政府：公布自7月1日起生效的新钢铁贸易措施细节，以限制免税钢铁进口配额总量。 将限制免税钢铁进口，较现行钢铁保障措施将总体配额总量减少51%。 任何超过上述水平的进口将面临50%的关税。 该措施将适用于同样可在英国生产的钢铁产品的进口。",
-          "url": "https://wallstreetcn.com/livenews/3124549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "英国钢铁进口免税配额将削减51% 新规7月1日生效",
-          "url": "https://flash.jin10.com/detail/20260625165410200800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "内盘期货夜市多数收跌，20号胶跌超5.7%，瓶片、PTA跌超4.8%，焦炭涨1%",
-          "url": "https://wallstreetcn.com/livenews/3124121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "英国政府针对钢铁进口的新贸易措施将于2026年7月1日正式生效。",
-          "url": "https://flash.jin10.com/detail/20260625164439186800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "我国发电装机突破40亿千瓦",
-          "url": "https://wallstreetcn.com/livenews/3124404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时06分"
+          "time_info": "02时11分"
         }
       ]
     }
