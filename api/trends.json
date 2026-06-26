@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T17:25:47.965256+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-06-26T20:11:41.899349+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 38,
+      "match_count": 45,
       "titles": [
         {
           "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
@@ -27,11 +27,12 @@
             7,
             9,
             15,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时10分 ~ 17时25分]"
+          "appearance_count": 10,
+          "time_info": "[02时10分 ~ 20时11分]"
         },
         {
           "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
@@ -165,6 +166,19 @@
           "time_info": "[02时10分 ~ 06时21分]"
         },
         {
+          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
+          "url": "https://wallstreetcn.com/articles/3775558",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时08分 ~ 20时11分]"
+        },
+        {
           "title": "报道：美国政府要求OpenAI分阶段发布最新模型GPT 5.6",
           "url": "https://wallstreetcn.com/livenews/3124869",
           "source": "华尔街见闻-快讯",
@@ -214,16 +228,16 @@
           "time_info": "[02时10分 ~ 04时56分]"
         },
         {
-          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
-          "url": "https://wallstreetcn.com/articles/3775558",
-          "source": "华尔街见闻",
+          "title": "纯中二?美官员把AI当英雄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
+          "source": "贴吧",
           "ranks": [
-            9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时08分 ~ 17时25分]"
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 20时11分]"
         },
         {
           "title": "据纽约时报：OpenAI倾向于等到明年再进行IPO。",
@@ -261,6 +275,18 @@
           "time_info": "[04时56分 ~ 06时21分]"
         },
         {
+          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
+          "url": "https://www.cls.cn/detail/2410276",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 20时11分]"
+        },
+        {
           "title": "据The Information：特朗普政府要求OpenAI出于安全考虑分批发布新模型。",
           "url": "https://flash.jin10.com/detail/20260626041922109800",
           "source": "金十数据",
@@ -285,15 +311,16 @@
           "time_info": "[04时56分 ~ 06时21分]"
         },
         {
-          "title": "纯中二?美官员把AI当英雄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
-          "source": "贴吧",
+          "title": "短剧男主被AI抢工作 返乡卖豆芽菜",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E8%A2%ABAI%E6%8A%A2%E5%B7%A5%E4%BD%9C+%E8%BF%94%E4%B9%A1%E5%8D%96%E8%B1%86%E8%8A%BD%E8%8F%9C",
+          "source": "百度热搜",
           "ranks": [
-            6
+            29,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 20时11分]"
         },
         {
           "title": "据传三星十年内拟投1000万亿韩元，韩国存储双雄或联手掀起AI基建浪潮",
@@ -307,15 +334,37 @@
           "time_info": "13时09分"
         },
         {
+          "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
+          "url": "https://wallstreetcn.com/articles/3775599",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
+        {
           "title": "AI算力“烤”热培育钻石 金刚石散热现成长拐点 业内：2027年或迎放量期",
           "url": "https://www.cls.cn/detail/2409699",
           "source": "财联社热门",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850560&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/zowhLxJ1oGWg2qc8N-V44.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260626193725009800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
         },
         {
           "title": "芯原股份董事长：端侧AI的开发应用有望成为下一风口",
@@ -324,7 +373,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -346,7 +395,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -362,15 +411,15 @@
           "time_info": "06时21分"
         },
         {
-          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
-          "url": "https://www.cls.cn/detail/2410276",
-          "source": "财联社热门",
+          "title": "优必选正式发布轮式工业人形机器人Cruzr Y1",
+          "url": "https://wallstreetcn.com/livenews/3125280",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时25分"
+          "time_info": "20时11分"
         },
         {
           "title": "中泰证券王芳：大模型的快速发展和供应链短缺 有利于AI行业高资本开支的持续",
@@ -379,7 +428,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -395,15 +444,48 @@
           "time_info": "02时11分"
         },
         {
+          "title": "AI时代如何选专业",
+          "url": "https://www.douyin.com/hot/2548080",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
+        {
+          "title": "市场消息：赛峰集团正研究收购法国海上无人机制造商Exail的交易。",
+          "url": "https://flash.jin10.com/detail/20260626192823521800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
+        {
           "title": "短剧男主自曝因AI失业已返乡卖菜",
           "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E8%87%AA%E6%9B%9D%E5%9B%A0AI%E5%A4%B1%E4%B8%9A%E5%B7%B2%E8%BF%94%E4%B9%A1%E5%8D%96%E8%8F%9C%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
+        },
+        {
+          "title": "AI时代劳动价值论过时了吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%8A%B3%E5%8A%A8%E4%BB%B7%E5%80%BC%E8%AE%BA%E8%BF%87%E6%97%B6%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
         },
         {
           "title": "欧盟就Anthropic的AI模型访问权限与白宫进行讨论",
@@ -428,15 +510,15 @@
           "time_info": "04时56分"
         },
         {
-          "title": "短剧男主被AI抢工作 返乡卖豆芽菜",
-          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E8%A2%ABAI%E6%8A%A2%E5%B7%A5%E4%BD%9C+%E8%BF%94%E4%B9%A1%E5%8D%96%E8%B1%86%E8%8A%BD%E8%8F%9C",
-          "source": "百度热搜",
+          "title": "当AI超越人类我们该如何存在",
+          "url": "https://www.toutiao.com/trending/7654570633377185798/",
+          "source": "今日头条",
           "ranks": [
-            29
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时25分"
+          "time_info": "20时11分"
         },
         {
           "title": "于正这部AI剧夯爆了",
@@ -445,7 +527,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         }
@@ -453,18 +535,52 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "日本多个经济团体来华参观访问，外交部回应",
           "url": "https://news.ifeng.com/c/8uGxUkiEJuX",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 20时11分]"
+        },
+        {
+          "title": "国际复材：玻璃纤维电子细纱及细纱制品可作为PCB上游原材料 2025年营业收入占比较小",
+          "url": "https://wallstreetcn.com/livenews/3125301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时25分"
+          "time_info": "20时11分"
+        },
+        {
+          "title": "国际复材：2025年电子细纱及细纱制品营业收入占比18.22% 总体占比较小",
+          "url": "https://flash.jin10.com/detail/20260626193849946800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
+        },
+        {
+          "title": "飞凯材料：公司TGV湿电子化学品暂未实现大批量供货 相关业务尚未形成规模化营业收入",
+          "url": "https://flash.jin10.com/detail/20260626193751764800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：油价下跌可能会对美国经济构成尾部风险。 令人心烦意乱的高通胀来自服务业。 劳动力市场一年多来非常稳定。 不确定性驱动了低雇佣、低解雇的环境。 美国就业市场稳定，但不太好。",
@@ -498,6 +614,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "特朗普据悉悄然续签行政令，巩固对伊拉克石油收入的控制权",
+          "url": "https://flash.jin10.com/detail/20260626190559441800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时11分"
         },
         {
           "title": "IMF：美国经济增长稳健，通胀率将于2027年回落至2%",
