@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T03:20:25.214509+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-06-28T05:03:57.946702+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 05时03分]"
         },
         {
           "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 05时03分]"
         },
         {
           "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
@@ -38,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 05时03分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
@@ -49,8 +49,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 05时03分]"
         },
         {
           "title": "纯中二?美官员把AI当英雄",
@@ -60,8 +60,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 05时03分]"
         },
         {
           "title": "我喜欢的漫画被AI改编了",
@@ -70,9 +70,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 05时03分]"
         }
       ]
     },
@@ -88,8 +88,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 05时03分]"
         }
       ]
     }
