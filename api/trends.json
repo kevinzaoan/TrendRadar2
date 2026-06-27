@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T21:42:28.361950+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2026-06-27T23:16:04.474380+08:00",
+  "total_titles_processed": 1364,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
@@ -46,11 +46,25 @@
             16,
             19,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时47分 ~ 21时42分]"
+          "appearance_count": 13,
+          "time_info": "[01时47分 ~ 23时16分]"
+        },
+        {
+          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
+          "url": "https://wallstreetcn.com/articles/3775658",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 23时16分]"
         },
         {
           "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
@@ -79,6 +93,33 @@
           "time_info": "[07时05分 ~ 21时42分]"
         },
         {
+          "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
+          "url": "https://www.cls.cn/detail/2410894",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 23时16分]"
+        },
+        {
+          "title": "我喜欢的漫画被AI改编了",
+          "url": "https://www.douyin.com/hot/2549059",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 23时16分]"
+        },
+        {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
           "url": "https://www.cls.cn/detail/2410602",
           "source": "财联社热门",
@@ -105,19 +146,6 @@
           "time_info": "[01时47分 ~ 11时24分]"
         },
         {
-          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
-          "url": "https://wallstreetcn.com/articles/3775658",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 21时42分]"
-        },
-        {
           "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
           "url": "https://www.cls.cn/detail/2410276",
           "source": "财联社热门",
@@ -142,31 +170,6 @@
           "time_info": "[01时47分 ~ 07时06分]"
         },
         {
-          "title": "我喜欢的漫画被AI改编了",
-          "url": "https://www.douyin.com/hot/2549059",
-          "source": "抖音",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 21时42分]"
-        },
-        {
-          "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
-          "url": "https://www.cls.cn/detail/2410894",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 21时42分]"
-        },
-        {
           "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
           "url": "https://wallstreetcn.com/articles/3775650",
           "source": "华尔街见闻",
@@ -176,8 +179,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 21时42分]"
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 23时16分]"
         },
         {
           "title": "韩国政府组建跨部门机构应对涉AI犯罪",
@@ -190,6 +193,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时24分 ~ 14时52分]"
+        },
+        {
+          "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
+          "url": "https://wallstreetcn.com/articles/3775663",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
         },
         {
           "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览，其中Sol最强",
@@ -343,7 +357,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         }
@@ -351,7 +365,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "日本多个经济团体来华参观访问，外交部回应",
@@ -520,6 +534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "欧洲央行执委Schnabel：预计油价将持续走高。 不确定性依然很高。 和平协议使负面情景出现的可能性降低。 能源冲击对欧元区打击尤为严重。 此次能源冲击的程度比以往几次石油危机要缓和。 预测显示通胀上升、增长放缓。 能源成本上升拖累信心和消费。 政府投资和全球人工智能热潮支撑了经济增长。 劳动力市场仍具韧性。",
+          "url": "https://wallstreetcn.com/livenews/3125605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "院士周忠和呼吁给科研人员体面生活并直指痛点：基本保障比例过低，收入严重依赖项目和人才帽子，你怎么看？",
