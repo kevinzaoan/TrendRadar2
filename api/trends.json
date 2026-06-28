@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T02:06:06.326237+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-06-29T04:14:04.738810+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时14分]"
         },
         {
           "title": "人民日报评“AI脸看腻了”",
@@ -27,19 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时06分]"
-        },
-        {
-          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
-          "url": "https://wallstreetcn.com/articles/3775685",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时14分]"
         },
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -49,8 +38,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时14分]"
+        },
+        {
+          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
+          "url": "https://wallstreetcn.com/articles/3775685",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时14分]"
         },
         {
           "title": "轻量化AI设备需求激增，分析师：AI眼镜正加速迎来规模化拐点",
@@ -59,9 +60,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 04时14分]"
         },
         {
           "title": "大家用 grill-me(拷问我) 这个 AI Agent Skill 的体验如何？",
@@ -69,11 +70,34 @@
           "source": "知乎",
           "ranks": [
             5,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时14分]"
+        },
+        {
+          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
+          "url": "https://wallstreetcn.com/articles/3775696",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时14分]"
+        },
+        {
+          "title": "特朗普发扛地球AI照，伊以都不服！",
+          "url": "https://news.ifeng.com/c/8uKW9oaTnDA",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时14分]"
         },
         {
           "title": "AI初创公司Firmus携手英伟达在印尼建设数据中心",
@@ -84,30 +108,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时06分]"
-        },
-        {
-          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
-          "url": "https://wallstreetcn.com/articles/3775696",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时06分]"
-        },
-        {
-          "title": "特朗普发扛地球AI照，伊以都不服！",
-          "url": "https://news.ifeng.com/c/8uKW9oaTnDA",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时06分]"
+          "time_info": "[00时10分 ~ 04时14分]"
         },
         {
           "title": "“央行的央行”发出警告：AI万亿美元投资狂潮，恐演变为“投资萧条”",
@@ -127,7 +129,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
@@ -157,8 +159,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 04时14分]"
         },
         {
           "title": "中国首个高海拔光氢储一体化项目累计发电量超40亿千瓦时",
@@ -182,11 +184,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E8%90%A7%E8%94%B7%E5%9B%9E%E5%BA%94%E6%8D%90%E5%87%BA%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90%E6%89%80%E6%9C%89%E6%94%B6%E5%85%A5%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 04时14分]"
         },
         {
           "title": "伊拉克外交部长侯赛因表示，他与阿拉格齐讨论了一系列共同关心的问题，包括伊拉克在近期战事中遭受的袭击，以及霍尔木兹海峡通航受阻对伊拉克财政和经济的影响。 侯赛因表示，伊拉克的政策是反对战争，通过对话和谈判解决问题。（新华社）",
