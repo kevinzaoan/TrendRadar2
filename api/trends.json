@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T18:58:42.054442+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-06-29T22:50:33.541549+08:00",
+  "total_titles_processed": 1252,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
@@ -114,24 +114,13 @@
           "time_info": "[00时10分 ~ 06时02分]"
         },
         {
-          "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
-          "url": "https://www.cls.cn/detail/2411748",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时58分"
-        },
-        {
           "title": "清华姚班UP主详解AI专业就业",
           "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%ADUP%E4%B8%BB%E8%AF%A6%E8%A7%A3AI%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A",
           "source": "bilibili 热搜",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         },
@@ -147,6 +136,18 @@
           "time_info": "13时50分"
         },
         {
+          "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2411748",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 22时50分]"
+        },
+        {
           "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
           "url": "https://wallstreetcn.com/articles/3775705",
           "source": "华尔街见闻",
@@ -159,6 +160,18 @@
           "time_info": "[08时09分 ~ 18时58分]"
         },
         {
+          "title": "宇树机器人 R1 起售价降至 2.99 万元，并开启现货发售，如何看待这一调整？降价能提升销量吗？",
+          "url": "https://www.zhihu.com/question/2053454703569244163",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 22时50分]"
+        },
+        {
           "title": "华泰证券：大宗化工景气修复可期 电子化学品受益AI与国产替代",
           "url": "https://flash.jin10.com/detail/20260629074021303800",
           "source": "金十数据",
@@ -168,6 +181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "裁员12万还不够？美科技白领与AI展开生存赛，学者建议缩短周工时保就业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33472508",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "市场消息：韩国将着力提升其人形机器人全球市场份额。",
@@ -187,7 +211,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         },
@@ -209,9 +233,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
+        },
+        {
+          "title": "【焦点复盘】沪指深V回升站稳4000点，全市场超190股涨超10%，AI硬件端内部“两极分化”",
+          "url": "https://www.cls.cn/detail/2411865",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "“央行的央行”发出警告：AI万亿美元投资狂潮，恐演变为“投资萧条”",
@@ -225,15 +260,15 @@
           "time_info": "00时10分"
         },
         {
-          "title": "宇树机器人 R1 起售价降至 2.99 万元，并开启现货发售，如何看待这一调整？降价能提升销量吗？",
-          "url": "https://www.zhihu.com/question/2053454703569244163",
-          "source": "知乎",
+          "title": "AI泡沫担忧再度成为市场“主旋律”？华尔街又“炸开了锅”……",
+          "url": "https://www.cls.cn/detail/2411644",
+          "source": "财联社热门",
           "ranks": [
-            14
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时58分"
+          "time_info": "22时50分"
         },
         {
           "title": "马斯克：FSD v14 Lite现已开始向搭载AI3硬件的车辆推送。",
@@ -242,7 +277,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         },
@@ -264,7 +299,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         },
@@ -280,6 +315,17 @@
           "time_info": "08时09分"
         },
         {
+          "title": "美国加州州长纽森宣布该州与Anthropic建立合作伙伴关系。 加州州政府机构可享受CLAUDE五折优惠。",
+          "url": "https://wallstreetcn.com/livenews/3126220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850560&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/0RDhkEBMWjSXyCo40ljjk.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260628210453136800",
           "source": "金十数据",
@@ -289,6 +335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "美国加州州长纽森宣布与Anthropic建立合作伙伴关系，加州机构将以50%的折扣获得Claude访问权限。",
+          "url": "https://flash.jin10.com/detail/20260629220548013800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "恒生科技指数日内涨超4%。地平线机器人涨超15%，哔哩哔哩涨超8%，携程、百度、美团涨超7%。",
@@ -320,6 +377,19 @@
           "time_info": "[08时09分 ~ 13时50分]"
         },
         {
+          "title": "观察｜日菲“专属经济区划界谈判”无效，中国维权合理合法",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33471842",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 22时50分]"
+        },
+        {
           "title": "萧蔷回应捐出参加浪姐所有收入",
           "url": "https://s.weibo.com/weibo?q=%23%E8%90%A7%E8%94%B7%E5%9B%9E%E5%BA%94%E6%8D%90%E5%87%BA%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90%E6%89%80%E6%9C%89%E6%94%B6%E5%85%A5%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -330,18 +400,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时05分 ~ 04时14分]"
-        },
-        {
-          "title": "观察｜日菲“专属经济区划界谈判”无效，中国维权合理合法",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33471842",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 18时58分]"
         },
         {
           "title": "澳洲联储助理主席Kent：讨论了未来低利率且需要经济刺激时的应对情景 。 澳洲联储或将考虑更早使用政策工具，并前置提供支持措施. 将考虑对去通胀做出更果断的反应。 QE在澳大利亚的效果可能弱于其他地区。 带有承诺性质的前瞻性指引很难实施。 前瞻性指引最好能明确与经济结果挂钩。 随着时间推移，负利率可能会损害市场功能。 现金利率仍是实现目标的首要且首选工具。 澳洲联储将为应对下一次危机做好更充分的准备。",
@@ -380,7 +438,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中国首个高海拔光氢储一体化项目累计发电量超40亿千瓦时",
@@ -404,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "欧洲极端高温逼停发电厂，多国电价飙升创多年新高",
+          "url": "https://wallstreetcn.com/livenews/3126209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         }
       ]
     }
