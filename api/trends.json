@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T01:53:55.716589+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-01T03:57:30.401642+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "Anthropic推出Claude Science助力科研自动化",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "appearance_count": 2,
+          "time_info": "[01时53分 ~ 03时57分]"
         },
         {
           "title": "机器人女友来了！优必选重磅首发，最高售价99万元",
@@ -37,19 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "Anthropic推出Claude Science，助力科研自动化",
-          "url": "https://wallstreetcn.com/livenews/3126932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "appearance_count": 2,
+          "time_info": "[01时53分 ~ 03时57分]"
         },
         {
           "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
@@ -59,8 +48,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "appearance_count": 2,
+          "time_info": "[01时53分 ~ 03时57分]"
+        },
+        {
+          "title": "Anthropic推出Claude Science，助力科研自动化",
+          "url": "https://wallstreetcn.com/livenews/3126932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时53分 ~ 03时57分]"
         },
         {
           "title": "中国第一所机器人学校开学，30台机器人率先入学",
@@ -70,8 +71,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "appearance_count": 2,
+          "time_info": "[01时53分 ~ 03时57分]"
         },
         {
           "title": "市场消息：Anthropic发布Claude Science测试版工具，旨在帮助科学家自动化科研流程，减少重复性工作。",
@@ -83,6 +84,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "Anthropic推出Claude Sonnet 5，低价策略冲刺IPO",
+          "url": "https://wallstreetcn.com/livenews/3126941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
         },
         {
           "title": "终于明白AI免费和订阅的区别了",
@@ -105,6 +117,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济 房地产 收入",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国货币监理署（OCC）：美国银行业一季度交易收入增长5.6%。",
+          "url": "https://wallstreetcn.com/livenews/3126945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "独立半导体研究机构SemiAnalysis预计，英伟达在2027财年下半年的数据中心计算收入将较华尔街一致预期高出约20%，主要基于供应瓶颈缓解以及Vera Rubin平台加速放量。",
+          "url": "https://wallstreetcn.com/livenews/3126943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
         }
       ]
     }
