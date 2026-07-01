@@ -1,52 +1,12 @@
 {
-  "generated_at": "2026-07-01T23:42:06.304113+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-07-02T01:55:44.685638+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 52,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "机器人女友来了！优必选重磅首发，最高售价99万元",
-          "url": "https://wallstreetcn.com/articles/3775850",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时53分 ~ 20时08分]"
-        },
-        {
-          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时12分 ~ 23时42分]"
-        },
-        {
-          "title": "网传 Claude 通过原生消息传递获取用户位置，再以隐写术隐蔽回传封杀中国大陆用户，什么情况？你怎么看？",
-          "url": "https://www.zhihu.com/question/2055348161544295141",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时13分 ~ 23时42分]"
-        },
         {
           "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
           "url": "https://wallstreetcn.com/articles/3775982",
@@ -55,779 +15,135 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时41分 ~ 23时42分]"
-        },
-        {
-          "title": "机器人伴侣你会买吗",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E4%BD%A0%E4%BC%9A%E4%B9%B0%E5%90%97%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时41分 ~ 23时42分]"
-        },
-        {
-          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
-          "url": "https://www.cls.cn/detail/2412920",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时53分 ~ 07时13分]"
-        },
-        {
-          "title": "订单破万!机器人伴侣卖爆",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355782&amp;topic_name=%E8%AE%A2%E5%8D%95%E7%A0%B4%E4%B8%87%21%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E5%8D%96%E7%88%86",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时48分 ~ 23时42分]"
-        },
-        {
-          "title": "澳大利亚6月AIG/PWC制造业表现指数 -16.8，前值-22.4。",
-          "url": "https://flash.jin10.com/detail/20260701070002377800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时13分"
+          "time_info": "01时55分"
         },
         {
-          "title": "数百万辆特斯拉HW3迎来FSD V14，中国车型是否同步升级？官方客服：目前仅适配AI4硬件部分车型",
-          "url": "https://wallstreetcn.com/livenews/3127257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "中国第一所机器人学校开学，30台机器人率先入学",
-          "url": "https://news.ifeng.com/c/8uNt8EVi3R1",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时53分 ~ 07时13分]"
-        },
-        {
-          "title": "机器人伴侣价格11.98万至99万",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E4%BB%B7%E6%A0%BC11.98%E4%B8%87%E8%87%B399%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "澳大利亚6月AIG建筑业表现指数 -38.1，前值-9.9。",
-          "url": "https://flash.jin10.com/detail/20260701070002368800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "数百万辆特斯拉HW3迎来FSD V14，中国车型是否同步升级？官方客服：目前仅适配AI4硬件部分车型",
-          "url": "https://flash.jin10.com/detail/20260701154708866800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "苹果公司库克、欧盟官员Virkkunen讨论“Siri AI”。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3127010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "AI漫剧 降维打击",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%AB%E5%89%A7%20%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时08分"
-        },
-        {
-          "title": "AI进入下半场：模型不再稀缺",
-          "url": "https://www.toutiao.com/trending/7657493112633167403/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时08分"
-        },
-        {
-          "title": "Guggenheim称AI并非该行业的“丧钟”",
-          "url": "https://wallstreetcn.com/livenews/3127515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "Anthropic推出Claude Science助力科研自动化",
-          "url": "https://flash.jin10.com/detail/20260701011624752800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "英媒：苹果CEO与欧盟技术主管就“Siri AI”举行建设性会谈",
-          "url": "https://flash.jin10.com/detail/20260701065200498800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
           "url": "https://wallstreetcn.com/articles/3775797",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 05时29分]"
-        },
-        {
-          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
-          "url": "https://www.zhihu.com/question/2055055883843925167",
-          "source": "知乎",
-          "ranks": [
-            17,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 20时08分]"
-        },
-        {
-          "title": "AI正沦为科技圈的“自嗨”？一文起底：市场最危险的错配在这！",
-          "url": "https://www.cls.cn/detail/2414015",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时08分 ~ 23时42分]"
-        },
-        {
-          "title": "僵局打开！美国解除对Anthropic两大AI旗舰模型的出口管控",
-          "url": "https://www.cls.cn/detail/2413870",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时13分 ~ 20时08分]"
-        },
-        {
-          "title": "AI驱动半导体制造升级 巨头抢购电子级氢氟酸 部分供货商年内已涨价三成",
-          "url": "https://www.cls.cn/detail/2413771",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 16时13分]"
-        },
-        {
-          "title": "Anthropic推出Claude Science，助力科研自动化",
-          "url": "https://wallstreetcn.com/livenews/3126932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 03时57分]"
-        },
-        {
-          "title": "机器人伴侣订单破1万 仅限成人购买",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E8%AE%A2%E5%8D%95%E7%A0%B41%E4%B8%87+%E4%BB%85%E9%99%90%E6%88%90%E4%BA%BA%E8%B4%AD%E4%B9%B0",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 16时13分]"
-        },
-        {
-          "title": "上半年银行理财收益率“冰火两重天”！AI算力类产品暴涨近200%、悦己经济跌超60%",
-          "url": "https://www.cls.cn/detail/2413162",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时12分 ~ 07时13分]"
+          "appearance_count": 1,
+          "time_info": "01时55分"
         },
         {
           "title": "如何评价AI巨头之间的混战",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
           "source": "bilibili 热搜",
           "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时41分 ~ 23时42分]"
-        },
-        {
-          "title": "A股已有35家公司预告上半年业绩，预喜比例达74.29%，AI、锂电、化工三大板块领衔高增长",
-          "url": "https://wallstreetcn.com/livenews/3127006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时13分"
+          "time_info": "01时55分"
         },
         {
-          "title": "机器人伴侣价格11.98万至99万",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E4%BB%B7%E6%A0%BC11.98%E4%B8%87%E8%87%B399%E4%B8%87%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "盘前涨逾5%！报道：Meta筹划进军云计算市场，以出售富余的AI算力资源",
+          "url": "https://wallstreetcn.com/articles/3775980",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "01时55分"
         },
         {
-          "title": "Uber震动AI数据标注业务，解雇两位高层主管",
-          "url": "https://wallstreetcn.com/livenews/3127510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "Claude偷偷给中国用户打水印",
-          "url": "https://s.weibo.com/weibo?q=Claude%E5%81%B7%E5%81%B7%E7%BB%99%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E6%89%93%E6%B0%B4%E5%8D%B0&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "Anthropic宣布Fable 5 将于明天在Claude平台全球上线",
-          "url": "https://flash.jin10.com/detail/20260701112635319800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "如何评价优必选情感陪伴超仿生机器人正式亮相？看完后，你会购买吗？",
-          "url": "https://www.zhihu.com/question/2055332858051257824",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时08分"
-        },
-        {
-          "title": "市场消息：Anthropic发布Claude Science测试版工具，旨在帮助科学家自动化科研流程，减少重复性工作。",
-          "url": "https://flash.jin10.com/detail/20260701010526378800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "美团开源万亿参数大模型 longcat-2.0，将对大模型领域和 AI 行业产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2055252813568119737",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时08分"
-        },
-        {
-          "title": "据英国金融时报：苹果(AAPL.O)CEO库克与欧盟科技主管就“Siri AI”展开建设性的对话。",
-          "url": "https://flash.jin10.com/detail/20260701063003352800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "AWS：Anthropic的Claude Fable 5模型将于明天在Bedrock上再次向客户提供。",
-          "url": "https://flash.jin10.com/detail/20260701111917615800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "当一人公司加上 AI 杠杆，能做出多有趣的项目来？",
-          "url": "https://www.zhihu.com/question/2053591589927262082",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "Anthropic：将与亚马逊、微软、谷歌及其他Glasswing合作伙伴共同制定评估AI越狱严重性的框架。",
-          "url": "https://flash.jin10.com/detail/20260701111702765800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "“机器人伴侣”订单破1.1万台",
-          "url": "https://www.toutiao.com/trending/7656983269552439339/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "哈尔滨独立研发手术机器人",
-          "url": "https://www.toutiao.com/trending/7656826620321562667/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "Anthropic：Fable 5 将于明天在Claude平台全球上线。",
-          "url": "https://flash.jin10.com/detail/20260701111339492800",
-          "source": "金十数据",
+          "title": "订单破万!机器人伴侣卖爆",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355782&amp;topic_name=%E8%AE%A2%E5%8D%95%E7%A0%B4%E4%B8%87%21%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E5%8D%96%E7%88%86",
+          "source": "贴吧",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "01时55分"
         },
         {
-          "title": "如何评价 Anthropic 最新发布的 Claude Sonnet5？",
-          "url": "https://www.zhihu.com/question/2055567821904547893",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "机器人伴侣订单破1.1万台意味什么",
-          "url": "https://www.toutiao.com/trending/7657443799446081060/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时08分"
-        },
-        {
-          "title": "Meta涨8%，该公司推动通过云销售过剩的AI算力。",
-          "url": "https://wallstreetcn.com/livenews/3127494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "AI裁员 硅谷叶文洁出现了",
-          "url": "https://s.weibo.com/weibo?q=AI%E8%A3%81%E5%91%98%20%E7%A1%85%E8%B0%B7%E5%8F%B6%E6%96%87%E6%B4%81%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "Anthropic推出Claude Sonnet 5，低价策略冲刺IPO",
-          "url": "https://wallstreetcn.com/livenews/3126941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "终于明白AI免费和订阅的区别了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%98%8E%E7%99%BDAI%E5%85%8D%E8%B4%B9%E5%92%8C%E8%AE%A2%E9%98%85%E7%9A%84%E5%8C%BA%E5%88%AB%E4%BA%86%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "OpenAI首席经济学家称AI不会取代人类劳动者",
-          "url": "https://wallstreetcn.com/livenews/3126913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "软银：已执行对OpenAI300亿美元后续投资中的100亿美元。 计划于10月1日进行对OpenAI的第三轮投资。",
-          "url": "https://wallstreetcn.com/livenews/3127224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "为什么有人愿意花百万买一个AI恋人",
-          "url": "https://www.toutiao.com/trending/7657146718630461482/",
+          "title": "越来越多公司证明AI无法替代人工",
+          "url": "https://www.toutiao.com/trending/7657394487626416137/",
           "source": "今日头条",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "01时55分"
+        },
+        {
+          "title": "美国联邦贸易委员会（FTC）围绕人工智能（AI）准确率问题的政策声明征求意见。",
+          "url": "https://wallstreetcn.com/livenews/3127537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时55分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 18,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "美国总统特朗普2025年度的财务报告称，其从与多家媒体公司的和解协议中获得超过8000万美元收入。",
-          "url": "https://flash.jin10.com/detail/20260701045751619800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
         {
           "title": "“带娃送外卖”可能是摆拍，经济日报：别让虚假苦情透支社会善意",
           "url": "https://m.thepaper.cn/newsDetail_forward_33490990",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时08分 ~ 23时42分]"
-        },
-        {
-          "title": "美国总统特朗普2025年度的财务报告称，其从“迷因币”相关的授权或收益分成获得6.35亿美元收入。",
-          "url": "https://flash.jin10.com/detail/20260701045159164800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普提交2025年度财务披露报告，披露其通过加密货币获得数亿美元收入。",
-          "url": "https://flash.jin10.com/detail/20260701044849105800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "沪指拉升涨超1%，微盘股指数涨超3%，深成指涨0.65%，创业板指涨0.17%，养殖、保险、证券、房地产等方向涨幅居前，沪深京三市上涨个股近4200只。",
-          "url": "https://wallstreetcn.com/livenews/3127125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "马来西亚经济部长：政府正在准备人工智能治理法案，以规范人机未来。",
-          "url": "https://flash.jin10.com/detail/20260701112605647800",
-          "source": "金十数据",
-          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "美国总统特朗普：Pierre Yared辞去经济顾问委员会的代理主席。 其将重返哥伦比亚大学研究生院。",
-          "url": "https://wallstreetcn.com/livenews/3127002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我想停止美国援助。这就像福利一样，我不想要。我们的经济不再是小型经济体……我们完全可以自行承担美国提供的那一小部分GDP资金。我希望这个进程今年就开始。",
-          "url": "https://flash.jin10.com/detail/20260701044446125800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "白宫经济顾问哈塞特：提高利率将是一个错误。 新任美联储主席沃什不得不应付一些棘手问题，工作艰巨。 部分美联储官员可能出于针对特朗普的目的作出政策投票。",
-          "url": "https://wallstreetcn.com/livenews/3127387",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时08分"
-        },
-        {
-          "title": "美国总统特朗普：皮埃尔·亚雷德（Pierre Yared）将离开经济顾问委员会。",
-          "url": "https://flash.jin10.com/detail/20260701061209980800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "墨西哥央行调查：私营部门分析师预计2026年墨西哥经济增长为1.10%，预计2027年墨西哥经济增长为1.80%。",
-          "url": "https://flash.jin10.com/detail/20260701230221855800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
+          "time_info": "01时55分"
         },
         {
           "title": "一条视频看懂世界杯经济",
           "url": "https://www.douyin.com/hot/2553958",
           "source": "抖音",
           "ranks": [
-            17
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "01时55分"
         },
         {
-          "title": "美国白宫国家经济委员会主任哈塞特：预计美国下半年经济增长约为4%。 霍尔木兹海峡交通在经历了几天的波折后再次开始恢复。",
-          "url": "https://wallstreetcn.com/livenews/3127379",
+          "title": "美联储主席沃什计划在一年内利用更优经济数据",
+          "url": "https://wallstreetcn.com/livenews/3127555",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时08分"
+          "time_info": "01时55分"
         },
         {
-          "title": "美国货币监理署（OCC）：美国银行业一季度交易收入增长5.6%。",
-          "url": "https://wallstreetcn.com/livenews/3126945",
+          "title": "美国高级政府官员声称： 美国不同意按当前形式续签美国墨西哥加拿大贸易协议（USMCA）。 总统特朗普的贸易政策已经取代了USMCA中的许多条款。 USMCA未能实现减少美国贸易逆差、以及在加拿大和墨西哥提供市场准入的承诺。 美国贸易代表办公室（USTR）将继续就USMCA的修改事宜与国会及公众进行磋商。 特朗普已经通过新的关税和贸易政策改变了USMCA的现状，但通过谈判仍有可能改善局面。 我们不希望将USMCA的问题拖延长达10年。 在特朗普本届任期的剩余时间内，可能会看到美国与加拿大和墨西哥分别达成单独的贸易协议。 7月20日当周与墨西哥的谈判将继续讨论原产地规则和经济安全问题。 我们需要针对汽车及其他工业产品制定更严格的北美原产地规则。 很难看出总统的目标如何能与调整行业关税的做法相一致。 政府正在继续分析航空航天供应链，以确定相关的关税政策。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3127561",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "墨西哥经济部长：我们不认为美墨加协定（USMCA）条约会被废除。",
-          "url": "https://flash.jin10.com/detail/20260701060259995800",
-          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时13分"
+          "time_info": "01时55分"
         },
         {
-          "title": "独立半导体研究机构SemiAnalysis预计，英伟达在2027财年下半年的数据中心计算收入将较华尔街一致预期高出约20%，主要基于供应瓶颈缓解以及Vera Rubin平台加速放量。",
-          "url": "https://wallstreetcn.com/livenews/3126943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "特朗普927页超10亿美元“吸金”财务报告：世界杯门票、和解费尽数收入囊中",
-          "url": "https://flash.jin10.com/detail/20260701054713686800",
+          "title": "美国贸易代表：7月20日当周，与墨西哥的谈判将继续就原产地规则和经济安全问题进行讨论。",
+          "url": "https://flash.jin10.com/detail/20260702010707860800",
           "source": "金十数据",
           "ranks": [
-            24
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：提高利率将是一个错误。",
-          "url": "https://flash.jin10.com/detail/20260701191847063800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "早盘收盘，国内期货主力合约跌多涨少，集运欧线跌超9%，焦炭、甲醇、焦煤跌超2%，铂、铁矿石跌近2%，SC原油、乙二醇（EG）跌超1%。涨幅方面，碳酸锂涨超5%，多晶硅涨超3%，液化石油气（LPG）、沪锌涨超1%，20号胶、沪锡、棉花、豆粕涨近1%。",
-          "url": "https://flash.jin10.com/detail/20260701113101130800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "商品期货收盘，集运欧线主力合约跌超10%，甲醇、乙二醇跌超3%，红枣、焦炭、钯、原油、铂、燃料油跌超2%。碳酸锂涨超4%，多晶硅、花生涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3127219",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
+          "time_info": "01时55分"
         }
       ]
     }
