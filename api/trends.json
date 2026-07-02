@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T05:07:15.383797+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-07-03T07:06:38.231562+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 05时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 07时06分]"
         },
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -26,8 +26,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 05时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 07时06分]"
+        },
+        {
+          "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
+          "url": "https://wallstreetcn.com/articles/3776029",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 07时06分]"
         },
         {
           "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
@@ -38,19 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 05时07分]"
-        },
-        {
-          "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
-          "url": "https://wallstreetcn.com/articles/3776029",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 05时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 07时06分]"
         },
         {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
@@ -60,8 +61,33 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 05时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 07时06分]"
+        },
+        {
+          "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
+          "url": "https://www.cls.cn/detail/2415407",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 07时06分]"
+        },
+        {
+          "title": "机器人伴侣订单火爆 被吐槽货不对板",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E8%AE%A2%E5%8D%95%E7%81%AB%E7%88%86+%E8%A2%AB%E5%90%90%E6%A7%BD%E8%B4%A7%E4%B8%8D%E5%AF%B9%E6%9D%BF",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 07时06分]"
         },
         {
           "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
@@ -82,30 +108,6 @@
             7,
             12,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 05时07分]"
-        },
-        {
-          "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
-          "url": "https://www.cls.cn/detail/2415407",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 05时07分]"
-        },
-        {
-          "title": "机器人伴侣订单火爆 被吐槽货不对板",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E8%AE%A2%E5%8D%95%E7%81%AB%E7%88%86+%E8%A2%AB%E5%90%90%E6%A7%BD%E8%B4%A7%E4%B8%8D%E5%AF%B9%E6%9D%BF",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            9
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -153,11 +155,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 05时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 07时06分]"
         },
         {
           "title": "美国AI三大巨头争抢哲学家",
@@ -194,6 +197,50 @@
           "time_info": "03时24分"
         },
         {
+          "title": "特朗普避谈政府是否入股OpenAI 但强调在英特尔的持股",
+          "url": "https://flash.jin10.com/detail/20260703061710084800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "美银：Meta卖算力，意在讲好AI投资回报故事",
+          "url": "https://wallstreetcn.com/articles/3776055",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "特朗普称AI将超过90年代末的互联网繁荣 预计过半芯片在美生产",
+          "url": "https://flash.jin10.com/detail/20260703060215958800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "周四（7月2日），美股人工智能（AI）赢家指数跌5.63%，报405.59点，本周累跌4.17%。 成分股闪迪、泰瑞达、科磊、康宁公司、希捷科技、拉姆研究至少收跌10.19%表现最差，在收涨的六只成分股中，核电股CEG涨1.16%表现第四，微软涨1.62%，公共服务企业集团（PEG）涨1.68%，Palantir涨2.84%。 AI软件先驱指数跌0.03%，报109.97点，本周累涨4.70%。 成分股C3.ai收跌3.92%，新思科技跌3.82%，甲骨文跌1.56%跌幅第三大，HubSpot则涨2.34%、与Palantir、Adobe领跑。",
+          "url": "https://wallstreetcn.com/livenews/3128253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
           "title": "随着AI矿产热潮吸引投资关注，刚果（金）计划建立首个证券交易所。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3128155",
           "source": "华尔街见闻-快讯",
@@ -222,7 +269,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
         },
@@ -244,7 +291,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
         },
@@ -266,7 +313,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
         },
@@ -277,7 +324,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
         }
@@ -285,7 +332,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "欧洲央行行长拉加德：欧洲央行6月加息肯定是正确的选择。 央行大部分决策者曾准备4月份加息。 供应链冲击通过经济扩散开来。 第二轮（通胀）效应还没有实质化。",
@@ -308,6 +355,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "提醒：新西兰联储首席经济学家Paul Conway将于7月14日讲话。",
+          "url": "https://wallstreetcn.com/livenews/3128248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国电网PJM发布警报，通知发电调度员尽快启动所有离线发电机组，并将其功率提升至满负荷（紧急最大功率）。",
+          "url": "https://flash.jin10.com/detail/20260703063335433800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         }
       ]
     }
