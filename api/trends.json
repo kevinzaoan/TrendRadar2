@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T17:58:30.119996+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2026-07-03T20:12:43.846926+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 60,
+      "match_count": 65,
       "titles": [
         {
           "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
@@ -56,6 +56,18 @@
           "time_info": "[01时47分 ~ 07时06分]"
         },
         {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 20时12分]"
+        },
+        {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
           "url": "https://www.cls.cn/detail/2415416",
           "source": "财联社热门",
@@ -80,16 +92,42 @@
           "time_info": "[10时54分 ~ 17时58分]"
         },
         {
-          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
-          "url": "https://wallstreetcn.com/articles/3776101",
-          "source": "华尔街见闻",
+          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
+          "url": "https://www.cls.cn/detail/2416232",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            3
+            8,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 17时58分]"
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 20时12分]"
+        },
+        {
+          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
+          "url": "https://wallstreetcn.com/articles/3776098",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 20时12分]"
+        },
+        {
+          "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
+          "url": "https://www.cls.cn/detail/2416215",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 20时12分]"
         },
         {
           "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
@@ -117,6 +155,20 @@
           "time_info": "[01时47分 ~ 07时06分]"
         },
         {
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 20时12分]"
+        },
+        {
           "title": "港股机器人板块持续走强，埃斯顿(02715.HK)涨超23%，优必选(09880.HK)涨超10%，地平线机器人(09660.HK)、微创机器人(02252.HK)等跟涨。",
           "url": "https://flash.jin10.com/detail/20260703103637489800",
           "source": "金十数据",
@@ -126,18 +178,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
-        },
-        {
-          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
-          "url": "https://www.cls.cn/detail/2416232",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 17时58分]"
         },
         {
           "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
@@ -151,30 +191,6 @@
           "time_info": "[01时47分 ~ 05时07分]"
         },
         {
-          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
-          "url": "https://wallstreetcn.com/articles/3776098",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 17时58分]"
-        },
-        {
-          "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
-          "url": "https://www.cls.cn/detail/2416215",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 17时58分]"
-        },
-        {
           "title": "AI演员已经能演出情绪变化了",
           "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86",
           "source": "百度热搜",
@@ -186,19 +202,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时47分 ~ 05时07分]"
-        },
-        {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 17时58分]"
         },
         {
           "title": "微软正合并其企业与消费者端AI聊天机器人。 该公司正将多个Copilot AI聊天机器人整合到一个APP。（The Information）",
@@ -223,6 +226,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 05时07分]"
+        },
+        {
+          "title": "阿里内部将全面禁用 Claude Code，因存在植入后门风险，可能会带来哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2056384180200498322",
+          "source": "知乎",
+          "ranks": [
+            17,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 20时12分]"
         },
         {
           "title": "扎克伯格：过去四个月里，AI智能体开发并未“如我们预期的那样加速”",
@@ -284,6 +299,42 @@
           "time_info": "[01时47分 ~ 03时24分]"
         },
         {
+          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 20时12分]"
+        },
+        {
+          "title": "股价剑指500元！“机器人新贵”挺进高价股阵营，这些股也入围“百元天团”",
+          "url": "https://www.cls.cn/detail/2416624",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 20时12分]"
+        },
+        {
+          "title": "曝阿里禁用Claude",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%98%BF%E9%87%8C%E7%A6%81%E7%94%A8Claude%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 20时12分]"
+        },
+        {
           "title": "AI软件开发公司ElevenLabs与投资者洽谈按大约220亿美元估值进行二次（股票）发行。",
           "url": "https://wallstreetcn.com/livenews/3128187",
           "source": "华尔街见闻-快讯",
@@ -294,6 +345,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 05时07分]"
+        },
+        {
+          "title": "A股机器人概念全线大涨",
+          "url": "https://www.toutiao.com/trending/7657736239235727401/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 20时12分]"
+        },
+        {
+          "title": "【每日收评】三大指数冲高回落小幅收红，机器人产业链全线爆发，半导体材料概念股集体调整",
+          "url": "https://www.cls.cn/detail/2416590",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 20时12分]"
         },
         {
           "title": "全球AI疯狂重创千元机市场",
@@ -346,7 +421,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -373,37 +448,26 @@
           "time_info": "07时06分"
         },
         {
-          "title": "曝阿里禁用Claude",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%98%BF%E9%87%8C%E7%A6%81%E7%94%A8Claude%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "鹏鼎控股：拟定增募资不超过96亿元，用于庆鼎AI服务器和高速光模块高密度互连积层板项目",
+          "url": "https://wallstreetcn.com/livenews/3128681",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时58分"
+          "time_info": "20时12分"
         },
         {
-          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "A股机器人概念全线大涨",
-          "url": "https://www.toutiao.com/trending/7657736239235727401/",
-          "source": "今日头条",
+          "title": "全球最大编程助手GitHub Copilot宣布接入首个开源模型Kimi K2.7 Code",
+          "url": "https://wallstreetcn.com/livenews/3128677",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时58分"
+          "time_info": "20时12分"
         },
         {
           "title": "美银：Meta卖算力，意在讲好AI投资回报故事",
@@ -417,15 +481,15 @@
           "time_info": "07时06分"
         },
         {
-          "title": "股价剑指500元！“机器人新贵”挺进高价股阵营，这些股也入围“百元天团”",
-          "url": "https://www.cls.cn/detail/2416624",
+          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
+          "url": "https://www.cls.cn/detail/2416593",
           "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时58分"
+          "time_info": "20时12分"
         },
         {
           "title": "创业板指涨超1%，沪指涨0.36%，深成指涨0.85%，贵金属、机器人、军工、造纸等方向领涨，沪深京三市上涨个股超3800只。",
@@ -445,7 +509,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -472,17 +536,6 @@
           "time_info": "14时33分"
         },
         {
-          "title": "【每日收评】三大指数冲高回落小幅收红，机器人产业链全线爆发，半导体材料概念股集体调整",
-          "url": "https://www.cls.cn/detail/2416590",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
           "title": "沪指午后涨超1%，深成指、创业板指涨逾2%，机器人、有色金属、军工、算力硬件等方向涨幅居前，沪深京三市上涨个股近3600只。",
           "url": "https://wallstreetcn.com/livenews/3128437",
           "source": "华尔街见闻-快讯",
@@ -505,15 +558,15 @@
           "time_info": "07时06分"
         },
         {
-          "title": "阿里内部将全面禁用 Claude Code，因存在植入后门风险，可能会带来哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/2056384180200498322",
-          "source": "知乎",
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
           "ranks": [
-            17
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时58分"
+          "time_info": "20时12分"
         },
         {
           "title": "据韩媒ChosunBiz：韩国政府正在研究开发自主AI基础模型，并计划扩大AI数据中心建设，预计到2029年建成8.4吉瓦的数据中心容量，到2035年再新增10吉瓦的数据中心容量。",
@@ -566,7 +619,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -637,13 +690,24 @@
           "time_info": "14时33分"
         },
         {
+          "title": "北京：加强世界人形机器人运动会、人形机器人半程马拉松等赛训实践场景建设",
+          "url": "https://wallstreetcn.com/livenews/3128657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
           "title": "红旗连锁：2025年，公司启动机器人无人售货系统研发。经过一年多的努力，取得了一定的实践成果，但暂未达到大规模商业化落地标准。公司基于整体战略布局、投入产出比及现有成果优先级评估等考量，拟终止机器人无人售货系统研发。",
           "url": "https://wallstreetcn.com/livenews/3128564",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -695,8 +759,19 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "国家发改委印发《循环经济发展“十五五”规划》",
+          "url": "https://www.cls.cn/detail/2416403",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
         {
           "title": "欧洲央行行长拉加德：欧洲央行6月加息肯定是正确的选择。 央行大部分决策者曾准备4月份加息。 供应链冲击通过经济扩散开来。 第二轮（通胀）效应还没有实质化。",
           "url": "https://wallstreetcn.com/livenews/3128158",
@@ -737,9 +812,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
+        },
+        {
+          "title": "佛得角中高收入国家",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%BE%97%E8%A7%92%E4%B8%AD%E9%AB%98%E6%94%B6%E5%85%A5%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
         },
         {
           "title": "蓝思科技：玻璃基板相关业务还未产生收入 未来存在不确定性",
