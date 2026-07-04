@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T06:01:55.397275+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-07-05T07:07:53.715089+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时07分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时07分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 07时07分]"
         },
         {
           "title": "美蓓亚三美将提高用于AI数据中心的轴承产量",
@@ -91,8 +91,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时07分]"
+        },
+        {
+          "title": "吴政隆在湖北湖南调研时指出 持续增强内生动力 推动经济向新向优向好发展",
+          "url": "https://wallstreetcn.com/livenews/3128924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 07时07分]"
         },
         {
           "title": "美国财长贝森特：在特朗普总统的领导下，我们正迈向史无前例的经济增长、美元的持久主导地位以及财政的稳健与强劲。",
@@ -105,17 +116,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时57分]"
-        },
-        {
-          "title": "吴政隆在湖北湖南调研时指出 持续增强内生动力 推动经济向新向优向好发展",
-          "url": "https://wallstreetcn.com/livenews/3128924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 06时01分]"
         }
       ]
     }
