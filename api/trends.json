@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T10:51:36.347793+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2026-07-04T14:21:07.051725+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -30,6 +30,18 @@
           "time_info": "[01时25分 ~ 07时03分]"
         },
         {
+          "title": "股价剑指500元！“机器人新贵”挺进高价股阵营，这些股也入围“百元天团”",
+          "url": "https://www.cls.cn/detail/2416624",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 14时21分]"
+        },
+        {
           "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
           "url": "https://wallstreetcn.com/articles/3776124",
           "source": "华尔街见闻",
@@ -41,18 +53,6 @@
           "time_info": "[01时25分 ~ 05时06分]"
         },
         {
-          "title": "股价剑指500元！“机器人新贵”挺进高价股阵营，这些股也入围“百元天团”",
-          "url": "https://www.cls.cn/detail/2416624",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 10时51分]"
-        },
-        {
           "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
           "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
           "source": "澎湃新闻",
@@ -62,8 +62,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 10时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 14时21分]"
         },
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
@@ -72,9 +72,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 14时21分]"
+        },
+        {
+          "title": "售价十几万至九十九万的「机器人伴侣」订单破万，仅限成人购买，花高价买仿生陪伴机器人值得吗？",
+          "url": "https://www.zhihu.com/question/2055671696800143351",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 14时21分]"
         },
         {
           "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
@@ -90,17 +102,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时25分 ~ 10时51分]"
-        },
-        {
-          "title": "售价十几万至九十九万的「机器人伴侣」订单破万，仅限成人购买，花高价买仿生陪伴机器人值得吗？",
-          "url": "https://www.zhihu.com/question/2055671696800143351",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
         },
         {
           "title": "AI焦虑暂退，全球股市反弹，欧股创历史新高，金铜拉涨，美元下跌",
@@ -266,6 +267,30 @@
           "time_info": "[01时25分 ~ 05时06分]"
         },
         {
+          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
+          "url": "https://wallstreetcn.com/articles/3776134",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 14时21分]"
+        },
+        {
+          "title": "一周热榜精选：弱非农下加息押注退潮！大空头警告AI派对结束",
+          "url": "https://flash.jin10.com/detail/20260704095032353800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 14时21分]"
+        },
+        {
           "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
           "url": "https://wallstreetcn.com/livenews/3128844",
           "source": "华尔街见闻-快讯",
@@ -290,17 +315,6 @@
           "time_info": "[05时06分 ~ 07时03分]"
         },
         {
-          "title": "一周热榜精选：弱非农下加息押注退潮！大空头警告AI派对结束",
-          "url": "https://flash.jin10.com/detail/20260704095032353800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
           "title": "韩国AI大跃进",
           "url": "https://wallstreetcn.com/articles/3776121",
           "source": "华尔街见闻",
@@ -312,15 +326,15 @@
           "time_info": "07时03分"
         },
         {
-          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
-          "url": "https://wallstreetcn.com/articles/3776134",
-          "source": "华尔街见闻",
+          "title": "无界动力张玉峰：2025年全球人形机器人产量约2万台 商用落地仍接近空白",
+          "url": "https://flash.jin10.com/detail/20260704111528600800",
+          "source": "金十数据",
           "ranks": [
-            10
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时51分"
+          "time_info": "14时21分"
         },
         {
           "title": "SemiAnalysis：AI数据中心内存支出占比2027年或突破40%",
@@ -329,7 +343,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -340,7 +354,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         }
@@ -348,7 +362,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "未来我国循环经济发展重点",
@@ -368,9 +382,42 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 14时21分]"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：准备协助海外芯片制造商在日本投资。",
+          "url": "https://flash.jin10.com/detail/20260704135129983800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时51分"
+          "time_info": "14时21分"
+        },
+        {
+          "title": "新华时评｜以严法明规促进平台经济健康发展",
+          "url": "https://wallstreetcn.com/livenews/3128898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：准备援助在日投资的海外芯片制造商。",
+          "url": "https://wallstreetcn.com/livenews/3128897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "欧洲央行行长将亲自出席下周的欧盟经济和财政事务理事会会议",
@@ -398,13 +445,24 @@
           "time_info": "[03时22分 ~ 07时03分]"
         },
         {
+          "title": "一碗面38块,日本还在吹经济",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355884&amp;topic_name=%E4%B8%80%E7%A2%97%E9%9D%A238%E5%9D%97%2C%E6%97%A5%E6%9C%AC%E8%BF%98%E5%9C%A8%E5%90%B9%E7%BB%8F%E6%B5%8E",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
           "title": "特朗普：美国经济正强劲腾飞！",
           "url": "https://flash.jin10.com/detail/20260704093740277800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -415,7 +473,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -426,7 +484,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         }
@@ -438,23 +496,24 @@
       "titles": [
         {
           "title": "粤港澳大湾区首个“华龙一号”项目太平岭核电2号机组首次并网发电",
+          "url": "https://wallstreetcn.com/livenews/3128870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 14时21分]"
+        },
+        {
+          "title": "粤港澳大湾区首个“华龙一号”项目太平岭核电2号机组首次并网发电",
           "url": "https://flash.jin10.com/detail/20260704092319864800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "粤港澳大湾区首个“华龙一号”项目太平岭核电2号机组首次并网发电",
-          "url": "https://wallstreetcn.com/livenews/3128870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         }
