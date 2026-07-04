@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T01:05:10.796087+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-05T03:12:12.570364+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 03时12分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 03时12分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -36,9 +36,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时12分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
@@ -47,7 +47,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
         }
@@ -66,18 +66,30 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美国财长贝森特：在特朗普总统的领导下，我们正迈向史无前例的经济增长、美元的持久主导地位以及财政的稳健与强劲。",
+          "url": "https://flash.jin10.com/detail/20260705024018579800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
         {
           "title": "一碗面38块,日本还在吹经济",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355884&amp;topic_name=%E4%B8%80%E7%A2%97%E9%9D%A238%E5%9D%97%2C%E6%97%A5%E6%9C%AC%E8%BF%98%E5%9C%A8%E5%90%B9%E7%BB%8F%E6%B5%8E",
           "source": "贴吧",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 03时12分]"
         },
         {
           "title": "吴政隆在湖北湖南调研时指出 持续增强内生动力 推动经济向新向优向好发展",
@@ -86,9 +98,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时12分]"
         }
       ]
     }
