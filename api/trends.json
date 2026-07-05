@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T04:14:01.789506+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-07-06T06:02:08.931062+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 06时02分]"
         },
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 06时02分]"
         },
         {
           "title": "2026 中国（南京）具身智能机器人产业展将于7月10-12日举行",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 06时02分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -51,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 06时02分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -60,11 +60,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 06时02分]"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
@@ -72,11 +73,23 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 06时02分]"
+        },
+        {
+          "title": "英国监管机构：金融服务业AI正引发“军备竞赛” 需扩大监管范围",
+          "url": "https://flash.jin10.com/detail/20260706053240940800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -86,8 +99,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 06时02分]"
         },
         {
           "title": "加速走向全球：今年前5个月我国机器人出口近200亿元",
@@ -97,8 +110,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 06时02分]"
         },
         {
           "title": "谁在提前退出AI盛宴",
@@ -125,8 +138,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 06时02分]"
         },
         {
           "title": "国内的房地产开发商为什么都不看重隔音？",
@@ -134,11 +147,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 06时02分]"
         },
         {
           "title": "计算机跌出本科专业月收入前十",
@@ -157,22 +171,24 @@
           "url": "https://flash.jin10.com/detail/20260706030328110800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 06时02分]"
         },
         {
           "title": "路透调查：26位经济学家中有14位预计，七月货币政策会议后，新西兰联储将在九月底前再加息25个基点，最终利率达到2.75%。",
           "url": "https://flash.jin10.com/detail/20260706030146810800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 06时02分]"
         }
       ]
     }
