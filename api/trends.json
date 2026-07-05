@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T15:25:51.706283+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-07-05T18:12:50.267147+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 15时25分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 18时12分]"
         },
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
@@ -39,22 +39,24 @@
           "ranks": [
             4,
             16,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 15时25分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 18时12分]"
         },
         {
-          "title": "加速走向全球：今年前5个月我国机器人出口近200亿元",
-          "url": "https://wallstreetcn.com/livenews/3128970",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
+          "url": "https://wallstreetcn.com/articles/3776218",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 18时12分]"
         },
         {
           "title": "“AI+”OPC供需生态对接会在珠海举行",
@@ -68,15 +70,27 @@
           "time_info": "11时21分"
         },
         {
-          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
-          "url": "https://wallstreetcn.com/articles/3776218",
-          "source": "华尔街见闻",
+          "title": "智能体下线,AI女友凉了？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
+          "source": "贴吧",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时25分"
+          "time_info": "18时12分"
+        },
+        {
+          "title": "加速走向全球：今年前5个月我国机器人出口近200亿元",
+          "url": "https://wallstreetcn.com/livenews/3128970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 18时12分]"
         },
         {
           "title": "美蓓亚三美将提高用于AI数据中心的轴承产量",
@@ -99,8 +113,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时21分 ~ 15时25分]"
+          "appearance_count": 3,
+          "time_info": "[11时21分 ~ 18时12分]"
+        },
+        {
+          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
+          "url": "https://wallstreetcn.com/articles/3776219",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "嘉实基金王贵重：对中国科技资产及国内AI加速追赶趋势持积极乐观态度",
@@ -109,7 +134,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -136,6 +161,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "贝斯特：股票交易异常波动 人形机器人业务仍处样品阶段",
+          "url": "https://flash.jin10.com/detail/20260705161543702800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "机器人出口每4元产值有1元深圳造 深圳机器人全球卖爆",
           "url": "https://flash.jin10.com/detail/20260704222818603800",
           "source": "金十数据",
@@ -158,13 +194,24 @@
           "time_info": "11时21分"
         },
         {
+          "title": "中信证券：两因素有望催化部分有业绩支撑的非AI板块的修复",
+          "url": "https://flash.jin10.com/detail/20260705160505673800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "野村证券：当前全球存储行业仍严重供应短缺 AI驱动的结构性需求增长尚未见顶",
           "url": "https://flash.jin10.com/detail/20260705113833548800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         }
@@ -172,7 +219,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "一碗面38块,日本还在吹经济",
@@ -182,11 +229,12 @@
             17,
             18,
             19,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 15时25分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 18时12分]"
         },
         {
           "title": "建设循环经济高质量发展体系",
@@ -216,11 +264,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时21分 ~ 15时25分]"
+          "appearance_count": 3,
+          "time_info": "[11时21分 ~ 18时12分]"
         },
         {
           "title": "美国财长贝森特：在特朗普总统的领导下，我们正迈向史无前例的经济增长、美元的持久主导地位以及财政的稳健与强劲。",
@@ -252,9 +301,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "鸿海：仍有必要监测动荡的全球政治和经济形势的影响。",
+          "url": "https://flash.jin10.com/detail/20260705153727469800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         }
       ]
     }
