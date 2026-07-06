@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T18:20:08.256337+08:00",
-  "total_titles_processed": 1040,
+  "generated_at": "2026-07-06T22:25:29.482905+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
@@ -42,11 +42,12 @@
             10,
             11,
             17,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 18时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 22时25分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -64,6 +65,18 @@
           "time_info": "[02时02分 ~ 13时11分]"
         },
         {
+          "title": "就在今天凌晨！人形机器人首度亮相世界杯赛场",
+          "url": "https://www.cls.cn/detail/2417841",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 22时25分]"
+        },
+        {
           "title": "2026 中国（南京）具身智能机器人产业展将于7月10-12日举行",
           "url": "https://wallstreetcn.com/livenews/3129014",
           "source": "华尔街见闻-快讯",
@@ -76,15 +89,15 @@
           "time_info": "[00时09分 ~ 08时05分]"
         },
         {
-          "title": "就在今天凌晨！人形机器人首度亮相世界杯赛场",
-          "url": "https://www.cls.cn/detail/2417841",
-          "source": "财联社热门",
+          "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
+          "url": "https://wallstreetcn.com/articles/3776245",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 22时25分]"
         },
         {
           "title": "国产机器人加速走向全球",
@@ -92,17 +105,6 @@
           "source": "抖音",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
-        },
-        {
-          "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
-          "url": "https://wallstreetcn.com/articles/3776245",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -179,6 +181,17 @@
           "time_info": "[00时09分 ~ 08时05分]"
         },
         {
+          "title": "AI预测葡萄牙vs西班牙赛果",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E8%91%A1%E8%90%84%E7%89%99vs%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B5%9B%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "99万元机器人伴侣续航撑不过一晚",
           "url": "https://www.baidu.com/s?wd=99%E4%B8%87%E5%85%83%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E7%BB%AD%E8%88%AA%E6%92%91%E4%B8%8D%E8%BF%87%E4%B8%80%E6%99%9A",
           "source": "百度热搜",
@@ -202,22 +215,23 @@
           "time_info": "[00时09分 ~ 06时02分]"
         },
         {
+          "title": "【焦点复盘】科创50“深V”回升结束3连跌，新版“韬定律”提振芯片产业链，机器人概念遭深幅回调",
+          "url": "https://www.cls.cn/detail/2418140",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 22时25分]"
+        },
+        {
           "title": "创业板跌近2%，PCB、CPO领跌，机器人板块调整，创新药再爆发，恒科指涨超1%",
           "url": "https://wallstreetcn.com/articles/3776252",
           "source": "华尔街见闻",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
-        },
-        {
-          "title": "【焦点复盘】科创50“深V”回升结束3连跌，新版“韬定律”提振芯片产业链，机器人概念遭深幅回调",
-          "url": "https://www.cls.cn/detail/2418140",
-          "source": "财联社热门",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -268,6 +282,17 @@
           "time_info": "13时11分"
         },
         {
+          "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "7月6日投资避雷针：日盈电子、长盛轴承、福赛科技等机器人概念股密集提示风险",
           "url": "https://www.cls.cn/detail/2417504",
           "source": "财联社热门",
@@ -277,6 +302,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
+        },
+        {
+          "title": "三花智控：液冷业务进展顺利 仿生机器人成第三增长曲线",
+          "url": "https://flash.jin10.com/detail/20260706215339178800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "金山办公回应“WPS滥收费、背刺用户” ：言论不实。免费基础功能绝不收费，少数AI办公智能体等高成本服务，会独立计费，用户按需购买。",
@@ -290,13 +326,35 @@
           "time_info": "13时11分"
         },
         {
+          "title": "国产清洁机器人卖爆了",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E6%B8%85%E6%B4%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%96%E7%88%86%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "南向资金追踪｜单日净买超205亿港元创近一个半月新高 AI硬件概念股反被抛售",
+          "url": "https://www.cls.cn/detail/2418217",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "中央网信办深入开展“清朗·整治AI应用乱象”专项行动第一阶段工作",
           "url": "https://wallstreetcn.com/livenews/3129280",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -307,7 +365,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -359,7 +417,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "数说中国经济6月成绩单",
@@ -395,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
+        },
+        {
+          "title": "多元业态激发夏日经济活力",
+          "url": "https://www.toutiao.com/trending/7659157710470152218/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "阴和俊：加快新能源、新材料、航空航天、低空经济等战略性新兴产业集群发展",
@@ -456,6 +525,17 @@
           "time_info": "08时05分"
         },
         {
+          "title": "阿根廷经济部长：尽管面临外部冲击，国家风险已降至八年来最低水平。",
+          "url": "https://flash.jin10.com/detail/20260706215246779800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "日本首相高市早苗：将在经济和可持续性之间取得平衡。 国内投资不足以促进经济增长。",
           "url": "https://wallstreetcn.com/livenews/3129150",
           "source": "华尔街见闻-快讯",
@@ -467,13 +547,24 @@
           "time_info": "13时11分"
         },
         {
+          "title": "阿根廷经济部长：阿根廷计划在2031年前实现投资级评级。",
+          "url": "https://flash.jin10.com/detail/20260706215020849800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "国家发改委价格成本和认证中心召开《虚拟电厂参与电力系统调节技术经济研究》开题会",
           "url": "https://flash.jin10.com/detail/20260706173852571800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         }
@@ -481,7 +572,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "长江电力：26年上半年公司境内总发电量约1327.44亿千瓦时，较上年同期增加4.81%",
@@ -490,9 +581,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "大商所就焦炭期货期权合约公开征求意见。",
+          "url": "https://wallstreetcn.com/livenews/3129394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         }
       ]
     }
