@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T13:11:28.071575+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2026-07-06T18:20:08.256337+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 23,
+      "match_count": 30,
       "titles": [
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
@@ -41,11 +41,12 @@
             9,
             10,
             11,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 13时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 18时20分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -73,6 +74,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时09分 ~ 08时05分]"
+        },
+        {
+          "title": "就在今天凌晨！人形机器人首度亮相世界杯赛场",
+          "url": "https://www.cls.cn/detail/2417841",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
+        },
+        {
+          "title": "国产机器人加速走向全球",
+          "url": "https://www.douyin.com/hot/2560666",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
+        },
+        {
+          "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
+          "url": "https://wallstreetcn.com/articles/3776245",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
@@ -105,9 +139,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
+        },
+        {
+          "title": "关键考验明日来袭：三星Q2营利料狂飙17倍 但AI支出前景暗藏风险",
+          "url": "https://www.cls.cn/detail/2417526",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 18时20分]"
         },
         {
           "title": "已进入多家本体、模组厂商和灵巧手企业供应链 人形机器人概念股单日涨超14% 本周机构密集调研相关上市公司",
@@ -116,7 +162,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -137,11 +183,12 @@
           "url": "https://www.baidu.com/s?wd=99%E4%B8%87%E5%85%83%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E7%BB%AD%E8%88%AA%E6%92%91%E4%B8%8D%E8%BF%87%E4%B8%80%E6%99%9A",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 18时20分]"
         },
         {
           "title": "加速走向全球：今年前5个月我国机器人出口近200亿元",
@@ -155,6 +202,28 @@
           "time_info": "[00时09分 ~ 06时02分]"
         },
         {
+          "title": "创业板跌近2%，PCB、CPO领跌，机器人板块调整，创新药再爆发，恒科指涨超1%",
+          "url": "https://wallstreetcn.com/articles/3776252",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
+        },
+        {
+          "title": "【焦点复盘】科创50“深V”回升结束3连跌，新版“韬定律”提振芯片产业链，机器人概念遭深幅回调",
+          "url": "https://www.cls.cn/detail/2418140",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
+        },
+        {
           "title": "谁在提前退出AI盛宴",
           "url": "https://www.toutiao.com/trending/7659035480960273974/",
           "source": "今日头条",
@@ -166,24 +235,13 @@
           "time_info": "[04时13分 ~ 04时14分]"
         },
         {
-          "title": "关键考验明日来袭：三星Q2营利料狂飙17倍 但AI支出前景暗藏风险",
-          "url": "https://www.cls.cn/detail/2417526",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
           "title": "研究人员借助AI技术发现两种新型超导体",
           "url": "https://flash.jin10.com/detail/20260706124426246800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -194,7 +252,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -205,7 +263,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -216,7 +274,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -227,9 +285,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
+        },
+        {
+          "title": "中央网信办深入开展“清朗·整治AI应用乱象”专项行动第一阶段工作",
+          "url": "https://wallstreetcn.com/livenews/3129280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "中控技术与新加坡Certis战略合作 推动公共事业机器人场景化落地",
+          "url": "https://flash.jin10.com/detail/20260706175920437800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "野村：数据采集成2026年人形机器人训练关键",
@@ -238,7 +318,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -249,7 +329,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -260,7 +340,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -271,7 +351,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         }
@@ -279,7 +359,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "数说中国经济6月成绩单",
@@ -312,7 +392,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -323,7 +403,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -382,9 +462,37 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
+        },
+        {
+          "title": "国家发改委价格成本和认证中心召开《虚拟电厂参与电力系统调节技术经济研究》开题会",
+          "url": "https://flash.jin10.com/detail/20260706173852571800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "长江电力：26年上半年公司境内总发电量约1327.44亿千瓦时，较上年同期增加4.81%",
+          "url": "https://wallstreetcn.com/livenews/3129271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         }
       ]
     }
