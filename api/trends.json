@@ -1,114 +1,12 @@
 {
-  "generated_at": "2026-07-07T21:21:50.681201+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2026-07-08T00:32:17.617531+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 37,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "就在今天凌晨！人形机器人首度亮相世界杯赛场",
-          "url": "https://www.cls.cn/detail/2417841",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 07时08分]"
-        },
-        {
-          "title": "优必选回应仿生机器人争议：续航2-4小时是行业普遍情况，定位是情感陪伴，不是伴侣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33526038",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 15时38分]"
-        },
-        {
-          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
-          "url": "https://www.cls.cn/detail/2418780",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时37分 ~ 18时55分]"
-        },
-        {
-          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
-          "url": "https://www.cls.cn/detail/2418586",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时20分 ~ 15时38分]"
-        },
-        {
-          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
-          "url": "https://www.cls.cn/detail/2418905",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时37分 ~ 21时21分]"
-        },
-        {
-          "title": "99 万机器人伴侣续航仅 2-4 小时，为啥续航这么差​？技术核心卡点在哪？可能对用户体验有哪些影响？",
-          "url": "https://www.zhihu.com/question/2057405995244938393",
-          "source": "知乎",
-          "ranks": [
-            14,
-            4,
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 11时20分]"
-        },
-        {
-          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
-          "url": "https://wallstreetcn.com/articles/3776319",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时20分 ~ 21时21分]"
-        },
-        {
-          "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
-          "url": "https://wallstreetcn.com/articles/3776245",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 07时08分]"
-        },
         {
           "title": "我国人形机器人整机产量有望破十万台",
           "url": "https://www.toutiao.com/trending/7659749336267640329/",
@@ -116,9 +14,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
           "title": "人形机器人成高端制造出口新名片",
@@ -127,601 +25,125 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "Anthropic：Claude CoWork投放到移动端和网页。",
+          "url": "https://wallstreetcn.com/livenews/3130092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时21分"
+          "time_info": "00时32分"
         },
         {
-          "title": "2025年上海规上AI企业产业规模超6370亿元 同比增长39.5%",
-          "url": "https://flash.jin10.com/detail/20260707110649004800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "三星二季度运营利润同比激增超1800%，AI需求继续提振存储芯片价格",
-          "url": "https://wallstreetcn.com/livenews/3129593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "上海市经信委主任汤文侃：业界最大规模超节点华为Atlas 950、阶跃Agent操作系统、全球首款AI智能体手机将在2026世界人工智能大会首秀",
-          "url": "https://wallstreetcn.com/livenews/3129706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "【焦点复盘】科创50“深V”回升结束3连跌，新版“韬定律”提振芯片产业链，机器人概念遭深幅回调",
-          "url": "https://www.cls.cn/detail/2418140",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 07时08分]"
-        },
-        {
-          "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P",
-          "url": "https://wallstreetcn.com/articles/3776296",
+          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
+          "url": "https://wallstreetcn.com/articles/3776319",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 18时55分]"
-        },
-        {
-          "title": "英国监管机构审查凸显金融服务AI风险",
-          "url": "https://wallstreetcn.com/livenews/3129510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 03时56分]"
-        },
-        {
-          "title": "智能体下线,AI女友凉了？",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
-          "source": "贴吧",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 07时08分]"
-        },
-        {
-          "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
-          "url": "https://wallstreetcn.com/articles/3776262",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 05时29分]"
-        },
-        {
-          "title": "第15000台机器人下线、超130家机器人领域企业集聚浦东 上海如何孕育具身智能？",
-          "url": "https://www.cls.cn/detail/2418658",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时37分 ~ 15时38分]"
-        },
-        {
-          "title": "南向资金追踪｜单日净买超205亿港元创近一个半月新高 AI硬件概念股反被抛售",
-          "url": "https://www.cls.cn/detail/2418217",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 07时08分]"
-        },
-        {
-          "title": "Claude被封 天才程序员陨落",
-          "url": "https://s.weibo.com/weibo?q=Claude%E8%A2%AB%E5%B0%81%20%E5%A4%A9%E6%89%8D%E7%A8%8B%E5%BA%8F%E5%91%98%E9%99%A8%E8%90%BD&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 15时38分]"
-        },
-        {
-          "title": "99万元机器人伴侣续航撑不过一晚",
-          "url": "https://www.toutiao.com/trending/7659051533732642857/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时56分 ~ 05时29分]"
-        },
-        {
-          "title": "AI预测葡萄牙vs西班牙赛果",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E8%91%A1%E8%90%84%E7%89%99vs%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B5%9B%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "高盛：AI投资重心迈向实体产业，未来6年资本开支或达7.6万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3129433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "前5月机器人规上企业营收超900亿元",
-          "url": "https://wallstreetcn.com/livenews/3129591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
           "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
           "url": "https://wallstreetcn.com/articles/3776368",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
-          "url": "https://wallstreetcn.com/articles/3776266",
-          "source": "华尔街见闻",
-          "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "据英国金融时报：前OpenAI研究员管理的对冲基金Situational Awareness与英国投资机构Baillie Gifford等机构拟认购约70亿美元SK海力士纳斯达克IPO股份。",
-          "url": "https://flash.jin10.com/detail/20260707024555773800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时56分"
-        },
-        {
-          "title": "xAI将旗下X账号更名为SpaceXAI。",
-          "url": "https://flash.jin10.com/detail/20260707042933753800",
-          "source": "金十数据",
+          "title": "美国参议院民主党成员Warren施压五角大楼与多家AI公司，要求披露合同。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3130078",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时29分"
+          "time_info": "00时32分"
         },
         {
-          "title": "全球首款AI智能体手机",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BEAI%E6%99%BA%E8%83%BD%E4%BD%93%E6%89%8B%E6%9C%BA%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "title": "Anthropic：将Claude Code双倍协作（Cowork）使用额度延长至8月5日。",
+          "url": "https://flash.jin10.com/detail/20260708000001537800",
+          "source": "金十数据",
           "ranks": [
-            17
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时21分"
+          "time_info": "00时32分"
         },
         {
-          "title": "【央视网评：斩断“低俗赌约” 莫把股市当赌场】“央视网评”公众号发文称，近日，中公教育、共进股份等股票因股吧平台内的“低俗赌约”，引发股民的网络狂欢，前者4天内2个涨停，后者亦有1个涨停，接连上演了荒诞的股价异动戏码。这场靠“低俗赌约”撬动的股价异动，在监管的果断介入下被及时按下“暂停键”。 此类“低俗赌约”具有极强的夸大性与误导性：“一年20倍”等纯属夸张，低俗的“钩子”在传播过程中更被强行关联“有色”、AI硬件等热点概念，严重干扰投资者决策。这种流量炒作比股市“小作文”更为隐蔽：甚至无需捏造具体的利好谎言，只要足够低俗猎奇，猎奇心理和算法推荐机制就会替其将“误导性”放大。 投资者也要更清醒：在拿股吧赌约当买入逻辑之前，应先审视自身交易行为是否理性，是否会触碰红线。价格发现是资本市场的核心功能，容不下半点低俗流量的绑架。摒弃博傻心理，回归理性投资，才是长久之道。",
-          "url": "https://wallstreetcn.com/livenews/3129789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "黑石出售 3 处数据中心，又叫停全球最大数据中心建设，这对「AI 经济」影响几何？",
-          "url": "https://www.zhihu.com/question/2057382041294054519",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "国家发改委王若蒙：AI手机、AI电脑的销量预计今年有望首次超过非AI产品",
-          "url": "https://flash.jin10.com/detail/20260707105427162800",
+          "title": "Anthropic：Claude Cowork将登陆移动端和网页。",
+          "url": "https://flash.jin10.com/detail/20260707235927623800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "英伟达回应AI服务器架构延后的报道，称：公司路线图保持不变",
-          "url": "https://wallstreetcn.com/livenews/3129491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "A股机器人概念股开盘拉升，巨轮智能、多利科技直线涨停，肇民科技涨超10%，汉宇集团、百达精工、绿的谐波涨涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3129663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "烽火通信旗下长江计算中标中国邮储银行AI算力集群采购项目",
-          "url": "https://wallstreetcn.com/livenews/3129871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "马斯克部分推翻“推特机器人案”陪审团裁决。（彭博法律Blaw）",
-          "url": "https://wallstreetcn.com/livenews/3129479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "time_info": "00时32分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 22,
+      "match_count": 4,
       "titles": [
         {
-          "title": "多元业态激发夏日经济活力",
-          "url": "https://www.toutiao.com/trending/7659157710470152218/",
-          "source": "今日头条",
+          "title": "“这是中国第二次拯救世界经济”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%8B%AF%E6%95%91%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 07时08分]"
-        },
-        {
-          "title": "8万亿！循环经济“十五五”锚定新目标",
-          "url": "https://www.toutiao.com/trending/7659217659280605226/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时37分 ~ 18时55分]"
-        },
-        {
-          "title": "看中国经济澎湃活力",
-          "url": "https://www.douyin.com/hot/2561633",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "阿根廷央行市场预期调查显示，经济学家预计2026年底通胀率为30%，较此前预测下调0.5个百分点；预计2026年GDP增长率为3.0%，较此前预测上调0.1个百分点。",
-          "url": "https://flash.jin10.com/detail/20260707045206645800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "经济学家高善文逝世 终年55岁",
-          "url": "https://www.douyin.com/hot/2562535",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "特朗普称赞美国经济。",
-          "url": "https://wallstreetcn.com/livenews/3130012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
           "title": "如何看待第十七届丘成桐大学生数学竞赛个人全能前四被北大包圆，六个单项金奖也被北大收入囊中？",
           "url": "https://www.zhihu.com/question/2057782462197887257",
           "source": "知乎",
           "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 21时21分]"
-        },
-        {
-          "title": "温氏股份：6月销售肉鸡1.11亿只（含毛鸡、鲜品和熟食），收入26.76亿元，毛鸡销售均价11.36元/公斤，环比变动分别为-2.13%、-4.90%、-1.65%，同比变动分别为6.12%、16.96%、10.40%。6月销售肉猪257.09万头（含毛猪和鲜品），收入30.78亿元，毛猪销售均价9.62元/公斤，环比变动分别为-3.08%、-5.00%、-0.82%，同比变动分别为-14.51%、-37.44%、-33.15%。",
-          "url": "https://wallstreetcn.com/livenews/3129908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "以色列央行行长：如果政府不遵守最高法院的裁决，将可能导致经济不确定性。",
-          "url": "https://flash.jin10.com/detail/20260707010359290800",
-          "source": "金十数据",
-          "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "经济学家高善文去世",
-          "url": "https://finance.ifeng.com/c/8uZX2MvVqES",
+          "title": "经济学家高善文离世，享年55岁",
+          "url": "https://finance.ifeng.com/c/8uZYDwu3bID",
           "source": "凤凰网",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯：认为经济增长稳健，劳动力市场保持稳定。 预计整体通胀率将随着能源价格走低。 通货膨胀率仍然相当高。 货币政策完全有条件实现目标。 鉴于存在不确定性，不宜提供明确的指导。",
-          "url": "https://wallstreetcn.com/livenews/3130006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "温氏股份：6月肉猪收入30.78亿元，同比下降37.44%",
-          "url": "https://flash.jin10.com/detail/20260707183803948800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时55分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "周一（7月6日），美股行业ETF多数收涨，全球科技股指数ETF涨2.18%，半导体ETF涨2.03%，科技行业ETF、网络股指数ETF至多涨1.67%，能源业ETF、生物科技指数ETF则至多收跌0.20%，公用事业ETF、医疗业ETF、日常消费品ETF至多跌1.05%。 标普500指数的11个板块中，电信板块收涨1.64%，信息技术/科技板块涨1.34%，房地产、日用消费品板块跌0.9%，公用事业、保健板块至多跌1.17%。",
-          "url": "https://wallstreetcn.com/livenews/3129551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "行云科技：预计上半年净利润1000万元-1500万元，同比增长432.77%-699.15%；报告期内，公司算力业务快速发展，公司已销售67台服务器并确认当期收入，增加当期毛利润约6500万元。",
-          "url": "https://wallstreetcn.com/livenews/3130002",
+          "title": "阿波罗首席经济学家：美股七巨头以外公司利润率停滞对科技巨头估值构成风险",
+          "url": "https://wallstreetcn.com/livenews/3130079",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "世界银行维持2026年中国经济增速预期不变",
-          "url": "https://wallstreetcn.com/livenews/3129688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "新研究表明：老龄化未必拖累经济，人口萎缩反而有助繁荣",
-          "url": "https://wallstreetcn.com/livenews/3129518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时56分"
-        },
-        {
-          "title": "韩国：将于下周发布下半年经济展望及政策。",
-          "url": "https://wallstreetcn.com/livenews/3129790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "智利财政部长：智利经济6月份“极有可能”实现增长。",
-          "url": "https://flash.jin10.com/detail/20260707004251956800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "市场消息：世界经济论坛创始人施瓦布称在家中发现秘密监听设备。",
-          "url": "https://flash.jin10.com/detail/20260707003855263800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "世界银行：中国经济增长保持韧性",
-          "url": "https://wallstreetcn.com/livenews/3129784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "立华股份：6月肉猪销售收入2.57亿元，同比下降15.18%",
-          "url": "https://wallstreetcn.com/livenews/3129881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "达沃斯创始人Schwab寻求重返全球经济论坛。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3129482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "“每座发电厂都将不复存在！”特朗普再发出威胁",
-          "url": "https://news.ifeng.com/c/8uYm3PSYLHK",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时37分 ~ 18时55分]"
-        },
-        {
-          "title": "深圳一停车场改造引发电动车占道",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%81%9C%E8%BD%A6%E5%9C%BA%E6%94%B9%E9%80%A0%E5%BC%95%E5%8F%91%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%8D%A0%E9%81%93",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时56分 ~ 07时08分]"
-        },
-        {
-          "title": "叙利亚总统沙拉：政府正在制定重建和现代化国家机构计划，并已签署能源领域合同，计划新增5000兆瓦发电能力并重建电厂。",
-          "url": "https://flash.jin10.com/detail/20260707043949618800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
+          "time_info": "00时32分"
         }
       ]
     }
