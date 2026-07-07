@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T11:20:35.757544+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2026-07-07T15:38:04.607809+08:00",
+  "total_titles_processed": 988,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "就在今天凌晨！人形机器人首度亮相世界杯赛场",
@@ -18,6 +18,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时43分 ~ 07时08分]"
+        },
+        {
+          "title": "优必选回应仿生机器人争议：续航2-4小时是行业普遍情况，定位是情感陪伴，不是伴侣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33526038",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 15时38分]"
+        },
+        {
+          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
+          "url": "https://www.cls.cn/detail/2418586",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时20分 ~ 15时38分]"
         },
         {
           "title": "99 万机器人伴侣续航仅 2-4 小时，为啥续航这么差​？技术核心卡点在哪？可能对用户体验有哪些影响？",
@@ -46,15 +72,27 @@
           "time_info": "[01时43分 ~ 07时08分]"
         },
         {
-          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
-          "url": "https://www.cls.cn/detail/2418586",
+          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
+          "url": "https://www.cls.cn/detail/2418780",
           "source": "财联社热门",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时37分 ~ 15时38分]"
+        },
+        {
+          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
+          "url": "https://wallstreetcn.com/articles/3776319",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时20分 ~ 15时38分]"
         },
         {
           "title": "2025年上海规上AI企业产业规模超6370亿元 同比增长39.5%",
@@ -63,7 +101,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -85,22 +123,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
-        },
-        {
-          "title": "优必选回应仿生机器人争议：续航2-4小时是行业普遍情况，定位是情感陪伴，不是伴侣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33526038",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 11时20分]"
         },
         {
           "title": "【焦点复盘】科创50“深V”回升结束3连跌，新版“韬定律”提振芯片产业链，机器人概念遭深幅回调",
@@ -151,6 +176,39 @@
           "time_info": "[01时43分 ~ 05时29分]"
         },
         {
+          "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P",
+          "url": "https://wallstreetcn.com/articles/3776296",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时20分 ~ 15时38分]"
+        },
+        {
+          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
+          "url": "https://www.cls.cn/detail/2418905",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时37分 ~ 15时38分]"
+        },
+        {
+          "title": "第15000台机器人下线、超130家机器人领域企业集聚浦东 上海如何孕育具身智能？",
+          "url": "https://www.cls.cn/detail/2418658",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时37分 ~ 15时38分]"
+        },
+        {
           "title": "南向资金追踪｜单日净买超205亿港元创近一个半月新高 AI硬件概念股反被抛售",
           "url": "https://www.cls.cn/detail/2418217",
           "source": "财联社热门",
@@ -160,6 +218,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 07时08分]"
+        },
+        {
+          "title": "Claude被封 天才程序员陨落",
+          "url": "https://s.weibo.com/weibo?q=Claude%E8%A2%AB%E5%B0%81%20%E5%A4%A9%E6%89%8D%E7%A8%8B%E5%BA%8F%E5%91%98%E9%99%A8%E8%90%BD&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时37分 ~ 15时38分]"
         },
         {
           "title": "99万元机器人伴侣续航撑不过一晚",
@@ -184,17 +253,6 @@
           "time_info": "01时43分"
         },
         {
-          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
-          "url": "https://wallstreetcn.com/articles/3776319",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
           "title": "高盛：AI投资重心迈向实体产业，未来6年资本开支或达7.6万亿美元",
           "url": "https://wallstreetcn.com/livenews/3129433",
           "source": "华尔街见闻-快讯",
@@ -204,17 +262,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
-        },
-        {
-          "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P",
-          "url": "https://wallstreetcn.com/articles/3776296",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时20分"
         },
         {
           "title": "前5月机器人规上企业营收超900亿元",
@@ -234,7 +281,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -261,6 +308,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "【央视网评：斩断“低俗赌约” 莫把股市当赌场】“央视网评”公众号发文称，近日，中公教育、共进股份等股票因股吧平台内的“低俗赌约”，引发股民的网络狂欢，前者4天内2个涨停，后者亦有1个涨停，接连上演了荒诞的股价异动戏码。这场靠“低俗赌约”撬动的股价异动，在监管的果断介入下被及时按下“暂停键”。 此类“低俗赌约”具有极强的夸大性与误导性：“一年20倍”等纯属夸张，低俗的“钩子”在传播过程中更被强行关联“有色”、AI硬件等热点概念，严重干扰投资者决策。这种流量炒作比股市“小作文”更为隐蔽：甚至无需捏造具体的利好谎言，只要足够低俗猎奇，猎奇心理和算法推荐机制就会替其将“误导性”放大。 投资者也要更清醒：在拿股吧赌约当买入逻辑之前，应先审视自身交易行为是否理性，是否会触碰红线。价格发现是资本市场的核心功能，容不下半点低俗流量的绑架。摒弃博傻心理，回归理性投资，才是长久之道。",
+          "url": "https://wallstreetcn.com/livenews/3129789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "黑石出售 3 处数据中心，又叫停全球最大数据中心建设，这对「AI 经济」影响几何？",
           "url": "https://www.zhihu.com/question/2057382041294054519",
           "source": "知乎",
@@ -278,7 +336,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -300,7 +358,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -319,7 +377,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "多元业态激发夏日经济活力",
@@ -333,13 +391,24 @@
           "time_info": "[01时43分 ~ 07时08分]"
         },
         {
+          "title": "8万亿！循环经济“十五五”锚定新目标",
+          "url": "https://www.toutiao.com/trending/7659217659280605226/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时37分 ~ 15时38分]"
+        },
+        {
           "title": "看中国经济澎湃活力",
           "url": "https://www.douyin.com/hot/2561633",
           "source": "抖音",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -383,7 +452,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -397,6 +466,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "韩国：将于下周发布下半年经济展望及政策。",
+          "url": "https://wallstreetcn.com/livenews/3129790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "智利财政部长：智利经济6月份“极有可能”实现增长。",
@@ -421,6 +501,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "世界银行：中国经济增长保持韧性",
+          "url": "https://wallstreetcn.com/livenews/3129784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "达沃斯创始人Schwab寻求重返全球经济论坛。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3129482",
           "source": "华尔街见闻-快讯",
@@ -435,7 +526,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "深圳一停车场改造引发电动车占道",
@@ -449,6 +540,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时56分 ~ 07时08分]"
+        },
+        {
+          "title": "“每座发电厂都将不复存在！”特朗普再发出威胁",
+          "url": "https://news.ifeng.com/c/8uYm3PSYLHK",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时37分 ~ 15时38分]"
         },
         {
           "title": "叙利亚总统沙拉：政府正在制定重建和现代化国家机构计划，并已签署能源领域合同，计划新增5000兆瓦发电能力并重建电厂。",
