@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T03:25:51.876722+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-07-09T05:08:25.357203+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
@@ -59,8 +59,54 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 05时08分]"
+        },
+        {
+          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
+          "url": "https://www.zhihu.com/question/2058166406420460573",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 05时08分]"
+        },
+        {
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 05时08分]"
+        },
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 05时08分]"
+        },
+        {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 05时08分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落跌1.7%，算力租赁逆势走强，机器人、锂电概念股集体重挫",
@@ -74,51 +120,6 @@
           "time_info": "[01时31分 ~ 03时25分]"
         },
         {
-          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
-          "url": "https://www.zhihu.com/question/2058166406420460573",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时25分]"
-        },
-        {
-          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
-          "url": "https://wallstreetcn.com/articles/3776428",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时25分]"
-        },
-        {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时25分]"
-        },
-        {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时25分]"
-        },
-        {
           "title": "看空AI就是踏空？私募又争起来了，没买过AI的有什么资格吹哨？",
           "url": "https://www.cls.cn/detail/2420437",
           "source": "财联社热门",
@@ -126,8 +127,30 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 05时08分]"
+        },
+        {
+          "title": "OpenAI：将扩大与美国政府及盟友在关键防御领域的合作。",
+          "url": "https://flash.jin10.com/detail/20260709043940767800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "OpenAI：发布国家安全原则文件。",
+          "url": "https://flash.jin10.com/detail/20260709043809283800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         },
         {
           "title": "SpaceXAI与Cursor联合发布Grok AI模型，主打法律与金融任务",
@@ -136,7 +159,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         },
@@ -147,7 +170,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         },
@@ -158,9 +181,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "穆迪：具备数字现金能力的AI智能代理将改变金融业，但也会扩大风险范围。",
+          "url": "https://flash.jin10.com/detail/20260709041822379800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         },
         {
           "title": "华纳兄弟探索（WBD）与亚马逊旗下AWS开发Agentic AI广告体验。",
@@ -188,8 +222,19 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "网传知名经济学家高善文治疗淋巴瘤全过程，从发现到离世不到两年，他得的淋巴瘤有多凶险？",
+          "url": "https://www.zhihu.com/question/2057939455160185245",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
         {
           "title": "“中国房地产调整或接近尾声”",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%B0%83%E6%95%B4%E6%88%96%E6%8E%A5%E8%BF%91%E5%B0%BE%E5%A3%B0%E2%80%9D",
@@ -199,8 +244,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 05时08分]"
+        },
+        {
+          "title": "邢自强：中国房地产调整或接近尾声",
+          "url": "https://www.toutiao.com/trending/7659924608824868910/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            24,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 05时08分]"
         },
         {
           "title": "IMF预计今年全球经济增长3.0%，上调中国经济增长预期",
@@ -211,20 +269,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时25分]"
-        },
-        {
-          "title": "邢自强：中国房地产调整或接近尾声",
-          "url": "https://www.toutiao.com/trending/7659924608824868910/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 05时08分]"
         },
         {
           "title": "据《耶路撒冷邮报》援引消息人士称，沙特正推动调整“印度—中东—欧洲经济走廊”路线，考虑绕开以色列，改由叙利亚连接，以削弱以色列在该项目中的参与。",
@@ -233,7 +279,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         },
@@ -247,6 +293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "标普500指数的11个板块中，原材料板块收跌2.49%，金融、房地产、可选消费、电信、保健、工业板块跌1.92%-1.08%，信息技术/科技板块涨1.44%，能源板块涨1.45%。",
+          "url": "https://wallstreetcn.com/livenews/3130883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         }
       ]
     },
