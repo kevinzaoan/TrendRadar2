@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-10T04:47:17.629851+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-07-10T06:28:11.061867+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
+          "url": "https://wallstreetcn.com/articles/3776526",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 06时28分]"
+        },
         {
           "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
           "url": "https://wallstreetcn.com/articles/3776500",
@@ -19,16 +31,16 @@
           "time_info": "[00时27分 ~ 04时47分]"
         },
         {
-          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
-          "url": "https://wallstreetcn.com/articles/3776526",
+          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
+          "url": "https://wallstreetcn.com/articles/3776515",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            6
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 04时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 06时28分]"
         },
         {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
@@ -41,6 +53,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 04时47分]"
+        },
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 06时28分]"
         },
         {
           "title": "谷歌公司在广告中提高AI透明度。 谷歌在搜索、Youtube广告中新增AI信息披露标签。",
@@ -65,26 +88,39 @@
           "time_info": "02时51分"
         },
         {
-          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
-          "url": "https://wallstreetcn.com/articles/3776515",
-          "source": "华尔街见闻",
+          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
+          "url": "https://www.cls.cn/detail/2422188",
+          "source": "财联社热门",
           "ranks": [
-            8
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 04时47分]"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时28分]"
         },
         {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
+          "title": "一条AI短片演绎杨戬劈山",
+          "url": "https://www.douyin.com/hot/2564959",
+          "source": "抖音",
           "ranks": [
-            29
+            30,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 04时47分]"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时28分]"
+        },
+        {
+          "title": "报道：Meta自研AI芯片“Iris”计划9月量产，2027年算力拟翻倍至14吉瓦",
+          "url": "https://wallstreetcn.com/articles/3776581",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 06时28分]"
         },
         {
           "title": "Meta：探索AI云业务是合理的，考虑出租算力",
@@ -98,24 +134,13 @@
           "time_info": "02时51分"
         },
         {
-          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
-          "url": "https://www.cls.cn/detail/2422188",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
           "title": "OpenAI：GPT‑5.6现已成为微软365 Copilot的首选模型。",
           "url": "https://flash.jin10.com/detail/20260710040649835800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -170,7 +195,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -203,7 +228,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -217,17 +242,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
-        },
-        {
-          "title": "一条AI短片演绎杨戬劈山",
-          "url": "https://www.douyin.com/hot/2564959",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
         }
       ]
     },
@@ -235,6 +249,17 @@
       "keyword_group": "经济 房地产 收入",
       "match_count": 9,
       "titles": [
+        {
+          "title": "“只有一半患者活过3年”，知名经济学家因少见疾病离世",
+          "url": "https://news.ifeng.com/c/8ucWJ2s0wR4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 06时28分]"
+        },
         {
           "title": "经济数据增强加息预期，纽元涨至两周来新高",
           "url": "https://flash.jin10.com/detail/20260710023414998800",
@@ -251,22 +276,12 @@
           "url": "https://flash.jin10.com/detail/20260710042507698800",
           "source": "金十数据",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "“只有一半患者活过3年”，知名经济学家因少见疾病离世",
-          "url": "https://news.ifeng.com/c/8ucWJ2s0wR4",
-          "source": "凤凰网",
-          "ranks": [
-            10
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 04时47分]"
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 06时28分]"
         },
         {
           "title": "欧洲央行行长拉加德：欧盟政府必须采取行动来发展经济。 我们需要一种欧洲资产，这是“相当显而易见的”。 自从针对新冠疫情推出支持资金以来，形势已经变化。（EuroNews）",
