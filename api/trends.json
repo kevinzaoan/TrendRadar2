@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T05:49:58.447936+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-07-12T06:47:47.389041+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时47分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时47分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时47分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -62,8 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时47分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
@@ -71,11 +71,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时49分]"
+          "appearance_count": 3,
+          "time_info": "[04时46分 ~ 06时47分]"
         },
         {
           "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
@@ -83,11 +84,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时49分]"
+          "appearance_count": 3,
+          "time_info": "[04时46分 ~ 06时47分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -104,7 +106,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "国常会：要系统推进数字中国建设，加快新一代通信网、算力网建设，全面赋能经济社会发展",
@@ -116,6 +118,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时58分 ~ 03时06分]"
+        },
+        {
+          "title": "头部游企6月全球收入增幅超17% 暑期档新品密集落地",
+          "url": "https://www.cls.cn/detail/2423590",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         }
       ]
     }
