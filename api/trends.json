@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T22:53:40.751690+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2026-07-11T23:56:31.551090+08:00",
+  "total_titles_processed": 1492,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时57分 ~ 22时53分]"
+          "appearance_count": 15,
+          "time_info": "[07时57分 ~ 23时56分]"
         },
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
@@ -65,8 +65,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时50分 ~ 22时53分]"
+          "appearance_count": 13,
+          "time_info": "[10时50分 ~ 23时56分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -85,6 +85,20 @@
           "time_info": "[00时56分 ~ 15时55分]"
         },
         {
+          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
+          "url": "https://www.cls.cn/detail/2423546",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时28分 ~ 23时56分]"
+        },
+        {
           "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
           "url": "https://wallstreetcn.com/articles/3776665",
           "source": "华尔街见闻",
@@ -96,19 +110,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[10时50分 ~ 21时18分]"
-        },
-        {
-          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
-          "url": "https://www.cls.cn/detail/2423546",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时28分 ~ 22时53分]"
         },
         {
           "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
@@ -134,6 +135,17 @@
           "time_info": "[00时56分 ~ 02时23分]"
         },
         {
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://www.toutiao.com/trending/7660829419656888339/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时04分 ~ 23时56分]"
+        },
+        {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
           "url": "https://www.cls.cn/detail/2423447",
           "source": "财联社热门",
@@ -145,17 +157,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时50分 ~ 15时55分]"
-        },
-        {
-          "title": "无人机吊起2人神图系AI合成",
-          "url": "https://www.toutiao.com/trending/7660829419656888339/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时04分 ~ 22时53分]"
         },
         {
           "title": "OpenAI回应苹果公司的诉讼：我们对其他公司的商业秘密没兴趣。 我们仍然侧重于打造创新科技。",
@@ -230,6 +231,17 @@
           "time_info": "[10时50分 ~ 13时41分]"
         },
         {
+          "title": "重回AI一线？Meta单周大涨15%",
+          "url": "https://wallstreetcn.com/articles/3776692",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时56分]"
+        },
+        {
           "title": "《功夫女足》上映 AI预测总票房超10亿",
           "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E4%B8%8A%E6%98%A0+AI%E9%A2%84%E6%B5%8B%E6%80%BB%E7%A5%A8%E6%88%BF%E8%B6%8510%E4%BA%BF",
           "source": "百度热搜",
@@ -262,6 +274,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时17分 ~ 21时18分]"
+        },
+        {
+          "title": "全球主权财富基金加大对AI投资",
+          "url": "https://flash.jin10.com/detail/20260711213544573800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时56分]"
         },
         {
           "title": "市场消息：法院文件显示，苹果(AAPL.O)起诉OpenAI，指控其挪用商业机密。",
@@ -309,17 +333,6 @@
           "time_info": "10时50分"
         },
         {
-          "title": "重回AI一线？Meta单周大涨15%",
-          "url": "https://wallstreetcn.com/articles/3776692",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
-        },
-        {
           "title": "OpenAI安全系统负责人Heidecke将离职。（WIRED）",
           "url": "https://wallstreetcn.com/livenews/3132277",
           "source": "华尔街见闻-快讯",
@@ -340,17 +353,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
-        },
-        {
-          "title": "全球主权财富基金加大对AI投资",
-          "url": "https://flash.jin10.com/detail/20260711213544573800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
         },
         {
           "title": "智元-蓝思机器人智能产线项目在惠州签约 计划首年机器人产能超1000台",
@@ -375,11 +377,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时56分 ~ 22时53分]"
+          "appearance_count": 21,
+          "time_info": "[00时56分 ~ 23时56分]"
         },
         {
           "title": "一组数据看中国经济蓬勃发展",
