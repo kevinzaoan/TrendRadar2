@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T13:41:10.800336+08:00",
-  "total_titles_processed": 899,
+  "generated_at": "2026-07-11T15:55:07.168855+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
@@ -20,8 +20,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 13时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 15时55分]"
         },
         {
           "title": "给朋友拍照时就这样变身机器人",
@@ -36,8 +36,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 13时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 15时55分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 13时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 15时55分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -65,8 +65,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 13时41分]"
+          "appearance_count": 7,
+          "time_info": "[07时57分 ~ 15时55分]"
         },
         {
           "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
@@ -92,6 +92,45 @@
           "time_info": "[00时56分 ~ 02时23分]"
         },
         {
+          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
+          "url": "https://www.cls.cn/detail/2422869",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时50分 ~ 15时55分]"
+        },
+        {
+          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
+          "url": "https://wallstreetcn.com/articles/3776665",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时50分 ~ 15时55分]"
+        },
+        {
+          "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
+          "url": "https://www.cls.cn/detail/2423447",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时50分 ~ 15时55分]"
+        },
+        {
           "title": "OpenAI回应苹果公司的诉讼：我们对其他公司的商业秘密没兴趣。 我们仍然侧重于打造创新科技。",
           "url": "https://wallstreetcn.com/livenews/3132268",
           "source": "华尔街见闻-快讯",
@@ -102,42 +141,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时58分 ~ 10时50分]"
-        },
-        {
-          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
-          "url": "https://www.cls.cn/detail/2422869",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时50分 ~ 13时41分]"
-        },
-        {
-          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
-          "url": "https://wallstreetcn.com/articles/3776665",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时50分 ~ 13时41分]"
-        },
-        {
-          "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
-          "url": "https://www.cls.cn/detail/2423447",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时50分 ~ 13时41分]"
         },
         {
           "title": "苹果起诉OpenAI窃取其顶级商业机密，引发重磅诉讼",
@@ -188,6 +191,17 @@
           "time_info": "[06时02分 ~ 07时58分]"
         },
         {
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 15时55分]"
+        },
+        {
           "title": "市场消息：法院文件显示，苹果(AAPL.O)起诉OpenAI，指控其挪用商业机密。",
           "url": "https://flash.jin10.com/detail/20260711042558788800",
           "source": "金十数据",
@@ -209,6 +223,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时57分 ~ 07时58分]"
+        },
+        {
+          "title": "宇树机器人给猪做手术登上Nature",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%99%E7%8C%AA%E5%81%9A%E6%89%8B%E6%9C%AF%E7%99%BB%E4%B8%8ANature",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 15时55分]"
         },
         {
           "title": "美国放宽对阿联酋的出口限制，为AI芯片销售打开大门",
@@ -280,7 +305,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "国常会：要系统推进数字中国建设，加快新一代通信网、算力网建设，全面赋能经济社会发展",
@@ -291,8 +316,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 13时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 15时55分]"
         },
         {
           "title": "一组数据看中国经济蓬勃发展",
@@ -302,8 +327,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时50分 ~ 13时41分]"
+          "appearance_count": 5,
+          "time_info": "[10时50分 ~ 15时55分]"
         },
         {
           "title": "惠誉：沙特阿拉伯地缘政治风险高，但经济和公共财政在美伊战争中表现出韧性。",
@@ -345,6 +370,17 @@
           "time_info": "[00时56分 ~ 04时23分]"
         },
         {
+          "title": "中国航协：下半年要深化通航与低空经济业务开展",
+          "url": "https://flash.jin10.com/detail/20260711152756572800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "美联储报告：房地产市场的活动一直处于“停滞”状态。",
           "url": "https://wallstreetcn.com/livenews/3132165",
           "source": "华尔街见闻-快讯",
@@ -354,6 +390,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "钢铁侠美队雷神问候",
+          "url": "https://search.bilibili.com/all?keyword=%E9%92%A2%E9%93%81%E4%BE%A0%E7%BE%8E%E9%98%9F%E9%9B%B7%E7%A5%9E%E9%97%AE%E5%80%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 15时55分]"
         }
       ]
     }
