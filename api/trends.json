@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T17:29:16.743125+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-07-11T19:05:06.428235+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时57分 ~ 17时29分]"
+          "appearance_count": 11,
+          "time_info": "[07时57分 ~ 19时05分]"
         },
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
@@ -50,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时56分 ~ 17时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时56分 ~ 19时05分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -70,29 +71,18 @@
           "time_info": "[00时56分 ~ 15时55分]"
         },
         {
-          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
-          "url": "https://www.cls.cn/detail/2422921",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时58分]"
-        },
-        {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
           "url": "https://www.cls.cn/detail/2422869",
           "source": "财联社热门",
           "ranks": [
             11,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时50分 ~ 17时29分]"
+          "appearance_count": 9,
+          "time_info": "[10时50分 ~ 19时05分]"
         },
         {
           "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
@@ -104,8 +94,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时50分 ~ 17时29分]"
+          "appearance_count": 9,
+          "time_info": "[10时50分 ~ 19时05分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
+          "url": "https://www.cls.cn/detail/2422921",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 07时58分]"
         },
         {
           "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
@@ -142,6 +144,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时58分 ~ 10时50分]"
+        },
+        {
+          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
+          "url": "https://www.cls.cn/detail/2423546",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 19时05分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -204,15 +218,15 @@
           "time_info": "[10时50分 ~ 13时41分]"
         },
         {
-          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
-          "url": "https://www.cls.cn/detail/2423546",
-          "source": "财联社热门",
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://www.toutiao.com/trending/7660829419656888339/",
+          "source": "今日头条",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
+          "time_info": "[19时04分 ~ 19时05分]"
         },
         {
           "title": "《功夫女足》上映 AI预测总票房超10亿",
@@ -330,8 +344,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时56分 ~ 17时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时56分 ~ 19时05分]"
         },
         {
           "title": "一组数据看中国经济蓬勃发展",
