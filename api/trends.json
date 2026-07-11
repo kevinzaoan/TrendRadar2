@@ -1,234 +1,44 @@
 {
-  "generated_at": "2026-07-11T23:56:31.551090+08:00",
-  "total_titles_processed": 1492,
+  "generated_at": "2026-07-12T00:58:35.531654+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 29,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
           "url": "https://wallstreetcn.com/articles/3776680",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            3,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时57分 ~ 23时56分]"
-        },
-        {
-          "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
-          "url": "https://wallstreetcn.com/articles/3776629",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时56分 ~ 17时29分]"
-        },
-        {
-          "title": "给朋友拍照时就这样变身机器人",
-          "url": "https://www.douyin.com/hot/2566457",
-          "source": "抖音",
-          "ranks": [
-            12,
-            7,
-            8,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时56分 ~ 22时53分]"
-        },
-        {
-          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
-          "url": "https://www.cls.cn/detail/2422869",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时50分 ~ 23时56分]"
-        },
-        {
-          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
-          "url": "https://wallstreetcn.com/articles/3776651",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时56分 ~ 15时55分]"
+          "appearance_count": 1,
+          "time_info": "00时58分"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
           "url": "https://www.cls.cn/detail/2423546",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10,
-            5,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时28分 ~ 23时56分]"
+          "appearance_count": 1,
+          "time_info": "00时58分"
         },
         {
-          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
-          "url": "https://wallstreetcn.com/articles/3776665",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时50分 ~ 21时18分]"
-        },
-        {
-          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
-          "url": "https://www.cls.cn/detail/2422921",
+          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
+          "url": "https://www.cls.cn/detail/2422869",
           "source": "财联社热门",
           "ranks": [
-            10,
-            11
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时58分]"
-        },
-        {
-          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
-          "url": "https://wallstreetcn.com/articles/3776606",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时23分]"
-        },
-        {
-          "title": "无人机吊起2人神图系AI合成",
-          "url": "https://www.toutiao.com/trending/7660829419656888339/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时04分 ~ 23时56分]"
-        },
-        {
-          "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
-          "url": "https://www.cls.cn/detail/2423447",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时50分 ~ 15时55分]"
-        },
-        {
-          "title": "OpenAI回应苹果公司的诉讼：我们对其他公司的商业秘密没兴趣。 我们仍然侧重于打造创新科技。",
-          "url": "https://wallstreetcn.com/livenews/3132268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 10时50分]"
-        },
-        {
-          "title": "无人机吊起2人神图系AI合成",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时54分 ~ 17时29分]"
-        },
-        {
-          "title": "宇树机器人给猪做手术登上Nature",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%99%E7%8C%AA%E5%81%9A%E6%89%8B%E6%9C%AF%E7%99%BB%E4%B8%8ANature",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时54分 ~ 17时29分]"
-        },
-        {
-          "title": "美联储半年度报告：通胀今春进一步升温，AI基建成推高通胀新因素，重申稳定价格承诺",
-          "url": "https://wallstreetcn.com/articles/3776678",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时50分 ~ 17时29分]"
-        },
-        {
-          "title": "苹果起诉OpenAI窃取其顶级商业机密，引发重磅诉讼",
-          "url": "https://wallstreetcn.com/livenews/3132249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时02分 ~ 10时50分]"
-        },
-        {
-          "title": "据悉OpenAI安全系统负责人将离职",
-          "url": "https://flash.jin10.com/detail/20260711093038446800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时50分 ~ 13时41分]"
+          "appearance_count": 1,
+          "time_info": "00时58分"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -238,241 +48,36 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时53分 ~ 23时56分]"
+          "appearance_count": 1,
+          "time_info": "00时58分"
         },
         {
-          "title": "《功夫女足》上映 AI预测总票房超10亿",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E4%B8%8A%E6%98%A0+AI%E9%A2%84%E6%B5%8B%E6%80%BB%E7%A5%A8%E6%88%BF%E8%B6%8510%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
-        },
-        {
-          "title": "苹果起诉OpenAI涉嫌窃取商业机密",
-          "url": "https://flash.jin10.com/detail/20260711044802586800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时58分]"
-        },
-        {
-          "title": "日本砸钱抢印度AI精英赢面几何",
-          "url": "https://www.toutiao.com/trending/7661191119467712042/",
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://www.toutiao.com/trending/7660829419656888339/",
           "source": "今日头条",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
-        },
-        {
-          "title": "全球主权财富基金加大对AI投资",
-          "url": "https://flash.jin10.com/detail/20260711213544573800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时53分 ~ 23时56分]"
-        },
-        {
-          "title": "市场消息：法院文件显示，苹果(AAPL.O)起诉OpenAI，指控其挪用商业机密。",
-          "url": "https://flash.jin10.com/detail/20260711042558788800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时58分]"
-        },
-        {
-          "title": "售价十几万的仿生机器人有何卖点",
-          "url": "https://www.toutiao.com/trending/7660876752276688438/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
-        },
-        {
-          "title": "美国放宽对阿联酋的出口限制，为AI芯片销售打开大门",
-          "url": "https://flash.jin10.com/detail/20260711003717069800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "当哈佛学生高喊「f*ckAI」，复旦学生已开始考 AI，这反映了东西方教育理念对人工智能的何种差异？",
-          "url": "https://www.zhihu.com/question/2057634712668082970",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "OpenAI安全系统负责人Heidecke将离职。（WIRED）",
-          "url": "https://wallstreetcn.com/livenews/3132277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "欧洲央行Moulin：AI可能加剧通胀波动",
-          "url": "https://wallstreetcn.com/livenews/3132205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "智元-蓝思机器人智能产线项目在惠州签约 计划首年机器人产能超1000台",
-          "url": "https://flash.jin10.com/detail/20260710234153746800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "00时58分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
         {
           "title": "国常会：要系统推进数字中国建设，加快新一代通信网、算力网建设，全面赋能经济社会发展",
           "url": "https://www.cls.cn/detail/2423220",
           "source": "财联社热门",
           "ranks": [
-            3,
-            2,
             4
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时56分 ~ 23时56分]"
-        },
-        {
-          "title": "一组数据看中国经济蓬勃发展",
-          "url": "https://www.toutiao.com/trending/7660329513477439531/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时50分 ~ 15时55分]"
-        },
-        {
-          "title": "惠誉：沙特阿拉伯地缘政治风险高，但经济和公共财政在美伊战争中表现出韧性。",
-          "url": "https://flash.jin10.com/detail/20260711052432342800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时58分]"
-        },
-        {
-          "title": "如何看待拼多多花 33 亿元在上海陆家嘴买了一栋楼，达成今年上半年上海房地产大宗交易最大金额？",
-          "url": "https://www.zhihu.com/question/2058676026578657793",
-          "source": "知乎",
-          "ranks": [
-            12,
-            16,
-            14,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 10时50分]"
-        },
-        {
-          "title": "太空经济的“iPhone时刻”要来了吗",
-          "url": "https://www.toutiao.com/trending/7660854338671087130/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时23分]"
-        },
-        {
-          "title": "中国航协：下半年要深化通航与低空经济业务开展",
-          "url": "https://flash.jin10.com/detail/20260711152756572800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 17时29分]"
-        },
-        {
-          "title": "美联储报告：房地产市场的活动一直处于“停滞”状态。",
-          "url": "https://wallstreetcn.com/livenews/3132165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "钢铁侠美队雷神问候",
-          "url": "https://search.bilibili.com/all?keyword=%E9%92%A2%E9%93%81%E4%BE%A0%E7%BE%8E%E9%98%9F%E9%9B%B7%E7%A5%9E%E9%97%AE%E5%80%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 15时55分]"
+          "time_info": "00时58分"
         }
       ]
     }
