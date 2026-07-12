@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T04:46:47.189676+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-07-13T05:50:39.056110+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 05时50分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 05时50分]"
         },
         {
           "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 05时50分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 05时50分]"
         },
         {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
@@ -59,8 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 05时50分]"
         },
         {
           "title": "Claude：将把Claude Fable 5在所有付费套餐中的开放使用期限延长至7月19日，同时继续将Claude Code 的每周使用额度提高50%，这一政策也将持续至7月19日。",
@@ -81,7 +81,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         }
@@ -99,8 +99,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 05时50分]"
         },
         {
           "title": "英伟达路演：季度收入近千亿美元、增速还在加快，Rubin Ultra没有延期",
@@ -111,8 +111,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 05时50分]"
         },
         {
           "title": "伊朗总统：我们正参与一场复杂的经济战争，成功克服这一阶段需要公民的积极参与。",
