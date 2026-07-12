@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T18:27:57.105226+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-07-12T19:59:56.650314+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时58分 ~ 18时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时58分 ~ 19时59分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -28,19 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时58分 ~ 18时27分]"
-        },
-        {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 04时46分]"
+          "appearance_count": 13,
+          "time_info": "[00时58分 ~ 19时59分]"
         },
         {
           "title": "特写｜当机器人来到古村落",
@@ -53,8 +42,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时41分 ~ 18时27分]"
+          "appearance_count": 6,
+          "time_info": "[10时41分 ~ 19时59分]"
+        },
+        {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时46分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -121,6 +121,17 @@
           "time_info": "[04时46分 ~ 07时54分]"
         },
         {
+          "title": "人口第一大国，被AI做空了",
+          "url": "https://wallstreetcn.com/articles/3776722",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
           "title": "无人机吊起2人神图系AI合成",
           "url": "https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90",
           "source": "百度热搜",
@@ -138,11 +149,24 @@
           "ranks": [
             10,
             18,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 18时27分]"
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 19时59分]"
+        },
+        {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 19时59分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -167,15 +191,15 @@
           "time_info": "10时42分"
         },
         {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
+          "title": "中信证券：港股扰动趋缓卖空料将收敛 短期推荐创新药、航空、机器人及工业金属",
+          "url": "https://flash.jin10.com/detail/20260712190843394800",
+          "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时27分"
+          "time_info": "19时59分"
         },
         {
           "title": "机构：HBM4价格今年下半年或涨至4-5美元/千比特 AI需求与产能瓶颈致全球DRAM半数产能被大厂锁定",
@@ -217,6 +241,17 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "上半年高频数据折射我国经济稳中向优",
+          "url": "https://www.toutiao.com/trending/7660531597158989865/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 19时59分]"
+        },
+        {
           "title": "国常会：要系统推进数字中国建设，加快新一代通信网、算力网建设，全面赋能经济社会发展",
           "url": "https://www.cls.cn/detail/2423220",
           "source": "财联社热门",
@@ -226,17 +261,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时58分 ~ 03时06分]"
-        },
-        {
-          "title": "上半年高频数据折射我国经济稳中向优",
-          "url": "https://www.toutiao.com/trending/7660531597158989865/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 18时27分]"
         },
         {
           "title": "头部游企6月全球收入增幅超17% 暑期档新品密集落地",
@@ -256,7 +280,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -267,7 +291,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -278,7 +302,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         }
