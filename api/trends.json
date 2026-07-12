@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T22:56:10.512073+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-07-12T23:59:55.990201+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时58分 ~ 22时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时58分 ~ 23时59分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -29,8 +29,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时58分 ~ 22时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时58分 ~ 23时59分]"
+        },
+        {
+          "title": "人口第一大国，被AI做空了",
+          "url": "https://wallstreetcn.com/articles/3776722",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时59分 ~ 23时59分]"
         },
         {
           "title": "特写｜当机器人来到古村落",
@@ -47,16 +59,16 @@
           "time_info": "[10时41分 ~ 19时59分]"
         },
         {
-          "title": "人口第一大国，被AI做空了",
-          "url": "https://wallstreetcn.com/articles/3776722",
+          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[19时59分 ~ 22时56分]"
+          "time_info": "[21时45分 ~ 23时59分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -68,18 +80,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时58分 ~ 04时46分]"
-        },
-        {
-          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
-          "url": "https://wallstreetcn.com/articles/3776632",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时45分 ~ 22时56分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -94,6 +94,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时58分 ~ 07时54分]"
+        },
+        {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时27分 ~ 23时59分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -118,19 +131,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时41分 ~ 18时27分]"
-        },
-        {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时27分 ~ 22时56分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
@@ -254,7 +254,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "一组数据看中国经济稳中向优",
@@ -264,8 +264,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时45分 ~ 22时56分]"
+          "appearance_count": 5,
+          "time_info": "[21时45分 ~ 23时59分]"
         },
         {
           "title": "上半年高频数据折射我国经济稳中向优",
@@ -290,16 +290,28 @@
           "time_info": "[00时58分 ~ 03时06分]"
         },
         {
+          "title": "伊朗总统：我们正参与一场复杂的经济战争，成功克服这一阶段需要公民的积极参与。",
+          "url": "https://flash.jin10.com/detail/20260712234037416800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "英伟达路演：季度收入近千亿美元、增速还在加快，Rubin Ultra没有延期",
           "url": "https://wallstreetcn.com/articles/3776726",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时45分 ~ 22时56分]"
+          "appearance_count": 5,
+          "time_info": "[21时45分 ~ 23时59分]"
         },
         {
           "title": "头部游企6月全球收入增幅超17% 暑期档新品密集落地",
