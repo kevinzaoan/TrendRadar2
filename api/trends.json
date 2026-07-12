@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T13:58:56.608512+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2026-07-12T16:24:56.230187+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 13时58分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 16时24分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 13时58分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 16时24分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -57,6 +57,19 @@
           "time_info": "[00时58分 ~ 07时54分]"
         },
         {
+          "title": "特写｜当机器人来到古村落",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565908",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 16时24分]"
+        },
+        {
           "title": "无人机吊起2人神图系AI合成",
           "url": "https://www.toutiao.com/trending/7660829419656888339/",
           "source": "今日头条",
@@ -81,18 +94,6 @@
           "time_info": "[04时46分 ~ 07时54分]"
         },
         {
-          "title": "特写｜当机器人来到古村落",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565908",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时41分 ~ 13时58分]"
-        },
-        {
           "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
           "url": "https://flash.jin10.com/detail/20260712032711538800",
           "source": "金十数据",
@@ -114,8 +115,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时41分 ~ 13时58分]"
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 16时24分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -125,8 +126,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时41分 ~ 13时58分]"
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 16时24分]"
+        },
+        {
+          "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
+          "url": "https://wallstreetcn.com/livenews/3132380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 16时24分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -151,15 +164,15 @@
           "time_info": "10时42分"
         },
         {
-          "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
-          "url": "https://wallstreetcn.com/livenews/3132380",
-          "source": "华尔街见闻-快讯",
+          "title": "机构：HBM4价格今年下半年或涨至4-5美元/千比特 AI需求与产能瓶颈致全球DRAM半数产能被大厂锁定",
+          "url": "https://flash.jin10.com/detail/20260712150627108800",
+          "source": "金十数据",
           "ranks": [
-            10
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "16时24分"
         },
         {
           "title": "黄仁勋称「Prompt 已死，AI 圈正追逐 Loop」，这对 AI 开发及工程师意味着什么？",
@@ -168,7 +181,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -179,7 +192,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         }
@@ -187,7 +200,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "国常会：要系统推进数字中国建设，加快新一代通信网、算力网建设，全面赋能经济社会发展",
@@ -201,6 +214,17 @@
           "time_info": "[00时58分 ~ 03时06分]"
         },
         {
+          "title": "上半年高频数据折射我国经济稳中向优",
+          "url": "https://www.toutiao.com/trending/7660531597158989865/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "头部游企6月全球收入增幅超17% 暑期档新品密集落地",
           "url": "https://www.cls.cn/detail/2423590",
           "source": "财联社热门",
@@ -210,6 +234,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时47分 ~ 07时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "山东钢铁：预计2026年上半年净利润1.52亿元左右",
+          "url": "https://flash.jin10.com/detail/20260712154018072800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         }
       ]
     }
