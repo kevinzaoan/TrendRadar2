@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T18:46:44.082965+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2026-07-14T20:12:12.187314+08:00",
+  "total_titles_processed": 1483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
@@ -61,9 +61,60 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时46分 ~ 20时12分]"
+        },
+        {
+          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 20时12分]"
+        },
+        {
+          "title": "AI生成环卫工照片获摄影比赛一等奖",
+          "url": "https://www.toutiao.com/trending/7662295509886697491/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时11分 ~ 20时12分]"
+        },
+        {
+          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 20时12分]"
+        },
+        {
+          "title": "AI预测法国vs西班牙赛果",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E6%B3%95%E5%9B%BDvs%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B5%9B%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时29分 ~ 20时12分]"
         },
         {
           "title": "腾讯云宣布数据万象MetaInsight智能检索产品计费项与价格调整",
@@ -77,15 +128,29 @@
           "time_info": "16时03分"
         },
         {
+          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+          "url": "https://www.zhihu.com/question/2059349642496710015",
+          "source": "知乎",
+          "ranks": [
+            8,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时03分 ~ 20时12分]"
+        },
+        {
           "title": "AI生成图片被评摄影一等奖 官方通报",
           "url": "https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87%E8%A2%AB%E8%AF%84%E6%91%84%E5%BD%B1%E4%B8%80%E7%AD%89%E5%A5%96+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时46分 ~ 20时12分]"
         },
         {
           "title": "市场消息：加拿大银行监管机构在四月给公司高管的邮件中警告金融机构关于Anthropic的Claude Mythos的风险。",
@@ -97,43 +162,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
-        },
-        {
-          "title": "AI预测法国vs西班牙赛果",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E6%B3%95%E5%9B%BDvs%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B5%9B%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 16时03分]"
-        },
-        {
-          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 18时46分]"
-        },
-        {
-          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 18时46分]"
         },
         {
           "title": "AI杀死时尚行业",
@@ -173,6 +201,18 @@
           "time_info": "[00时32分 ~ 10时26分]"
         },
         {
+          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
+          "url": "https://wallstreetcn.com/articles/3776903",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时46分 ~ 20时12分]"
+        },
+        {
           "title": "看陈泽AI跳舞是一种挑战",
           "url": "https://www.douyin.com/hot/2570068",
           "source": "抖音",
@@ -208,16 +248,15 @@
           "time_info": "[13时29分 ~ 16时03分]"
         },
         {
-          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
-          "url": "https://www.zhihu.com/question/2059349642496710015",
+          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
+          "url": "https://www.zhihu.com/question/2060385485915263811",
           "source": "知乎",
           "ranks": [
-            8,
-            10
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时03分 ~ 18时46分]"
+          "time_info": "[20时11分 ~ 20时12分]"
         },
         {
           "title": "加拿大银行监管部门从在4月份邮件中警告众多金融机构关于Anthropic旗下Claude Mythos的诸多风险。（路透）",
@@ -261,7 +300,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -277,15 +316,15 @@
           "time_info": "13时31分"
         },
         {
-          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
-          "url": "https://wallstreetcn.com/articles/3776903",
-          "source": "华尔街见闻",
+          "title": "智谱：公司英文名称已由\"Knowledge Atlas Technology Joint Stock Company Limited\"变更为\"Z.AI Co., Ltd.\"",
+          "url": "https://wallstreetcn.com/livenews/3133639",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "20时12分"
         },
         {
           "title": "全球AI龙头股共振下跌，机构称后续关注三个信号",
@@ -327,7 +366,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -453,6 +492,17 @@
           "time_info": "16时03分"
         },
         {
+          "title": "智谱：英文名称变更为Z.AI Co., Ltd.",
+          "url": "https://flash.jin10.com/detail/20260714193738872800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
           "title": "AI时代CPU为何翻红",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3CPU%E4%B8%BA%E4%BD%95%E7%BF%BB%E7%BA%A2",
           "source": "bilibili 热搜",
@@ -489,7 +539,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 29,
+      "match_count": 35,
       "titles": [
         {
           "title": "李强主持召开经济形势专家和企业家座谈会，黄汉权、于东来等发言",
@@ -511,8 +561,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时03分 ~ 20时12分]"
+        },
+        {
+          "title": "“26版西游记”唐僧扮演者回应收入",
+          "url": "https://www.toutiao.com/trending/7661194565551145023/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时03分 ~ 18时46分]"
+          "time_info": "[20时11分 ~ 20时12分]"
         },
         {
           "title": "摩根大通CEO戴蒙：各业务线收入创下新纪录。",
@@ -521,7 +582,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -532,9 +593,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
+        },
+        {
+          "title": "花旗集团第二季度营收为247.7亿美元，每股收益为3.15美元。 第二季度股票销售及交易收入23亿美元，预期为19亿美元。 第二季度FICC（固定收益、外汇及大宗商品）销售与交易收入为47.1亿美元，预期为45.6亿美元。 第二季度净利息收入为171.3亿美元，预期为160.1亿美元。 第二季度投资银行业务收入为15.5亿美元。 花旗集团预计2026年股票回购规模将高于2025年。 花旗美股盘前跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3133646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
         },
         {
           "title": "摩根大通(JPM.N)第二季度固定收益、外汇及大宗商品（FICC）销售和交易收入为60.5亿美元，市场预期为62.9亿美元。",
@@ -543,7 +615,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -554,7 +626,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -569,6 +641,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时26分 ~ 13时31分]"
+        },
+        {
+          "title": "美国银行盈利超过预期 股票交易和并购咨询收入激增",
+          "url": "https://wallstreetcn.com/livenews/3133643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
         },
         {
           "title": "新西兰联储首席经济学家保罗·康威：最近的PMI数据非常积极，推动了GDPNow预测值的上调。",
@@ -631,6 +714,17 @@
           "time_info": "[06时56分 ~ 07时55分]"
         },
         {
+          "title": "花旗：预计全年净利息收入（不含市场业务）增长约5%至6%。",
+          "url": "https://flash.jin10.com/detail/20260714200254233800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
           "title": "新西兰联储首席经济学家保罗·康威：上周货币政策委员会达成了一致意见，无需投票表决。",
           "url": "https://flash.jin10.com/detail/20260714062649458800",
           "source": "金十数据",
@@ -664,15 +758,37 @@
           "time_info": "07时55分"
         },
         {
+          "title": "摩根大通季度利润创纪录新高 股票交易收入达到60亿美元",
+          "url": "https://wallstreetcn.com/livenews/3133634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
           "title": "中天火箭：预计上半年净利润1,500万元–1,900万元，同比增长280.27%-381.67%；公司固体火箭业务分部人影装备产品销量增加，收入增长。",
           "url": "https://wallstreetcn.com/livenews/3133572",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
+        },
+        {
+          "title": "高盛第二季度净营收203.4亿美元。 第二季度每股收益20.98美元。 第二季度股票销售和交易业务营收74.2亿美元，预估50.2亿美元。 第二季度FICC业务销售和交易营收45.9亿美元，预估37.6亿美元。 第二季度净利息收入39.5亿美元，预估35.3亿美元。 第二季度投资银行业务营收34.0亿美元，预估28.8亿美元。 第二季度贷款2,610亿美元，预估2,554.4亿美元。 第二季度坏账拨备1.02亿美元，预估1.712亿美元。 第二季度管理资产4.04万亿美元，预估3.79万亿美元。 高盛美股盘前涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3133630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
         },
         {
           "title": "《功夫女足》的票房经济学",
@@ -692,7 +808,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -802,7 +918,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -813,7 +929,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         }
