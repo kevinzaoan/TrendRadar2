@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T20:15:39.591273+08:00",
-  "total_titles_processed": 1566,
+  "generated_at": "2026-07-15T22:50:48.471975+08:00",
+  "total_titles_processed": 1720,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 63,
+      "match_count": 70,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -112,11 +112,37 @@
             3,
             8,
             10,
-            12
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 22时50分]"
+        },
+        {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            13,
+            6,
+            9,
+            5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时26分 ~ 20时15分]"
+          "time_info": "[13时31分 ~ 22时50分]"
+        },
+        {
+          "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33589310",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 22时50分]"
         },
         {
           "title": "UP主解读AI浪潮下的资本周期",
@@ -147,15 +173,27 @@
           "time_info": "[00时15分 ~ 07时57分]"
         },
         {
-          "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33589310",
-          "source": "澎湃新闻",
+          "title": "美联储主席沃什：短期内，AI投资对就业有利。",
+          "url": "https://wallstreetcn.com/livenews/3134444",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时15分"
+          "time_info": "22时50分"
+        },
+        {
+          "title": "国行苹果AI完成备案",
+          "url": "https://www.douyin.com/hot/2572485",
+          "source": "抖音",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时49分 ~ 22时50分]"
         },
         {
           "title": "OpenAI置评苹果公司发起的窃密诉讼：对原告的任何证据都不知情。 我们严肃对待苹果的指控。",
@@ -180,6 +218,17 @@
           "time_info": "18时49分"
         },
         {
+          "title": "美国通胀降温叠加AI交易重燃，美股盘初走高，阿斯麦涨约3%，油价涨1%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "“Apple智能”大模型已获手机端侧AI服务备案。",
           "url": "https://flash.jin10.com/detail/20260715160621910800",
           "source": "金十数据",
@@ -189,31 +238,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
-        },
-        {
-          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
-          "url": "https://www.zhihu.com/question/2060645375338180828",
-          "source": "知乎",
-          "ranks": [
-            13,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 20时15分]"
-        },
-        {
-          "title": "国行苹果AI完成备案",
-          "url": "https://www.douyin.com/hot/2572485",
-          "source": "抖音",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 20时15分]"
         },
         {
           "title": "媒体：“悄然转向”，印度企业青睐中国AI大模型",
@@ -365,6 +389,17 @@
           "time_info": "04时11分"
         },
         {
+          "title": "金山办公CEO章庆元：“AI+软件”是未来必然趋势，公司内部开发已全部切换为国产模型",
+          "url": "https://wallstreetcn.com/livenews/3134436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "苹果洽谈AI初创公司，拟让大模型直接运行于iPhone",
           "url": "https://flash.jin10.com/detail/20260715012440056800",
           "source": "金十数据",
@@ -382,7 +417,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -442,6 +477,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "微软执行副总裁：相比旗舰AI助手Copilot，Anthropic的产品速度更慢、准确性较差",
+          "url": "https://wallstreetcn.com/livenews/3134432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "国家统计局：上半年，3D打印设备、锂离子电池、工业机器人产品产量同比分别增长48.5%、39.3%、28.0%。",
           "url": "https://flash.jin10.com/detail/20260715100456828800",
           "source": "金十数据",
@@ -459,7 +505,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -497,6 +543,17 @@
           "time_info": "02时04分"
         },
         {
+          "title": "微软向销售团队传授“击败”Anthropic和OpenAI的战术",
+          "url": "https://wallstreetcn.com/livenews/3134430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "美商务部官员：芯片和AI监管措施即将出台",
           "url": "https://flash.jin10.com/detail/20260715011025049800",
           "source": "金十数据",
@@ -530,6 +587,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "Claude Code 源码泄露后 OpenCode 却没有一波大更新？是开源社区躺平了，还是另有隐情？",
+          "url": "https://www.zhihu.com/question/2053497628416030104",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "美联储主席沃什：长期而言，人工智能（AI）意味着实质性的生产力改善。",
           "url": "https://wallstreetcn.com/livenews/3133750",
           "source": "华尔街见闻-快讯",
@@ -558,7 +626,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -618,6 +686,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "Anthropic、黑石集团与Hellman & Friedman联合推出企业级AI服务公司Ode with Anthropic",
+          "url": "https://wallstreetcn.com/livenews/3134422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "中美大模型差距快速收窄，AI投资开始重估ROI",
           "url": "https://flash.jin10.com/detail/20260715130835872800",
           "source": "金十数据",
@@ -657,7 +736,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -712,7 +791,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -742,7 +821,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 37,
+      "match_count": 46,
       "titles": [
         {
           "title": "贝克汉姆世界杯收入超所有球员",
@@ -840,6 +919,17 @@
           "time_info": "[13时31分 ~ 16时09分]"
         },
         {
+          "title": "今年上半年中国经济总体平稳向新向优",
+          "url": "https://www.toutiao.com/trending/7662032297893593114/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "国家统计局：上半年居民收入平稳增长，农村居民收入增长快于城镇居民",
           "url": "https://wallstreetcn.com/livenews/3134021",
           "source": "华尔街见闻-快讯",
@@ -862,13 +952,24 @@
           "time_info": "18时49分"
         },
         {
+          "title": "四字解读中国经济上半年成绩单",
+          "url": "https://www.douyin.com/hot/2572825",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "德国总理默茨：美国关税严重损害了德国经济。",
           "url": "https://wallstreetcn.com/livenews/3134356",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -923,6 +1024,28 @@
           "time_info": "[07时56分 ~ 07时57分]"
         },
         {
+          "title": "美国纽约联储主席威廉姆斯：现阶段，前瞻指引是不合时宜的。 FOMC将针对美国经济持续提供“洞察”。",
+          "url": "https://wallstreetcn.com/livenews/3134440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "美联储威廉姆斯：联邦公开市场委员会将继续提供对经济的“看法”。",
+          "url": "https://flash.jin10.com/detail/20260715222531253800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "人社部定调未来五年工资向一线岗位倾斜，养老金向低收入群体倾斜，哪些信息值得关注？具体会如何实施？",
           "url": "https://www.zhihu.com/question/2060375550359876881",
           "source": "知乎",
@@ -962,9 +1085,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
+        },
+        {
+          "title": "美国参议院民主党成员Warren质询美联储主席沃什有关经济预期中的透明度问题。",
+          "url": "https://wallstreetcn.com/livenews/3134435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "The Information：DeepSeek年化收入达到4亿至5亿美元。",
@@ -984,7 +1118,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -1028,7 +1162,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -1053,6 +1187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "德国总理：美关税政策拖累德国经济改革进程",
+          "url": "https://flash.jin10.com/detail/20260715221408349800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "“26版西游记”唐僧扮演者回应收入",
@@ -1088,6 +1233,17 @@
           "time_info": "10时26分"
         },
         {
+          "title": "德总理：美关税政策拖累德国经济改革进程",
+          "url": "https://wallstreetcn.com/livenews/3134427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "陈文玲：上半年经济运行有三大突出特征",
           "url": "https://flash.jin10.com/detail/20260715131111429800",
           "source": "金十数据",
@@ -1097,6 +1253,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "半年报出炉，人民日报：中国经济坚韧向前",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33588680",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "事关国民经济、金融数据 今天将举行两场重磅发布会",
@@ -1138,7 +1305,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -1152,6 +1319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "加拿大央行行长Macklem：经济增长（的范围）“正在拓宽”。",
+          "url": "https://wallstreetcn.com/livenews/3134415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "东方金诚王青：全年经济将呈现“V型”走势",
@@ -1244,7 +1422,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         }
