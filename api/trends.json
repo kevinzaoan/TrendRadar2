@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T17:25:40.067150+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2026-07-18T19:03:30.219286+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "UP主手搓WAIC逛展小助手",
@@ -58,8 +58,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时11分 ~ 17时25分]"
+          "appearance_count": 14,
+          "time_info": "[01时11分 ~ 19时03分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -73,8 +73,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时11分 ~ 17时25分]"
+          "appearance_count": 14,
+          "time_info": "[01时11分 ~ 19时03分]"
         },
         {
           "title": "全球首款机器人手机亮相引老外围观",
@@ -114,8 +114,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[01时11分 ~ 19时03分]"
         },
         {
           "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
@@ -149,8 +149,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 17时25分]"
+          "appearance_count": 3,
+          "time_info": "[15时48分 ~ 19时03分]"
         },
         {
           "title": "外交部驳斥“蒸馏论”：矮化中国AI创新能力，居心叵测",
@@ -160,8 +160,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 17时25分]"
+          "appearance_count": 3,
+          "time_info": "[15时48分 ~ 19时03分]"
         },
         {
           "title": "智慧芽2026WAIC上发布四款产品",
@@ -175,37 +175,15 @@
           "time_info": "15时48分"
         },
         {
-          "title": "癌中之王胆囊癌AI无创诊断率超九成，恶性肿瘤的诊断和治疗模式发生了根本变革",
-          "url": "https://wallstreetcn.com/livenews/3135995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "中兴通讯星系列人形机器人及具身智能解决方案亮相WAIC 2026",
-          "url": "https://wallstreetcn.com/livenews/3135994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "中兴通讯发布星系列人形机器人及具身智能解决方案",
-          "url": "https://flash.jin10.com/detail/20260718165940914800",
+          "title": "蓝思科技子公司与上纬新材达成战略合作 达成首期规划万台级机器人的产线合作",
+          "url": "https://flash.jin10.com/detail/20260718182153451800",
           "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时25分"
+          "time_info": "19时03分"
         },
         {
           "title": "国家地方共建人形机器人创新中心中试公共服务平台启用",
@@ -214,11 +192,49 @@
           "ranks": [
             1,
             10,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 17时25分]"
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 19时03分]"
+        },
+        {
+          "title": "三地联办摄影大赛获奖作品被指AI生成，作者承认“用AI加了一道闪电”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33600057",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时25分 ~ 19时03分]"
+        },
+        {
+          "title": "经纬度：AI走向物理世界，经济新引擎的机遇与考验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33606069",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时52分 ~ 19时03分]"
+        },
+        {
+          "title": "癌中之王胆囊癌AI无创诊断率超九成，恶性肿瘤的诊断和治疗模式发生了根本变革",
+          "url": "https://wallstreetcn.com/livenews/3135995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 19时03分]"
         },
         {
           "title": "伊朗称袭击美驻巴林设施 警告美国中东AI资产或成目标",
@@ -247,6 +263,18 @@
           "time_info": "[10时25分 ~ 15时48分]"
         },
         {
+          "title": "中兴通讯星系列人形机器人及具身智能解决方案亮相WAIC 2026",
+          "url": "https://wallstreetcn.com/livenews/3135994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 19时03分]"
+        },
+        {
           "title": "Linus 称 Linux 不搞「反 AI」，并要求「要么 fork，要么走人」，这会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2061099332632416849",
           "source": "知乎",
@@ -259,31 +287,6 @@
           "time_info": "[10时25分 ~ 13时25分]"
         },
         {
-          "title": "三地联办摄影大赛获奖作品被指AI生成，作者承认“用AI加了一道闪电”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33600057",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时25分 ~ 17时25分]"
-        },
-        {
-          "title": "经纬度：AI走向物理世界，经济新引擎的机遇与考验",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33606069",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时52分 ~ 17时25分]"
-        },
-        {
           "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
           "url": "https://www.cls.cn/detail/2430120",
           "source": "财联社热门",
@@ -292,8 +295,47 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 19时03分]"
+        },
+        {
+          "title": "中兴通讯发布星系列人形机器人及具身智能解决方案",
+          "url": "https://flash.jin10.com/detail/20260718165940914800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 19时03分]"
+        },
+        {
+          "title": "美企抄袭中国AI玩双标被点名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356286&amp;topic_name=%E7%BE%8E%E4%BC%81%E6%8A%84%E8%A2%AD%E4%B8%AD%E5%9B%BDAI%E7%8E%A9%E5%8F%8C%E6%A0%87%E8%A2%AB%E7%82%B9%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 19时03分]"
+        },
+        {
+          "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
+          "url": "https://wallstreetcn.com/articles/3777275",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时25分 ~ 17时25分]"
+          "time_info": "[15时48分 ~ 19时03分]"
         },
         {
           "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
@@ -322,31 +364,6 @@
           "time_info": "[05时54分 ~ 07时52分]"
         },
         {
-          "title": "美企抄袭中国AI玩双标被点名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356286&amp;topic_name=%E7%BE%8E%E4%BC%81%E6%8A%84%E8%A2%AD%E4%B8%AD%E5%9B%BDAI%E7%8E%A9%E5%8F%8C%E6%A0%87%E8%A2%AB%E7%82%B9%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 17时25分]"
-        },
-        {
-          "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
-          "url": "https://wallstreetcn.com/articles/3777275",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 17时25分]"
-        },
-        {
           "title": "京东健康AI医生“大为”亮相WAIC 2026",
           "url": "https://wallstreetcn.com/livenews/3135961",
           "source": "华尔街见闻-快讯",
@@ -371,6 +388,30 @@
           "time_info": "[13时25分 ~ 15时48分]"
         },
         {
+          "title": "机器人在WAIC一脚踹出真本事",
+          "url": "https://www.douyin.com/hot/2574930",
+          "source": "抖音",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 19时03分]"
+        },
+        {
+          "title": "《大众摄影》回应刊发“五腿牛”照片：作者承认系使用AI失误",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612045",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 19时03分]"
+        },
+        {
           "title": "阿里巴巴发布企业级AI应用创作平台秒悟团队版",
           "url": "https://wallstreetcn.com/livenews/3135957",
           "source": "华尔街见闻-快讯",
@@ -393,6 +434,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时25分 ~ 15时48分]"
+        },
+        {
+          "title": "2026 世界人工智能大会在上海举行，超 300 款全球首发 AI 产品将亮相，本次大会有哪些看点？",
+          "url": "https://www.zhihu.com/question/2061186638059758273",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 19时03分]"
         },
         {
           "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
@@ -441,6 +493,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时25分 ~ 15时48分]"
+        },
+        {
+          "title": "周鸿祎谈AI安全：AI正成为能自主执行任务的“新物种”，必须可信可靠可控",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33608598",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 19时03分]"
         },
         {
           "title": "中国AI出大招后 美政府听劝了",
@@ -509,24 +572,13 @@
           "time_info": "13时25分"
         },
         {
-          "title": "机器人在WAIC一脚踹出真本事",
-          "url": "https://www.douyin.com/hot/2574930",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
           "title": "平头哥宣布开源AI软件栈T-Head SAIL",
           "url": "https://flash.jin10.com/detail/20260718163926638800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -542,28 +594,6 @@
           "time_info": "01时11分"
         },
         {
-          "title": "《大众摄影》回应刊发“五腿牛”照片：作者承认系使用AI失误",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33612045",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "2026 世界人工智能大会在上海举行，超 300 款全球首发 AI 产品将亮相，本次大会有哪些看点？",
-          "url": "https://www.zhihu.com/question/2061186638059758273",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
           "title": "95后夫妻手搓AI漫剧爆火",
           "url": "https://www.baidu.com/s?wd=95%E5%90%8E%E5%A4%AB%E5%A6%BB%E6%89%8B%E6%90%93AI%E6%BC%AB%E5%89%A7%E7%88%86%E7%81%AB",
           "source": "百度热搜",
@@ -573,17 +603,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
-        },
-        {
-          "title": "周鸿祎谈AI安全：AI正成为能自主执行任务的“新物种”，必须可信可靠可控",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33608598",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         },
         {
           "title": "阿里巴巴发布企业级AI应用创作平台秒悟团队版",
@@ -676,6 +695,96 @@
       ]
     },
     {
+      "keyword_group": "经济 房地产 收入",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "解读邹市明冉莹颖经济链",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%82%B9%E5%B8%82%E6%98%8E%E5%86%89%E8%8E%B9%E9%A2%96%E7%BB%8F%E6%B5%8E%E9%93%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            12,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 07时52分]"
+        },
+        {
+          "title": "智能体引爆Token经济，我国日均Token调用量增长超千倍",
+          "url": "https://wallstreetcn.com/livenews/3135970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 17时25分]"
+        },
+        {
+          "title": "非洲能源政策中心（Africa Centre for Energy Policy）执行董事Benjamin Boakye：目前并没有令人信服的、基于证据的理由表明加纳的矿业制度需要如此大刀阔斧的改革。 挑战不仅在于从该行业提取更多财政价值，还在于优化矿业对经济的整体贡献，同时保持该国作为投资目的地的竞争力。",
+          "url": "https://wallstreetcn.com/livenews/3135841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时07分]"
+        },
+        {
+          "title": "王文涛部长会见印尼经济统筹部长艾尔朗加",
+          "url": "https://wallstreetcn.com/livenews/3135941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 13时25分]"
+        },
+        {
+          "title": "经济学家任泽平 VIP 付费会员群「暴雷」，有人听信操作建议亏损 1000 多万，你如何看这种现象？",
+          "url": "https://www.zhihu.com/question/2061371759589323819",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
+          "title": "商务部部长王文涛会见印尼经济统筹部长艾尔朗加",
+          "url": "https://flash.jin10.com/detail/20260718090248110800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "中国人民银行副行长宣昌能会见布基纳法索经济财政部部长阿布巴卡尔·纳卡纳博一行",
+          "url": "https://flash.jin10.com/detail/20260718171622874800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
       "match_count": 5,
       "titles": [
@@ -737,79 +846,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 17时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济 房地产 收入",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "解读邹市明冉莹颖经济链",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%82%B9%E5%B8%82%E6%98%8E%E5%86%89%E8%8E%B9%E9%A2%96%E7%BB%8F%E6%B5%8E%E9%93%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            12,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时11分 ~ 07时52分]"
-        },
-        {
-          "title": "智能体引爆Token经济，我国日均Token调用量增长超千倍",
-          "url": "https://wallstreetcn.com/livenews/3135970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            26
+            22,
+            27
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时25分 ~ 17时25分]"
-        },
-        {
-          "title": "非洲能源政策中心（Africa Centre for Energy Policy）执行董事Benjamin Boakye：目前并没有令人信服的、基于证据的理由表明加纳的矿业制度需要如此大刀阔斧的改革。 挑战不仅在于从该行业提取更多财政价值，还在于优化矿业对经济的整体贡献，同时保持该国作为投资目的地的竞争力。",
-          "url": "https://wallstreetcn.com/livenews/3135841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时07分]"
-        },
-        {
-          "title": "王文涛部长会见印尼经济统筹部长艾尔朗加",
-          "url": "https://wallstreetcn.com/livenews/3135941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 13时25分]"
-        },
-        {
-          "title": "商务部部长王文涛会见印尼经济统筹部长艾尔朗加",
-          "url": "https://flash.jin10.com/detail/20260718090248110800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
+          "time_info": "[15时48分 ~ 19时03分]"
         }
       ]
     }
