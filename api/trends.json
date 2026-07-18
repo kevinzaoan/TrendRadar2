@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T03:18:00.007321+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-07-19T04:46:31.765651+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
@@ -15,8 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时46分]"
+        },
+        {
+          "title": "超300款AI新品迎来全球首发",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%85300%E6%AC%BEAI%E6%96%B0%E5%93%81%E8%BF%8E%E6%9D%A5%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时46分]"
         },
         {
           "title": "外交部驳斥“蒸馏论”：矮化中国AI创新能力，居心叵测",
@@ -30,27 +41,17 @@
           "time_info": "[00时59分 ~ 03时17分]"
         },
         {
-          "title": "超300款AI新品迎来全球首发",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%85300%E6%AC%BEAI%E6%96%B0%E5%93%81%E8%BF%8E%E6%9D%A5%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 03时17分]"
-        },
-        {
           "title": "美CIA局长：中国5G与AI领先是大问题",
           "url": "https://www.toutiao.com/trending/7663822176776208390/",
           "source": "今日头条",
           "ranks": [
             5,
-            4
+            4,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时46分]"
         },
         {
           "title": "AI牛市结束了吗？市场充满疑虑",
@@ -60,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时46分]"
         },
         {
           "title": "95后夫妻手搓500集AI漫剧爆火",
@@ -72,8 +73,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时46分]"
         },
         {
           "title": "《大众摄影》回应刊发“五腿牛”照片：作者承认系使用AI失误",
@@ -84,8 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时46分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -96,8 +97,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时46分]"
         },
         {
           "title": "上游订单爆表、下游不计代价！“大空头”查诺斯：AI这笔账为什么算不过来",
@@ -108,8 +109,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时46分]"
         },
         {
           "title": "美企抄袭中国AI玩双标被点名",
@@ -119,8 +120,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时46分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -130,19 +131,20 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时46分]"
         },
         {
           "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
           "url": "https://www.cls.cn/detail/2430120",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时46分]"
         },
         {
           "title": "“真干活机器人”在WAIC走红",
@@ -150,11 +152,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 04时46分]"
         },
         {
           "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
@@ -164,19 +167,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时46分]"
         },
         {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
           "url": "https://www.cls.cn/detail/2429951",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时46分]"
         },
         {
           "title": "报道：白宫正主导前沿AI模型的访问权限，权力正从科技巨头手中转移",
@@ -187,8 +191,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时46分]"
         },
         {
           "title": "曦智科技全栈光电算力技术亮相WAIC 2026",
@@ -199,8 +203,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时46分]"
         },
         {
           "title": "聚焦极端天气与城市灾害预警，“华雨GeoAI”大模型在WAIC首发",
@@ -211,19 +215,42 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时46分]"
         },
         {
           "title": "日媒：印企越来越依赖中国AI大模型",
           "url": "https://www.toutiao.com/trending/7662655184850780187/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时46分]"
+        },
+        {
+          "title": "国产AI算力迈入万卡集群时代：超节点市场刚起步，供应链依旧紧张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33609877",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "time_info": "[03时17分 ~ 04时46分]"
+        },
+        {
+          "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
+          "url": "https://www.cls.cn/detail/2430308",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
         },
         {
           "title": "响应“AI牛股”激励风向 阿斯麦将向全体员工发放2万欧元大红包",
@@ -235,17 +262,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
-        },
-        {
-          "title": "国产AI算力迈入万卡集群时代：超节点市场刚起步，供应链依旧紧张",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33609877",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时17分"
         },
         {
           "title": "机器人在WAIC一脚踹出真本事",
@@ -295,7 +311,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "经济学家任泽平 VIP 付费会员群「暴雷」，有人听信操作建议亏损 1000 多万，你如何看这种现象？",
@@ -306,8 +322,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时46分]"
         },
         {
           "title": "研究表明：意大利极端高温每年或造成超百亿欧元经济损失",
@@ -317,8 +333,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 04时46分]"
+        },
+        {
+          "title": "美国商务部长卢特尼克：美国就戈迪·豪国际大桥（美加跨国大桥）达成了一项非常好的协议。美国将获得截至2041年的50%净收入分成，并在设定通行费方面拥有发言权。",
+          "url": "https://flash.jin10.com/detail/20260719044252206800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
         },
         {
           "title": "意大利极端高温每年或造成超百亿欧元经济损失",
@@ -330,6 +357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "不要向提供经济价值的人索要情绪价值",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E5%90%91%E6%8F%90%E4%BE%9B%E7%BB%8F%E6%B5%8E%E4%BB%B7%E5%80%BC%E7%9A%84%E4%BA%BA%E7%B4%A2%E8%A6%81%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
         }
       ]
     }
