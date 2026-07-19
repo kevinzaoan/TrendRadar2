@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T16:16:44.189539+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-07-19T18:28:32.364482+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
         {
           "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
@@ -83,8 +83,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时59分 ~ 16时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 18时28分]"
         },
         {
           "title": "95后夫妻手搓500集AI漫剧爆火",
@@ -127,8 +127,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时59分 ~ 16时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 18时28分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -142,6 +142,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时59分 ~ 10时38分]"
+        },
+        {
+          "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
+          "url": "https://www.cls.cn/detail/2430308",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时46分 ~ 18时28分]"
         },
         {
           "title": "外交部驳斥“蒸馏论”：矮化中国AI创新能力，居心叵测",
@@ -167,20 +181,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[05时50分 ~ 16时16分]"
-        },
-        {
-          "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
-          "url": "https://www.cls.cn/detail/2430308",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时46分 ~ 16时16分]"
         },
         {
           "title": "报道：白宫正主导前沿AI模型的访问权限，权力正从科技巨头手中转移",
@@ -217,6 +217,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时59分 ~ 07时53分]"
+        },
+        {
+          "title": "中国AI站上全球治理主场",
+          "url": "https://www.douyin.com/hot/2577012",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 18时28分]"
         },
         {
           "title": "这一秒过火 AI片头",
@@ -274,17 +285,6 @@
           "time_info": "13时52分"
         },
         {
-          "title": "中国AI站上全球治理主场",
-          "url": "https://www.douyin.com/hot/2577012",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
           "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
           "url": "https://flash.jin10.com/detail/20260719055403527800",
           "source": "金十数据",
@@ -334,6 +334,18 @@
           "time_info": "[02时01分 ~ 04时46分]"
         },
         {
+          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
+          "url": "https://www.cls.cn/detail/2430318",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 18时28分]"
+        },
+        {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
           "url": "https://www.cls.cn/detail/2429951",
           "source": "财联社热门",
@@ -357,18 +369,6 @@
           "time_info": "[03时17分 ~ 05时51分]"
         },
         {
-          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
-          "url": "https://www.cls.cn/detail/2430318",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 16时16分]"
-        },
-        {
           "title": "日媒：印企越来越依赖中国AI大模型",
           "url": "https://www.toutiao.com/trending/7662655184850780187/",
           "source": "今日头条",
@@ -379,6 +379,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时01分 ~ 04时46分]"
+        },
+        {
+          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
+          "url": "https://www.cls.cn/detail/2430367",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 18时28分]"
         },
         {
           "title": "AI风向标！甲骨文债券CDS升至历史新高",
@@ -404,6 +416,18 @@
           "time_info": "[10时38分 ~ 13时52分]"
         },
         {
+          "title": "世界两大AI组织都是狠角色",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E4%B8%A4%E5%A4%A7AI%E7%BB%84%E7%BB%87%E9%83%BD%E6%98%AF%E7%8B%A0%E8%A7%92%E8%89%B2&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 18时28分]"
+        },
+        {
           "title": "AI行业要重新洗牌了",
           "url": "https://s.weibo.com/weibo?q=%23AI%E8%A1%8C%E4%B8%9A%E8%A6%81%E9%87%8D%E6%96%B0%E6%B4%97%E7%89%8C%E4%BA%86%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -414,6 +438,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时52分 ~ 16时16分]"
+        },
+        {
+          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777355",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "“中国AI只差两三个月”，硅谷坐不住了",
+          "url": "https://news.ifeng.com/c/8ut3mOkXOOH",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "觅蜂科技姚卯青：物理AI要实现规模化，必须突破三道“墙”",
@@ -433,7 +479,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -466,7 +512,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -488,18 +534,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
-          "url": "https://www.cls.cn/detail/2430367",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -565,18 +600,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "世界两大AI组织都是狠角色",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E4%B8%A4%E5%A4%A7AI%E7%BB%84%E7%BB%87%E9%83%BD%E6%98%AF%E7%8B%A0%E8%A7%92%E8%89%B2&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -587,7 +611,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -598,7 +622,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -609,7 +633,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -631,7 +655,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -686,7 +710,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -708,7 +732,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -719,7 +743,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -738,7 +762,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "经济学家任泽平 VIP 付费会员群「暴雷」，有人听信操作建议亏损 1000 多万，你如何看这种现象？",
@@ -767,6 +791,17 @@
           "time_info": "[02时02分 ~ 07时53分]"
         },
         {
+          "title": "5个关键词 一文读懂中国经济半年报",
+          "url": "https://www.baidu.com/s?wd=5%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D+%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8D%8A%E5%B9%B4%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 18时28分]"
+        },
+        {
           "title": "美国商务部长卢特尼克：美国就戈迪·豪国际大桥（美加跨国大桥）达成了一项非常好的协议。美国将获得截至2041年的50%净收入分成，并在设定通行费方面拥有发言权。",
           "url": "https://flash.jin10.com/detail/20260719044252206800",
           "source": "金十数据",
@@ -789,17 +824,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
-        },
-        {
-          "title": "5个关键词 一文读懂中国经济半年报",
-          "url": "https://www.baidu.com/s?wd=5%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D+%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8D%8A%E5%B9%B4%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
         },
         {
           "title": "不要向提供经济价值的人索要情绪价值",
@@ -832,9 +856,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "【新易盛：预计2026年上半年净利润同比增长77.56%～102.93%】新易盛公告，预计2026年1月1日—2026年6月30日归属于上市公司股东的净利润为70亿元～80亿元，同比增长77.56%～102.93%；扣除非经常性损益后的净利润为69.81亿元～79.81亿元，同比增长77.46%～102.88%。报告期内公司受益于人工智能相关算力投资持续增长，产品结构优化，公司预计销售收入和净利润较上年同期大幅增加。",
+          "url": "https://wallstreetcn.com/livenews/3136190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         }
       ]
     },
@@ -859,11 +894,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 16时16分]"
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 18时28分]"
         },
         {
           "title": "敬业钢铁有限公司：正告英国政府立即停止以国内法践踏国际投资规则的行径",
