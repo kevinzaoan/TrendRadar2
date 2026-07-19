@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T19:58:30.290111+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2026-07-19T21:25:37.657428+08:00",
+  "total_titles_processed": 1419,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 83,
+      "match_count": 87,
       "titles": [
         {
           "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
@@ -83,8 +83,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时59分 ~ 19时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时59分 ~ 21时25分]"
         },
         {
           "title": "95后夫妻手搓500集AI漫剧爆火",
@@ -126,8 +126,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时46分 ~ 19时58分]"
+          "appearance_count": 11,
+          "time_info": "[04时46分 ~ 21时25分]"
         },
         {
           "title": "美企抄袭中国AI玩双标被点名",
@@ -253,6 +253,18 @@
           "time_info": "[00时59分 ~ 05时51分]"
         },
         {
+          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
+          "url": "https://www.cls.cn/detail/2430318",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时38分 ~ 21时25分]"
+        },
+        {
           "title": "马斯克称看中国机器人格斗赛看乐了",
           "url": "https://www.toutiao.com/trending/7663919447194845220/",
           "source": "今日头条",
@@ -286,17 +298,6 @@
           "time_info": "13时52分"
         },
         {
-          "title": "诊疗方案与病历书写两大赛道，全国上百支队伍在沪比拼AI临床应用",
-          "url": "https://wallstreetcn.com/livenews/3136258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
           "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
           "url": "https://flash.jin10.com/detail/20260719055403527800",
           "source": "金十数据",
@@ -307,28 +308,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时49分 ~ 10时38分]"
-        },
-        {
-          "title": "AI加速进入民生场景 北电数智聚焦医疗、教育、工业实践",
-          "url": "https://wallstreetcn.com/livenews/3136257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "蔡磊获2026年度AI特别贡献人物",
-          "url": "https://www.douyin.com/hot/2577008",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时58分"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -343,16 +322,30 @@
           "time_info": "[00时59分 ~ 04时46分]"
         },
         {
-          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
-          "url": "https://www.cls.cn/detail/2430318",
+          "title": "蔡磊获2026年度AI特别贡献人物",
+          "url": "https://www.douyin.com/hot/2577008",
+          "source": "抖音",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 21时25分]"
+        },
+        {
+          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
+          "url": "https://www.cls.cn/detail/2430367",
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时38分 ~ 19时58分]"
+          "appearance_count": 4,
+          "time_info": "[16时16分 ~ 21时25分]"
         },
         {
           "title": "摩尔线程WAIC 2026披露三大“AI工厂”进展",
@@ -365,6 +358,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时38分 ~ 13时52分]"
+        },
+        {
+          "title": "诊疗方案与病历书写两大赛道，全国上百支队伍在沪比拼AI临床应用",
+          "url": "https://wallstreetcn.com/livenews/3136258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 21时25分]"
+        },
+        {
+          "title": "AI加速进入民生场景 北电数智聚焦医疗、教育、工业实践",
+          "url": "https://wallstreetcn.com/livenews/3136257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 21时25分]"
         },
         {
           "title": "“真干活机器人”在WAIC走红",
@@ -403,17 +420,29 @@
           "time_info": "[03时17分 ~ 05时51分]"
         },
         {
-          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
-          "url": "https://www.cls.cn/detail/2430367",
-          "source": "财联社热门",
+          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777355",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            9,
+            7,
+            6,
             8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时16分 ~ 19时58分]"
+          "time_info": "[18时28分 ~ 21时25分]"
+        },
+        {
+          "title": "“中国AI只差两三个月”，硅谷坐不住了",
+          "url": "https://news.ifeng.com/c/8ut3mOkXOOH",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 21时25分]"
         },
         {
           "title": "日媒：印企越来越依赖中国AI大模型",
@@ -428,28 +457,16 @@
           "time_info": "[02时01分 ~ 04时46分]"
         },
         {
-          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777355",
-          "source": "华尔街见闻",
+          "title": "有道AI耳机在WAIC首秀：让会议记录变成“可追问的Agent”",
+          "url": "https://wallstreetcn.com/livenews/3136256",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            6
+            6,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时28分 ~ 19时58分]"
-        },
-        {
-          "title": "“中国AI只差两三个月”，硅谷坐不住了",
-          "url": "https://news.ifeng.com/c/8ut3mOkXOOH",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 19时58分]"
+          "time_info": "[19时58分 ~ 21时25分]"
         },
         {
           "title": "AI风向标！甲骨文债券CDS升至历史新高",
@@ -473,6 +490,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时38分 ~ 13时52分]"
+        },
+        {
+          "title": "陈茂波：香港将出台政策支持中小企业采用AI",
+          "url": "https://wallstreetcn.com/livenews/3136250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 21时25分]"
+        },
+        {
+          "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
+          "url": "https://www.zhihu.com/question/2061156114658485568",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 21时25分]"
         },
         {
           "title": "世界两大AI组织都是狠角色",
@@ -499,15 +539,38 @@
           "time_info": "[13时52分 ~ 16时16分]"
         },
         {
-          "title": "有道AI耳机在WAIC首秀：让会议记录变成“可追问的Agent”",
-          "url": "https://wallstreetcn.com/livenews/3136256",
-          "source": "华尔街见闻-快讯",
+          "title": "解读机器人格斗",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 21时25分]"
+        },
+        {
+          "title": "人一旦开始用AI后",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E6%97%A6%E5%BC%80%E5%A7%8B%E7%94%A8AI%E5%90%8E&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 21时25分]"
+        },
+        {
+          "title": "Kimi K3让全球AI圈炸锅了",
+          "url": "https://www.toutiao.com/trending/7664192249667784198/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时58分"
+          "time_info": "21时25分"
         },
         {
           "title": "觅蜂科技姚卯青：物理AI要实现规模化，必须突破三道“墙”",
@@ -549,7 +612,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -604,7 +667,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -620,15 +683,15 @@
           "time_info": "10时38分"
         },
         {
-          "title": "陈茂波：香港将出台政策支持中小企业采用AI",
-          "url": "https://wallstreetcn.com/livenews/3136250",
+          "title": "毕马威中国主席：AI正加速转变为经济增长的核心引擎",
+          "url": "https://wallstreetcn.com/livenews/3136278",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时58分"
+          "time_info": "21时25分"
         },
         {
           "title": "监管部门急开闭门会，探讨情感机器人万亿市场与合规困局",
@@ -637,7 +700,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -659,18 +722,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
-          "url": "https://www.zhihu.com/question/2061156114658485568",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -703,7 +755,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -719,13 +771,24 @@
           "time_info": "10时38分"
         },
         {
+          "title": "中国机器人现在有多疯狂",
+          "url": "https://www.toutiao.com/trending/7664204045283757611/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
           "title": "天数智芯WAIC发布新一代通用GPU旗舰产品天垓300",
           "url": "https://flash.jin10.com/detail/20260719184851120800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -747,7 +810,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -807,6 +870,17 @@
           "time_info": "16时16分"
         },
         {
+          "title": "用AI预测西班牙vs阿根廷",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%A2%84%E6%B5%8B%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
           "title": "高考估分715查分299系AI生成",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%BC%B0%E5%88%86715%E6%9F%A5%E5%88%86299%E7%B3%BBAI%E7%94%9F%E6%88%90%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -824,7 +898,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -851,24 +925,13 @@
           "time_info": "07时53分"
         },
         {
-          "title": "解读机器人格斗",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
           "title": "天数智芯WAIC发布新一代通用GPU旗舰产品天垓300",
           "url": "https://wallstreetcn.com/livenews/3136235",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -901,7 +964,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -934,7 +997,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -959,23 +1022,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
-        },
-        {
-          "title": "人一旦开始用AI后",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E6%97%A6%E5%BC%80%E5%A7%8B%E7%94%A8AI%E5%90%8E&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时58分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "经济学家任泽平 VIP 付费会员群「暴雷」，有人听信操作建议亏损 1000 多万，你如何看这种现象？",
@@ -1074,6 +1126,17 @@
           "time_info": "16时16分"
         },
         {
+          "title": "毕马威中国主席：人工智能正加速转变为经济增长的核心引擎",
+          "url": "https://flash.jin10.com/detail/20260719203737137800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
           "title": "【新易盛：预计2026年上半年净利润同比增长77.56%～102.93%】新易盛公告，预计2026年1月1日—2026年6月30日归属于上市公司股东的净利润为70亿元～80亿元，同比增长77.56%～102.93%；扣除非经常性损益后的净利润为69.81亿元～79.81亿元，同比增长77.46%～102.88%。报告期内公司受益于人工智能相关算力投资持续增长，产品结构优化，公司预计销售收入和净利润较上年同期大幅增加。",
           "url": "https://wallstreetcn.com/livenews/3136190",
           "source": "华尔街见闻-快讯",
@@ -1088,7 +1151,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "敬业钢铁有限公司：正告英国政府立即停止以国内法践踏国际投资规则的行径",
@@ -1102,24 +1165,13 @@
           "time_info": "13时52分"
         },
         {
-          "title": "科威特：发电站和海水淡化工厂再次遭到伊朗打击。 伊朗的打击造成发电站和水厂起火。 大量发电部门受到影响。 正设法让受到破坏的部门恢复运营。",
-          "url": "https://wallstreetcn.com/livenews/3136259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
           "title": "市场消息：科威特方面称，电力与海水淡化厂再次遭伊朗袭击，大量发电机组受影响。受损机组的抢修恢复供电作业正在进行中。",
           "url": "https://flash.jin10.com/detail/20260719192700753800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -1130,9 +1182,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
+        },
+        {
+          "title": "科威特称其发电及海水淡化厂三日内连续遭袭",
+          "url": "https://flash.jin10.com/detail/20260719211645419800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         },
         {
           "title": "敬业钢铁：正告英国政府立即停止以国内法践踏国际投资规则的行径",
@@ -1141,11 +1204,24 @@
           "ranks": [
             17,
             16,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时52分 ~ 19时58分]"
+          "appearance_count": 5,
+          "time_info": "[13时52分 ~ 21时25分]"
+        },
+        {
+          "title": "科威特：发电站和海水淡化工厂再次遭到伊朗打击。 伊朗的打击造成发电站和水厂起火。 大量发电部门受到影响。 正设法让受到破坏的部门恢复运营。",
+          "url": "https://wallstreetcn.com/livenews/3136259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 21时25分]"
         },
         {
           "title": "敬业钢铁有限公司：正告英国政府立即停止以国内法践踏国际投资规则的行径",
