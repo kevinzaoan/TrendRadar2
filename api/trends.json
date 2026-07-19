@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T22:55:45.751481+08:00",
-  "total_titles_processed": 1526,
+  "generated_at": "2026-07-19T23:58:18.565187+08:00",
+  "total_titles_processed": 1595,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 90,
+      "match_count": 93,
       "titles": [
         {
           "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
@@ -126,8 +126,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时46分 ~ 22时55分]"
+          "appearance_count": 14,
+          "time_info": "[04时46分 ~ 23时58分]"
         },
         {
           "title": "美企抄袭中国AI玩双标被点名",
@@ -157,6 +157,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时59分 ~ 10时38分]"
+        },
+        {
+          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
+          "url": "https://www.cls.cn/detail/2430318",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时38分 ~ 23时58分]"
         },
         {
           "title": "外交部驳斥“蒸馏论”：矮化中国AI创新能力，居心叵测",
@@ -195,16 +208,18 @@
           "time_info": "[16时16分 ~ 19时58分]"
         },
         {
-          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
-          "url": "https://www.cls.cn/detail/2430318",
+          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
+          "url": "https://www.cls.cn/detail/2430367",
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            9,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时38分 ~ 22时55分]"
+          "time_info": "[16时16分 ~ 23时58分]"
         },
         {
           "title": "报道：白宫正主导前沿AI模型的访问权限，权力正从科技巨头手中转移",
@@ -241,6 +256,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时59分 ~ 07时53分]"
+        },
+        {
+          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777355",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时28分 ~ 23时58分]"
         },
         {
           "title": "这一秒过火 AI片头",
@@ -298,6 +327,17 @@
           "time_info": "13时52分"
         },
         {
+          "title": "姚期智：中国AI产业领跑全球",
+          "url": "https://flash.jin10.com/detail/20260719232612191800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
           "url": "https://flash.jin10.com/detail/20260719055403527800",
           "source": "金十数据",
@@ -308,20 +348,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时49分 ~ 10时38分]"
-        },
-        {
-          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
-          "url": "https://www.cls.cn/detail/2430367",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时16分 ~ 22时55分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -336,6 +362,20 @@
           "time_info": "[00时59分 ~ 04时46分]"
         },
         {
+          "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
+          "url": "https://www.zhihu.com/question/2061156114658485568",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时58分 ~ 23时58分]"
+        },
+        {
           "title": "蔡磊获2026年度AI特别贡献人物",
           "url": "https://www.douyin.com/hot/2577008",
           "source": "抖音",
@@ -346,20 +386,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时58分 ~ 21时25分]"
-        },
-        {
-          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777355",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 22时55分]"
         },
         {
           "title": "“中国AI只差两三个月”，硅谷坐不住了",
@@ -396,6 +422,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时58分 ~ 21时25分]"
+        },
+        {
+          "title": "Kimi K3让全球AI圈炸锅了",
+          "url": "https://www.toutiao.com/trending/7664192249667784198/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            21,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时25分 ~ 23时58分]"
         },
         {
           "title": "AI加速进入民生场景 北电数智聚焦医疗、教育、工业实践",
@@ -446,16 +485,40 @@
           "time_info": "[03时17分 ~ 05时51分]"
         },
         {
-          "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
-          "url": "https://www.zhihu.com/question/2061156114658485568",
-          "source": "知乎",
+          "title": "用AI预测西班牙vs阿根廷",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%A2%84%E6%B5%8B%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
+          "source": "bilibili 热搜",
           "ranks": [
-            12,
-            9
+            20,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时58分 ~ 22时55分]"
+          "time_info": "[21时25分 ~ 23时58分]"
+        },
+        {
+          "title": "毕马威中国主席：AI正加速转变为经济增长的核心引擎",
+          "url": "https://wallstreetcn.com/livenews/3136278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时25分 ~ 23时58分]"
+        },
+        {
+          "title": "无锡梁溪区组团参访2026世界人工智能大会：AI浪潮中梁溪该怎么干？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33614322",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时55分 ~ 23时58分]"
         },
         {
           "title": "日媒：印企越来越依赖中国AI大模型",
@@ -483,18 +546,6 @@
           "time_info": "[19时58分 ~ 22时55分]"
         },
         {
-          "title": "Kimi K3让全球AI圈炸锅了",
-          "url": "https://www.toutiao.com/trending/7664192249667784198/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时25分 ~ 22时55分]"
-        },
-        {
           "title": "有道AI耳机在WAIC首秀：让会议记录变成“可追问的Agent”",
           "url": "https://wallstreetcn.com/livenews/3136256",
           "source": "华尔街见闻-快讯",
@@ -505,6 +556,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时58分 ~ 21时25分]"
+        },
+        {
+          "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
+          "url": "https://www.zhihu.com/question/2062188301013071138",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时57分 ~ 23时58分]"
         },
         {
           "title": "AI风向标！甲骨文债券CDS升至历史新高",
@@ -540,18 +603,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时58分 ~ 21时25分]"
-        },
-        {
-          "title": "毕马威中国主席：AI正加速转变为经济增长的核心引擎",
-          "url": "https://wallstreetcn.com/livenews/3136278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时25分 ~ 22时55分]"
         },
         {
           "title": "中国机器人现在有多疯狂",
@@ -629,7 +680,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -720,6 +771,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
+          "url": "https://www.zhihu.com/question/2062166923002090163",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "监管部门急开闭门会，探讨情感机器人万亿市场与合规困局",
@@ -871,7 +933,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -896,28 +958,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
-        },
-        {
-          "title": "无锡梁溪区组团参访2026世界人工智能大会：AI浪潮中梁溪该怎么干？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33614322",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "用AI预测西班牙vs阿根廷",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%A2%84%E6%B5%8B%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时25分"
         },
         {
           "title": "高考估分715查分299系AI生成",
@@ -1204,8 +1244,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时52分 ~ 22时55分]"
+          "appearance_count": 8,
+          "time_info": "[13时52分 ~ 23时58分]"
         },
         {
           "title": "敬业钢铁有限公司：正告英国政府立即停止以国内法践踏国际投资规则的行径",
@@ -1268,11 +1308,23 @@
           "url": "https://flash.jin10.com/detail/20260719220832968800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 23时58分]"
+        },
+        {
+          "title": "科威特称其发电及海水淡化厂三日内连续遭袭",
+          "url": "https://wallstreetcn.com/livenews/3136295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 23时58分]"
         },
         {
           "title": "敬业钢铁有限公司：正告英国政府立即停止以国内法践踏国际投资规则的行径",
@@ -1284,17 +1336,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
-        },
-        {
-          "title": "科威特称其发电及海水淡化厂三日内连续遭袭",
-          "url": "https://wallstreetcn.com/livenews/3136295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
         }
       ]
     }
