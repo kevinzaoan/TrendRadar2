@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T03:16:44.884090+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-07-24T05:04:07.670781+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 05时04分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 05时04分]"
         },
         {
           "title": "花旗包括Andrew Gardiner在内的分析师在一份报告中指出：意法半导体（STMicroelectronics NV）业绩展望显示出终端市场正在建立周期性复苏，且AI/数据中心的增长持续加速。 但相应的，市场预期和股价今年也已大幅上涨。在缺乏进一步上调盈利预期的动力下，该股短期内可能面临压力。",
@@ -36,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -48,8 +48,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 05时04分]"
+        },
+        {
+          "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
+          "url": "https://www.cls.cn/detail/2435521",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 05时04分]"
         },
         {
           "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
@@ -57,22 +69,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时16分]"
-        },
-        {
-          "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
-          "url": "https://www.cls.cn/detail/2435521",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 05时04分]"
         },
         {
           "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
@@ -82,8 +84,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 05时04分]"
         },
         {
           "title": "不要随意把照片和视频发给AI",
@@ -93,19 +95,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 05时04分]"
         },
         {
           "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
           "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 05时04分]"
         },
         {
           "title": "OpenAI：预计将大规模部署AMD的Helios。",
@@ -172,7 +175,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -317,8 +320,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 05时04分]"
         }
       ]
     }
