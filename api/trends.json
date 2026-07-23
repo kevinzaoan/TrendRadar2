@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T19:09:44.914752+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-07-23T21:57:17.610867+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -16,8 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时18分 ~ 19时09分]"
+          "appearance_count": 12,
+          "time_info": "[01时18分 ~ 21时57分]"
+        },
+        {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时03分 ~ 21时57分]"
         },
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
@@ -45,18 +57,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时18分 ~ 16时29分]"
-        },
-        {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时03分 ~ 19时09分]"
         },
         {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
@@ -264,6 +264,30 @@
           "time_info": "[10时40分 ~ 19时09分]"
         },
         {
+          "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
+          "url": "https://news.ifeng.com/c/8uzEep2s55A",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 21时57分]"
+        },
+        {
+          "title": "政策利好+AI算力双轮驱动！电力板块掀涨停潮",
+          "url": "https://www.cls.cn/detail/2434908",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 21时57分]"
+        },
+        {
           "title": "男子AI伪造烂水果仅退款连累全县",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E4%BC%AA%E9%80%A0%E7%83%82%E6%B0%B4%E6%9E%9C%E4%BB%85%E9%80%80%E6%AC%BE%E8%BF%9E%E7%B4%AF%E5%85%A8%E5%8E%BF%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -277,29 +301,6 @@
           "time_info": "[13时53分 ~ 19时09分]"
         },
         {
-          "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
-          "url": "https://news.ifeng.com/c/8uzEep2s55A",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 19时09分]"
-        },
-        {
-          "title": "政策利好+AI算力双轮驱动！电力板块掀涨停潮",
-          "url": "https://www.cls.cn/detail/2434908",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 19时09分]"
-        },
-        {
           "title": "rain回应战胜猎鹰",
           "url": "https://search.bilibili.com/all?keyword=rain%E5%9B%9E%E5%BA%94%E6%88%98%E8%83%9C%E7%8C%8E%E9%B9%B0",
           "source": "bilibili 热搜",
@@ -310,6 +311,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时28分 ~ 19时09分]"
+        },
+        {
+          "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时09分 ~ 21时57分]"
         },
         {
           "title": "黄仁勋称美国无需害怕中国开源AI模型",
@@ -367,6 +379,17 @@
           "time_info": "16时29分"
         },
         {
+          "title": "AI开支引发回报疑虑，谷歌、特斯拉盘前大跌，布油触及百元关口，美国长债承压",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "谷歌母公司Alphabet：Gemini APP月活用户数（MAUs）达到9.5亿。 （一系列）AI功能正驱动搜索增长。 （众多）Gemini模型现在每分钟处理220亿API Tokens。",
           "url": "https://wallstreetcn.com/livenews/3138394",
           "source": "华尔街见闻-快讯",
@@ -384,7 +407,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         },
@@ -411,15 +434,26 @@
           "time_info": "07时03分"
         },
         {
-          "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
-          "source": "澎湃新闻",
+          "title": "AI每赚1块钱，谷歌花出去2块",
+          "url": "https://wallstreetcn.com/articles/3777748",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时09分"
+          "time_info": "21时57分"
+        },
+        {
+          "title": "不要随意把照片和视频发给AI",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E6%8A%8A%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91%E5%8F%91%E7%BB%99AI&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "OpenAI模型“越狱”攻击，救场的竟是中国AI工具",
@@ -450,9 +484,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
+        },
+        {
+          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "特斯拉(TSLA.O)AI业务副总裁：预计未来在更多城市推出Robotaxi所需的时间将继续缩短。",
@@ -502,8 +547,20 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "北京：鼓励发展Token（词元）经济，加大算力券等支持力度",
+          "url": "https://www.cls.cn/detail/2435174",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时09分 ~ 21时57分]"
+        },
         {
           "title": "华光新材：液冷用钎焊材料二季度收入继续保持良好增长态势",
           "url": "https://flash.jin10.com/detail/20260723101859888800",
@@ -536,17 +593,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
-        },
-        {
-          "title": "北京：鼓励发展Token（词元）经济，加大算力券等支持力度",
-          "url": "https://www.cls.cn/detail/2435174",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时09分"
         },
         {
           "title": "美国财长贝森特：86%的特朗普账户计划参与家庭年收入低于20万美元。",
@@ -643,7 +689,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         },
@@ -670,6 +716,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "欧洲央行行长拉加德：能源将使通胀高于目标直至2027年上半年。 通胀预计会在2027年上半年后开始放缓。 经济增长前景面临下行风险。 冲突仍然是不确定性的主要来源。 通胀前景面临上行风险。 金融状况较上次会议略有收紧。 自6月以来，最初的发展态势相对温和。",
+          "url": "https://wallstreetcn.com/livenews/3138901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "韩国外长：与印尼外长会面，双方同意加强外交安全战略沟通，扩大经济、国防工业及新兴产业合作。",
           "url": "https://flash.jin10.com/detail/20260723001520126800",
           "source": "金十数据",
@@ -679,6 +736,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：需要紧迫行动来加强欧元区经济。 应对能源冲击的财政措施应有针对性。 应对能源冲击的财政措施应是临时性的。 能源冲击继续推高价格。 薪资追踪指标显示增长温和。 能源冲击的全面影响尚未显现。",
+          "url": "https://wallstreetcn.com/livenews/3138899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：服务业活动有所复苏。 制造业保持坚挺。 国防支出增加正在支持制造业。 短期内增长将保持温和。 中期经济增长的驱动因素依然完好。",
+          "url": "https://wallstreetcn.com/livenews/3138898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "相比交易员，经济学家对下周会议结果更有把握。 76位受访经济学家全部预计，美联储将于7月28-29日会议上维持利率在3.5%-3.75%区间不变。（彭博）",
