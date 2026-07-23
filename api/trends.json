@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T16:29:11.700122+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2026-07-23T19:09:44.914752+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时18分 ~ 16时29分]"
+          "appearance_count": 11,
+          "time_info": "[01时18分 ~ 19时09分]"
         },
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
@@ -47,6 +47,18 @@
           "time_info": "[01时18分 ~ 16时29分]"
         },
         {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时03分 ~ 19时09分]"
+        },
+        {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
           "url": "https://wallstreetcn.com/articles/3777614",
           "source": "华尔街见闻",
@@ -56,18 +68,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时18分 ~ 05时07分]"
-        },
-        {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时03分 ~ 16时29分]"
         },
         {
           "title": "为什么要说尽量少跟AI倾诉聊天",
@@ -95,6 +95,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时18分 ~ 10时40分]"
+        },
+        {
+          "title": "五巨头加码AI投资 是空中加油还是强弩之末？",
+          "url": "https://www.cls.cn/detail/2434755",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 19时09分]"
         },
         {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
@@ -192,16 +205,16 @@
           "time_info": "10时40分"
         },
         {
-          "title": "五巨头加码AI投资 是空中加油还是强弩之末？",
-          "url": "https://www.cls.cn/detail/2434755",
+          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
+          "url": "https://www.cls.cn/detail/2434820",
           "source": "财联社热门",
           "ranks": [
             7,
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时53分 ~ 16时29分]"
+          "time_info": "[16时28分 ~ 19时09分]"
         },
         {
           "title": "Reddit(RDDT.O)现跌8.74%，此前一度跌超10%，消息称Reddit不再续签谷歌AI合作内容协议。",
@@ -247,8 +260,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 16时29分]"
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 19时09分]"
         },
         {
           "title": "男子AI伪造烂水果仅退款连累全县",
@@ -256,11 +269,12 @@
           "source": "微博",
           "ranks": [
             10,
-            8
+            8,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 16时29分]"
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 19时09分]"
         },
         {
           "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
@@ -270,30 +284,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 16时29分]"
-        },
-        {
-          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
-          "url": "https://www.cls.cn/detail/2434820",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时29分]"
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 19时09分]"
         },
         {
           "title": "政策利好+AI算力双轮驱动！电力板块掀涨停潮",
           "url": "https://www.cls.cn/detail/2434908",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时29分]"
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 19时09分]"
+        },
+        {
+          "title": "rain回应战胜猎鹰",
+          "url": "https://search.bilibili.com/all?keyword=rain%E5%9B%9E%E5%BA%94%E6%88%98%E8%83%9C%E7%8C%8E%E9%B9%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 19时09分]"
         },
         {
           "title": "黄仁勋称美国无需害怕中国开源AI模型",
@@ -329,17 +345,6 @@
           "time_info": "[01时18分 ~ 01时19分]"
         },
         {
-          "title": "rain回应战胜猎鹰",
-          "url": "https://search.bilibili.com/all?keyword=rain%E5%9B%9E%E5%BA%94%E6%88%98%E8%83%9C%E7%8C%8E%E9%B9%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时29分]"
-        },
-        {
           "title": "特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产。 半拖车与Megapack 3仍然按生产进度推进。",
           "url": "https://wallstreetcn.com/livenews/3138398",
           "source": "华尔街见闻-快讯",
@@ -357,7 +362,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -371,6 +376,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "在三星妥协之后 罢工要求分红之风扩散至韩国的非AI相关行业",
+          "url": "https://wallstreetcn.com/livenews/3138817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "rain淘汰猎鹰高光集锦",
@@ -395,6 +411,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
           "title": "OpenAI模型“越狱”攻击，救场的竟是中国AI工具",
           "url": "https://news.ifeng.com/c/8uyaFs12NfO",
           "source": "凤凰网",
@@ -415,6 +442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "腾讯云发布 CodeBuddy NPC，推动 AI 编程迈向“交付时代”",
+          "url": "https://wallstreetcn.com/livenews/3138807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "特斯拉(TSLA.O)AI业务副总裁：预计未来在更多城市推出Robotaxi所需的时间将继续缩短。",
@@ -464,7 +502,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "华光新材：液冷用钎焊材料二季度收入继续保持良好增长态势",
@@ -498,6 +536,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "北京：鼓励发展Token（词元）经济，加大算力券等支持力度",
+          "url": "https://www.cls.cn/detail/2435174",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "美国财长贝森特：86%的特朗普账户计划参与家庭年收入低于20万美元。",
@@ -572,7 +621,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -586,6 +635,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "印尼经济部长：来自美国、加拿大和澳大利亚的自然资源出口商将面临更宽松的出口收益保留规则。",
+          "url": "https://flash.jin10.com/detail/20260723184202395800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "法国巴黎银行第二季度净利润43.5亿欧元，同比增长33%，市场预估42.3亿欧元。 第二季度营收140.9亿欧元，同比增长12%，市场预估134.8亿欧元。 第二季度全球市场收入28.1亿欧元，同比增长17%，市场预估25亿欧元。 第二季度股票交易收入14.1亿欧元，同比增长43%，市场预估10.8亿欧元。",
