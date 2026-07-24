@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-24T14:26:13.815182+08:00",
-  "total_titles_processed": 915,
+  "generated_at": "2026-07-24T17:22:39.510653+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 45,
+      "match_count": 52,
       "titles": [
+        {
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时56分 ~ 17时22分]"
+        },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
           "url": "https://wallstreetcn.com/articles/3777614",
@@ -19,29 +31,18 @@
           "time_info": "[01时22分 ~ 06时56分]"
         },
         {
-          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时56分 ~ 14时26分]"
-        },
-        {
           "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
           "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
           "source": "澎湃新闻",
           "ranks": [
             18,
             19,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时22分 ~ 14时26分]"
+          "appearance_count": 11,
+          "time_info": "[01时22分 ~ 17时22分]"
         },
         {
           "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
@@ -84,11 +85,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时34分 ~ 14时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时34分 ~ 17时22分]"
         },
         {
           "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
@@ -151,6 +153,29 @@
           "time_info": "[01时22分 ~ 06时56分]"
         },
         {
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777819",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时34分 ~ 17时22分]"
+        },
+        {
           "title": "花旗包括Andrew Gardiner在内的分析师在一份报告中指出：意法半导体（STMicroelectronics NV）业绩展望显示出终端市场正在建立周期性复苏，且AI/数据中心的增长持续加速。 但相应的，市场预期和股价今年也已大幅上涨。在缺乏进一步上调盈利预期的动力下，该股短期内可能面临压力。",
           "url": "https://wallstreetcn.com/livenews/3139028",
           "source": "华尔街见闻-快讯",
@@ -173,17 +198,6 @@
           "time_info": "11时35分"
         },
         {
-          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777819",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时34分 ~ 14时26分]"
-        },
-        {
           "title": "中国AI大反超，美国还能挡多久？",
           "url": "https://news.ifeng.com/c/8uzcXG8YK32",
           "source": "凤凰网",
@@ -193,6 +207,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时34分 ~ 14时26分]"
+        },
+        {
+          "title": "男子用 AI 伪造水果腐烂照片，恶意仅退款百余次套现，被判诈骗罪，当地也被平台标记高风险，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2063396759536154240",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 17时22分]"
         },
         {
           "title": "中国AI大反超 美国还能挡多久",
@@ -230,17 +256,6 @@
           "time_info": "[01时23分 ~ 03时16分]"
         },
         {
-          "title": "男子用 AI 伪造水果腐烂照片，恶意仅退款百余次套现，被判诈骗罪，当地也被平台标记高风险，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2063396759536154240",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
           "title": "AMD CEO苏姿丰在AMD Advancing AI大会上表示：预计人工智能（AI）加速器市场到2030年将达到1.4万亿美元规模。 预计数据中心CPU市场到2030年将达到2200亿美元规模。 整体而言，计算市场到2030年料将达到2万亿美元规模。 MI450 AI加速器是业内速度最快的。 全速生产Helios，即将发货。",
           "url": "https://wallstreetcn.com/livenews/3138999",
           "source": "华尔街见闻-快讯",
@@ -262,6 +277,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时25分 ~ 14时26分]"
+        },
+        {
+          "title": "AI需求火热！英特尔财报会实录：CPU景气周期将延续至2028年",
+          "url": "https://www.cls.cn/detail/2435979",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
@@ -286,6 +312,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "印度法院：对新闻机构ANI与OpenAI之间的版权争议拥有管辖权。",
+          "url": "https://flash.jin10.com/detail/20260724170650841800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "美五大科技巨头AI隐性债务被曝达1.65万亿美元",
           "url": "https://wallstreetcn.com/livenews/3139023",
           "source": "华尔街见闻-快讯",
@@ -295,6 +332,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "OpenAI预计将大规模部署AMD Helios。",
@@ -363,6 +411,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "据悉软银考虑收购机器人初创公司Gravis",
+          "url": "https://flash.jin10.com/detail/20260724170517874800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "OpenAI：将在ChatGPT中推出健康功能。",
           "url": "https://flash.jin10.com/detail/20260724010535689800",
           "source": "金十数据",
@@ -396,6 +455,17 @@
           "time_info": "11时35分"
         },
         {
+          "title": "印度法院：OpenAI使用新闻机构ANI的内容进行人工智能训练并不构成版权侵权。",
+          "url": "https://flash.jin10.com/detail/20260724170428772800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "AMD正式发布Helios机架级AI服务器。",
           "url": "https://wallstreetcn.com/livenews/3139003",
           "source": "华尔街见闻-快讯",
@@ -424,9 +494,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "Black Forest Labs推出机器人模型，进军物理AI领域",
@@ -520,7 +601,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "北京：鼓励发展Token（词元）经济，加大算力券等支持力度",
@@ -545,6 +626,28 @@
           "time_info": "06时56分"
         },
         {
+          "title": "一组数据感受中国经济强劲动能",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E6%84%9F%E5%8F%97%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BC%BA%E5%8A%B2%E5%8A%A8%E8%83%BD",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "上半年全国营业性演出票房收入超304亿元",
+          "url": "https://wallstreetcn.com/livenews/3139374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "在美国政府宣布新关税措施后，墨西哥经济部长埃布拉德表示：我们认为墨西哥实际承担的关税税率并未发生变化。",
           "url": "https://flash.jin10.com/detail/20260724061147585800",
           "source": "金十数据",
@@ -556,13 +659,24 @@
           "time_info": "06时56分"
         },
         {
+          "title": "上半年全国营业性演出票房收入超304亿元",
+          "url": "https://flash.jin10.com/detail/20260724170522679800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "欧洲央行管委穆兰：美国总统特朗普的关税给全球经济和增长带来了更多不确定性。",
           "url": "https://flash.jin10.com/detail/20260724135408121800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
