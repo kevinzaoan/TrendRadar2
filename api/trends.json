@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T05:56:16.272287+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-07-26T06:55:36.064805+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -16,19 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时56分]"
-        },
-        {
-          "title": "日方拆解宇树机器人后坦言：我们短期内赶不上中国",
-          "url": "https://wallstreetcn.com/livenews/3139781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时55分]"
         },
         {
           "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
@@ -39,11 +28,24 @@
             17,
             20,
             19,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时55分]"
+        },
+        {
+          "title": "日方拆解宇树机器人后坦言：我们短期内赶不上中国",
+          "url": "https://wallstreetcn.com/livenews/3139781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时55分]"
         },
         {
           "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
@@ -53,8 +55,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时55分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -64,8 +66,23 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时55分]"
+        },
+        {
+          "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%96%E8%84%B8%E7%BB%99AI%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%8E%8B%E7%A5%96%E8%B4%A41%E4%B8%AA%E5%A5%BD%E8%AF%841%E4%B8%AA%E6%8C%A8%E9%AA%82",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            18,
+            16,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时55分]"
         },
         {
           "title": "马斯克：中国很有可能成AI领导者",
@@ -77,20 +94,6 @@
             27,
             14,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时56分]"
-        },
-        {
-          "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%96%E8%84%B8%E7%BB%99AI%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%8E%8B%E7%A5%96%E8%B4%A41%E4%B8%AA%E5%A5%BD%E8%AF%841%E4%B8%AA%E6%8C%A8%E9%AA%82",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            18,
-            16,
-            17
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -120,17 +123,6 @@
           "time_info": "[00时56分 ~ 00时57分]"
         },
         {
-          "title": "OpenAI Codex开发人员Thomas Ricouard：我让5.6 Sol稍微提升几何精度和材质细节，效果令人惊喜。这是一个完全在Blender中构建的场景，可以自由操控和漫游，而且它还能持续从中生成颇有格调的静态画面。",
-          "url": "https://flash.jin10.com/detail/20260726044659225800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
           "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
           "url": "https://wallstreetcn.com/articles/3777925",
           "source": "华尔街见闻",
@@ -139,8 +131,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 05时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时59分 ~ 06时55分]"
         },
         {
           "title": "CEO被自家机器人踹飞",
@@ -168,6 +160,18 @@
           "time_info": "[00时57分 ~ 05时56分]"
         },
         {
+          "title": "OpenAI Codex开发人员Thomas Ricouard：我让5.6 Sol稍微提升几何精度和材质细节，效果令人惊喜。这是一个完全在Blender中构建的场景，可以自由操控和漫游，而且它还能持续从中生成颇有格调的静态画面。",
+          "url": "https://flash.jin10.com/detail/20260726044659225800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时55分]"
+        },
+        {
           "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
           "url": "https://wallstreetcn.com/articles/3777898",
           "source": "华尔街见闻",
@@ -185,11 +189,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时56分]"
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 06时55分]"
         },
         {
           "title": "AI已经摸不透柯洁了",
@@ -201,6 +206,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 05时56分]"
+        },
+        {
+          "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
+          "url": "https://wallstreetcn.com/articles/3777919",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         }
       ]
     },
@@ -228,8 +244,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时55分]"
         },
         {
           "title": "伊朗石油部：尽管面临战争和制裁，年度石油收入预算目标已完成逾六成。",
