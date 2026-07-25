@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T01:59:31.803933+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-07-26T03:17:30.686224+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时17分]"
+        },
+        {
+          "title": "日方拆解宇树机器人后坦言：我们短期内赶不上中国",
+          "url": "https://wallstreetcn.com/livenews/3139781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时59分]"
+          "time_info": "[00时57分 ~ 03时17分]"
         },
         {
           "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
@@ -31,27 +42,17 @@
           "time_info": "[00时56分 ~ 00时57分]"
         },
         {
-          "title": "日方拆解宇树机器人后坦言：我们短期内赶不上中国",
-          "url": "https://wallstreetcn.com/livenews/3139781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时59分]"
-        },
-        {
           "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
           "url": "https://www.zhihu.com/question/2064272326489628784",
           "source": "知乎",
           "ranks": [
             2,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时17分]"
         },
         {
           "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
@@ -62,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时17分]"
         },
         {
           "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
@@ -73,8 +74,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时17分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -84,8 +85,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时17分]"
         },
         {
           "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
@@ -93,11 +94,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时17分]"
         },
         {
           "title": "黄仁勋发布首条推文力挺开源AI：世界需要前沿的开源模型",
@@ -108,8 +110,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时17分]"
         },
         {
           "title": "马斯克：中国很有可能成AI领导者",
@@ -117,11 +119,12 @@
           "source": "今日头条",
           "ranks": [
             24,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时17分]"
         },
         {
           "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
@@ -131,8 +134,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 03时17分]"
         },
         {
           "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
@@ -141,20 +144,21 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 03时17分]"
         },
         {
           "title": "CEO被自家机器人踹飞",
           "url": "https://www.baidu.com/s?wd=CEO%E8%A2%AB%E8%87%AA%E5%AE%B6%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B8%B9%E9%A3%9E",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 03时17分]"
         }
       ]
     },
@@ -170,8 +174,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时17分]"
         },
         {
           "title": "经济日报：携程为何挨了最重的罚？",
@@ -182,19 +186,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时17分]"
         },
         {
           "title": "伊朗石油部：尽管面临战争和制裁，年度石油收入预算目标已完成逾六成。",
           "url": "https://flash.jin10.com/detail/20260726005417008800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 03时17分]"
         }
       ]
     }
