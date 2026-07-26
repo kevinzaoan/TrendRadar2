@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T14:36:38.510789+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2026-07-26T17:13:26.271358+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -22,6 +22,21 @@
           "time_info": "[00时56分 ~ 11时47分]"
         },
         {
+          "title": "日方拆解宇树机器人后坦言：我们短期内赶不上中国",
+          "url": "https://wallstreetcn.com/livenews/3139781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7,
+            15,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 17时13分]"
+        },
+        {
           "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
           "url": "https://wallstreetcn.com/articles/3777925",
           "source": "华尔街见闻",
@@ -36,31 +51,18 @@
           "time_info": "[01时59分 ~ 14时36分]"
         },
         {
-          "title": "日方拆解宇树机器人后坦言：我们短期内赶不上中国",
-          "url": "https://wallstreetcn.com/livenews/3139781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 14时36分]"
-        },
-        {
           "title": "中国AI反超,老美急眼下黑手",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
           "source": "贴吧",
           "ranks": [
             13,
             18,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 14时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 17时13分]"
         },
         {
           "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
@@ -144,17 +146,6 @@
           "time_info": "[00时56分 ~ 00时57分]"
         },
         {
-          "title": "日本如何评价宇树机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
           "title": "CEO被自家机器人踹飞",
           "url": "https://www.baidu.com/s?wd=CEO%E8%A2%AB%E8%87%AA%E5%AE%B6%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B8%B9%E9%A3%9E",
           "source": "百度热搜",
@@ -191,6 +182,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时56分 ~ 08时01分]"
+        },
+        {
+          "title": "日本如何评价宇树机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 17时13分]"
         },
         {
           "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
@@ -232,6 +235,18 @@
           "time_info": "[05时55分 ~ 14时36分]"
         },
         {
+          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
+          "url": "https://wallstreetcn.com/articles/3777930",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 17时13分]"
+        },
+        {
           "title": "假如莫奈遇上AI机器人",
           "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E8%8E%AB%E5%A5%88%E9%81%87%E4%B8%8AAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "bilibili 热搜",
@@ -243,17 +258,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时01分 ~ 14时36分]"
-        },
-        {
-          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
-          "url": "https://wallstreetcn.com/articles/3777930",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 14时36分]"
         },
         {
           "title": "AI短剧《被裁掉的女孩》播放破2亿",
@@ -268,6 +272,18 @@
           "time_info": "[11时47分 ~ 14时36分]"
         },
         {
+          "title": "AI还要跌多久",
+          "url": "https://wallstreetcn.com/articles/3777943",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 17时13分]"
+        },
+        {
           "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
           "url": "https://wallstreetcn.com/articles/3777919",
           "source": "华尔街见闻",
@@ -278,6 +294,62 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时55分 ~ 08时01分]"
+        },
+        {
+          "title": "日方拆解宇树机器人后坦言：我们短期内恐怕赶不上中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33660990",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 17时13分]"
+        },
+        {
+          "title": "中国AI步步紧逼，美国科技巨头先内讧了",
+          "url": "https://news.ifeng.com/c/8v4ERxkHrbt",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 17时13分]"
+        },
+        {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 17时13分]"
+        },
+        {
+          "title": "AI演员首次直播破次元",
+          "url": "https://www.douyin.com/hot/2585503",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 17时13分]"
+        },
+        {
+          "title": "AI的回答让我重新理解活着",
+          "url": "https://www.douyin.com/hot/2584567",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 17时13分]"
         },
         {
           "title": "Anthropic也要自研AI芯片了！已向SK海力士寻求供应",
@@ -291,15 +363,15 @@
           "time_info": "11时47分"
         },
         {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
+          "title": "日本技术员拆完宇树机器人，当场破防",
+          "url": "https://news.ifeng.com/c/8v4eso1qejg",
+          "source": "凤凰网",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时36分"
+          "time_info": "17时13分"
         },
         {
           "title": "日方拆解宇树机器人",
@@ -308,40 +380,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "中国AI步步紧逼，美国科技巨头先内讧了",
-          "url": "https://news.ifeng.com/c/8v4ERxkHrbt",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "日方拆解宇树机器人后坦言：我们短期内恐怕赶不上中国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33660990",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -374,7 +413,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -390,15 +429,37 @@
           "time_info": "11时47分"
         },
         {
+          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
+          "url": "https://www.zhihu.com/question/2063915578427963194",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
           "title": "英伟达与首尔大学在韩国设立联合AI研究中心",
           "url": "https://flash.jin10.com/detail/20260726130226499800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
+        },
+        {
+          "title": "顺钠股份：针对AI算力中心、超大型数据中心对供电可靠性及能效的要求开展前瞻性技术研究及产品研发",
+          "url": "https://flash.jin10.com/detail/20260726154611236800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "SK崔泰源：韩国需转型为“AI原生”国家",
@@ -418,9 +479,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
+        },
+        {
+          "title": "严浩翔对AI写rap词的反应",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%AF%B9AI%E5%86%99rap%E8%AF%8D%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         },
         {
           "title": "特斯拉三代 Optimus 初步定型，Optimus 量产对全球人形机器人产业有何影响？",
@@ -462,37 +534,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
         {
-          "title": "AI演员首次直播破次元",
-          "url": "https://www.douyin.com/hot/2585503",
-          "source": "抖音",
+          "title": "AI坑惨手机圈",
+          "url": "https://www.toutiao.com/trending/7666708037893099071/",
+          "source": "今日头条",
           "ranks": [
-            28
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "AI的回答让我重新理解活着",
-          "url": "https://www.douyin.com/hot/2584567",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
+          "time_info": "17时13分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "经济日报：携程为何挨了最重的罚？",
@@ -518,6 +579,17 @@
           "time_info": "[00时56分 ~ 03时17分]"
         },
         {
+          "title": "多家外媒：中国经济展现出较强韧性",
+          "url": "https://www.toutiao.com/trending/7666633756211757119/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
           "title": "伊朗石油部：尽管面临战争和制裁，年度石油收入预算目标已完成逾六成。",
           "url": "https://flash.jin10.com/detail/20260726005417008800",
           "source": "金十数据",
@@ -528,6 +600,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 03时17分]"
+        },
+        {
+          "title": "非洲开发银行气候负责人：超级厄尔尼诺现象可能导致受影响的非洲国家经济损失在100亿至200亿美元之间。",
+          "url": "https://flash.jin10.com/detail/20260726160033957800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         }
       ]
     }
