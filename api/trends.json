@@ -1,500 +1,132 @@
 {
-  "generated_at": "2026-07-27T21:40:44.429056+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-07-28T00:19:03.784445+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 51,
+      "match_count": 15,
       "titles": [
         {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时00分 ~ 10时51分]"
-        },
-        {
-          "title": "侵权零成本!电竞选手遭AI换脸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356525&amp;topic_name=%E4%BE%B5%E6%9D%83%E9%9B%B6%E6%88%90%E6%9C%AC%21%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E9%81%ADAI%E6%8D%A2%E8%84%B8",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            9,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时00分 ~ 21时40分]"
-        },
-        {
-          "title": "不要长期向AI倾泻心事",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%90%91AI%E5%80%BE%E6%B3%BB%E5%BF%83%E4%BA%8B&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            5,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 07时04分]"
-        },
-        {
-          "title": "日方拆解宇树机器人后坦言：我们短期内恐怕赶不上中国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33660990",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 07时04分]"
-        },
-        {
-          "title": "日本机器人格斗赛没开打就撞门跑路",
-          "url": "https://www.toutiao.com/trending/7666289625798905398/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            10,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时00分 ~ 14时31分]"
-        },
-        {
-          "title": "谁还没跳ACAI拖拉机舞",
-          "url": "https://www.douyin.com/hot/2586099",
-          "source": "抖音",
-          "ranks": [
-            23,
-            24,
-            19,
-            22,
-            14,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时00分 ~ 18时43分]"
-        },
-        {
-          "title": "日本技术员拆完宇树机器人，当场破防",
-          "url": "https://news.ifeng.com/c/8v4eso1qejg",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时00分 ~ 10时51分]"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时00分 ~ 10时51分]"
-        },
-        {
-          "title": "AI冲击短剧行业 “戏王”也扛不住了",
-          "url": "https://www.baidu.com/s?wd=AI%E5%86%B2%E5%87%BB%E7%9F%AD%E5%89%A7%E8%A1%8C%E4%B8%9A+%E2%80%9C%E6%88%8F%E7%8E%8B%E2%80%9D%E4%B9%9F%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 07时04分]"
-        },
-        {
-          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
-          "url": "https://www.zhihu.com/question/2063915578427963194",
+          "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
+          "url": "https://www.zhihu.com/question/2052464126996353859",
           "source": "知乎",
           "ranks": [
-            5,
-            12,
-            17
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 07时04分]"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
         },
         {
-          "title": "北自科技：公司未生产人形机器人本体及零部件",
-          "url": "https://flash.jin10.com/detail/20260727182408954800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "特朗普连发数十张AI图",
-          "url": "https://www.toutiao.com/trending/7665983724168937498/",
-          "source": "今日头条",
+          "title": "各个行业被AI取代的概率",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%84%E4%B8%AA%E8%A1%8C%E4%B8%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
+        },
+        {
+          "title": "受AI热潮推动，贝莱德韩国ETF连续第三周录得资金净流入",
+          "url": "https://wallstreetcn.com/livenews/3140433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "OpenAI失控入侵,遭索赔1亿算力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 21时40分]"
-        },
-        {
-          "title": "AI短剧《被裁掉的女孩》播放破2亿",
-          "url": "https://www.toutiao.com/trending/7665929964277006363/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时09分 ~ 07时04分]"
+          "time_info": "00时19分"
         },
         {
           "title": "AI挤占DRAM颗粒供应 又一模组厂预警“无货可卖”风险",
           "url": "https://www.cls.cn/detail/2437715",
           "source": "财联社热门",
           "ranks": [
-            3,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时43分 ~ 21时40分]"
-        },
-        {
-          "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
-          "url": "https://www.zhihu.com/question/2052464126996353859",
-          "source": "知乎",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 21时40分]"
-        },
-        {
-          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 14时31分]"
-        },
-        {
-          "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
-          "url": "https://wallstreetcn.com/livenews/3139836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 06时00分]"
-        },
-        {
-          "title": "美国发生AI失控事故",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9FAI%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 07时04分]"
-        },
-        {
-          "title": "日本如何评价宇树机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 07时04分]"
-        },
-        {
-          "title": "“停火期间”发胜利AI图，伊媒指特朗普“投资”虚拟火力",
-          "url": "https://flash.jin10.com/detail/20260727043919947800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时00分 ~ 07时04分]"
-        },
-        {
-          "title": "特朗普在社交平台上发布伊朗油轮被炸毁的AI图片，并配文“动能已经耗尽”。",
-          "url": "https://flash.jin10.com/detail/20260727041540869800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时00分 ~ 07时04分]"
-        },
-        {
-          "title": "特朗普在社交平台上发布了一张飞机袭击哈尔克岛的AI图片。",
-          "url": "https://flash.jin10.com/detail/20260727034241267800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时00分 ~ 07时04分]"
-        },
-        {
-          "title": "鹿晗这两张图被判AI了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E8%BF%99%E4%B8%A4%E5%BC%A0%E5%9B%BE%E8%A2%AB%E5%88%A4AI%E4%BA%86%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 14时31分]"
-        },
-        {
-          "title": "如何看待米哈游创始人「蔡浩宇」海外团队 AI 产品 AnuNeko 突然宣布永久停运？",
-          "url": "https://www.zhihu.com/question/2064803992841069459",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 18时43分]"
-        },
-        {
-          "title": "观众为何不能容忍长剧片头用AI",
-          "url": "https://www.toutiao.com/trending/7666471179586650166/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
-        },
-        {
-          "title": "英伟达投资Ilya Sutskever的新AI实验室，以扩大其算力版图",
-          "url": "https://flash.jin10.com/detail/20260727211011961800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
+          "time_info": "[00时18分 ~ 00时19分]"
         },
         {
           "title": "花40亿token做出AI督学官",
           "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
           "source": "bilibili 热搜",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
-          "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
-          "url": "https://www.cls.cn/detail/2437261",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "软银集团用于投资OpenAI的400亿美元贷款据悉新增21家贷款人",
-          "url": "https://wallstreetcn.com/livenews/3140058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "全球AI竞争将如何发展",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83AI%E7%AB%9E%E4%BA%89%E5%B0%86%E5%A6%82%E4%BD%95%E5%8F%91%E5%B1%95",
-          "source": "bilibili 热搜",
-          "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
         },
         {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
-          "source": "财联社热门",
+          "title": "国内首部AI长片首播",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%A6%96%E9%83%A8AI%E9%95%BF%E7%89%87%E9%A6%96%E6%92%AD",
+          "source": "百度热搜",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
         },
         {
-          "title": "李在明喊话：AI是韩国的“新火种”！9500亿美元芯片大单应声落地",
-          "url": "https://www.cls.cn/detail/2437139",
-          "source": "财联社热门",
+          "title": "OpenAI失控入侵,遭索赔1亿算力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
+          "source": "贴吧",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
         },
         {
-          "title": "OpenAI、Anthropic被曝游说封堵开源模型 硅谷上演“开源保卫战”",
-          "url": "https://www.cls.cn/detail/2437206",
-          "source": "财联社热门",
+          "title": "特朗普连发数十张AI图遭吐槽",
+          "url": "https://www.douyin.com/hot/2586656",
+          "source": "抖音",
           "ranks": [
-            11
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
         },
         {
           "title": "虞书欣疑似被AI融脸和声音",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%96%91%E4%BC%BC%E8%A2%ABAI%E8%9E%8D%E8%84%B8%E5%92%8C%E5%A3%B0%E9%9F%B3%23&t=31&band_rank=11&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%96%91%E4%BC%BC%E8%A2%ABAI%E8%9E%8D%E8%84%B8%E5%92%8C%E5%A3%B0%E9%9F%B3%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
-          "title": "OpenAI宣布在爱尔兰设立新的欧盟总部，并新增250个工作岗位。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3140222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
+        },
+        {
+          "title": "侵权零成本!电竞选手遭AI换脸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356525&amp;topic_name=%E4%BE%B5%E6%9D%83%E9%9B%B6%E6%88%90%E6%9C%AC%21%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E9%81%ADAI%E6%8D%A2%E8%84%B8",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
         },
         {
           "title": "Claude Opus 5 系统提示词泄漏，膨胀到 20 万字符的系统提示词，你怎么看？",
           "url": "https://www.zhihu.com/question/2064349598202779354",
           "source": "知乎",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
-          "title": "瑞银：低成本开源模型正重塑AI交易格局，利好英伟达等硬件及云巨头！",
-          "url": "https://www.cls.cn/detail/2437519",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "据华尔街日报：英伟达将对OpenAI的联合创始人伊尔亚·苏茨克维（Ilya Sutskever）创立的安全超级智能进行大规模投资。",
-          "url": "https://flash.jin10.com/detail/20260727210406177800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
-          "title": "马斯克：未来某个时刻中国极有可能成为AI领导者，美国就算禁用中国模型也挡不住",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33661243",
-          "source": "澎湃新闻",
-          "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "OpenAI宣布在爱尔兰设立新的欧盟总部，并新增250个职位。",
-          "url": "https://flash.jin10.com/detail/20260727181326862800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
         },
         {
           "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
@@ -503,151 +135,49 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
-          "title": "2026 年菲尔兹奖会成为「最后一届没有 AI 的菲尔兹奖」吗？",
-          "url": "https://www.zhihu.com/question/2062890686072845429",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
         },
         {
-          "title": "2026国内AI剧漫剧市场规模或达400亿",
-          "url": "https://www.toutiao.com/trending/7666650408294727686/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "现代汽车携手英伟达等科技企业 打造自动驾驶与物理AI生态",
-          "url": "https://flash.jin10.com/detail/20260727100434725800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "熊孩子和美团AI聊天订了18家餐厅",
-          "url": "https://www.baidu.com/s?wd=%E7%86%8A%E5%AD%A9%E5%AD%90%E5%92%8C%E7%BE%8E%E5%9B%A2AI%E8%81%8A%E5%A4%A9%E8%AE%A2%E4%BA%8618%E5%AE%B6%E9%A4%90%E5%8E%85",
+          "title": "高通机器人瘫倒 被盖上黑布抬走",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%98%AB%E5%80%92+%E8%A2%AB%E7%9B%96%E4%B8%8A%E9%BB%91%E5%B8%83%E6%8A%AC%E8%B5%B0",
           "source": "百度热搜",
           "ranks": [
-            21
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
         },
         {
-          "title": "北京经开区上半年机器人和智能制造产业产值同比增长12.3%",
-          "url": "https://wallstreetcn.com/livenews/3140327",
+          "title": "英伟达在OpenAI联合创始人伊利亚·苏茨克沃的安全超级智能项目中投资达数十亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3140408",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时40分"
+          "time_info": "00时19分"
         },
         {
-          "title": "真有人把AI的照片当成自己",
-          "url": "https://s.weibo.com/weibo?q=%E7%9C%9F%E6%9C%89%E4%BA%BA%E6%8A%8AAI%E7%9A%84%E7%85%A7%E7%89%87%E5%BD%93%E6%88%90%E8%87%AA%E5%B7%B1&t=31&band_rank=22&Refer=top",
-          "source": "微博",
+          "title": "KimiAI：已经开源了MoonEP，这是针对分布式MoE工作负载打造的高性能通信库。MoonEP旨在提升大规模场景下专家并行通信效率，帮助降低大型MoE模型在训练和推理系统中的通信开销。",
+          "url": "https://flash.jin10.com/detail/20260727232852006800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
-          "title": "日本机器人格斗赛没开打就撞门跑路",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E8%B5%9B%E6%B2%A1%E5%BC%80%E6%89%93%E5%B0%B1%E6%92%9E%E9%97%A8%E8%B7%91%E8%B7%AF",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "假如莫奈遇上AI机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E8%8E%AB%E5%A5%88%E9%81%87%E4%B8%8AAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "A股人形机器人板块盘中震荡反弹，明新旭腾、首开股份涨停，鑫宏业、凯龙高科、贝斯特、兆丰股份、宁波华翔等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260727095629938800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
+          "time_info": "00时19分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 8,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "经纬度：推动房地产高质量发展，构建房地产发展新模式",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33651642",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时00分 ~ 14时31分]"
-        },
-        {
-          "title": "一组数据读懂中国硬核经济满满亮点",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E7%BB%8F%E6%B5%8E%E6%BB%A1%E6%BB%A1%E4%BA%AE%E7%82%B9",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 14时31分]"
-        },
-        {
-          "title": "据官方公报，埃及发布法律，对与军方有关的“埃及未来”经济管理机构进行重组。",
-          "url": "https://flash.jin10.com/detail/20260727142533280800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
         {
           "title": "数说中国经济新亮点",
           "url": "https://www.douyin.com/hot/2587544",
@@ -655,84 +185,42 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
         },
         {
           "title": "经济日报：中国学者开出菲尔兹奖“双响”，欣喜之余亦需清醒看到不足",
           "url": "https://m.thepaper.cn/newsDetail_forward_33664671",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 21时40分]"
-        },
-        {
-          "title": "叙利亚外长：感谢联合国秘书长古特雷斯对叙利亚的访问。与古特雷斯先生讨论了多个共同关心的议题，包括联合国在支持恢复优先事项、人权、经济发展等方面的作用，以增强叙利亚在建设更稳定未来方面的努力。",
-          "url": "https://flash.jin10.com/detail/20260727015653912800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        },
-        {
-          "title": "沃达丰第一季度服务收入86.3亿欧元，市场预估82.8亿欧元。 第一季度内生性服务业务收入增长5.2％，市场预估增长4.55％。 预计全年调整后自由现金流高端26亿欧元至29亿欧元。",
-          "url": "https://wallstreetcn.com/livenews/3140049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "日本首相高市早苗：具体的货币政策留待日本央行作出。 将提升经济竞争力以增强市场对日元的信心。",
-          "url": "https://wallstreetcn.com/livenews/3139913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗能源部长在谈及可再生能源发展时表示，上周已有70兆瓦的太阳能发电项目投入运行；本周还将有约100兆瓦的太阳能发电项目投入运行，且这一进程将持续进行。",
-          "url": "https://flash.jin10.com/detail/20260726233459980800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            23
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时08分]"
+          "time_info": "[00时18分 ~ 00时19分]"
         },
         {
-          "title": "美国能源部：已指示电网运营商西南电力库根据需要调度发电机组以维持电网可靠性。",
-          "url": "https://flash.jin10.com/detail/20260727054940296800",
+          "title": "英国首相伯纳姆：下次预算不会改变或取消房地产购买印花税。",
+          "url": "https://wallstreetcn.com/livenews/3140412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "英国首相伯纳姆：下次预算不会改变或取消房地产购买印花税。",
+          "url": "https://flash.jin10.com/detail/20260727232251612800",
           "source": "金十数据",
           "ranks": [
-            12
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时04分"
+          "time_info": "00时19分"
         }
       ]
     }
