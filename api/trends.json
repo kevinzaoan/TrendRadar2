@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T04:13:19.985619+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-07-30T07:07:53.508455+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "美方限制进口“先进机器人设备”，外交部回应",
@@ -20,6 +20,31 @@
           "time_info": "[00时21分 ~ 04时13分]"
         },
         {
+          "title": "斯洛伐克总统怀疑中国机器人藏真人",
+          "url": "https://www.toutiao.com/trending/7667207733225029638/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时07分]"
+        },
+        {
+          "title": "日本技术人员拆解宇树机器人后称「赶不上中国」，从螺丝到整机，中国机器人供应链优势体现在哪些环节？",
+          "url": "https://www.zhihu.com/question/2064993421949755491",
+          "source": "知乎",
+          "ranks": [
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 07时07分]"
+        },
+        {
           "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
           "url": "https://wallstreetcn.com/articles/3778177",
           "source": "华尔街见闻",
@@ -27,8 +52,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时07分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -38,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时07分]"
         },
         {
           "title": "斯洛伐克总统怀疑中国机器人藏真人",
@@ -47,35 +72,12 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时13分]"
-        },
-        {
-          "title": "斯洛伐克总统怀疑中国机器人藏真人",
-          "url": "https://www.toutiao.com/trending/7667207733225029638/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时13分]"
-        },
-        {
-          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
-          "url": "https://www.cls.cn/detail/2440260",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时07分]"
         },
         {
           "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
@@ -83,11 +85,25 @@
           "source": "知乎",
           "ranks": [
             16,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时07分]"
+        },
+        {
+          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
+          "url": "https://www.cls.cn/detail/2440260",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时07分]"
         },
         {
           "title": "AI漫剧走红,国动流量狂跌",
@@ -97,8 +113,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时07分]"
         },
         {
           "title": "赢学入脑,法国声称AI超中国",
@@ -108,8 +124,32 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时07分]"
+        },
+        {
+          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
+          "url": "https://www.zhihu.com/question/2065158710427751418",
+          "source": "知乎",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时13分]"
+          "time_info": "[00时21分 ~ 07时07分]"
+        },
+        {
+          "title": "AI手机大战全面开打",
+          "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E5%A4%A7%E6%88%98%E5%85%A8%E9%9D%A2%E5%BC%80%E6%89%93",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 07时07分]"
         },
         {
           "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
@@ -117,17 +157,6 @@
           "source": "华尔街见闻",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
-          "url": "https://www.zhihu.com/question/2065158710427751418",
-          "source": "知乎",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -143,28 +172,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "AI手机大战全面开打",
-          "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E5%A4%A7%E6%88%98%E5%85%A8%E9%9D%A2%E5%BC%80%E6%89%93",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "日本技术人员拆解宇树机器人后称「赶不上中国」，从螺丝到整机，中国机器人供应链优势体现在哪些环节？",
-          "url": "https://www.zhihu.com/question/2064993421949755491",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
         },
         {
           "title": "伊拉克真主党旅（Kataib Hezbollah）：将把沙特阿拉伯境内美国的“工具”（代理人/相关设施）作为打击目标。 对美国和沙特阿拉伯的联合袭击作出反击是不可避免的。 向伊拉克政府下最后通牒，要求在8月6日之前证明其能够捍卫伊拉克的主权。",
@@ -184,15 +191,48 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "Analog Devices Inc.（ADI）：漏洞与OpenAI无关。",
+          "url": "https://wallstreetcn.com/livenews/3141939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "扎克伯格在电话会上说，开源AI模型并没有前沿模型那么强大。Meta目前跌9.8%。 （但）开源模型在全世界有着“重要的地位”。 开放权重模型的成功并不会削弱API的机会，因为拥有运行模型推理的计算能力是商业优势的来源。",
+          "url": "https://wallstreetcn.com/livenews/3141925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "微软(MSFT.O)首席财务官：第四季度合同积压在不包括OpenAI的情况下增加了25%。",
+          "url": "https://flash.jin10.com/detail/20260730055730100800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 7,
+      "match_count": 17,
       "titles": [
         {
           "title": "“十五五”开局我国经济运行稳中向好",
@@ -202,8 +242,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 07时07分]"
         },
         {
           "title": "高通(QCOM.O)：预计2027财年非手机业务收入的同比增长额将超过2026财年苹果产品总收入。",
@@ -212,7 +252,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -223,7 +263,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -234,9 +274,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "阿波罗首席经济学家：美联储放弃前瞻指引，导致美债“溜溜球”式波动",
+          "url": "https://wallstreetcn.com/livenews/3141946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "微软(MSFT.O)：Azure收入首次超过1000亿美元。",
@@ -245,9 +296,53 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "微软(MSFT.O)：预计第一财季运营费用将在168亿美元至169亿美元之间；Azure及其他云服务收入按固定汇率计算增长约45%。",
+          "url": "https://flash.jin10.com/detail/20260730060949630800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "“网红券商”Robinhood二季度净营收13.1亿美元，分析师预期12.8亿美元。 二季度调整后EBITDA为7.41亿美元，分析师预期6.289亿美元。 二季度加密货币收入1亿美元，分析师预期0.866亿美元。 二季度ARPU为187美元，分析师预期186.09美元。 二季度期权营收3.42亿美元，分析师预期3.384亿美元。 预计全年总体开支26.8亿-27.8亿美元，分析师预期29.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3141943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "微软(MSFT.O)：预计第一季度个人计算业务收入将在122亿美元至127亿美元之间。",
+          "url": "https://flash.jin10.com/detail/20260730060657779800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "微软(MSFT.O)：预计2027财年总收入将实现两位数增长。",
+          "url": "https://flash.jin10.com/detail/20260730060622535800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "微软(MSFT.O)第四财季度云业务收入为593亿美元。",
@@ -256,7 +351,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -270,6 +365,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "微软(MSFT.O)：与2026财年下半年相比，预计2027财年上半年Azure及其他云服务收入增长将加速。",
+          "url": "https://flash.jin10.com/detail/20260730060547633800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "微软(MSFT.O)：预计第一财季智能云收入将在409.5亿美元至412.5亿美元之间。",
+          "url": "https://flash.jin10.com/detail/20260730060511955800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "微软(MSFT.O)首席财务官：自2027财年开始，我们将数据中心和办公楼的预计使用寿命从15年延长至25年。资产使用寿命的变化仅影响未来折旧的时间，预计对2027财年营业收入的影响微乎其微。",
+          "url": "https://flash.jin10.com/detail/20260730060243962800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "微软(MSFT.O)首席财务官：云业务收入增长得益于新算力的提前交付；新增算力容量已迅速实现货币化。",
+          "url": "https://flash.jin10.com/detail/20260730060055866800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "微软(MSFT.O)首席财务官：2026财年全年云收入超过2140亿美元，近90%来自非前沿模式公司的客户。",
+          "url": "https://flash.jin10.com/detail/20260730055924156800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         }
       ]
     }
