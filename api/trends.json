@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T21:59:42.131267+08:00",
-  "total_titles_processed": 1423,
+  "generated_at": "2026-07-30T23:55:19.258372+08:00",
+  "total_titles_processed": 1549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
         {
           "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时21分 ~ 21时59分]"
+          "appearance_count": 7,
+          "time_info": "[10时21分 ~ 23时55分]"
         },
         {
           "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时21分 ~ 21时59分]"
+          "appearance_count": 7,
+          "time_info": "[10时21分 ~ 23时55分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -95,11 +95,12 @@
           "ranks": [
             1,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 21时59分]"
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 23时55分]"
         },
         {
           "title": "美方限制进口“先进机器人设备”，外交部回应",
@@ -163,6 +164,17 @@
           "time_info": "16时25分"
         },
         {
+          "title": "Citadel（城堡）从基金公司Situational Awareness投资组合中接盘一部分AI股票。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3142559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
           "url": "https://wallstreetcn.com/articles/3778177",
           "source": "华尔街见闻",
@@ -213,6 +225,18 @@
           "time_info": "[00时21分 ~ 07时07分]"
         },
         {
+          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778263",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 23时55分]"
+        },
+        {
           "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
           "url": "https://www.cls.cn/detail/2440260",
           "source": "财联社热门",
@@ -226,15 +250,17 @@
           "time_info": "[00时21分 ~ 07时07分]"
         },
         {
-          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778263",
-          "source": "华尔街见闻",
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
           "ranks": [
-            9
+            12,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时25分 ~ 21时59分]"
+          "time_info": "[19时08分 ~ 23时55分]"
         },
         {
           "title": "Margin Call响起！AI暴跌导致对冲基金“史诗级”亏损，高盛、摩根大通率先追保",
@@ -270,18 +296,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 07时07分]"
-        },
-        {
-          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
-          "url": "https://www.cls.cn/detail/2441076",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 21时59分]"
         },
         {
           "title": "字节跳动重构ToB版图：飞书与豆包将整合 大厂激战“AI工作入口”",
@@ -340,6 +354,18 @@
           "time_info": "[00时21分 ~ 00时22分]"
         },
         {
+          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
+          "url": "https://www.zhihu.com/question/2065810199877611641",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 23时55分]"
+        },
+        {
           "title": "AI 焚书",
           "url": "https://s.weibo.com/weibo?q=AI%20%E7%84%9A%E4%B9%A6&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -363,6 +389,17 @@
           "time_info": "[13时41分 ~ 13时42分]"
         },
         {
+          "title": "Citadel接手Situational Awareness的大规模AI股票持仓",
+          "url": "https://flash.jin10.com/detail/20260730234636405800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "雷军晒小米机器人工作视频",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%99%92%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%A5%E4%BD%9C%E8%A7%86%E9%A2%91%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -380,9 +417,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
+        },
+        {
+          "title": "据英国金融时报：因巨额亏损，由前OpenAI研究员Leopold Aschenbrenner创立、管理规模达240亿美元的对冲基金Situational Awareness已将其160亿美元公开股票持仓中的很大一部分快速出售给了Citadel。",
+          "url": "https://flash.jin10.com/detail/20260730234251331800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "【谷歌发布Gemini机器人AI模型，旨在解决机器人“灵巧性”难题】Alphabet旗下的谷歌DeepMind发布了一款名为Gemini Robotics 2的新型机器人人工智能模型，该模型使类人机器能够协调全身运动。这一新系统使机器人能够在推理任务的同时进行行走、蹲下和操纵物体，并能自上而下地指挥整个类人机器人。谷歌DeepMind还发布了另外两款机器人AI模型——Gemini Robotics ER 2和On-Device 2。它们可以协同工作或独立运行，以规划多步骤任务并协调多个机器人。",
+          "url": "https://wallstreetcn.com/livenews/3142550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "AI能不能别发展了",
@@ -391,7 +450,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -402,7 +461,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -440,15 +499,15 @@
           "time_info": "07时07分"
         },
         {
-          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
-          "url": "https://www.zhihu.com/question/2065810199877611641",
-          "source": "知乎",
+          "title": "AI概念股受科技巨头业绩及资本支出计划提振而大涨",
+          "url": "https://wallstreetcn.com/livenews/3142542",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时59分"
+          "time_info": "23时55分"
         },
         {
           "title": "苹果市值首破 5 万亿美元，超越英伟达重夺全球第一，反映市场对 AI 投资逻辑的哪些转变？",
@@ -531,7 +590,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "“十五五”开局我国经济运行稳中向好",
@@ -553,8 +612,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 21时59分]"
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 23时55分]"
         },
         {
           "title": "中共中央政治局召开会议，决定召开二十届五中全会，分析研究当前经济形势和经济工作，中共中央总书记习近平主持会议",
@@ -563,9 +622,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 23时55分]"
         },
         {
           "title": "西班牙对外银行（BBVA）第二季度净利润30.6亿欧元，同比增长11%，市场预估29.5亿欧元。 第二季度净利息收入76.3亿欧元，同比增长23%，市场预估75亿欧元。 第二季度总收入105.1亿欧元，同比增长21%，市场预估103.8亿欧元。 第二季度营业利润65.6亿欧元，同比增长20%，市场预估64.6亿欧元。 第二季度调整后每股收益0.54欧元，上年同期0.46欧元，市场预估0.51欧元。 西班牙对外银行将启动最高20亿欧元的股票回购计划。",
@@ -588,6 +647,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "中共中央政治局召开会议，决定召开二十届五中全会，分析研究当前经济形势和经济工作，中共中央总书记习近平主持会议",
+          "url": "https://wallstreetcn.com/articles/3778301",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 23时55分]"
         },
         {
           "title": "中共中央政治局召开会议 决定召开二十届五中全会 分析研究当前经济形势和经济工作 中共中央总书记习近平主持会议",
@@ -635,19 +707,6 @@
           "time_info": "19时08分"
         },
         {
-          "title": "中共中央政治局召开会议，决定召开二十届五中全会，分析研究当前经济形势和经济工作，中共中央总书记习近平主持会议",
-          "url": "https://wallstreetcn.com/articles/3778301",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 21时59分]"
-        },
-        {
           "title": "亚美尼亚总理：俄方这么干，已经预示了欧亚经济联盟的终结",
           "url": "https://news.ifeng.com/c/8vADOkW8L8m",
           "source": "凤凰网",
@@ -657,6 +716,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时21分 ~ 13时42分]"
+        },
+        {
+          "title": "政治局会议释放哪些重要经济信号",
+          "url": "https://www.toutiao.com/trending/7668295382706687507/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 23时55分]"
         },
         {
           "title": "第一次看到母亲的收入",
@@ -699,7 +770,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -721,7 +792,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -748,15 +819,15 @@
           "time_info": "07时07分"
         },
         {
-          "title": "政治局会议释放哪些重要经济信号",
-          "url": "https://www.toutiao.com/trending/7668295382706687507/",
-          "source": "今日头条",
+          "title": "英国央行行长：年轻人承受了“低招聘、低解雇”经济的主要冲击",
+          "url": "https://wallstreetcn.com/livenews/3142555",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时59分"
+          "time_info": "23时55分"
         },
         {
           "title": "“网红券商”Robinhood二季度净营收13.1亿美元，分析师预期12.8亿美元。 二季度调整后EBITDA为7.41亿美元，分析师预期6.289亿美元。 二季度加密货币收入1亿美元，分析师预期0.866亿美元。 二季度ARPU为187美元，分析师预期186.09美元。 二季度期权营收3.42亿美元，分析师预期3.384亿美元。 预计全年总体开支26.8亿-27.8亿美元，分析师预期29.5亿美元。",
@@ -776,7 +847,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -908,7 +979,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -963,7 +1034,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         }
@@ -971,7 +1042,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "我国可再生能源发电量占比首超四成",
@@ -1005,6 +1076,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
+        },
+        {
+          "title": "内盘期货夜市多数收跌，焦煤跌超2.3%，焦炭跌超1.8%",
+          "url": "https://wallstreetcn.com/livenews/3142548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "钢铁侠、蜘蛛侠、蝙蝠侠，是不是就是「美漫三巨头」？",
