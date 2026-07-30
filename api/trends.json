@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T19:08:25.325340+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-07-30T21:59:42.131267+08:00",
+  "total_titles_processed": 1423,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
         {
           "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时21分 ~ 19时08分]"
+          "appearance_count": 6,
+          "time_info": "[10时21分 ~ 21时59分]"
         },
         {
           "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时21分 ~ 19时08分]"
+          "appearance_count": 6,
+          "time_info": "[10时21分 ~ 21时59分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -89,6 +89,19 @@
           "time_info": "[00时21分 ~ 16时25分]"
         },
         {
+          "title": "硅谷烧书训AI,焚书坑儒2.0",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356640&amp;topic_name=%E7%A1%85%E8%B0%B7%E7%83%A7%E4%B9%A6%E8%AE%ADAI%2C%E7%84%9A%E4%B9%A6%E5%9D%91%E5%84%922.0",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 21时59分]"
+        },
+        {
           "title": "美方限制进口“先进机器人设备”，外交部回应",
           "url": "https://www.cls.cn/detail/2440070",
           "source": "财联社热门",
@@ -99,18 +112,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 04时13分]"
-        },
-        {
-          "title": "硅谷烧书训AI,焚书坑儒2.0",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356640&amp;topic_name=%E7%A1%85%E8%B0%B7%E7%83%A7%E4%B9%A6%E8%AE%ADAI%2C%E7%84%9A%E4%B9%A6%E5%9D%91%E5%84%922.0",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 19时08分]"
         },
         {
           "title": "日本技术人员拆解宇树机器人后称「赶不上中国」，从螺丝到整机，中国机器人供应链优势体现在哪些环节？",
@@ -133,7 +134,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -225,6 +226,17 @@
           "time_info": "[00时21分 ~ 07时07分]"
         },
         {
+          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778263",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 21时59分]"
+        },
+        {
           "title": "Margin Call响起！AI暴跌导致对冲基金“史诗级”亏损，高盛、摩根大通率先追保",
           "url": "https://wallstreetcn.com/articles/3778220",
           "source": "华尔街见闻",
@@ -260,6 +272,18 @@
           "time_info": "[00时21分 ~ 07时07分]"
         },
         {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 21时59分]"
+        },
+        {
           "title": "字节跳动重构ToB版图：飞书与豆包将整合 大厂激战“AI工作入口”",
           "url": "https://www.cls.cn/detail/2441092",
           "source": "财联社热门",
@@ -283,17 +307,6 @@
           "time_info": "[00时21分 ~ 00时22分]"
         },
         {
-          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778263",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 19时08分]"
-        },
-        {
           "title": "美方限制进口“先进机器人设备”，外交部：保护主义提升不了美国竞争力",
           "url": "https://m.thepaper.cn/newsDetail_forward_33681759",
           "source": "澎湃新闻",
@@ -303,6 +316,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时41分 ~ 13时42分]"
+        },
+        {
+          "title": "微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道",
+          "url": "https://wallstreetcn.com/articles/3778268",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 21时59分]"
         },
         {
           "title": "扎克伯格反对封禁中国AI：美国应解决自身问题 而非封禁竞争对手",
@@ -350,26 +374,37 @@
           "time_info": "10时21分"
         },
         {
-          "title": "微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道",
-          "url": "https://wallstreetcn.com/articles/3778268",
-          "source": "华尔街见闻",
+          "title": "报道：明星AI投资人Aschenbrenner在遭遇大幅亏损后平仓了结交易",
+          "url": "https://wallstreetcn.com/livenews/3142507",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时08分"
+          "time_info": "21时59分"
         },
         {
-          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
-          "url": "https://www.cls.cn/detail/2441076",
-          "source": "财联社热门",
+          "title": "AI能不能别发展了",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%83%BD%E4%B8%8D%E8%83%BD%E5%88%AB%E5%8F%91%E5%B1%95%E4%BA%86&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时08分"
+          "time_info": "21时59分"
+        },
+        {
+          "title": "台积电研发AI芯片封装技术。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3142497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "伊拉克真主党旅（Kataib Hezbollah）：将把沙特阿拉伯境内美国的“工具”（代理人/相关设施）作为打击目标。 对美国和沙特阿拉伯的联合袭击作出反击是不可避免的。 向伊拉克政府下最后通牒，要求在8月6日之前证明其能够捍卫伊拉克的主权。",
@@ -405,13 +440,24 @@
           "time_info": "07时07分"
         },
         {
+          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
+          "url": "https://www.zhihu.com/question/2065810199877611641",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "苹果市值首破 5 万亿美元，超越英伟达重夺全球第一，反映市场对 AI 投资逻辑的哪些转变？",
           "url": "https://www.zhihu.com/question/2065739036937773921",
           "source": "知乎",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -466,7 +512,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -485,7 +531,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 32,
+      "match_count": 39,
       "titles": [
         {
           "title": "“十五五”开局我国经济运行稳中向好",
@@ -507,8 +553,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 19时08分]"
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 21时59分]"
+        },
+        {
+          "title": "中共中央政治局召开会议，决定召开二十届五中全会，分析研究当前经济形势和经济工作，中共中央总书记习近平主持会议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33684854",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "西班牙对外银行（BBVA）第二季度净利润30.6亿欧元，同比增长11%，市场预估29.5亿欧元。 第二季度净利息收入76.3亿欧元，同比增长23%，市场预估75亿欧元。 第二季度总收入105.1亿欧元，同比增长21%，市场预估103.8亿欧元。 第二季度营业利润65.6亿欧元，同比增长20%，市场预估64.6亿欧元。 第二季度调整后每股收益0.54欧元，上年同期0.46欧元，市场预估0.51欧元。 西班牙对外银行将启动最高20亿欧元的股票回购计划。",
@@ -531,6 +588,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "中共中央政治局召开会议 决定召开二十届五中全会 分析研究当前经济形势和经济工作 中共中央总书记习近平主持会议",
+          "url": "https://www.cls.cn/detail/2441246",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 21时59分]"
         },
         {
           "title": "微软：Azure收入突破1000亿美元，对Anthropic的投资带来超30亿美元季度收入",
@@ -561,21 +630,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
         {
-          "title": "中共中央政治局召开会议 决定召开二十届五中全会 分析研究当前经济形势和经济工作 中共中央总书记习近平主持会议",
-          "url": "https://www.cls.cn/detail/2441246",
-          "source": "财联社热门",
+          "title": "中共中央政治局召开会议，决定召开二十届五中全会，分析研究当前经济形势和经济工作，中共中央总书记习近平主持会议",
+          "url": "https://wallstreetcn.com/articles/3778301",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
+            8,
+            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 19时08分]"
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 21时59分]"
         },
         {
           "title": "亚美尼亚总理：俄方这么干，已经预示了欧亚经济联盟的终结",
@@ -587,18 +657,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时21分 ~ 13时42分]"
-        },
-        {
-          "title": "中共中央政治局召开会议，决定召开二十届五中全会，分析研究当前经济形势和经济工作，中共中央总书记习近平主持会议",
-          "url": "https://wallstreetcn.com/articles/3778301",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 19时08分]"
         },
         {
           "title": "第一次看到母亲的收入",
@@ -619,7 +677,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -635,6 +693,17 @@
           "time_info": "07时07分"
         },
         {
+          "title": "沙特二季度的石油收入为1851亿里亚尔。",
+          "url": "https://flash.jin10.com/detail/20260730214710393800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "日本财务大臣片山皋月：与市场做好沟通比以往任何时候都更加重要。 需要追求强劲的经济增长和财政可持续性。",
           "url": "https://wallstreetcn.com/livenews/3142059",
           "source": "华尔街见闻-快讯",
@@ -644,6 +713,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
+        },
+        {
+          "title": "白宫国家经济委员会主任哈塞特：（被问及是否仍对沃什有信心时）当然。 有了今天的通胀数据，沃什的工作就更轻松了。 沃什会按照数据采取应有的行动。 市场或许还需要几份像今天这样的报告。 （当被问及沃什是鹰派还是鸽派时）他是个现实主义者。 非常看好美联储政策朝着正确的方向发展。",
+          "url": "https://wallstreetcn.com/livenews/3142502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "微软(MSFT.O)：Azure收入首次超过1000亿美元。",
@@ -668,6 +748,17 @@
           "time_info": "07时07分"
         },
         {
+          "title": "政治局会议释放哪些重要经济信号",
+          "url": "https://www.toutiao.com/trending/7668295382706687507/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "“网红券商”Robinhood二季度净营收13.1亿美元，分析师预期12.8亿美元。 二季度调整后EBITDA为7.41亿美元，分析师预期6.289亿美元。 二季度加密货币收入1亿美元，分析师预期0.866亿美元。 二季度ARPU为187美元，分析师预期186.09美元。 二季度期权营收3.42亿美元，分析师预期3.384亿美元。 预计全年总体开支26.8亿-27.8亿美元，分析师预期29.5亿美元。",
           "url": "https://wallstreetcn.com/livenews/3141943",
           "source": "华尔街见闻-快讯",
@@ -679,13 +770,24 @@
           "time_info": "07时07分"
         },
         {
+          "title": "百胜中国二季度总收入同比增长13%，净新增门店560家",
+          "url": "https://flash.jin10.com/detail/20260730214458161800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "足球与经济产业的底层关联",
           "url": "https://search.bilibili.com/all?keyword=%E8%B6%B3%E7%90%83%E4%B8%8E%E7%BB%8F%E6%B5%8E%E4%BA%A7%E4%B8%9A%E7%9A%84%E5%BA%95%E5%B1%82%E5%85%B3%E8%81%94",
           "source": "bilibili 热搜",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -729,7 +831,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -800,6 +902,17 @@
           "time_info": "07时07分"
         },
         {
+          "title": "中国首席经济学家论坛成员庞溟：宏观政策工具将加速落地",
+          "url": "https://wallstreetcn.com/livenews/3142491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "微软(MSFT.O)首席财务官：自2027财年开始，我们将数据中心和办公楼的预计使用寿命从15年延长至25年。资产使用寿命的变化仅影响未来折旧的时间，预计对2027财年营业收入的影响微乎其微。",
           "url": "https://flash.jin10.com/detail/20260730060243962800",
           "source": "金十数据",
@@ -817,7 +930,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -842,6 +955,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "Arm(ARM.O)涨约12%，公司预测第二季度收入和调整后利润均超出预期。",
+          "url": "https://flash.jin10.com/detail/20260730213507137800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         }
       ]
     },
