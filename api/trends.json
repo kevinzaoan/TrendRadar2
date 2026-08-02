@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T05:56:22.546165+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-08-03T06:57:02.708213+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时57分]"
         },
         {
           "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时57分]"
         },
         {
           "title": "这届AI进化到开始玩心眼了",
@@ -35,11 +35,12 @@
           "source": "抖音",
           "ranks": [
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时57分]"
         },
         {
           "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
@@ -49,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时57分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -61,8 +62,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时57分]"
         },
         {
           "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
@@ -73,8 +74,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时57分]"
         },
         {
           "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
@@ -86,8 +87,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时57分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -98,8 +99,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时57分]"
         },
         {
           "title": "略惊悚!美企开发半人马机器人",
@@ -110,8 +111,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时57分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
@@ -119,11 +120,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时55分 ~ 05时56分]"
+          "appearance_count": 4,
+          "time_info": "[04时55分 ~ 06时57分]"
         },
         {
           "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
@@ -141,7 +143,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "多重优势支撑中国经济向新向优",
@@ -151,8 +153,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时57分]"
+        },
+        {
+          "title": "美国总统特朗普：（关于日元）美国介入是因为与日本关系良好，我们始终支持日本，美国从相关安排中获得了经济利益。",
+          "url": "https://flash.jin10.com/detail/20260803054401910800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         },
         {
           "title": "网红透露非顶流一线明星拍戏收入",
@@ -161,7 +174,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         }
@@ -179,8 +192,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时57分]"
         }
       ]
     }
