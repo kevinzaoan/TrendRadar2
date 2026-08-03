@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T07:59:35.310205+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2026-08-03T11:34:52.278992+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "怎么看待AI大回调，大摩120页研报深度解读",
@@ -26,31 +26,34 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时59分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 11时34分]"
         },
         {
           "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
           "url": "https://wallstreetcn.com/articles/3778516",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时59分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 11时34分]"
         },
         {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
+          "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696805",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            12
+            20,
+            19,
+            18,
+            2
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时59分]"
+          "time_info": "[00时01分 ~ 11时34分]"
         },
         {
           "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
@@ -59,11 +62,12 @@
           "ranks": [
             10,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时59分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 11时34分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -71,7 +75,20 @@
           "source": "贴吧",
           "ranks": [
             18,
-            19
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 11时34分]"
+        },
+        {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -103,17 +120,15 @@
           "time_info": "[00时01分 ~ 06时57分]"
         },
         {
-          "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696805",
-          "source": "澎湃新闻",
+          "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
+          "url": "https://www.zhihu.com/question/2066921241156523798",
+          "source": "知乎",
           "ranks": [
-            20,
-            19,
-            18
+            5
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
@@ -142,15 +157,37 @@
           "time_info": "[00时02分 ~ 01时11分]"
         },
         {
+          "title": "京东外卖推出AI头盔 内置单王路线",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%AC%E4%B8%9C%E5%A4%96%E5%8D%96%E6%8E%A8%E5%87%BAAI%E5%A4%B4%E7%9B%94+%E5%86%85%E7%BD%AE%E5%8D%95%E7%8E%8B%E8%B7%AF%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "如何看待米哈游创始人蔡浩宇卸任「AI 灵魂大法师」？",
           "url": "https://www.zhihu.com/question/2066215968578204075",
           "source": "知乎",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "涉及中国AI，两家英媒同日发文",
+          "url": "https://news.ifeng.com/c/8vHVJUrYdxh",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "QFII二季度调仓呈现“头部化”特征，外资机构纷纷看好中国AI产业链",
@@ -159,7 +196,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -170,9 +207,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "AI取代的不是演员",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%8F%96%E4%BB%A3%E7%9A%84%E4%B8%8D%E6%98%AF%E6%BC%94%E5%91%98%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         }
       ]
     },
@@ -217,7 +265,7 @@
     },
     {
       "keyword_group": "焦炭 热回收 钢铁 发电 锅炉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
@@ -229,6 +277,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时01分 ~ 07时59分]"
+        },
+        {
+          "title": "A股钢铁板块走高，沙钢股份涨停，大中矿业、广大特材、河钢股份、久立特材、鞍钢股份、武进不锈等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260803104122590800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         }
       ]
     }
