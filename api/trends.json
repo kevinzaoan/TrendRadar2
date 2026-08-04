@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T19:18:42.216894+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2026-08-04T21:02:42.888290+08:00",
+  "total_titles_processed": 1371,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
@@ -28,11 +28,12 @@
             9,
             13,
             17,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时09分 ~ 19时18分]"
+          "appearance_count": 11,
+          "time_info": "[01时09分 ~ 21时02分]"
         },
         {
           "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
@@ -78,6 +79,32 @@
           "time_info": "[01时09分 ~ 12时13分]"
         },
         {
+          "title": "三巨头蓄力AI存储新赛道：首套HBF标准规范发布 产业联盟初步成型",
+          "url": "https://www.cls.cn/detail/2444881",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 21时02分]"
+        },
+        {
+          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
+          "url": "https://www.zhihu.com/question/2066578072997049748",
+          "source": "知乎",
+          "ranks": [
+            6,
+            3,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 21时02分]"
+        },
+        {
           "title": "全球首款可DIY个人机器人亮相",
           "url": "https://www.douyin.com/hot/2595733",
           "source": "抖音",
@@ -89,31 +116,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时09分 ~ 08时14分]"
-        },
-        {
-          "title": "三巨头蓄力AI存储新赛道：首套HBF标准规范发布 产业联盟初步成型",
-          "url": "https://www.cls.cn/detail/2444881",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 19时18分]"
-        },
-        {
-          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
-          "url": "https://www.zhihu.com/question/2066578072997049748",
-          "source": "知乎",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 19时18分]"
         },
         {
           "title": "北美“四朵云”联袂上涨！AI行情从“卖铲人”切换到“用铲人” 有哪些逻辑支撑？",
@@ -134,7 +136,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -168,7 +170,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -220,6 +222,17 @@
           "time_info": "[07时00分 ~ 15时40分]"
         },
         {
+          "title": "UP主用AI证伪经典数学猜想",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E8%AF%81%E4%BC%AA%E7%BB%8F%E5%85%B8%E6%95%B0%E5%AD%A6%E7%8C%9C%E6%83%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "英国数据监管机构ICO：（就OpenAI和Anthropic）我们已注意到近期影响该行业的黑客事件，并正在密切监控事态发展。",
           "url": "https://flash.jin10.com/detail/20260804003347868800",
           "source": "金十数据",
@@ -237,7 +250,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -259,11 +272,36 @@
           "source": "贴吧",
           "ranks": [
             4,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 21时02分]"
+        },
+        {
+          "title": "电脑手机小电驴全线涨价，「打工人三件套」同步抬价，如何看待普通人被迫缴纳 AI 税？",
+          "url": "https://www.zhihu.com/question/2067576901791638083",
+          "source": "知乎",
+          "ranks": [
+            15,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 21时02分]"
+        },
+        {
+          "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
+          "url": "https://wallstreetcn.com/articles/3778632",
+          "source": "华尔街见闻",
+          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时40分 ~ 19时18分]"
+          "time_info": "[19时18分 ~ 21时02分]"
         },
         {
           "title": "核能初创公司Valar首席执行官Isaiah Taylor：人工智能正在飞速发展。我们在各个方面都需要大量电力。对我们来说，这关乎规模化。这正是我们去建设所需的火力。 预计8月初这笔融资我们希望证明我们的生产节奏。我们希望将建造一座反应堆的周期从一年缩短到六个月，再到一个月一次，甚至更快。（彭博电视）",
@@ -290,16 +328,15 @@
           "time_info": "[08时14分 ~ 12时13分]"
         },
         {
-          "title": "电脑手机小电驴全线涨价，「打工人三件套」同步抬价，如何看待普通人被迫缴纳 AI 税？",
-          "url": "https://www.zhihu.com/question/2067576901791638083",
-          "source": "知乎",
+          "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
+          "url": "https://www.cls.cn/detail/2445244",
+          "source": "财联社热门",
           "ranks": [
-            15,
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时40分 ~ 19时18分]"
+          "time_info": "[19时18分 ~ 21时02分]"
         },
         {
           "title": "声明显示：美国众议院网络安全小组要求OpenAI首席执行官奥尔特曼就Hugging Face入侵事件进行情况通报。",
@@ -324,28 +361,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时40分 ~ 19时18分]"
-        },
-        {
-          "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
-          "url": "https://wallstreetcn.com/articles/3778632",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
-          "url": "https://www.cls.cn/detail/2445244",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
         },
         {
           "title": "用AI造谣抹黑小米 两人被处罚",
@@ -392,6 +407,17 @@
           "time_info": "03时30分"
         },
         {
+          "title": "AI云计算公司Corvex盘前一度大涨约100%，公司宣布已签署一项多年期协议，将向一家领先的人工智能公司提供搭载英伟达Blackwell GPU及英伟达Quantum-2 InfiniBand网络的集群。",
+          "url": "https://wallstreetcn.com/livenews/3144751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "OpenAI：我们下一代主要模型的一个内部版本，在数学和理论计算机科学领域长期未解决的开放问题上取得了10项新成果，所使用的计算成本约为按照GPT-5.6 Sol API费率计算的2000美元token费用。",
           "url": "https://flash.jin10.com/detail/20260804025545573800",
           "source": "金十数据",
@@ -409,7 +435,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -456,6 +482,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
+        },
+        {
+          "title": "美国财长贝森特：观察到利率已经上升，而AI投资热潮并未减弱。",
+          "url": "https://wallstreetcn.com/livenews/3144738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "AI交易剧烈震荡波及对冲基金，千禧年基金上月亏损2%",
@@ -516,7 +553,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "邹市明已连续数月零收入",
@@ -532,13 +569,26 @@
           "time_info": "[03时29分 ~ 08时14分]"
         },
         {
+          "title": "Palantir大涨！美国商业收入超预期飙升149%，上调全年营收指引｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778613",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 21时02分]"
+        },
+        {
           "title": "下半年 经济工作如何推进",
           "url": "https://www.baidu.com/s?wd=%E4%B8%8B%E5%8D%8A%E5%B9%B4+%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E5%A6%82%E4%BD%95%E6%8E%A8%E8%BF%9B",
           "source": "百度热搜",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -549,7 +599,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -560,22 +610,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
         {
-          "title": "Palantir大涨！美国商业收入超预期飙升149%，上调全年营收指引｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778613",
-          "source": "华尔街见闻",
+          "title": "美国费城联储主席Paulson（2026年FOMC票委）：当前货币政策正处于复杂时期。 经济基本面强劲，但通胀水平仍过高。 政策一直处于轻微限制性水平。 7月利率决议对我来说并非艰难选择。 希望在核心通胀方面看到更多进展。 如果通胀没有进展，则可能需要重新调整政策。 前瞻性指引具有相当具体的含义。 当利率处于零水平时，前瞻性指引是合适的。 在保持开放态度下，现在无法提供利率指引。",
+          "url": "https://wallstreetcn.com/livenews/3144758",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            8,
             5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 19时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "英国新首相将如何重塑经济",
@@ -584,11 +632,12 @@
           "ranks": [
             12,
             20,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时14分 ~ 19时18分]"
+          "appearance_count": 4,
+          "time_info": "[08时14分 ~ 21时02分]"
         },
         {
           "title": "罗正、邹市明夫妇、闫学晶等明星开始哭穷，如何看待这一现象？到底是在卖惨博流量还是明星收入真在锐减？",
@@ -625,6 +674,17 @@
           "time_info": "12时13分"
         },
         {
+          "title": "邹市明被曝连续数月零收入",
+          "url": "https://www.toutiao.com/trending/7670098981807984170/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "伊朗经济部长：我们已制定至少为期两年的经济韧性计划，有关我们无法保障预算资金的说法纯属不实。",
           "url": "https://wallstreetcn.com/livenews/3144301",
           "source": "华尔街见闻-快讯",
@@ -634,6 +694,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
+        },
+        {
+          "title": "小红书：上半年来配合警方抓捕以批量造假注册文旅票务、房地产、金融等行业专业号黑灰产团队四个，嫌疑人共计14名",
+          "url": "https://wallstreetcn.com/livenews/3144739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "美国财长贝森特（被问及美联储和沃什的策略时）：把这看作是排毒。 沃什想要保留选项。 美联储肯定会平衡增长和通胀任务。 美联储必须考虑未来9个月、12个月甚至18个月的情况。 核心通胀正在放缓。 我听腻了什么K型经济理论。",
+          "url": "https://wallstreetcn.com/livenews/3144736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "力积电：整体市场环境对半导体公司仍然有利，预计今年收入和利润将表现强劲。",
