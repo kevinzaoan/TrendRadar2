@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-08-05T18:35:31.429653+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2026-08-05T20:52:23.608082+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
-        {
-          "title": "AI做题吊打日本名校状元",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356770&amp;topic_name=AI%E5%81%9A%E9%A2%98%E5%90%8A%E6%89%93%E6%97%A5%E6%9C%AC%E5%90%8D%E6%A0%A1%E7%8A%B6%E5%85%83",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            15,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时11分 ~ 18时35分]"
-        },
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3778691",
@@ -29,8 +15,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 18时35分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 20时52分]"
+        },
+        {
+          "title": "AI做题吊打日本名校状元",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356770&amp;topic_name=AI%E5%81%9A%E9%A2%98%E5%90%8A%E6%89%93%E6%97%A5%E6%9C%AC%E5%90%8D%E6%A0%A1%E7%8A%B6%E5%85%83",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            15,
+            19,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时11分 ~ 20时52分]"
         },
         {
           "title": "AI短剧市场有多火？虚拟演员商单报价超真人网红 但爆款率不足0.5%困局待解",
@@ -55,17 +56,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时11分 ~ 06时11分]"
-        },
-        {
-          "title": "AI做的动物尺度太大了",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%81%9A%E7%9A%84%E5%8A%A8%E7%89%A9%E5%B0%BA%E5%BA%A6%E5%A4%AA%E5%A4%A7%E4%BA%86%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
         },
         {
           "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
@@ -124,26 +114,51 @@
           "time_info": "[00时11分 ~ 06时11分]"
         },
         {
+          "title": "AI做的动物尺度太大了",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%81%9A%E7%9A%84%E5%8A%A8%E7%89%A9%E5%B0%BA%E5%BA%A6%E5%A4%AA%E5%A4%A7%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 20时52分]"
+        },
+        {
           "title": "SpaceX英伟达布局太空AI算力",
           "url": "https://search.bilibili.com/all?keyword=SpaceX%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%83%E5%B1%80%E5%A4%AA%E7%A9%BAAI%E7%AE%97%E5%8A%9B",
           "source": "bilibili 热搜",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        },
+        {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 20时52分]"
         },
         {
           "title": "闪迪和西部数据即将发布财报 业绩能否重新点燃AI存储牛市信心？",
           "url": "https://www.cls.cn/detail/2446218",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 20时52分]"
         },
         {
           "title": "报道：美国告知AI企业，将不对开放权重模型进行安全测试",
@@ -179,6 +194,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时11分 ~ 02时28分]"
+        },
+        {
+          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
+          "url": "https://www.cls.cn/detail/2446407",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 20时52分]"
         },
         {
           "title": "京东外卖推出 AI 头盔，能语音接单、规划路线、解析备注，对骑手安全和效率有提升吗？会成为外卖标配吗？",
@@ -238,6 +265,17 @@
           "time_info": "[12时08分 ~ 12时09分]"
         },
         {
+          "title": "DeepSeek和GPT AI牛马最佳组合",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%92%8CGPT%20AI%E7%89%9B%E9%A9%AC%E6%9C%80%E4%BD%B3%E7%BB%84%E5%90%88&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 20时52分]"
+        },
+        {
           "title": "梁文峰会不会成为中国 AI 里程碑人物？",
           "url": "https://www.zhihu.com/question/10315979917",
           "source": "知乎",
@@ -247,17 +285,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
-        },
-        {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
         },
         {
           "title": "zHBM！三星公布全新3D内存路线图，力争在AI技术领域取得领先",
@@ -293,15 +320,15 @@
           "time_info": "12时09分"
         },
         {
-          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
-          "url": "https://www.cls.cn/detail/2446407",
-          "source": "财联社热门",
+          "title": "谷歌正就一笔超过15亿美元的交易与AI编码代理初创公司Mechanize进行谈判。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3145391",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时35分"
+          "time_info": "20时52分"
         },
         {
           "title": "SpaceX(SPCX.O)：SpaceX正与英伟达(NVDA.O)合作设计Starmind AI1卫星计算载荷。每颗Starmind卫星将搭载英伟达Rubin GPU和Vera CPU，用于提供数据中心级别的太空计算能力。",
@@ -450,7 +477,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "“十五五”开局之年各省份经济半年报",
@@ -476,6 +503,18 @@
           "time_info": "[00时11分 ~ 06时11分]"
         },
         {
+          "title": "SpaceX电话会：剑指美国“第四大运营商”，或提前实现万亿收入目标，芯片锁定英伟达",
+          "url": "https://wallstreetcn.com/articles/3778694",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 20时52分]"
+        },
+        {
           "title": "邹市明被曝连续数月零收入",
           "url": "https://www.toutiao.com/trending/7670098981807984170/",
           "source": "今日头条",
@@ -499,18 +538,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
-        },
-        {
-          "title": "SpaceX电话会：剑指美国“第四大运营商”，或提前实现万亿收入目标，芯片锁定英伟达",
-          "url": "https://wallstreetcn.com/articles/3778694",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 18时35分]"
         },
         {
           "title": "英国新首相将如何重塑经济",
@@ -544,9 +571,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        },
+        {
+          "title": "美国明尼阿波利斯联储主席卡什卡利：我的目标不是放缓经济，而是降低通胀。 近期通胀主要来自供给冲击，叠加了部分需求因素。 并不主张大幅加息。 最终委员会必须就合适的沟通策略做出决定。 不认为存在一个固定的会议次数。 持开放态度，没有绝对的个人意见。",
+          "url": "https://wallstreetcn.com/livenews/3145386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "马斯克：SpaceX可能会提前实现“1万亿美元收入”目标",
@@ -610,7 +648,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         }
@@ -627,7 +665,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
