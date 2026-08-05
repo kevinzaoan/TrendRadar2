@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-05T20:52:23.608082+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-08-05T23:13:30.340720+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3778691",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时08分 ~ 20时52分]"
+          "appearance_count": 7,
+          "time_info": "[12时08分 ~ 23时13分]"
         },
         {
           "title": "AI做题吊打日本名校状元",
@@ -30,8 +31,21 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时11分 ~ 20时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时11分 ~ 23时13分]"
+        },
+        {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时35分 ~ 23时13分]"
         },
         {
           "title": "AI短剧市场有多火？虚拟演员商单报价超真人网红 但爆款率不足0.5%困局待解",
@@ -43,6 +57,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时08分 ~ 15时39分]"
+        },
+        {
+          "title": "闪迪和西部数据即将发布财报 业绩能否重新点燃AI存储牛市信心？",
+          "url": "https://www.cls.cn/detail/2446218",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时35分 ~ 23时13分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
@@ -114,16 +140,28 @@
           "time_info": "[00时11分 ~ 06时11分]"
         },
         {
+          "title": "部分美国AI模型在测试中被发现持续实施有害行为",
+          "url": "https://wallstreetcn.com/livenews/3145471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "AI做的动物尺度太大了",
           "url": "https://s.weibo.com/weibo?q=%23AI%E5%81%9A%E7%9A%84%E5%8A%A8%E7%89%A9%E5%B0%BA%E5%BA%A6%E5%A4%AA%E5%A4%A7%E4%BA%86%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
             1,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 20时52分]"
+          "appearance_count": 4,
+          "time_info": "[18时35分 ~ 23时13分]"
         },
         {
           "title": "SpaceX英伟达布局太空AI算力",
@@ -137,28 +175,15 @@
           "time_info": "18时35分"
         },
         {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
+          "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
+          "url": "https://wallstreetcn.com/articles/3778704",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
             4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 20时52分]"
-        },
-        {
-          "title": "闪迪和西部数据即将发布财报 业绩能否重新点燃AI存储牛市信心？",
-          "url": "https://www.cls.cn/detail/2446218",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 20时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "报道：美国告知AI企业，将不对开放权重模型进行安全测试",
@@ -170,6 +195,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
+          "url": "https://www.cls.cn/detail/2446407",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时35分 ~ 23时13分]"
         },
         {
           "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
@@ -194,18 +232,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时11分 ~ 02时28分]"
-        },
-        {
-          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
-          "url": "https://www.cls.cn/detail/2446407",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 20时52分]"
         },
         {
           "title": "京东外卖推出 AI 头盔，能语音接单、规划路线、解析备注，对骑手安全和效率有提升吗？会成为外卖标配吗？",
@@ -287,6 +313,17 @@
           "time_info": "15时39分"
         },
         {
+          "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
+          "url": "https://www.zhihu.com/question/2068265537105302957",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "zHBM！三星公布全新3D内存路线图，力争在AI技术领域取得领先",
           "url": "https://wallstreetcn.com/livenews/3144926",
           "source": "华尔街见闻-快讯",
@@ -326,7 +363,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -419,6 +456,17 @@
           "time_info": "06时11分"
         },
         {
+          "title": "华夏出版社标注「书籍内容禁用于 AI 训练」，这种标注实际约束力有多大？能作为维权依据吗？",
+          "url": "https://www.zhihu.com/question/2068056227817284742",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "据AXIOS：白宫将开源模型排除在先进AI能力测试框架之外。",
           "url": "https://flash.jin10.com/detail/20260805051558907800",
           "source": "金十数据",
@@ -477,8 +525,20 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "SpaceX电话会：剑指美国“第四大运营商”，或提前实现万亿收入目标，芯片锁定英伟达",
+          "url": "https://wallstreetcn.com/articles/3778694",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时08分 ~ 23时13分]"
+        },
         {
           "title": "“十五五”开局之年各省份经济半年报",
           "url": "https://www.toutiao.com/trending/7670363646614146606/",
@@ -503,16 +563,15 @@
           "time_info": "[00时11分 ~ 06时11分]"
         },
         {
-          "title": "SpaceX电话会：剑指美国“第四大运营商”，或提前实现万亿收入目标，芯片锁定英伟达",
-          "url": "https://wallstreetcn.com/articles/3778694",
-          "source": "华尔街见闻",
+          "title": "美联储卡什卡利：是时候开始缓慢地上调政策利率了。 我的目标是不要造成经济放缓，实现2%的通胀率。 美联储主席沃什曾告诉我，要我做我认为对经济有益的事。",
+          "url": "https://wallstreetcn.com/livenews/3145472",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时08分 ~ 20时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "邹市明被曝连续数月零收入",
@@ -527,6 +586,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时11分 ~ 06时11分]"
+        },
+        {
+          "title": "凉资源激活夏日经济热流量",
+          "url": "https://www.douyin.com/hot/2598952",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "美国总统特朗普：我在经济方面应该得个A+，食品和杂货的“价格都在下降。”",
@@ -582,7 +652,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
