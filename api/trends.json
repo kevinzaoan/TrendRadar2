@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T15:54:37.280224+08:00",
-  "total_titles_processed": 941,
+  "generated_at": "2026-08-09T16:41:45.992854+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 15时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 16时41分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -85,8 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 15时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 16时41分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -101,8 +101,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 15时54分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 16时41分]"
         },
         {
           "title": "当AI反过来问你问题",
@@ -125,11 +125,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 15时54分]"
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 16时41分]"
         },
         {
           "title": "首个全国产10万卡AI超集群投用",
@@ -138,9 +139,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时41分]"
         },
         {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
@@ -163,8 +164,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时04分 ~ 15时54分]"
+          "appearance_count": 4,
+          "time_info": "[13时04分 ~ 16时41分]"
         },
         {
           "title": "大爷听AI洒农药 150亩苗一夜枯萎",
@@ -264,7 +265,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -331,9 +332,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时41分]"
         },
         {
           "title": "经济学家普遍预期美国通胀年率将略有放缓",
@@ -353,11 +354,12 @@
           "url": "https://www.douyin.com/hot/2602832",
           "source": "抖音",
           "ranks": [
-            23
+            23,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时55分"
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 16时41分]"
         }
       ]
     },
@@ -374,11 +376,12 @@
             7,
             10,
             11,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时40分 ~ 15时54分]"
+          "appearance_count": 6,
+          "time_info": "[09时40分 ~ 16时41分]"
         },
         {
           "title": "日本大饭核电站3号机组因发电机异常停止运行",
