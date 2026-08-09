@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T18:34:12.642741+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2026-08-09T19:28:32.686468+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时42分 ~ 18时34分]"
+          "appearance_count": 10,
+          "time_info": "[11时42分 ~ 19时28分]"
         },
         {
           "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时32分 ~ 07时28分]"
+        },
+        {
+          "title": "首个全国产10万卡AI超集群投用",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E4%BA%A710%E4%B8%87%E5%8D%A1AI%E8%B6%85%E9%9B%86%E7%BE%A4%E6%8A%95%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时54分 ~ 19时28分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -83,22 +94,12 @@
             11,
             12,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 18时34分]"
-        },
-        {
-          "title": "首个全国产10万卡AI超集群投用",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E4%BA%A710%E4%B8%87%E5%8D%A1AI%E8%B6%85%E9%9B%86%E7%BE%A4%E6%8A%95%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时54分 ~ 18时34分]"
+          "appearance_count": 22,
+          "time_info": "[00时32分 ~ 19时28分]"
         },
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -111,8 +112,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 18时34分]"
+          "appearance_count": 22,
+          "time_info": "[00时32分 ~ 19时28分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -157,6 +158,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时04分 ~ 17时39分]"
+        },
+        {
+          "title": "原字节跳动机器人一号位加入小米，负责基座模型研发",
+          "url": "https://wallstreetcn.com/livenews/3147076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
@@ -319,8 +331,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时54分 ~ 18时34分]"
+          "appearance_count": 7,
+          "time_info": "[15时54分 ~ 19时28分]"
         },
         {
           "title": "国际货币基金组织(IMF)驻华首席代表马歇尔·米尔斯谈及地方行动，对天津的探索表示赞赏。 他分享道，其父20世纪90年代曾在天津参与一家合资企业的运营，助力当地工业化，如今很高兴看到天津正拥抱更加多元化的经济新篇章。 米尔斯说，天津的转变正是中国经济加速再平衡的缩影。（中新网）",
@@ -346,11 +358,12 @@
           "ranks": [
             23,
             10,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时55分 ~ 18时34分]"
+          "appearance_count": 7,
+          "time_info": "[14时55分 ~ 19时28分]"
         },
         {
           "title": "经济学家普遍预期美国通胀年率将略有放缓",
@@ -383,11 +396,12 @@
             15,
             16,
             17,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时40分 ~ 18时34分]"
+          "appearance_count": 9,
+          "time_info": "[09时40分 ~ 19时28分]"
         },
         {
           "title": "日本大饭核电站3号机组因发电机异常停止运行",
