@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T14:55:25.293741+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-08-09T15:54:37.280224+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -51,11 +51,12 @@
             4,
             5,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 14时55分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 15时54分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -84,8 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 14时55分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 15时54分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -100,8 +101,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 14时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时32分 ~ 15时54分]"
         },
         {
           "title": "当AI反过来问你问题",
@@ -127,8 +128,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 14时55分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 15时54分]"
+        },
+        {
+          "title": "首个全国产10万卡AI超集群投用",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E4%BA%A710%E4%B8%87%E5%8D%A1AI%E8%B6%85%E9%9B%86%E7%BE%A4%E6%8A%95%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
@@ -141,6 +153,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时29分 ~ 07时28分]"
+        },
+        {
+          "title": "AI推理前瞻——从基础设施建设到商业化变现",
+          "url": "https://wallstreetcn.com/articles/3778997",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 15时54分]"
         },
         {
           "title": "大爷听AI洒农药 150亩苗一夜枯萎",
@@ -177,18 +201,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时40分 ~ 11时42分]"
-        },
-        {
-          "title": "AI推理前瞻——从基础设施建设到商业化变现",
-          "url": "https://wallstreetcn.com/articles/3778997",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 14时55分]"
         },
         {
           "title": "Agentic AI新趋势：亚马逊AWS出现“CPU短缺”",
@@ -246,6 +258,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "OpenAI重置Codex付费用户用量限制",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%87%8D%E7%BD%AECodex%E4%BB%98%E8%B4%B9%E7%94%A8%E6%88%B7%E7%94%A8%E9%87%8F%E9%99%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
           "title": "苹果AI 千问",
           "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -282,7 +305,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国际货币基金组织(IMF)驻华首席代表马歇尔·米尔斯谈及地方行动，对天津的探索表示赞赏。 他分享道，其父20世纪90年代曾在天津参与一家合资企业的运营，助力当地工业化，如今很高兴看到天津正拥抱更加多元化的经济新篇章。 米尔斯说，天津的转变正是中国经济加速再平衡的缩影。（中新网）",
@@ -302,16 +325,28 @@
           "time_info": "[00时32分 ~ 14时55分]"
         },
         {
+          "title": "一组数据读懂中国经济底气",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BA%95%E6%B0%94%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
           "title": "经济学家普遍预期美国通胀年率将略有放缓",
           "url": "https://flash.jin10.com/detail/20260809123549225800",
           "source": "金十数据",
           "ranks": [
             4,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 14时55分]"
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 15时54分]"
         },
         {
           "title": "伦纳德被曝隐匿收入超5000万美元",
@@ -320,7 +355,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         }
@@ -338,11 +373,12 @@
             1,
             7,
             10,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时40分 ~ 14时55分]"
+          "appearance_count": 5,
+          "time_info": "[09时40分 ~ 15时54分]"
         },
         {
           "title": "日本大饭核电站3号机组因发电机异常停止运行",
