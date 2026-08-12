@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T18:03:39.447192+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-08-12T19:45:47.356711+08:00",
+  "total_titles_processed": 1424,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 54,
+      "match_count": 59,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时40分 ~ 18时03分]"
+          "appearance_count": 11,
+          "time_info": "[06时40分 ~ 19时45分]"
         },
         {
           "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
@@ -89,18 +90,6 @@
           "time_info": "[00时02分 ~ 14时14分]"
         },
         {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 18时03分]"
-        },
-        {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
           "url": "https://wallstreetcn.com/articles/3779130",
           "source": "华尔街见闻",
@@ -126,6 +115,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时02分 ~ 09时52分]"
+        },
+        {
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 19时45分]"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
@@ -156,6 +158,19 @@
           "time_info": "[00时02分 ~ 18时03分]"
         },
         {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时13分 ~ 19时45分]"
+        },
+        {
           "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
           "url": "https://www.cls.cn/detail/2451840",
           "source": "财联社热门",
@@ -167,18 +182,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时51分 ~ 14时14分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时13分 ~ 18时03分]"
         },
         {
           "title": "城市竞争进入AI答案时代",
@@ -238,6 +241,17 @@
           "time_info": "[00时02分 ~ 07时40分]"
         },
         {
+          "title": "新兴市场股市走强 AI热潮提振风险偏好",
+          "url": "https://flash.jin10.com/detail/20260812193734434800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "SpaceXAI：Grok聊天机器人已处于测试阶段，今日起向订阅SuperGrok Heavy、Cursor Ultra与Cursor Teams Premium套餐的桌面端及iOS用户开放使用。",
           "url": "https://wallstreetcn.com/livenews/3148181",
           "source": "华尔街见闻-快讯",
@@ -281,6 +295,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时08分 ~ 14时14分]"
+        },
+        {
+          "title": "中国人形机器人一骑绝尘",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%80%E9%AA%91%E7%BB%9D%E5%B0%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "OpenAI向亚马逊Redrock开放Daybreak权限。",
@@ -364,6 +389,17 @@
           "time_info": "[09时51分 ~ 09时52分]"
         },
         {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.toutiao.com/trending/7672213418782588964/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 19时45分]"
+        },
+        {
           "title": "Accel Partners LP.融资35亿美元，从而投资（那些）新兴的全球AI初创公司。",
           "url": "https://wallstreetcn.com/livenews/3148254",
           "source": "华尔街见闻-快讯",
@@ -374,6 +410,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时40分]"
+        },
+        {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.douyin.com/hot/2607024",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 19时45分]"
         },
         {
           "title": "怎么看 Claude 将在新的 Claude 模型的生成文本里加入隐形水印？",
@@ -448,7 +495,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -475,17 +522,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "AI科创润童心 网络安全伴成长",
-          "url": "https://www.toutiao.com/trending/7672213418782588964/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
           "title": "OpenAI高管Brad Lightcap将离职，开启“新项目”",
           "url": "https://wallstreetcn.com/livenews/3148170",
           "source": "华尔街见闻-快讯",
@@ -508,17 +544,6 @@
           "time_info": "07时40分"
         },
         {
-          "title": "AI科创润童心 网络安全伴成长",
-          "url": "https://www.douyin.com/hot/2607024",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
           "title": "据The Information：OpenAI特别项目负责人、前首席运营官Brad Lightcap即将离职。",
           "url": "https://flash.jin10.com/detail/20260812003202953800",
           "source": "金十数据",
@@ -539,6 +564,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "目前的 AI 技术是否具备证明著名数学猜想的能力？",
+          "url": "https://www.zhihu.com/question/2019858282664186054",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "对话复旦大学李银胜：AI会带来“文化人”的黄金时代",
@@ -591,9 +627,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
+        },
+        {
+          "title": "AI算力正被包装成一种可融资资产",
+          "url": "https://flash.jin10.com/detail/20260812190728409800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "A股AI应用方向早盘走高，省广集团、风语筑双双涨停，天龙集团涨超10%，引力传媒、福石控股、佳云科技等跟涨。",
@@ -616,6 +663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "【但斌美股持仓“大换血”】具体操作上，东方港湾海外基金清仓了苹果、三倍做多纳斯达克100ETF、特斯拉、CIRCLE INTERNET GROUP INC等6只标的。同时，其新买入英特尔、闪迪、超威半导体、迈威尔科技、Arm Holdings plc ADR、博通、Lumentum等7只标的，上述标的均为AI硬件相关公司。从整体的持仓情况来看，东方港湾美股第一大重仓股仍为谷歌-C，持仓占其组合的比重约为23%，相比一季度有所减仓。同时，东方港湾还清仓了谷歌-A及二倍做多谷歌ETF。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3148567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "机构：AI需求激增 2026年半导体市场增幅上调至94.1%",
@@ -643,7 +701,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "激活中国经济增长潜力",
@@ -685,9 +743,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 19时45分]"
         },
         {
           "title": "活力数据感知经济发展稳进好",
@@ -696,9 +754,20 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 19时45分]"
+        },
+        {
+          "title": "巨轮智能：2025年RV减速器销售收入837.03万元，占营业收入1%",
+          "url": "https://wallstreetcn.com/livenews/3148602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时03分"
+          "time_info": "19时45分"
         },
         {
           "title": "罗马尼亚国防部长：罗马尼亚在黑海专属经济区内、靠近NeptunDeep海上天然气项目附近摧毁两架“Gerbera”型无人机。",
@@ -724,6 +793,18 @@
           "time_info": "[06时41分 ~ 07时40分]"
         },
         {
+          "title": "【每日收评】双创指数均涨超1%，算力硬件股全线反弹，房地产板块异军突起",
+          "url": "https://www.cls.cn/detail/2452399",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 19时45分]"
+        },
+        {
           "title": "一图看懂｜25省78次创新高：全国用电负荷四破极值背后的“高温经济学”",
           "url": "https://www.cls.cn/detail/2451397",
           "source": "财联社热门",
@@ -746,15 +827,15 @@
           "time_info": "14时14分"
         },
         {
-          "title": "【每日收评】双创指数均涨超1%，算力硬件股全线反弹，房地产板块异军突起",
-          "url": "https://www.cls.cn/detail/2452399",
-          "source": "财联社热门",
+          "title": "中国央行：预计本轮主要经济体央行货币政策调整将相对温和",
+          "url": "https://wallstreetcn.com/livenews/3148594",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时03分"
+          "time_info": "19时45分"
         },
         {
           "title": "广西海洋经济发展“十五五”规划：建设平陆运河经济带",
@@ -785,7 +866,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -840,7 +921,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -873,7 +954,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -887,6 +968,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "浦发银行：2026年上半年，集团实现营业收入937.77亿元，同比增长3.55%；归属于母公司股东的净利润309.51亿元，同比增长4.08%。",
+          "url": "https://wallstreetcn.com/livenews/3148577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "加拿大总理卡尼：我们需要快速、大规模地建造经济适用房。这就是我们发起“建造加拿大房屋”项目的原因。",
@@ -911,6 +1003,17 @@
           "time_info": "06时41分"
         },
         {
+          "title": "巨轮智能：公司RV减速器销售收入占比较小，对公司业绩影响有限",
+          "url": "https://flash.jin10.com/detail/20260812191034589800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "港股开盘，恒指开跌0.6%，科指开跌0.8%，黄金股多股高开，腾讯音乐(01698.HK)开跌11.41%，公司第二季度总收入89.3亿元同比增长5.8%，加大回购力度至4亿美元。",
           "url": "https://flash.jin10.com/detail/20260812092126925800",
           "source": "金十数据",
@@ -928,7 +1031,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -950,7 +1053,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
