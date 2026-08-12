@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T14:14:00.275826+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-08-12T18:03:39.447192+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时40分 ~ 14时14分]"
+          "appearance_count": 10,
+          "time_info": "[06时40分 ~ 18时03分]"
         },
         {
           "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
@@ -89,6 +89,18 @@
           "time_info": "[00时02分 ~ 14时14分]"
         },
         {
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 18时03分]"
+        },
+        {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
           "url": "https://wallstreetcn.com/articles/3779130",
           "source": "华尔街见闻",
@@ -128,16 +140,20 @@
           "time_info": "[00时02分 ~ 12时08分]"
         },
         {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
-          "source": "华尔街见闻",
+          "title": "红警蜘蛛机器人走进现实",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E8%AD%A6%E8%9C%98%E8%9B%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E8%BF%9B%E7%8E%B0%E5%AE%9E",
+          "source": "bilibili 热搜",
           "ranks": [
-            5,
-            4
+            16,
+            29,
+            26,
+            15,
+            30,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 14时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 18时03分]"
         },
         {
           "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
@@ -153,20 +169,16 @@
           "time_info": "[09时51分 ~ 14时14分]"
         },
         {
-          "title": "红警蜘蛛机器人走进现实",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E8%AD%A6%E8%9C%98%E8%9B%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E8%BF%9B%E7%8E%B0%E5%AE%9E",
-          "source": "bilibili 热搜",
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
           "ranks": [
-            16,
-            29,
-            26,
-            15,
-            30,
-            22
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 14时14分]"
+          "appearance_count": 3,
+          "time_info": "[14时13分 ~ 18时03分]"
         },
         {
           "title": "城市竞争进入AI答案时代",
@@ -226,17 +238,6 @@
           "time_info": "[00时02分 ~ 07时40分]"
         },
         {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时13分 ~ 14时14分]"
-        },
-        {
           "title": "SpaceXAI：Grok聊天机器人已处于测试阶段，今日起向订阅SuperGrok Heavy、Cursor Ultra与Cursor Teams Premium套餐的桌面端及iOS用户开放使用。",
           "url": "https://wallstreetcn.com/livenews/3148181",
           "source": "华尔街见闻-快讯",
@@ -265,7 +266,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         },
@@ -441,6 +442,17 @@
           "time_info": "12时08分"
         },
         {
+          "title": "宇树人形机器人累计生产下线约1.8万台",
+          "url": "https://wallstreetcn.com/livenews/3148550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "SpaceXAI：推出Grok Bot聊天机器人。",
           "url": "https://flash.jin10.com/detail/20260812005621568800",
           "source": "金十数据",
@@ -463,6 +475,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.toutiao.com/trending/7672213418782588964/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "OpenAI高管Brad Lightcap将离职，开启“新项目”",
           "url": "https://wallstreetcn.com/livenews/3148170",
           "source": "华尔街见闻-快讯",
@@ -483,6 +506,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.douyin.com/hot/2607024",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "据The Information：OpenAI特别项目负责人、前首席运营官Brad Lightcap即将离职。",
@@ -551,6 +585,17 @@
           "time_info": "04时04分"
         },
         {
+          "title": "阿里巴巴前AI架构师创办新公司 获腾讯和红杉投资",
+          "url": "https://wallstreetcn.com/livenews/3148525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "A股AI应用方向早盘走高，省广集团、风语筑双双涨停，天龙集团涨超10%，引力传媒、福石控股、佳云科技等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3148357",
           "source": "华尔街见闻-快讯",
@@ -579,7 +624,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         },
@@ -590,7 +635,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         }
@@ -598,7 +643,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 23,
+      "match_count": 31,
       "titles": [
         {
           "title": "激活中国经济增长潜力",
@@ -632,6 +677,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时02分 ~ 07时40分]"
+        },
+        {
+          "title": "从消费账单看中国经济新动能",
+          "url": "https://www.toutiao.com/trending/7672657630905155627/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "活力数据感知经济发展稳进好",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B4%BB%E5%8A%9B%E6%95%B0%E6%8D%AE%E6%84%9F%E7%9F%A5%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E7%A8%B3%E8%BF%9B%E5%A5%BD%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "罗马尼亚国防部长：罗马尼亚在黑海专属经济区内、靠近NeptunDeep海上天然气项目附近摧毁两架“Gerbera”型无人机。",
@@ -674,9 +741,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
+        },
+        {
+          "title": "【每日收评】双创指数均涨超1%，算力硬件股全线反弹，房地产板块异军突起",
+          "url": "https://www.cls.cn/detail/2452399",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "广西海洋经济发展“十五五”规划：建设平陆运河经济带",
@@ -685,7 +763,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         },
@@ -699,6 +777,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "腾讯Q2财报：模型与产品双向赋能，云收入同比增长，Hy4近期发布",
+          "url": "https://wallstreetcn.com/livenews/3148543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "超微电脑(SMCI.O)CFO：2026财年公司有9家客户的收入均超过10亿美元，而2025财年只有4家。",
@@ -729,7 +818,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         },
@@ -743,6 +832,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "腾讯控股：大幅增加了算力采购，将助力把应用及模型的使用转化为收入",
+          "url": "https://wallstreetcn.com/livenews/3148537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "美联储古尔斯比：只要消费保持稳健，经济就会保持健康。",
@@ -765,6 +865,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "腾讯控股：金融科技及企业服务业二季度的收入同比增长9%至人民币603亿元",
+          "url": "https://wallstreetcn.com/livenews/3148534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "日本首相高市早苗内阁可能在9月中旬或之后改组，预计不太可能调整内阁官房长官、财务大臣和经济产业大臣等关键职位。（路透）",
@@ -811,6 +922,17 @@
           "time_info": "09时52分"
         },
         {
+          "title": "腾讯控股：第二季度本土市场游戏收入为人民币473亿元，同比增长17%，得益于多款主要游戏的增长；国际市场游戏收入为人民币186亿元，因汇率波动影响同比下降0.8%，若按固定汇率计算则同比增长4%。",
+          "url": "https://wallstreetcn.com/livenews/3148528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "CoreWeave二季度营收25.8亿美元，分析师预期25.6亿美元。 二季度净亏损6.26亿美元，分析师预期亏损7.571亿美元。 二季度调整后EBITDA为15.1亿美元，分析师预期14.3亿美元。 二季度运营亏损0.49亿美元，分析师预期亏损0.865亿美元。 二季度每股亏损1.14美元，分析师预期亏损1.41美元。 至6月30日，公司（订单销售）收入积压大约1040亿美元，不包括三季度超过250亿美元的（采购）承诺。 CoreWeave美股盘后跌3%，随后转而上涨11%。",
           "url": "https://wallstreetcn.com/livenews/3148239",
           "source": "华尔街见闻-快讯",
@@ -820,6 +942,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "腾讯控股第二季度营收2,047.9亿元人民币，预估2,028.4亿元人民币。 第二季度净利润560.2亿元人民币，预估583.6亿元人民币。 第二季度营业利润672.8亿元人民币，预估677.3亿元人民币。 第二季度社交网络收入325亿元人民币，预估329.1亿元人民币。 第二季度增值服务业务收入984.1亿元人民币。 第二季度收费增值服务付费会员数2.6亿，预估2.7亿。 第二季度营销服务收入435.7亿元人民币。 第二季度销售费用118.7亿元人民币，预估119.6亿元人民币。 第二季度微信及WECHAT的月活跃帐户 14.4亿，预估14.2亿。",
+          "url": "https://wallstreetcn.com/livenews/3148524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "哥伦比亚财政部：哥伦比亚将在地震后宣布经济紧急状态。",
