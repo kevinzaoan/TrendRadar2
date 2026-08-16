@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-08-16T14:38:18.614131+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2026-08-16T20:37:33.825469+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
-        {
-          "title": "博通一夜跌6%：AI的下一道坎，是融资成本",
-          "url": "https://wallstreetcn.com/articles/3779512",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时14分 ~ 14时38分]"
-        },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
           "url": "https://www.cls.cn/detail/2455147",
@@ -26,6 +14,18 @@
           "ranks": [
             4,
             3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时14分 ~ 20时37分]"
+        },
+        {
+          "title": "博通一夜跌6%：AI的下一道坎，是融资成本",
+          "url": "https://wallstreetcn.com/articles/3779512",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -57,6 +57,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时14分 ~ 14时38分]"
+        },
+        {
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时59分 ~ 20时37分]"
         },
         {
           "title": "“AI版金融创新”：博通大跌背后的AI芯片“卖方担保”模式",
@@ -101,17 +115,17 @@
           "time_info": "[09时14分 ~ 14时38分]"
         },
         {
-          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://www.cls.cn/detail/2455237",
-          "source": "财联社热门",
+          "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
+          "url": "https://wallstreetcn.com/articles/3779518",
+          "source": "华尔街见闻",
           "ranks": [
+            9,
             7,
-            6,
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时59分 ~ 14时38分]"
+          "time_info": "[11时54分 ~ 20时37分]"
         },
         {
           "title": "“AI版金融创新”：CDO vs CCO=2008 vs 2026？",
@@ -140,6 +154,31 @@
           "time_info": "[09时15分 ~ 14时38分]"
         },
         {
+          "title": "中国医生用AI解决数学圈22年难题",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E7%94%A8AI%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%A6%E5%9C%8822%E5%B9%B4%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 20时37分]"
+        },
+        {
+          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
+          "url": "https://wallstreetcn.com/articles/3779526",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时27分 ~ 20时37分]"
+        },
+        {
           "title": "美国大模型帮日本对AI进行投毒",
           "url": "https://www.toutiao.com/trending/7673727363703639571/",
           "source": "今日头条",
@@ -164,16 +203,15 @@
           "time_info": "[09时14分 ~ 10时59分]"
         },
         {
-          "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
-          "url": "https://wallstreetcn.com/articles/3779518",
-          "source": "华尔街见闻",
+          "title": "首个被AI老板开除的人类员工",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E8%A2%ABAI%E8%80%81%E6%9D%BF%E5%BC%80%E9%99%A4%E7%9A%84%E4%BA%BA%E7%B1%BB%E5%91%98%E5%B7%A5",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 14时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -190,16 +228,17 @@
           "time_info": "[10时59分 ~ 14时38分]"
         },
         {
-          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
-          "url": "https://wallstreetcn.com/articles/3779526",
-          "source": "华尔街见闻",
+          "title": "大爷手搓AI长片赛博英雄传",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            8
+            29,
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时27分 ~ 14时38分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 20时37分]"
         },
         {
           "title": "福建：完善AI基础设施建设，加快构建全省一体化算力网",
@@ -227,27 +266,16 @@
           "time_info": "[09时14分 ~ 10时59分]"
         },
         {
-          "title": "大爷手搓AI长片赛博英雄传",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
-          "source": "bilibili 热搜",
+          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
+          "source": "澎湃新闻",
           "ranks": [
-            29,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 14时38分]"
-        },
-        {
-          "title": "中国医生用AI解决数学圈22年难题",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E7%94%A8AI%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%A6%E5%9C%8822%E5%B9%B4%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
+            14,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
+          "time_info": "[14时38分 ~ 20时37分]"
         },
         {
           "title": "莫言谈AI写作：只是拼凑旧作然后搅拌",
@@ -295,26 +323,48 @@
           "time_info": "10时59分"
         },
         {
+          "title": "南极冰川现“神秘生物”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E6%9E%81%E5%86%B0%E5%B7%9D%E7%8E%B0%E2%80%9C%E7%A5%9E%E7%A7%98%E7%94%9F%E7%89%A9%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "纯数学研究者未来会被 AI 取代吗？",
           "url": "https://www.zhihu.com/question/2014665409727570582",
           "source": "知乎",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
         {
-          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
-          "source": "澎湃新闻",
+          "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
+          "url": "https://www.cls.cn/detail/2455252",
+          "source": "财联社热门",
           "ranks": [
-            14
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时38分"
+          "time_info": "20时37分"
+        },
+        {
+          "title": "一条AI短片演绎时间焦虑",
+          "url": "https://www.douyin.com/hot/2612104",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "王祖贤：我们是用AI不是被AI用",
@@ -323,7 +373,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -345,7 +395,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         }
@@ -353,7 +403,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "非沪籍居民及境外人士置换性购房政策微调？上海房地产交易中心热线回应",
@@ -381,6 +431,17 @@
           "time_info": "[10时59分 ~ 14时38分]"
         },
         {
+          "title": "下周重磅日程：中国7月经济数据，阿里、小米、天孚通信、兆易创新、长飞光纤财报，宇树科技上市在即",
+          "url": "https://wallstreetcn.com/articles/3779445",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "肖战后援会收入",
           "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%90%8E%E6%8F%B4%E4%BC%9A%E6%94%B6%E5%85%A5&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -404,6 +465,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时28分 ~ 14时38分]"
+        },
+        {
+          "title": "经济日报：“龙餐馆”从容迎战“奥德赛”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791727",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         }
       ]
     },
