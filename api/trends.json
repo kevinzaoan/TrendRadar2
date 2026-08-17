@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T06:24:09.807697+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-08-18T07:23:29.185585+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "大批AI博主停更了",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时23分]"
         },
         {
           "title": "AI私服来袭,二游圈传噩耗",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时23分]"
         },
         {
           "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时23分]"
         },
         {
           "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时23分]"
         },
         {
           "title": "宇树科技发布新品机器人“超人”：超人类原地跳高和奔跑速度纪录",
@@ -63,8 +63,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时23分]"
         },
         {
           "title": "宇树发布超人机器人",
@@ -72,11 +72,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            23
+            23,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时23分]"
         },
         {
           "title": "宇树超人机器人原地跳高约2米",
@@ -87,8 +88,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时23分]"
         },
         {
           "title": "AI 泡沫会在今年或者明年破裂吗，为什么？",
@@ -98,19 +99,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 06时24分]"
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 07时23分]"
         },
         {
           "title": "姜月初刷新AI漫剧女打一天花板",
           "url": "https://www.douyin.com/hot/2613313",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 06时24分]"
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 07时23分]"
         },
         {
           "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
@@ -122,6 +124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
+          "url": "https://www.cls.cn/detail/2456558",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
@@ -138,7 +151,7 @@
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "前7个月国民经济总体平稳向新向优",
@@ -148,19 +161,76 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 06时24分]"
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 07时23分]"
+        },
+        {
+          "title": "三星Samsung Display将建设额外的OLED显示设施。（韩国每日经济新闻Maeil）",
+          "url": "https://wallstreetcn.com/livenews/3150723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "房地产下半场什么房子还能涨",
           "url": "https://www.toutiao.com/trending/7675005482506915364/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 07时23分]"
+        },
+        {
+          "title": "00后回老家种大棚年收入约20万",
+          "url": "https://www.toutiao.com/trending/7674060426287743030/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时23分 ~ 06时24分]"
+          "time_info": "[00时27分 ~ 07时23分]"
+        },
+        {
+          "title": "必和必拓财年收入587.6亿美元，同比增长15%。必和必拓财年资本及勘探支出为102.6亿美元，同比增长5%。",
+          "url": "https://flash.jin10.com/detail/20260818063857721800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "必和必拓全财年利润增长30%，商品价格提振盈利，铜收入首次超过铁矿石",
+          "url": "https://wallstreetcn.com/livenews/3150718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "Anthropic估值有多激进？华尔街押注：2028年收入狂飙至2000亿美元",
+          "url": "https://wallstreetcn.com/articles/3779618",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "辣条业务已不足卫龙总营收三分之一，卫龙的辣条卖不动了吗？蔬菜制品收入大涨，反映了品牌哪些趋势？",
@@ -168,17 +238,6 @@
           "source": "知乎",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "00后回老家种大棚年收入约20万",
-          "url": "https://www.toutiao.com/trending/7674060426287743030/",
-          "source": "今日头条",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 1,
