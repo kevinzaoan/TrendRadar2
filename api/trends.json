@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T12:36:26.500196+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-08-18T18:28:28.696962+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "github AI 机器人 Claude",
-      "match_count": 27,
+      "match_count": 37,
       "titles": [
         {
           "title": "AI私服来袭,二游圈传噩耗",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 12时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 18时28分]"
         },
         {
           "title": "大批AI博主停更了",
@@ -113,26 +114,37 @@
           "time_info": "[00时27分 ~ 09时12分]"
         },
         {
-          "title": "新规一刀切,AI漫剧被迫停更",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358152&amp;topic_name=%E6%96%B0%E8%A7%84%E4%B8%80%E5%88%80%E5%88%87%2CAI%E6%BC%AB%E5%89%A7%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
           "title": "AI资本开支疑虑缓解，美光、闪迪等存储股迎来重估，带动芯片指数重返牛市",
           "url": "https://wallstreetcn.com/articles/3779645",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 18时28分]"
+        },
+        {
+          "title": "功率半导体又酝酿涨价？AI用电拉动需求 部分企业或10月行动",
+          "url": "https://www.cls.cn/detail/2457030",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "18时28分"
+        },
+        {
+          "title": "小米AIoT平台连接设备同比增长17.4%，智能生态粘性持续增强",
+          "url": "https://wallstreetcn.com/livenews/3151037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "AI 泡沫会在今年或者明年破裂吗，为什么？",
@@ -147,6 +159,56 @@
           "time_info": "[06时23分 ~ 09时12分]"
         },
         {
+          "title": "姜月初刷新AI漫剧女打一天花板",
+          "url": "https://www.douyin.com/hot/2613313",
+          "source": "抖音",
+          "ranks": [
+            24,
+            23,
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时23分 ~ 18时28分]"
+        },
+        {
+          "title": "宇树科技发布机器人「超人」，腿长 0.85 米，超越人类原地跳高和奔跑速度纪录，有哪些技术亮点？",
+          "url": "https://www.zhihu.com/question/2072693901802958901",
+          "source": "知乎",
+          "ranks": [
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 18时28分]"
+        },
+        {
+          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
+          "url": "https://wallstreetcn.com/articles/3779638",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 18时28分]"
+        },
+        {
+          "title": "新规一刀切,AI漫剧被迫停更",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358152&amp;topic_name=%E6%96%B0%E8%A7%84%E4%B8%80%E5%88%80%E5%88%87%2CAI%E6%BC%AB%E5%89%A7%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 18时28分]"
+        },
+        {
           "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
           "url": "https://www.zhihu.com/question/2061136311206073648",
           "source": "知乎",
@@ -157,19 +219,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 07时23分]"
-        },
-        {
-          "title": "姜月初刷新AI漫剧女打一天花板",
-          "url": "https://www.douyin.com/hot/2613313",
-          "source": "抖音",
-          "ranks": [
-            24,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时23分 ~ 12时36分]"
         },
         {
           "title": "黄仁勋称失去中国市场美国AI必败",
@@ -205,26 +254,37 @@
           "time_info": "00时27分"
         },
         {
+          "title": "AI大战转折点？与管理层会面后，华尔街的感受：腾讯在打“中途岛战役”",
+          "url": "https://wallstreetcn.com/articles/3779652",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "OpenAI锁定4.25GW数据中心容量",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%94%81%E5%AE%9A4.25GW%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%AE%B9%E9%87%8F",
           "source": "bilibili 热搜",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
         {
-          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
-          "url": "https://wallstreetcn.com/articles/3779638",
+          "title": "创业板跌近1%，农业股逆势爆发，年内最贵新股上市首日暴涨超500%，港股阿里午后拉升涨近4%，AI大模型双雄齐跌",
+          "url": "https://wallstreetcn.com/articles/3779668",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "18时28分"
         },
         {
           "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
@@ -238,24 +298,24 @@
           "time_info": "00时27分"
         },
         {
+          "title": "集中撤榜,起点斩杀AI文",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358398&amp;topic_name=%E9%9B%86%E4%B8%AD%E6%92%A4%E6%A6%9C%2C%E8%B5%B7%E7%82%B9%E6%96%A9%E6%9D%80AI%E6%96%87",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "“新债王”发出见顶警告：华尔街押注AI芯片资产化，风险正在累积",
           "url": "https://flash.jin10.com/detail/20260818115859416800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "宇树科技发布机器人「超人」，腿长 0.85 米，超越人类原地跳高和奔跑速度纪录，有哪些技术亮点？",
-          "url": "https://www.zhihu.com/question/2072693901802958901",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -266,9 +326,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
+        },
+        {
+          "title": "UP主用AI给盲人装上眼睛",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E7%BB%99%E7%9B%B2%E4%BA%BA%E8%A3%85%E4%B8%8A%E7%9C%BC%E7%9D%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "英伟达绑定OpenAI未来20年算力需求：1050亿美元担保支持8吉瓦AI数据中心",
@@ -282,13 +353,46 @@
           "time_info": "09时12分"
         },
         {
+          "title": "公安机关公布14起涉企网络谣言案例：编造智驾事故，AI生成假车祸视频",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33803492",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "小米集团 第二季度营收1,089.2亿元人民币，同比下降6.1%，预估1,083.3亿元人民币。 第二季度营业利润108.7亿元人民币，同比下降19%，预估58.5亿元人民币。 第二季度净利润94.6亿元人民币，同比增加21%，预估57.6亿元人民币。 第二季度资本支出36.2亿元人民币，预估23.9亿元人民币。 第二季度智能电动汽车及AI等创新业务收入249.0亿元人民币，同比增长17%，预估249亿元人民币。 上半年营收2,080.6亿元人民币；净利润141.9亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3151006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "百度Q2 AI业务收入占比连续过半",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6Q2+AI%E4%B8%9A%E5%8A%A1%E6%94%B6%E5%85%A5%E5%8D%A0%E6%AF%94%E8%BF%9E%E7%BB%AD%E8%BF%87%E5%8D%8A",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "创业板指跌超2%，沪指跌0.64%，深成指跌1.62%，AI应用、算力租赁、医药医疗、软件开发等方向跌幅居前，沪深京三市下跌个股近4200只。",
           "url": "https://wallstreetcn.com/livenews/3150811",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -299,7 +403,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -310,7 +414,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -321,15 +425,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
+        },
+        {
+          "title": "人形机器人的“终极考题”是什么",
+          "url": "https://www.toutiao.com/trending/7675202904780705299/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         }
       ]
     },
     {
       "keyword_group": "经济 房地产 收入",
-      "match_count": 11,
+      "match_count": 18,
       "titles": [
         {
           "title": "前7个月国民经济总体平稳向新向优",
@@ -341,6 +456,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时23分 ~ 12时36分]"
+        },
+        {
+          "title": "小米Q2境外IoT业务收入同比高速增长，国际新零售体系加速拓展",
+          "url": "https://wallstreetcn.com/livenews/3151038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "三星Samsung Display将建设额外的OLED显示设施。（韩国每日经济新闻Maeil）",
@@ -365,6 +491,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时23分 ~ 07时23分]"
+        },
+        {
+          "title": "李强：及时谋划出台务实管用的增量政策，破除各种堵点卡点，推动经济持续向新向优向好发展",
+          "url": "https://wallstreetcn.com/articles/3779624",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 18时28分]"
         },
         {
           "title": "必和必拓全财年利润增长30%，商品价格提振盈利，铜收入首次超过铁矿石",
@@ -413,6 +551,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "爱奇艺：二季度收入62.9亿元 运营亏损收窄",
+          "url": "https://flash.jin10.com/detail/20260818181444099800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "Anthropic估值有多激进？华尔街押注：2028年收入狂飙至2000亿美元",
           "url": "https://wallstreetcn.com/articles/3779618",
           "source": "华尔街见闻",
@@ -424,15 +573,26 @@
           "time_info": "07时23分"
         },
         {
-          "title": "李强：及时谋划出台务实管用的增量政策，破除各种堵点卡点，推动经济持续向新向优向好发展",
-          "url": "https://wallstreetcn.com/articles/3779624",
-          "source": "华尔街见闻",
+          "title": "日媒称日本在「汇率战争」中「战败」，日本经济面临怎样的两难困境？",
+          "url": "https://www.zhihu.com/question/2071248008604292675",
+          "source": "知乎",
           "ranks": [
-            10
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "18时28分"
+        },
+        {
+          "title": "小米集团：智能电动汽车收入为人民币239亿元",
+          "url": "https://wallstreetcn.com/livenews/3151015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "辣条业务已不足卫龙总营收三分之一，卫龙的辣条卖不动了吗？蔬菜制品收入大涨，反映了品牌哪些趋势？",
@@ -452,9 +612,42 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
+        },
+        {
+          "title": "欧洲央行首席经济学家称通胀率年内将徘徊在3%附近",
+          "url": "https://wallstreetcn.com/livenews/3151001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "澳门博彩收入GDP占比将持续下降",
+          "url": "https://wallstreetcn.com/livenews/3151000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "爱奇艺美股盘前一度跌超8%，现跌幅收窄至不足4%，公司第二季度收入62.9亿元人民币，预估64亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3150999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         }
       ]
     }
